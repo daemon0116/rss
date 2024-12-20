@@ -4,7 +4,49 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Fri, 20 Dec 2024 06:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 07:42:53 GMT</lastBuildDate>
+    <item>
+      <title>提示：在城市建筑物顶上画出哥斯拉、金刚和简</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hies6h/prompt_draw_godzilla_king_kong_and_jane_on_top_of/</link>
+      <description><![CDATA[        提交人    /u/LadyBitchBitch   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hies6h/prompt_draw_godzilla_king_kong_and_jane_on_top_of/</guid>
+      <pubDate>Fri, 20 Dec 2024 07:39:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>多么聪明的机器人啊（免费 Luigi！）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hienmf/what_a_smart_bot_free_luigi/</link>
+      <description><![CDATA[        提交人    /u/qtipdbc1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hienmf/what_a_smart_bot_free_luigi/</guid>
+      <pubDate>Fri, 20 Dec 2024 07:29:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 ChatGPT 拒绝 Pachinko 图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hiemne/why_does_chatgpt_reject_pachinko_images/</link>
+      <description><![CDATA[我要求 ChatGPT 制作弹球机和 Plinko 机的图片，但当我要求它制作 Pachinko 时，它拒绝了，理由是这些图片敏感或歪曲了日本文化？我知道 Pachinko 的历史很有争议，但赌场和老虎机也是如此，它毫无怨言地制作了这些图片。我认为这是无意的。 TL;DR：ChatGPT 不会制作 Pachinko 图片，并引用了文化敏感性。 这是一个示例对话    提交人    /u/Manimaniac1234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hiemne/why_does_chatgpt_reject_pachinko_images/</guid>
+      <pubDate>Fri, 20 Dec 2024 07:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>取得突破后，大型语言模型可以压缩到手机上，而不需要数千台服务器来运行</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hie64d/large_language_models_can_be_squeezed_onto_your/</link>
+      <description><![CDATA[    /u/Robert-Nogacki   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hie64d/large_language_models_can_be_squeezed_onto_your/</guid>
+      <pubDate>Fri, 20 Dec 2024 06:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 回复中不可点击的链接</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hidvsq/links_not_clickable_in_chatgpt_responses/</link>
+      <description><![CDATA[      我一直在尝试使用 ChatGPT 生成带有链接的列表（例如，著名地标的 Google 搜索链接），但我注意到提供的链接不可点击。尽管看起来是可点击的（使用蓝色字体并在鼠标悬停在其上时突出显示），但我每次都必须将它们复制并粘贴到浏览器中，这有点不方便。 https://preview.redd.it/nbvyghdm7y7e1.png?width=748&amp;format=png&amp;auto=webp&amp;s=ce2f093716d21af95ad626bd67ac6519f905ce87 还有其他人遇到这个问题吗？是否有解决方法可以让链接直接在聊天中点击，或者这是 ChatGPT 界面的限制？    提交人    /u/Pure_Explorer56   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hidvsq/links_not_clickable_in_chatgpt_responses/</guid>
+      <pubDate>Fri, 20 Dec 2024 06:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我称自己为 GPT 窃窃私语者</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hidpsa/i_call_myself_a_gpt_whisperer/</link>
+      <description><![CDATA[        提交人    /u/Mr-ElectricalPantz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hidpsa/i_call_myself_a_gpt_whisperer/</guid>
+      <pubDate>Fri, 20 Dec 2024 06:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>真的是o3吗？没有4.5</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1hidke3/really_o3_no_45/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[      每当我从 ChatGPT 复制文本时，它都会带有 ** 或 ## 或其他 markdown 相关样式；这在某些情况下很有用，例如将它们粘贴到可以读取 md 样式的其他软件中（如 notion），但对于不能读取 md 样式的软件来说是一场噩梦 - 想想 Canva、Gmail、Whatsapp 等等。  因此，我制作了一个简单的 Chrome 扩展程序，用于立即删除 markdown 样式！你会说这对你的日常工作流程有帮助吗？     提交人    /u/exotic123567   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hictfg/i_built_a_chrome_extension_for_removing_markdown/</guid>
       <pubDate>Fri, 20 Dec 2024 05:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>学生在学校的表现是否因为聊天 GPT 而大大提高？（不是作弊案例）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hicns2/do_students_do_tremendously_better_at_school/</link>
-      <description><![CDATA[我和女朋友谈过这件事，我们都觉得……“有了聊天 GPT，我们就能通过所有考试了。”  不是通过作弊，而是通过聊天来扩展和解释那些对我们来说可能太难的概念。就像一个没完没了的导师。  她的 GPA 接近 5.0，而我……2.7——我并不笨，而是确切地知道我想用我的一生做什么，其他一切都是干扰。但我们俩都觉得，如果我们能回到过去，我们就可以把我们的教育游戏化，并想出如何成为……超级好的学生，他们理解课堂上教给我们的概念以外的知识。  我试图找到关于孩子们在学校取得成功的故事，以及他们使用聊天的创造性方式，但我只能找到关于老师抱怨作弊的孩子和学生用它来作弊的故事。     由    /u/Chrisgpresents 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hicns2/do_students_do_tremendously_better_at_school/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>感谢 gpt 处理我的情绪不稳定</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hiciyy/thank_you_gpt_for_handling_my_emotional/</link>
-      <description><![CDATA[      https://preview.redd.it/c1izzmg9sx7e1.png?width=1832&amp;format=png&amp;auto=webp&amp;s=344ece01ff95a054629c59b91120c950df905d07    提交人    /u/ResponsibleCandle585   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hiciyy/thank_you_gpt_for_handling_my_emotional/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:07:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 人工智能诗歌🦍</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hich39/discord_ai_poem/</link>
-      <description><![CDATA[        提交人    /u/Zip-Zap-Official   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hich39/discord_ai_poem/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的一致性难题：计算错误的视觉呈现</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hicg8x/ais_struggle_with_consistency_a_visual/</link>
-      <description><![CDATA[      AI 经常给出错误的答案或误算。重复同样的问题仍然会给出不同的结果。不同的平台也会给出不同的答案。这使得人们很难相信人工智能能够完成需要准确性的关键任务。    提交人    /u/oxshitantil   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hicg8x/ais_struggle_with_consistency_a_visual/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPt 4 为何仍能搜索网络？我以为只有付费版本才有这个功能。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hicfqs/how_come_chatgpt_4_still_searches_the_web_i/</link>
-      <description><![CDATA[我希望我没有被秘密指控    由   提交  /u/JannTosh50   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hicfqs/how_come_chatgpt_4_still_searches_the_web_i/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来公平</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hic99b/seems_fair/</link>
-      <description><![CDATA[        提交人    /u/daft404   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hic99b/seems_fair/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:52:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

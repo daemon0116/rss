@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Dec 2024 06:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 07:43:28 GMT</lastBuildDate>
+    <item>
+      <title>这个编码测试合理吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hieq7r/is_this_coding_test_reasonable/</link>
+      <description><![CDATA[所以我是一个自学成才的开发人员，我有一个广泛的作品集，展示了没有现实世界经验的全栈开发能力。 我正在被招募为无薪实习生，他们给我发了一个任务，基本上是一个基于 figma 设计的完整 React 应用程序，其中包括多个页面、动画和带有 api 集成的结帐系统，需要 25-30 小时才能完成。 虽然我很乐意做这样的任务，但考虑到它是无偿的并且只是测试的范围，这个要求似乎真的很不合理。 这是正常的还是我绊倒了？    提交人    /u/UnknownBlazing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hieq7r/is_this_coding_test_reasonable/</guid>
+      <pubDate>Fri, 20 Dec 2024 07:35:08 GMT</pubDate>
+    </item>
     <item>
       <title>面向中小型企业的 GCP 安全蓝图</title>
       <link>https://www.reddit.com/r/programming/comments/1hidb3p/gcp_security_blueprint_for_small_and_midsize_firms/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hi0xbx/is_modern_frontend_development_overengineered/</guid>
       <pubDate>Thu, 19 Dec 2024 19:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择 2030 年及以后的哈希函数：SHA2、SHA3 和 BLAKE3</title>
-      <link>https://www.reddit.com/r/programming/comments/1hhz7xs/choosing_a_hash_function_for_2030_and_beyond_sha2/</link>
-      <description><![CDATA[  由    /u/self  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hhz7xs/choosing_a_hash_function_for_2030_and_beyond_sha2/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:15:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
