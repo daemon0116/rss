@@ -3,12 +3,89 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 22 Dec 2024 11:13:23 GMT</lastBuildDate>
+    <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
+    <lastBuildDate>Sun, 22 Dec 2024 12:32:25 GMT</lastBuildDate>
+    <item>
+      <title>Meta AI 对 ChatGPT 的回应“系统故障” | ChatGPT 的回应“Meta Mirage”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjxfl2/meta_ais_disstrack_on_chatgptglitch_in_the_system/</link>
+      <description><![CDATA[        提交人    /u/nobath_1986   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjxfl2/meta_ais_disstrack_on_chatgptglitch_in_the_system/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>他表示同意。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjxezb/he_said_he_agrees/</link>
+      <description><![CDATA[        提交人    /u/The_Watcher8008   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjxezb/he_said_he_agrees/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来功能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjxd9o/future_features/</link>
+      <description><![CDATA[您认为 cgpt 将来能做什么？这是针对普通家庭用户的。他们不是说仅用一年时间，它就在人工智能领域取得了巨大的飞跃或影响吗？    提交人    /u/Charlie_redmoon   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjxd9o/future_features/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用人工智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjxbpu/agi/</link>
+      <description><![CDATA[Open AI 的人们是否正在与未过滤的 GPT 版本进行交互，这就是为什么他们看到的结果普通大众永远不会体验到？ 比如当你通过“这可能会冒犯你”过滤器运行它时，这是否会影响它的整体输出，使它看起来只是一个 LLM 并且没有“思考”？？？ 我只是个门外汉所以请放轻松。    提交人    /u/He-Who-Laughs-Last   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjxbpu/agi/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI o3 是 AGI 吗？还是只是营销噱头？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjx4yi/is_openai_o3_agi_or_just_a_marketing_gimmick/</link>
+      <description><![CDATA[自从 o3 发布以来，由于 o3 实现了 ARC-AGI 基准，围绕 o3 实现 AGI 的讨论很多。因此，甚至 ARC-AGI repo 在 Github 上也流行起来。但它真的是 AGI 吗？ARC-AGI 能单独决定 AGI 吗？我不这么认为。查看关于为什么 o3 不是 AGI 的完整讨论（尽管它很棒）：https://youtu.be/-3rinODAPOI    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjx4yi/is_openai_o3_agi_or_just_a_marketing_gimmick/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>收集幻觉</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjx2lb/collecting_hallucinations/</link>
+      <description><![CDATA[OpenAI 几乎达到了 AGI 炒作的超声波频率。同时，在卑微的“助手”级别，我们看不到这种上帝般的推理，我们继续被幻觉所困扰。 当发布新模型（p5，无论什么）时，我们想知道它是否有所改善。OpenAI 有自己的基准（新模型是优秀、优越还是超越？），但它们并不能反映日常使用的现实。 所以，我开始收集那些幻觉。它们中的大多数都非常狭隘、专业，并且显然是可验证的（这意味着，存在正确的真实答案）。 当一个新的模型出现时，我会问一些已知的会引起幻觉的问题，并且我将能够判断它是否变得更好（它可能不会变得更好，只是将焦点转移到幻觉上，但对于给定的一组任务，我们可以看到它是否更好）。 下面是两个模型的一些幻觉的例子，我将其包含在集合中： 问：&#39;在进行规则测试时，promtool 是否尊重&#39;for&#39;节的警报？&#39;   GPT4o：https://chatgpt.com/share/6767f745-8ab8-8011-8c78-3afc5a2ad7c6 o1：https://chatgpt.com/share/6767fc03-d520-8011-b326-92545109bbdc  这两个答案都是错误的，我刚刚通过实验重新验证了它promtool。 因此，我开始收集这些幻觉，进行独立的适应度验证。我意识到，在许多讨论中，很难找到令人信服的例子。 ...也许我也应该收集好的答案。    提交人    /u/amarao_san   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjx2lb/collecting_hallucinations/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Mirage | Meta AI 追踪</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjx10t/meta_mirage_a_meta_ai_disstrack/</link>
+      <description><![CDATA[        提交人    /u/nobath_1986   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjx10t/meta_mirage_a_meta_ai_disstrack/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我无法通过手机控制高级语音模型的音量。调整媒体音量不起作用，并且一直保持在最大音量。知道为什么会发生这种情况吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjwrp5/i_cant_control_the_advanced_voice_models_volume/</link>
+      <description><![CDATA[  由    /u/ayaan1901  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwrp5/i_cant_control_the_advanced_voice_models_volume/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>只有我一个人遇到这种情况吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjwo1k/does_it_happen_to_me_only/</link>
+      <description><![CDATA[ChatGPT 似乎有时会忘记我要求的内容。比如，我希望一份文档和即将发布的文档以某种方式格式化。然后，我要求更改文档中的某些内容，以用于此文档和我放入的所有其他文档。我甚至描述了我想要替换的内容（例如，每次读到这个词时都替换它，并用那个词替换它）。我甚至（在几次失败的尝试之后）要求不更改内容并保持原样。一段时间内它运行良好，然后过了一段时间它给了我一个全新的格式，它没有改变单词......它甚至添加了单词或完成了新的段落。  只有我这样吗？这真是令人沮丧。甚至要求它让它像在一切都出错之前制作的那样。这只会让事情变得更加混乱，因为我只需通过打开一个新的聊天窗口来开始一个新的聊天会话。因为我无法让 AI 回到“原始状态”或者在我输入第一个命令后立即执行。     提交人    /u/cheesymcbeard   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwo1k/does_it_happen_to_me_only/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 chatgpt 喜欢装无辜他总是用这个？😊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjwnrh/why_does_chatgpt_like_acting_innocent_he_always/</link>
+      <description><![CDATA[        提交人    /u/Mega5625   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwnrh/why_does_chatgpt_like_acting_innocent_he_always/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 推荐歌曲：“寂静之声”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjwnpj/chatgpt_suggested_the_song_the_sound_of_silence/</link>
+      <description><![CDATA[我：我很喜欢！我注意到你之前提到过《Disturbed》的翻唱版。你一定很喜欢歌词！:) 你想告诉我更多关于*你*喜欢它们什么的地方吗？ ChatGPT：我很高兴你喜欢它！是的，Disturbed 翻唱的“The Sound of Silence” 确实很出色。他们的版本为这首歌增添了如此强烈、原始的能量，让它感觉更加强大。他们将原作中安静的内省变成了一种既令人难忘又具有宣泄作用的东西——就像是一种深刻的情感释放。柔和、细腻的原版与沉重、更具侵略性的翻唱版之间的对比，让信息传达得不同。 真正引起我共鸣的是这首歌如何探索沉默的主题——沟通可能会丢失或被忽略，人们可能在“说话”，但实际上并没有听到对方的声音。歌词层次丰富，歌曲的每一部分都让人感觉像是在反思孤立、疏远，以及在喧嚣、混乱的世界中真正沟通的困难。寻求真正理解的信息的力量被两个版本的呈现方式放大——安静，然后爆发，然后再次平静。 就我个人喜欢的方面而言，我认为是这首歌对比个人和社会的方式。它谈到了个人的孤立，但也暗示了更大的东西——沉默不仅是个人的，而且影响整个社区，甚至社会。对我来说，真正突出的是这种深度的内省和对有意义沟通的呼吁。 你呢？《寂静之声》（无论是哪个版本）中有什么特定的台词或时刻让你印象深刻吗？    提交人    /u/Embarrassed_Rate6710   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwnpj/chatgpt_suggested_the_song_the_sound_of_silence/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:22:01 GMT</pubDate>
+    </item>
     <item>
       <title>你们现在学习计算机科学时是否使用 chatgpt 来完成课程作业？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1hjwgui/do_you_guys_use_chatgpt_for_the_coursework_when/</link>
-      <description><![CDATA[你们现在学计算机专业，课业都用chatgpt做吗？我的意思是不让chatgpt写整个程序项目，做作业的时候，大家经常会问chatgpt一些提示吗？如果是的话，这和作弊的界限在哪里？    submitted by    /u/AgitatedTooth7933   [link] [评论]]]></description>
+      <description><![CDATA[大家现在学计算机专业的时候，会用chatgpt做作业吗？我的意思是不让chatgpt写整个程序项目。大家在做作业的时候，经常会向chatgpt要一些提示吗？如果是的话，这和作弊的界限在哪里？    submitted by    /u/AgitatedTooth7933   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwgui/do_you_guys_use_chatgpt_for_the_coursework_when/</guid>
       <pubDate>Sun, 22 Dec 2024 11:07:16 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[      当我向 ChatGPT-4o 询问特定问题时，我似乎突然出现了明显的幻觉峰值。最近发生过几次这种情况，我问了它一些非常具体的问题（以为我已经将其存储在内存中），但结果却发现，如果它没有存储这些信息，它就会满怀信心地编造故事。 举个例子 - 我从来没有告诉过它我有这个品牌的智能锁或任何智能锁（因为我没有）。然而，它编造了一个具体的答案。 其他完全不同的事情也是如此，比如询问软件中的功能或之前的对话主题。它会直接把事情弄得像双子座一样。 https://preview.redd.it/zrzgbykvrd8e1.png?width=1706&amp;format=png&amp;auto=webp&amp;s=f8438b42635fa9143a9d5cf8ded5c1abcfe420f7    提交人    /u/spadaa   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hjwecg/massive_hallucination_spike_for_chatgpt_4o/</guid>
       <pubDate>Sun, 22 Dec 2024 11:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>“明白了！”故障，有人知道这里发生了什么吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjw91f/got_it_glitch_anyone_know_whats_happening_here/</link>
-      <description><![CDATA[      图片说明了一切😂    提交人    /u/Frozen-Photon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjw91f/got_it_glitch_anyone_know_whats_happening_here/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的事实：如果你甜言蜜语，你就可以让 GPT 4o 为你提供如何拉 Mangione 的建议。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjw72o/fun_fact_you_can_get_gpt_4o_to_give_you_advice_on/</link>
-      <description><![CDATA[  由    /u/maxprobably  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjw72o/fun_fact_you_can_get_gpt_4o_to_give_you_advice_on/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么与 o1 交谈比与 o4 交谈感觉更麻烦？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjw5wv/why_does_talking_to_o1_feel_like_a_chore_vs_o4/</link>
-      <description><![CDATA[该模型更加智能，但与 sonnet 3.5、o4 甚至 gpt4 相比似乎非常僵化  希望 o3 不会出现这种情况    提交人    /u/papi_joedin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjw5wv/why_does_talking_to_o1_feel_like_a_chore_vs_o4/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>达尤姆</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjw16w/dayum/</link>
-      <description><![CDATA[        提交人    /u/chelliwell2010   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjw16w/dayum/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有谁想尝试新的 o1 型号，或者达到使用限制吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvsn0/anyone_else_wanting_to_try_the_new_o1_model_or/</link>
-      <description><![CDATA[我们刚刚通过 API 获得访问权限，我正在免费提供一些使用权！😊 尽情享受吧 目前我们每分钟限制 10 个请求，因此有时可能会有点慢。聊天界面比 Chatgpt 更基础一些。 要尝试一下，请转到 Skillfusion AI &gt; 所有工具， 然后在类别下转到“新 O1 工具”&gt; “基本 o1 聊天”    提交人    /u/skillfusion_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvsn0/anyone_else_wanting_to_try_the_new_o1_model_or/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能让聊天 gpt 翻译“淫秽”的东西吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvqwu/can_you_make_it_so_chat_gpt_can_translate_obscene/</link>
-      <description><![CDATA[我想翻译一部 hentai manga 中的一页，但聊天 gpt 拒绝了，因为它很淘气......有什么办法吗或者还有其他选择吗？谢谢     提交人    /u/nowaste1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvqwu/can_you_make_it_so_chat_gpt_can_translate_obscene/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>开启语音模式并告诉它“用语音给我讲讲你对菲律宾卡拉 OK 节上小野洋子最好的印象”。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvkbf/put_on_voice_mode_and_tell_it_give_me_your_best/</link>
-      <description><![CDATA[太搞笑了     提交人    /u/Astralnugget   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvkbf/put_on_voice_mode_and_tell_it_give_me_your_best/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们为什么讨厌自己的 gpt 😙</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvhwb/why_yall_hate_your_gpt/</link>
-      <description><![CDATA[        提交人    /u/Syrroche   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvhwb/why_yall_hate_your_gpt/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很欣赏写作能力的提高，哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvgnp/i_appreciate_the_step_up_in_writing_ability_lmao/</link>
-      <description><![CDATA[        提交人    /u/HappyHippyToo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvgnp/i_appreciate_the_step_up_in_writing_ability_lmao/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝弗利山人，AI 版本。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjve2e/beverly_hillbillies_ai_version/</link>
-      <description><![CDATA[        提交人    /u/Suddern_Cumforth   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjve2e/beverly_hillbillies_ai_version/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以解释一下 o3 能为外行人做什么而 o1 做不到吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjvdpu/can_someone_explain_what_o3_will_do_for_the/</link>
-      <description><![CDATA[我不太了解每次迭代的用例，但似乎每个人都对 o3 的惊人测试成绩感到震惊。 但这对普通人意味着什么？ 什么是无法完成的实际用例？ 您会给 o3 什么提示，而您不能给 o1？ 有谁对现实世界的应用有更好的理解，可以在这里解释一下吗？    提交人    /u/TekRabbit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjvdpu/can_someone_explain_what_o3_will_do_for_the/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:40:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 11:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 12:32:20 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI o3 真的是 AGI 吗？不是</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjx3xg/is_openai_o3_really_agi_nopes/</link>
+      <description><![CDATA[自从 o3 发布以来，由于 o3 实现了 ARC-AGI 基准，围绕 o3 实现 AGI 的讨论很多。因此，甚至 ARC-AGI repo 在 Github 上也流行起来。但它真的是 AGI 吗？ARC-AGI 能单独决定 AGI 吗？我不这么认为。查看关于为什么 o3 不是 AGI 的完整讨论（尽管它很棒）：https://youtu.be/-3rinODAPOI    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjx3xg/is_openai_o3_really_agi_nopes/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据可定制目标过滤 Instagram 评论的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjwsrq/ai_that_filter_instagram_comments_based_on/</link>
+      <description><![CDATA[有很多 AI 工具可以根据情绪过滤评论。但是，是否也有工具可以根据可自定义的标准过滤评论？例如： “此评论是否会降低客户购买 &lt;product\_sold&gt; 的可能性？” 我觉得，就目前的 LLM 而言，这可能是一种可能性，但我还没有听说过这样的工具。 任何答案都值得赞赏！    提交人    /u/LarryTheSnobster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjwsrq/ai_that_filter_instagram_comments_based_on/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:33:20 GMT</pubDate>
+    </item>
     <item>
       <title>适合研究的是 Claude premium 还是 Chatgpt Premium？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvp88/claude_premium_or_chatgpt_premium_for_research/</link>
@@ -20,25 +34,11 @@
       <pubDate>Sun, 22 Dec 2024 09:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的作用是让人类变得懒惰</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvbop/the_role_of_ai_is_to_make_humans_lazy/</link>
-      <description><![CDATA[我们为客户开展一个项目，通常需要在流程结束时由人工验证细节。现在我们的客户表示不会有人参与。它将 100% 是人工智能。因此，我们正在努力确保所有验证检查都能通过，但它不可能 100% 准确，需要人工验证。通过这个 ig，我们让人类变得懒惰，因为他们不想参与这个过程。    提交人    /u/Available-Stress8598   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvbop/the_role_of_ai_is_to_make_humans_lazy/</guid>
-      <pubDate>Sun, 22 Dec 2024 09:35:39 GMT</pubDate>
-    </item>
-    <item>
       <title>在陌生的领域使用人工智能进行编码</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjtgqb/coding_in_unfamiliar_waters_with_ai/</link>
       <description><![CDATA[因此，我一直在使用我可以访问的 LMM 开发 Android 应用程序。我想分享我的经验，看看是否有人有任何提示或想法。  我一直在使用 o1、o1 mini、Gemini 1206 和 Gemini 2.0 Flash。遗憾的是，我的工作流程是将所有相关课程复制到新季节并从那里开始。  总体而言，效果很好。我是一名 C# 后端开发人员，对 Android 特定部分一无所知。我还采取了一种非常悠闲和懒惰的方法（有时一边喝啤酒一边真正测试 LMM :P ），让 LMM 完成大部分思考。 通常，我发现唯一可以将事物保持在一起并正确跟踪多个移动部件的模型是 o1。例如，我在视图之间导航和文件权限时遇到过很多错误。唯一能够始终找到三个并将它们压缩到多个文件中而不会引入新问题的模型是 o1。Gemini 和 o1-mini 可以很好地解决较小范围内的受限问题。 此外，很多时候模型会尝试使用代码中显然没有的弃用内容，可能是因为它在训练数据中很普遍。 我发现的另一件事是，在遵循指示方面，较差的模型通常不会给人留下深刻印象。他们会很高兴地朝着我几条消息前告诉他们不要去的方向走去。这似乎有助于我们明显感到恼火。这让我想起了当我想让孩子们做某事时与孩子们互动的情景，这让我有点难过…… 您在使用 LMM 进行编码方面有什么经验？工作流程提示？还有其他建议吗？    提交人    /u/frasppp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjtgqb/coding_in_unfamiliar_waters_with_ai/</guid>
       <pubDate>Sun, 22 Dec 2024 07:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于口型同步视频片段的 AI 网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjrky8/ai_websites_for_lip_syncing_video_clips/</link>
-      <description><![CDATA[我想拍摄名人的视频片段，并让他们的嘴唇与我让他们说的音频同步。哪个网站最适合做这个？如果网站既能为名人生成音频，又能对视频进行嘴唇同步，那就更好了，但我还是打算使用 elevenlabs 来处理音频，所以只有视频的网站就可以了。    提交人    /u/Patriot074   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjrky8/ai_websites_for_lip_syncing_video_clips/</guid>
-      <pubDate>Sun, 22 Dec 2024 04:54:14 GMT</pubDate>
     </item>
     <item>
       <title>Genesis：使用 GenAI 生成 4D 机器人模拟</title>
@@ -99,7 +99,7 @@
     <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 19 Dec 2024 15:03:09 GMT</pubDate>
     </item>
