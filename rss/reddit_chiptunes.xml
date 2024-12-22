@@ -4,7 +4,77 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Fri, 20 Dec 2024 07:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 01:28:41 GMT</lastBuildDate>
+    <item>
+      <title>在 Genny 或 VOPM 上调制音高</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hjm9zq/modulating_pitch_on_genny_or_vopm/</link>
+      <description><![CDATA[我受委托做一些 Sega Genesis/Mega Drive 芯片音乐工作，这是我以前没有付费做过的，我想弄清楚如何使用 MIDI CC 和自动化通过这两个主要的 Genesis/MD VST 有机地调制音高（颤音）。  我发现使用 Genny 做到这一点的唯一方法是保持音符高于 C8，但这些键上的所有 LFO 速度都很奇怪、不灵活且几乎无用。  VOPM 效果稍微好一些，它会对 CC 自动化做出反应，但我发现它做到这一点的唯一方法是使用一系列复杂的多个滑块和设置，即使这样，它也像 Genny 一样，颤音听起来不像振动音高，而这实际上会用于 ym2612 制作；它对速度和音高范围非常敏感，所以同样，它几乎毫无用处。 由于 Genesis/MD 芯片音乐的声音中含有大量颤音，而颤音是其声音的巨大基础，这让我感到惊讶，这两个 VST 并不能简单地完成许多其他 VST 和合成器仅将其分配给 CC1 所做的事情。从我观察到的情况来看，其他使用它的人似乎已经实现了这一点，所以我在这里问我遗漏了什么或者如何正确地做到这一点。 供进一步参考：我的 DAW 是 FL Studio 11，由于技术限制，这是我现在可以使用的最新版本（我接受这笔佣金是为了获得资金来修复这些技术限制）。 如能帮助我，我将不胜感激。谢谢！    提交人    /u/MeteoXavier   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hjm9zq/modulating_pitch_on_genny_or_vopm/</guid>
+      <pubDate>Sat, 21 Dec 2024 23:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 LSDJ 键盘与 Modretro Chromatic 配合使用。拆开它，发现板载 MIDI 兼容 WiFi Arduino。可能可以使用板载 ArduinoBoy 进行修改。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hjik2k/got_lsdj_keyboard_working_with_modretro_chromatic/</link>
+      <description><![CDATA[        由    /u/punamenon2   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hjik2k/got_lsdj_keyboard_working_with_modretro_chromatic/</guid>
+      <pubDate>Sat, 21 Dec 2024 20:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Game Boy 录制问题</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hji729/recording_problems_from_game_boy/</link>
+      <description><![CDATA[      我正在尝试使用 Audacity 录制 Game Boy Color 游戏，因为我听说它是​​翻录 Game Boy 音乐的最佳选择，但我一直收到这些主机错误。有人知道如何解决这个问题吗？我从 GBA 录制，这也会改变什么吗？ （顺便说一句，我是一个完整的婴儿用户，我对 Audacity 或 Game Boys Audio 一无所知）    提交人    /u/DogeMation   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hji729/recording_problems_from_game_boy/</guid>
+      <pubDate>Sat, 21 Dec 2024 20:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Picotastic (PICO-8 专辑) 自我宣传，曲目 2/10：Castle Mania</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hjemsh/picotastic_pico8_album_selfpromo_track_210_castle/</link>
+      <description><![CDATA[        由    /u/Alternative_Low9672  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hjemsh/picotastic_pico8_album_selfpromo_track_210_castle/</guid>
+      <pubDate>Sat, 21 Dec 2024 17:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>C64 音乐 - Maniacs of Noise 的 Echofied - C64 带 SID 6581</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hjcn3l/c64_music_echofied_by_maniacs_of_noise_c64_with/</link>
+      <description><![CDATA[        由    /u/DWC-1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hjcn3l/c64_music_echofied_by_maniacs_of_noise_c64_with/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自己的硬件合成器上翻唱了 Abstract64 的“Hang Loose”</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hj7s1k/hang_loose_by_abstract64_covered_on_my_own/</link>
+      <description><![CDATA[        由    /u/LTVA  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hj7s1k/hang_loose_by_abstract64_covered_on_my_own/</guid>
+      <pubDate>Sat, 21 Dec 2024 11:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Atari 8 位] 一些波兰老电子经典的芯片音乐封面</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hj64eu/atari_8bit_chiptune_cover_of_some_old_polish/</link>
+      <description><![CDATA[       由    /u/makarybrauner  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hj64eu/atari_8bit_chiptune_cover_of_some_old_polish/</guid>
+      <pubDate>Sat, 21 Dec 2024 09:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>终极任天堂与世嘉协议 (SN76489 + 2a03 + MMC5 + OPLL + FDS)（感官超载）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hj4p76/ultimate_nintendo_sega_pact_sn76489_2a03_mmc5/</link>
+      <description><![CDATA[        提交人    /u/KingK3nnyDaGreat   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hj4p76/ultimate_nintendo_sega_pact_sn76489_2a03_mmc5/</guid>
+      <pubDate>Sat, 21 Dec 2024 07:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>永夜的惩罚 ～ Imperishable Night [8 位 NES 封面]</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hitm6a/retribution_for_the_eternal_night_imperishable/</link>
+      <description><![CDATA[        由    /u/Acceptable6  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hitm6a/retribution_for_the_eternal_night_imperishable/</guid>
+      <pubDate>Fri, 20 Dec 2024 20:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PinTune (4XAY-3-8910)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hieu0z/pintune_4xay38910/</link>
+      <description><![CDATA[        由    /u/Yous_of_thankses  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hieu0z/pintune_4xay38910/</guid>
+      <pubDate>Fri, 20 Dec 2024 07:43:28 GMT</pubDate>
+    </item>
     <item>
       <title>我是追踪器的新手，希望得到一些意见。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1hiajge/im_new_to_trackers_and_would_appreciate_some_input/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[        提交人    /u/Illustrious-War-2090   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1hhw7mi/treasure_master_world_4_the_forest_remix/</guid>
       <pubDate>Thu, 19 Dec 2024 16:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AYSir：在线 AY8910/ZX 芯片音乐模拟器和播放器已更新！</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hhvovo/aysir_an_online_ay8910zx_chiptune_emulator_and/</link>
-      <description><![CDATA[  由    /u/lunarjournal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hhvovo/aysir_an_online_ay8910zx_chiptune_emulator_and/</guid>
-      <pubDate>Thu, 19 Dec 2024 15:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮忙转换吗？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hhl60p/help_converting/</link>
-      <description><![CDATA[有人知道有没有办法在移动设备上将 .vgm 转换为 .uge 吗？    提交人    /u/OhNoHesAnIdiot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hhl60p/help_converting/</guid>
-      <pubDate>Thu, 19 Dec 2024 04:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！有人能根据这个粗略的再现来识别这个芯片音乐吗？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hhh26m/help_can_someone_id_this_chiptune_based_on_this/</link>
-      <description><![CDATA[        由    /u/thro_redd 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hhh26m/help_can_someone_id_this_chiptune_based_on_this/</guid>
-      <pubDate>Thu, 19 Dec 2024 01:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picotastic (PICO-8 专辑) 自我宣传，曲目 1/10</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hh3ow4/picotastic_pico8_album_selfpromo_track_110/</link>
-      <description><![CDATA[        由    /u/Alternative_Low9672  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hh3ow4/picotastic_pico8_album_selfpromo_track_110/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 追踪器</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hh209u/trackers_for_raspberry_pi/</link>
-      <description><![CDATA[Raspberry Pi 有追踪器吗？     由    /u/Tjeetje 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hh209u/trackers_for_raspberry_pi/</guid>
-      <pubDate>Wed, 18 Dec 2024 13:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>猜猜 VGM？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgzr7j/guess_the_vgm/</link>
-      <description><![CDATA[      我花了很长时间才制作完成，所以如果您喜欢，请查看@jayroastjams :))    提交人    /u/Jayroastham   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgzr7j/guess_the_vgm/</guid>
-      <pubDate>Wed, 18 Dec 2024 11:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一首歌曲</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgucam/finding_a_song/</link>
-      <description><![CDATA[有人知道哪里可以找到 Doomsberry 的歌曲 Sonofa 吗？在 youtube 上的 chiptune 电台听到后，我试图寻找它，但找不到它。    提交人    /u/Neverlast0   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgucam/finding_a_song/</guid>
-      <pubDate>Wed, 18 Dec 2024 05:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有 chiptune/bitpop 精神的快乐硬核音乐？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgtnac/happy_hardcore_with_a_chiptunebitpop_spirit/</link>
-      <description><![CDATA[我超喜欢 Kohu 的 Miracle Tone&#39;s Fantasy，我听过的 The Quick Brown Fox 的几首歌也符合这个描述。 但我还需要更多！甜美的快乐硬核音乐与芯片音乐合成器听起来就像花生酱和巧克力的组合，但遗憾的是我的生活还不够丰富。😔  你有没有推荐的带有 8 位哔哔声和嘟嘟声的超棒快乐硬核音乐？    提交人    /u/NintendoWiiner64   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgtnac/happy_hardcore_with_a_chiptunebitpop_spirit/</guid>
-      <pubDate>Wed, 18 Dec 2024 04:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这首歌中，我稍微强调了琶音和迷幻元素。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgsoa4/a_song_where_i_went_a_little_heavy_on_the_arps/</link>
-      <description><![CDATA[        由    /u/whatuptkhere  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgsoa4/a_song_where_i_went_a_little_heavy_on_the_arps/</guid>
-      <pubDate>Wed, 18 Dec 2024 03:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好。如何在 Ableton DAW 中进行芯片调谐。我使用什么 VST。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgloxo/hello_how_to_make_chiptuned_in_ableton_daw_what/</link>
-      <description><![CDATA[制作 psytrance 已经有几年了……但最近发现了密钥生成器音乐或芯片音乐……我如何在熟悉的 DAW 中制作它。     提交人    /u/Fuwanuwa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgloxo/hello_how_to_make_chiptuned_in_ableton_daw_what/</guid>
-      <pubDate>Tue, 17 Dec 2024 21:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

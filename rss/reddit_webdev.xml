@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Dec 2024 07:43:42 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 01:28:49 GMT</lastBuildDate>
     <item>
-      <title>基于浏览器的 IDE</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hidsvo/browser_based_ide/</link>
-      <description><![CDATA[* 自托管 IDE  有谁知道我可以在我的自托管服务器上安装基于浏览器的 IDE 吗？理想情况下，可以在那里访问本地文件系统 - 也许可以使用 oauth 来保护它 PHP？Node？Py？    由   提交  /u/thecatshusband   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hidsvo/browser_based_ide/</guid>
-      <pubDate>Fri, 20 Dec 2024 06:30:05 GMT</pubDate>
+      <title>您是否将网站设计得在手机和平​​板电脑上有所不同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</link>
+      <description><![CDATA[我曾与儿子讨论网页设计，当时我们讨论了桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建原型应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hidrc4/i_am_building_a_prototype_application/</link>
-      <description><![CDATA[我应该使用 laravel 和 mySQL 还是 nextjs 和 mongodb 哪个在开发中会更快（身份验证、后台作业等）？ 此外，将来在哪个堆栈中我可以轻松找到开发人员来合作？    提交人    /u/Necessary_Pomelo_470   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hidrc4/i_am_building_a_prototype_application/</guid>
-      <pubDate>Fri, 20 Dec 2024 06:27:03 GMT</pubDate>
+      <title>Web 应用程序表单可“替换”另一个网站的现有表单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjnj45/web_app_form_to_replace_an_existing_form_from/</link>
+      <description><![CDATA[我不是开发人员，只是对解决我所知道的 UI/UX 问题感兴趣的人。许多政府使用一些非常垃圾的表格，用户无法浏览。这些政府不愿意或技术上无法为开源社区解决方案提供 API 或实际后端集成。现有表格捕获了所有“正确”的数据，但难以使用，阻止访问并损害了客户服务。 是否可以创建一个 Web 应用程序，以更合乎逻辑的格式重新创建表单字段，然后将这些输入映射到现有表单并提交给用户？我知道 puppeteer 是一种实用程序，但似乎人们将其用于自动化练习，而不是某种复制现有输入方法的附加前端。显然，这必须非常透明并提供某种安全性（例如，以某种方式传递本地数据而不存储任何内容，因此它实际上只是充当输入代理），但这可能吗？  我已询问过多个 AI 和开发工具（v0 和 bolt.new），代理表示可以完成，但我希望获得一些实际的人工输入。     提交人    /u/makingnosmallplan   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjnj45/web_app_form_to_replace_an_existing_form_from/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器支持的最少（最低）版本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hicd3x/the_least_minimum_version_of_browser_support/</link>
-      <description><![CDATA[沈建浏览器我应该使用哪个浏览器版本，以便大多数用户能够使用我的项目？Chrome 和 Firefox v1 和 IE？Chrome v50 和 Firefox？Chrome 和 Firefox v100？Chrome 和 Firefox 最新版本？我正在使用 css 上的伪代码，最低版本是 105。可以吗？    提交人    /u/katakishi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hicd3x/the_least_minimum_version_of_browser_support/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:58:55 GMT</pubDate>
+      <title>域名提供商是否也提供 SMTP 服务器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjngu8/does_domain_name_providers_prive_smtp_servers_as/</link>
+      <description><![CDATA[您好，当我购买域名时，是否也会有一个 SMTP 服务器来发送和接收邮件，例如注册和联系等？ 谢谢！    提交人    /u/Menxii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjngu8/does_domain_name_providers_prive_smtp_servers_as/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>7 年的 Web 开发，下一步该何去何从？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hic6so/7_years_of_web_development_where_to_go_from_here/</link>
-      <description><![CDATA[大家好， 我是一名前端工程师，目前在一家初创公司担任主管。我可以制作 API、连接数据库并构建 Crush，但我觉得我更擅长 FE，所以我坚持做这个。我在这个领域工作了 7 年。我现在面临的问题是，从这里走向何方。作为一名自学成才的开发人员，我学习了基础知识，并遵循了 Cs50 以获得更好的理解。我精通 JS，也研究了算法和数据结构。我想通过 chancenkarte 签证搬到德国，在准备面试时，我感到有点迷茫。我一直很清楚，我想要的是成长而不是金钱，但我真的看不到现在的增长在哪里。我真的很喜欢在初创公司工作，因为它们让我变得精益求精，工作节奏更快。以更快的速度学习。同样，在一份工作上呆了 4 年，似乎我错过了稳定和忠诚的成长。 注意：如果这里有来自德国的人。我还有一些关于在搬到德国之前获得面试机会的问题，基本上是先有所收获，不要盲目地跳进去。    提交人    /u/Upstairs_Sweet_7391   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hic6so/7_years_of_web_development_where_to_go_from_here/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:48:24 GMT</pubDate>
+      <title>托管服务提供商建议（不适用于 WP）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjn22v/hosting_providers_recommendations_not_for_wp/</link>
+      <description><![CDATA[我正在为我的 saas 代理机构寻找托管服务提供商，我得到了一些建议，但不确定哪个是最好的，哪个提供商用于托管您的编码网站，无论是基于 React 还是 vanilla js 或全栈。您选择它而不是其他的原因是什么    提交人    /u/ibadddd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjn22v/hosting_providers_recommendations_not_for_wp/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>您在工作中使用什么语言来构建 REST API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hibcki/what_language_do_you_use_to_build_rest_apis_at/</link>
-      <description><![CDATA[免责声明：我正在开发一款独立产品 (Apitally)，并研究应该为哪些语言/框架添加 SDK。它目前支持 Python 和 JS。 感谢您的反馈！ 查看投票    提交人    /u/itssimon86   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hibcki/what_language_do_you_use_to_build_rest_apis_at/</guid>
-      <pubDate>Fri, 20 Dec 2024 03:59:34 GMT</pubDate>
+      <title>我创建了一个 Spotify Wrapped 用于网络分析</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjmyww/i_built_a_spotify_wrapped_for_web_analytics/</link>
+      <description><![CDATA[      几天前我推出了 1board，这是一个用于汇编来自 Stripe、GA4 和 Plausible 的所有数据的工具。我刚刚添加了 Spotify Wrapped 类型的年度回顾功能。您可以在此处免费试用：https://www.1board.dev/  我还应该添加什么？    提交人    /u/mst152   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjmyww/i_built_a_spotify_wrapped_for_web_analytics/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>寻找 Web 开发导师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hia9b3/looking_for_web_developer_mentor/</link>
-      <description><![CDATA[你好，我现在在上大学。我想扩大我的投资组合。我想开始一些新的网站项目。我可以免费帮助一些网站。我也愿意为一些经验付钱。我正在寻找一个认真且经验丰富的人。    提交人    /u/Sad_Fuzz13   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hia9b3/looking_for_web_developer_mentor/</guid>
-      <pubDate>Fri, 20 Dec 2024 02:58:00 GMT</pubDate>
+      <title>我对 OIDC 身份验证的想法是否错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</link>
+      <description><![CDATA[我实现了从 IDP 进行单点登录的 OIDC。我在 Blazor 中做过很多次，但从未在 Vue/Nuxt 中做过。所以这次它的行为有点不同。 登录后，它在 Web 服务器内存中具有访问令牌和刷新令牌。令牌随每个请求一起发送到后端 API，后端 API 将确保令牌良好，对其进行自检和缓存。如果一切正常，您将收到 API 响应。对我来说似乎很正常？ 然而，有时 Web 服务器会从内存中丢失访问令牌/刷新令牌。无论是服务器重启还是用户点击不同的 kubernetes 副本时。 最初我以为会话 cookie 包含所有信息，但事实并非如此。因此，当它丢失访问令牌时，一切都会停止工作并需要重新进行身份验证。 解决方案是使用像 redis 这样的存储来保持会话和刷新令牌持久。它可以工作，但这是正常的做法吗？除了添加这个额外的基础设施，我是否可以创建一个包含刷新令牌的加密 cookie？像商店一样使用 cookie。 抱歉，问题太多了。我只是想知道该怎么办。    提交人    /u/kakemot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:18:22 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 远程调试浏览器（Windows Chrome 到 Android Chrome）。其他人也觉得很不稳定吗？有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi8xgl/chrome_remote_debugging_a_browser_windows_chrome/</link>
-      <description><![CDATA[我通过 USB 将 Android 连接到 Win11 笔记本电脑。使用典型的 chrome://inspect/#devices 尝试远程开发工具 Android 上的浏览​​器选项卡。 它会弹出允许连接提示（至少第一次），但之后大约有 10% 的时间设备会实际显示在远程设备列表中？有时它会出现但根本不显示选项卡。然后，当我可以使用开发工具时，它会在一段可变的时间后随机停止更新网络或控制台或我正在查看的任何内容。然后我无法重新连接。 大多数时候我只是看到 离线 #XXXXXXX 待处理的身份验证：请接受设备上的调试会话。 即使我已经在提示中接受了。 有人有什么技巧可以让它真正稳定地工作吗？我已经完成了我在 Google 上看到的所有操作，例如重启手机、使用不同的 USB 端口、撤销许可、切换 USB 调试。 继续拉我的头发！    提交人    /u/lbc_ht   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi8xgl/chrome_remote_debugging_a_browser_windows_chrome/</guid>
-      <pubDate>Fri, 20 Dec 2024 01:45:11 GMT</pubDate>
+      <title>我今天早上写了一个 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjm5xo/i_wrote_a_chrome_extension_this_morning/</link>
+      <description><![CDATA[和大多数人一样，我倾向于在吃饭时看东西，最近我发现自己在看无用的 YouTube 垃圾，而不是我付费的课程，所以我想我应该提醒自己，除了 YouTube 之外，我还有其他东西可以看。我将代码放在 GitHub 上，以防有人遇到类似的问题并想尝试一下。（它不在网络商店中，因为我没有为 Google 开发帐户支付 5 美元，你必须自己安装 .crx 或打包。）希望你喜欢。 https://github.com/intercaetera/wouldnt-you-rather    由   提交 /u/intercaetera   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjm5xo/i_wrote_a_chrome_extension_this_morning/</guid>
+      <pubDate>Sat, 21 Dec 2024 23:36:49 GMT</pubDate>
     </item>
     <item>
-      <title>在网上分享我已部署的个人项目安全吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi8t24/is_it_safe_to_share_my_deployed_personal_projects/</link>
-      <description><![CDATA[我有一个 MEN stack 应用和一个 Django 应用想要分享，尤其是前者，因为它是我喜欢的游戏的粉丝网站，但由于源代码几乎是公开的（ctrl+u），我担心如果分享它会发生什么。因为它包含指向我后端的直接链接，如果过度使用，我将被收取费用。  另一个包含我的 API 密钥，虽然不那么紧急，但如果有人决定玩弄阴谋诡计，我可能会因过度使用而受到指责。    提交人    /u/Nubian_Cavalry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi8t24/is_it_safe_to_share_my_deployed_personal_projects/</guid>
-      <pubDate>Fri, 20 Dec 2024 01:38:36 GMT</pubDate>
+      <title>我被解雇了，失去了初级前端开发的工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjljgb/ive_been_fired_from_my_junior_frontend_dev_job/</link>
+      <description><![CDATA[您好， 我被告知我不会再来上班了，因为公司解雇了我，不再做前端工作。经过 2 年的努力，我似乎​​没能成为一个值得信赖的人。从我所听到和理解的来看，我最大的问题是我未能进行深入测试 - 这确实导致生产中出现了太多的修补程序。这也是我以前工作中的一个问题，所以也许我没有能力胜任这样的工作？我现在觉得自己有点没用，没有目标。 也许我可以努力工作，然后在另一家公司再试一次，但我不知道如果我再次被解雇是否值得。    提交人    /u/jauz17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjljgb/ive_been_fired_from_my_junior_frontend_dev_job/</guid>
+      <pubDate>Sat, 21 Dec 2024 23:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>适合活动中心附近业务的良好在线/店内预订和 POS 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi83hf/good_onlineinstore_booking_and_pos_for_events/</link>
-      <description><![CDATA[我有几个客户需要一个好的调度程序，允许人们在线预订，但也要与店内 POS 系统集成。具体来说，这些企业是较大的场所，可以处理大量人流（比如水族馆、游乐中心/活动中心等）。 我知道有很多入门级选项，比如 Square 等，但这些选项似乎不适合像这样的大规模预订。他们目前正在使用 Aluvii，这是我见过的最差的软件之一，并且确实损害了他们在网站上的转化率。 有人有使用这种软件的良好经验吗？谢谢    提交人    /u/atalkingfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi83hf/good_onlineinstore_booking_and_pos_for_events/</guid>
-      <pubDate>Fri, 20 Dec 2024 01:01:31 GMT</pubDate>
+      <title>前端/后端安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjl3qr/frontendbackend_security/</link>
+      <description><![CDATA[Hello Webdevs, 我最近开始开发一个网站，前端使用 react，后端使用 node、express、redis、prisma、presql、jwt。 由于我对 Web 开发还“不太熟悉”，所以我想在这里询问一些关于安全的建议。 用户使用 oauth 登录（以 google 为例），这些令牌被发送到后端，经过验证并存储在数据库中。 稍后我想实现一个支付处理器，允许用户购买订阅。 我读过一些关于安全性的东西，但想在这里问一下你们中的一些人将如何处理这样的项目并确保它尽可能的安全。 谢谢    提交人    /u/Traditional_Ball_979   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjl3qr/frontendbackend_security/</guid>
+      <pubDate>Sat, 21 Dec 2024 22:41:41 GMT</pubDate>
     </item>
     <item>
-      <title>12 月新增网页平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi6lly/new_to_the_web_platform_in_december/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi6lly/new_to_the_web_platform_in_december/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:47:07 GMT</pubDate>
+      <title>亚马逊支付</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjks5v/amazon_pay/</link>
+      <description><![CDATA[大家好，有人有将 Amazon Pay 实现到 react/next web 应用程序中的经验吗？你能给我一些好的例子/教程等吗？谢谢！    提交人    /u/toruWatanabe2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjks5v/amazon_pay/</guid>
+      <pubDate>Sat, 21 Dec 2024 22:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>最简单的电子商务网站解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi54lz/easiest_solution_to_simple_ecommerce_site/</link>
-      <description><![CDATA[您好，对于设计简单的电子商务网站，您会推荐哪种解决方案或服务？ 我最看重的是一个简单的界面，我可以每月更新库存、编辑产品图片、价格等，而无需了解如何编码。我可以/将会在最初获得开发人员的帮助来设置它，但我想事先获得一些建议！谢谢！    提交人    /u/StrawBro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi54lz/easiest_solution_to_simple_ecommerce_site/</guid>
-      <pubDate>Thu, 19 Dec 2024 22:36:00 GMT</pubDate>
+      <title>Satya 的 App-ocalypse，是 MCP 拯救了它还是 SaaS 消亡了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjkqs9/satyas_appocalypse_saved_by_mcp_or_the_death_of/</link>
+      <description><![CDATA[  由    /u/nilslice  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjkqs9/satyas_appocalypse_saved_by_mcp_or_the_death_of/</guid>
+      <pubDate>Sat, 21 Dec 2024 22:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>我在简历上撒了谎，现在我陷入困境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi40s1/lied_on_my_resume_and_now_im_drowning/</link>
-      <description><![CDATA[我夸大了我的技能和经验水平。工作三个月后，我感到不知所措和无能为力。我的角色是前端开发人员 (React)。我和团队正在从另一个开发团队接管一个项目，有很多东西需要学习和注意。信息过载。不仅是前端的东西，还有后端和架构。这是一个重要的项目，我在其中扮演着重要的角色，人们对我的期望很高。过渡阶段即将结束，之前的开发团队很快就会不复存在。就规模和复杂性而言，这对我来说是一大进步，这也是我想要成长的地方，但现在我觉得我无法应对挑战。我认为这不仅仅是冒名顶替综合症。我学到了很多东西，但我觉得这还远远没有达到人们对我的期望。我的团队和经理一直给予我最大的支持，我不想让他们失望。我不知道我到底想通过这篇文章达到什么目的。 Tl;dr：我在简历上撒了谎，现在我的任务超出了我的水平    提交人    /u/Sea-Nectarine5748   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi40s1/lied_on_my_resume_and_now_im_drowning/</guid>
-      <pubDate>Thu, 19 Dec 2024 21:46:27 GMT</pubDate>
+      <title>使用 MERN 的“主页面-细节页面 CRUD”——知道任何你推荐的 Gits 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjkksk/masterdetailpage_crud_using_mern_know_any_gits/</link>
+      <description><![CDATA[回到旧时的 DreamWeaver 时代，DW 可让您快速轻松地创建带有主从页面的 CRUD。主页面将是个人资料列表，如果您单击个人资料链接，您将到达包含单个个人资料详细信息的详细信息页面。 我在网上找到了很多基于 MERN 的教程和 Git，它们要么只做主页面，要么只做详细信息页面。 如果您有最喜欢的 MERN Git（或教程），它们会执行以下操作： - 登录/注册页面 - 主页面 - 详细信息页面 请在下面分享。 谢谢！    提交人    /u/another_lease   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjkksk/masterdetailpage_crud_using_mern_know_any_gits/</guid>
+      <pubDate>Sat, 21 Dec 2024 22:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>挑战：使用 apache 或 nginx 以及任何 sql，您需要实现功能齐全的博客（包括注册、身份验证、电子邮件通知、发布等...）的最小中间件是什么，其中所有后端工作均由 sql 完成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi2vhm/a_challenge_using_apache_or_nginx_and_any_sql/</link>
-      <description><![CDATA[因此所有 html、css、javascript 都存储在表中，所有后端控制都通过存储过程完成。我猜您需要一些最低限度的路由来访问存储过程并创建基本连接以获取头部、主体和页脚内容以发送回客户端    提交人    /u/shepshep7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi2vhm/a_challenge_using_apache_or_nginx_and_any_sql/</guid>
-      <pubDate>Thu, 19 Dec 2024 20:56:17 GMT</pubDate>
+      <title>我在什么程序中使用“cURL”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjk1kz/what_program_do_i_use_curl_in/</link>
+      <description><![CDATA[所以我想使用我购买的一些代理。显然，该网站要求您使用自己的工具来管理它们，而不是网站上的仪表板？（例如“cURL、Python、PHP、Node.js、GO、Java”）但是我没有任何技术知识。该网站让我在某处输入“curl -x pr.oxylabs.io:7777 -U“customer-USERNAME:PASSWORD”，但显然输入的是我的实际登录信息。我尝试了命令提示符和终端，但这些都不起作用。我该如何使用它？    提交人    /u/klaz50   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjk1kz/what_program_do_i_use_curl_in/</guid>
+      <pubDate>Sat, 21 Dec 2024 21:49:04 GMT</pubDate>
     </item>
     <item>
-      <title>电视台网页转型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi2thb/tv_channel_web_page_transition/</link>
-      <description><![CDATA[您好， 我正在开发一个基于 Cargo Collective 的网站。出于审美原因，我想让其中一个过渡模仿电视频道切换，特别是老式的 80 年代/90 年代风格，如果可能的话。 有人知道我该怎么做吗？ 谢谢！    提交人    /u/travelman3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi2thb/tv_channel_web_page_transition/</guid>
-      <pubDate>Thu, 19 Dec 2024 20:53:46 GMT</pubDate>
+      <title>当地社区网站的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjjwdt/an_idea_for_a_local_community_site/</link>
+      <description><![CDATA[大家好，我是一名网络开发人员，我一直在考虑建立一个网站，旨在帮助加强我当地的社区：具体来说，是一个约有 25,000 人的农村县。我希望看到大家对这个想法的看法。 一些想法：  它将包括一个在线市场组件，可供当地企业和希望出售不需要的物品的个人使用。企业可以列出他们的产品和服务。我设想了一种在线农贸市场。类似于 Facebook 市场，但为我们的社区量身定制。 它将包括某种留言板。只有县里的人才能发帖。我担心这里的审核挑战。 我想找到一种方法来帮助人们识别有需要的邻居。我不确定那会是什么样子。我对食品安全和医疗保健的可用性感兴趣。网站上会为当地慈善机构留出一席之地。 我希望社区在网站的运营中发挥作用。这可能涉及审核，甚至对某些事情进行投票（也许）。我希望社区觉得这个空间属于他们。一切都是非盈利的。 我知道有些网站已经做了其中一些事情（通常是为了盈利）。但我认为每个社区都有独特的需求，所以他们应该有自己的工具来解决这些需求。  正如我所说，目标是加强当地社区。建立联系，分享知识，建立复原力。如果成功的话，我希望其他社区可以效仿。 这个 subreddit 对这样的事情有什么看法？   由    /u/cirodam  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjjwdt/an_idea_for_a_local_community_site/</guid>
+      <pubDate>Sat, 21 Dec 2024 21:41:55 GMT</pubDate>
     </item>
     <item>
-      <title>将整个 Joomla 网站导出为单个 PDF 或其他格式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hi2s22/export_an_entire_joomla_site_to_a_single_pdf_or/</link>
-      <description><![CDATA[我有一个网站，没什么特别的 - 它涵盖了我所在地区的山地自行车运动，我将在春季搬家。我打算在年底关闭该网站，因为我将来不会维护它。 它基于 Joomla 4 构建。 我有很多网站备份，但我希望能够将整个网站拆分成可以存档并在以后需要时提取内容的东西。我基本上不想在 Joomla 的新服务器上重建网站只是为了删除一些旧内容。 PDF 会很棒，HTML RTF、DOCX，甚至 XLSX 或 TXT 都可以。 有人有好的工具可以做到这一点吗？它不需要很漂亮，只需要让我在需要时快速轻松地提取一些内容即可。 编辑：我确实使用 PHP 管理员导出了数据库，但那只是一大段带有大量标签的文本。最终，这比没有要好，但如果可能的话，我希望它更强大。    提交人    /u/AustinBike   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hi2s22/export_an_entire_joomla_site_to_a_single_pdf_or/</guid>
-      <pubDate>Thu, 19 Dec 2024 20:51:57 GMT</pubDate>
+      <title>crypt.fyi - 开源、短暂、零知识秘密共享，具有端到端加密</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjjl1h/cryptfyi_opensource_ephemeral_zeroknowledge/</link>
+      <description><![CDATA[      https://crypt.fyi https://github.com/osbytes/crypt.fyi 我建立这个项目是为了获得学习经验，进一步了解网络安全最佳实践，并改进解决类似问题的现有工具。很想收到任何反馈！ 新秘密表格 创建秘密成功    提交人    /u/codectl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjjl1h/cryptfyi_opensource_ephemeral_zeroknowledge/</guid>
+      <pubDate>Sat, 21 Dec 2024 21:26:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

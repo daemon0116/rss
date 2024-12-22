@@ -4,7 +4,35 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Dec 2024 08:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 01:28:57 GMT</lastBuildDate>
+    <item>
+      <title>记忆</title>
+      <link>https://www.producthunt.com/posts/memory</link>
+      <description><![CDATA[
+适用于 iPhone 的私人每日照片日记
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/memory</guid>
+      <pubDate>Sat, 21 Dec 2024 04:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>BitBadges</title>
+      <link>https://www.producthunt.com/posts/bitbadges</link>
+      <description><![CDATA[
+利用门控 NFT 进行身份验证管理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bitbadges</guid>
+      <pubDate>Fri, 20 Dec 2024 13:43:17 GMT</pubDate>
+    </item>
     <item>
       <title>量子算法即服务（Q3AS）</title>
       <link>https://www.producthunt.com/posts/quantum-algorithm-as-a-service-q3as-2</link>
@@ -62,24 +90,10 @@ Q3AS，Aqora 部署和执行量子算法
       <pubDate>Thu, 19 Dec 2024 23:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI o1 API</title>
-      <link>https://www.producthunt.com/posts/openai-o1-api</link>
-      <description><![CDATA[
-OpenAI 最先进的模型，o1 API 提供给第三方开发者
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/openai-o1-api</guid>
-      <pubDate>Thu, 19 Dec 2024 22:07:51 GMT</pubDate>
-    </item>
-    <item>
       <title>PicWordify</title>
       <link>https://www.producthunt.com/posts/picwordify</link>
       <description><![CDATA[
-每次发布一张图片，让网络更加易于访问
+为您的整个网站自动生成替代文本
 
 
 讨论
@@ -160,46 +174,32 @@ OpenAI 最先进的模型，o1 API 提供给第三方开发者
       <pubDate>Thu, 19 Dec 2024 03:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>牡丹 0.5</title>
-      <link>https://www.producthunt.com/posts/peony-0-5</link>
+      <title>图片选择器</title>
+      <link>https://www.producthunt.com/posts/picture-picker</link>
       <description><![CDATA[
-2 分钟内创建您自己的文件共享门户
+利用人工智能以 10 倍速度收集和分类图片
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/peony-0-5</guid>
-      <pubDate>Wed, 18 Dec 2024 22:34:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/picture-picker</guid>
+      <pubDate>Mon, 09 Dec 2024 08:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>橡皮筋电影</title>
-      <link>https://www.producthunt.com/posts/rubbrband-movies</link>
+      <title>页数</title>
+      <link>https://www.producthunt.com/posts/paage</link>
       <description><![CDATA[
-所有 AI 视频模型都集中在一个地方，并配有内置编辑器
+商务用 Link-in-bio：像 Bento 一样简单，像 Shopify 一样强大
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/rubbrband-movies</guid>
-      <pubDate>Wed, 18 Dec 2024 01:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>股票行情栏</title>
-      <link>https://www.producthunt.com/posts/tickerbar</link>
-      <description><![CDATA[
-macOS 的股票市场和加密货币价格
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tickerbar</guid>
-      <pubDate>Fri, 13 Dec 2024 15:56:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/paage</guid>
+      <pubDate>Fri, 29 Nov 2024 19:55:58 GMT</pubDate>
     </item>
     <item>
       <title>易派贝塔</title>

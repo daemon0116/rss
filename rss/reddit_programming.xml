@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Dec 2024 07:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 01:28:32 GMT</lastBuildDate>
     <item>
-      <title>这个编码测试合理吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hieq7r/is_this_coding_test_reasonable/</link>
-      <description><![CDATA[所以我是一个自学成才的开发人员，我有一个广泛的作品集，展示了没有现实世界经验的全栈开发能力。 我正在被招募为无薪实习生，他们给我发了一个任务，基本上是一个基于 figma 设计的完整 React 应用程序，其中包括多个页面、动画和带有 api 集成的结帐系统，需要 25-30 小时才能完成。 虽然我很乐意做这样的任务，但考虑到它是无偿的并且只是测试的范围，这个要求似乎真的很不合理。 这是正常的还是我绊倒了？    提交人    /u/UnknownBlazing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hieq7r/is_this_coding_test_reasonable/</guid>
-      <pubDate>Fri, 20 Dec 2024 07:35:08 GMT</pubDate>
+      <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
     </item>
     <item>
-      <title>面向中小型企业的 GCP 安全蓝图</title>
-      <link>https://www.reddit.com/r/programming/comments/1hidb3p/gcp_security_blueprint_for_small_and_midsize_firms/</link>
+      <title>向量嵌入、标记化和向量数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjjw4s/vector_embeddings_tokenization_and_vector/</link>
       <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hidb3p/gcp_security_blueprint_for_small_and_midsize_firms/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:57:49 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1hjjw4s/vector_embeddings_tokenization_and_vector/</guid>
+      <pubDate>Sat, 21 Dec 2024 21:41:34 GMT</pubDate>
     </item>
     <item>
-      <title>优化 Ruby 的 JSON，第一部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1hicjjc/optimizing_rubys_json_part_1/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hicjjc/optimizing_rubys_json_part_1/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:08:57 GMT</pubDate>
+      <title>我使用 express css 和 moustache 在 nodejs 中制作了一个 markdown 文档托管服务器，它托管并列出 docs 文件夹内的所有 markdown 文件，可以在服务器上导航和查看。您可以从 repo 下载源代码。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjh7bo/i_made_a_markdown_documentation_hosting_server_in/</link>
+      <description><![CDATA[  由    /u/cryptomonk_rt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjh7bo/i_made_a_markdown_documentation_hosting_server_in/</guid>
+      <pubDate>Sat, 21 Dec 2024 19:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>如果不做出反应，那该怎么办？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hicam6/if_not_react_then_what/</link>
-      <description><![CDATA[  由    /u/x5p23  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hicam6/if_not_react_then_what/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:54:34 GMT</pubDate>
+      <title>Hypermode 知识图谱 + AI 挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjgseu/hypermode_knowledge_graph_ai_challenge/</link>
+      <description><![CDATA[  由    /u/lyonwj  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjgseu/hypermode_knowledge_graph_ai_challenge/</guid>
+      <pubDate>Sat, 21 Dec 2024 19:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>可视化 6D 网格并行性</title>
-      <link>https://www.reddit.com/r/programming/comments/1hic7wb/visualizing_6d_mesh_parallelism/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hic7wb/visualizing_6d_mesh_parallelism/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transformer：现代人工智能的引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1hibska/transformers_the_engine_of_modern_ai/</link>
-      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hibska/transformers_the_engine_of_modern_ai/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经记录了我用来限定代码库范围的技术——我很乐意听到其他开发人员的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1hibbob/ive_documented_the_technique_i_use_to_scope_my/</link>
-      <description><![CDATA[  由    /u/CharlesTati  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hibbob/ive_documented_the_technique_i_use_to_scope_my/</guid>
-      <pubDate>Fri, 20 Dec 2024 03:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何统一 macOS、Windows 和 Neovim 之间的快捷方式？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hib91f/how_to_unify_shortcuts_across_macos_windows_and/</link>
-      <description><![CDATA[  由    /u/slidoooor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hib91f/how_to_unify_shortcuts_across_macos_windows_and/</guid>
-      <pubDate>Fri, 20 Dec 2024 03:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>脚本语言和 IDE，帮助刚开始学习编程的人</title>
-      <link>https://www.reddit.com/r/programming/comments/1hiaxxs/scripting_language_and_ide_to_help_those_at_the/</link>
-      <description><![CDATA[  由    /u/mballoni  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hiaxxs/scripting_language_and_ide_to_help_those_at_the/</guid>
-      <pubDate>Fri, 20 Dec 2024 03:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>简介/课程 1：使用 Squeak/Smalltalk 编写射击游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hia4ge/introductionlesson_1_programming_the_shooter_game/</link>
-      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hia4ge/introductionlesson_1_programming_the_shooter_game/</guid>
-      <pubDate>Fri, 20 Dec 2024 02:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 月新增网页平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi6l80/new_to_the_web_platform_in_december/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi6l80/new_to_the_web_platform_in_december/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>巧妙算法：受自然启发的编程秘诀</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi6l04/clever_algorithms_natureinspired_programming/</link>
-      <description><![CDATA[  由    /u/jasonb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi6l04/clever_algorithms_natureinspired_programming/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型如何使难题变得简单</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi5jdf/how_types_make_hard_problems_easy/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi5jdf/how_types_make_hard_problems_easy/</guid>
-      <pubDate>Thu, 19 Dec 2024 22:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建字母构造游戏的两种方法：按位与数组模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi5c9j/two_approaches_to_building_a_letter_construction/</link>
-      <description><![CDATA[  由    /u/Atvenice  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi5c9j/two_approaches_to_building_a_letter_construction/</guid>
-      <pubDate>Thu, 19 Dec 2024 22:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代前端开发是否过度设计了？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi0xbx/is_modern_frontend_development_overengineered/</link>
+      <title>使用 GPT-4 和 React 将 AI 生成的内容添加到您的网站：简单的分步指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjgp8r/add_aigenerated_content_to_your_website_with_gpt4/</link>
       <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi0xbx/is_modern_frontend_development_overengineered/</guid>
-      <pubDate>Thu, 19 Dec 2024 19:29:11 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1hjgp8r/add_aigenerated_content_to_your_website_with_gpt4/</guid>
+      <pubDate>Sat, 21 Dec 2024 19:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>分布式系统中的两位将军问题是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjfn8z/what_is_the_two_generals_problem_in_distributed/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjfn8z/what_is_the_two_generals_problem_in_distributed/</guid>
+      <pubDate>Sat, 21 Dec 2024 18:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免常见扩展内联汇编错误的规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjeypl/rules_to_avoid_common_extended_inline_assembly/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjeypl/rules_to_avoid_common_extended_inline_assembly/</guid>
+      <pubDate>Sat, 21 Dec 2024 17:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到 QuickJS-NG</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</guid>
+      <pubDate>Sat, 21 Dec 2024 16:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Rust 宏解决编译时代码出现问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>多线程、并发、并行还是异步？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjc2fu/multithreading_concurrency_parallelism_or/</link>
+      <description><![CDATA[  由    /u/mxr_9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjc2fu/multithreading_concurrency_parallelism_or/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>尚未开发的金矿：发现 Android 和 iOS 应用开发的有利可图的利基市场</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjb724/untapped_goldmines_discovering_lucrative_niches/</link>
+      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjb724/untapped_goldmines_discovering_lucrative_niches/</guid>
+      <pubDate>Sat, 21 Dec 2024 14:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Arm 内存标记进行类型跟踪 | 博客 | Linaro</title>
+      <link>https://www.reddit.com/r/programming/comments/1hj9xuh/type_tracking_using_arm_memory_tagging_blog_linaro/</link>
+      <description><![CDATA[  由    /u/Successful_Pen_6348  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hj9xuh/type_tracking_using_arm_memory_tagging_blog_linaro/</guid>
+      <pubDate>Sat, 21 Dec 2024 13:34:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>防止每个 C 程序发生内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1hj9g7r/memory_leak_proof_every_c_program/</link>
+      <description><![CDATA[  由    /u/Successful_Pen_6348  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hj9g7r/memory_leak_proof_every_c_program/</guid>
+      <pubDate>Sat, 21 Dec 2024 13:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ConanEx v2.2.4 的新版本 - Conan 扩展 C/C++ 包管理器。添加了 --global-lock 标志以解决并发缓存问题（请参阅 https://github.com/conan-io/conan/issues/15840）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hj8lpc/new_version_of_conanex_v224_conan_extended_cc/</link>
+      <description><![CDATA[  由    /u/redradist  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hj8lpc/new_version_of_conanex_v224_conan_extended_cc/</guid>
+      <pubDate>Sat, 21 Dec 2024 12:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>两道菜 | 数据结构与算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1hj8273/two_dishes_data_structure_and_algorithms/</link>
+      <description><![CDATA[  由    /u/Distinct-Curve-660  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hj8273/two_dishes_data_structure_and_algorithms/</guid>
+      <pubDate>Sat, 21 Dec 2024 11:31:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
