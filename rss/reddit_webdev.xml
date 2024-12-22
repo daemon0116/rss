@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 21:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 22:18:05 GMT</lastBuildDate>
+    <item>
+      <title>抓取了一个网站，并尝试复制。可以使用信息。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk8jya/scraped_a_site_and_trying_to_get_a_clone_up_could/</link>
+      <description><![CDATA[因此，我主要从事后端开发，只有几年的经验。最近，我管理的一个论坛的所有者去世了。在我们丢失域名之前，我抓取了与之相关的网站和论坛，以尽可能多地存档。  好吧，域名丢失是今天发生的。这超出了我的能力范围，但是有没有一种简单的方法可以获取存档信息并克隆网站，或者我们需要访问所有其他内容？我需要什么？  首先，我假设可以访问数据库以及任何其他后端内容？     提交人    /u/A_little_rose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk8jya/scraped_a_site_and_trying_to_get_a_clone_up_could/</guid>
+      <pubDate>Sun, 22 Dec 2024 21:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>限制个人项目的工作时间是个好主意吗？（即使你有空闲时间）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk858x/is_it_a_good_idea_to_limit_the_time_you_work_on_a/</link>
+      <description><![CDATA[我在观看 code with me 视频时遇到了这个问题。为了回答观众的问题，那个人说了类似“我每天花大约 2 到 4 个小时开发这个应用”这样的话。 我有一个像墓地一样的文件夹，里面全是我最终失去兴趣的项目。有些项目处于开始阶段，有些项目几乎已经准备好启动。我相信我们大多数人都有这样的墓地 不过，所有这些项目都有一个共同点：我为它们付出了巨大的努力。比如，一旦我有了想法并认为“我可以构建它”，我就会立即开始工作，直到我睁不开眼睛或被其他事情分散注意力为止。 而且大多数时候，我都会在项目出现烦人的错误或需要处理的繁重工作时离开。也许这就是我没有完成它们的原因之一。 由于我目前只从事自由职业，我可以花一两天时间在自己的项目上。大多数时候我都这样做。 也许完成它们的答案是慢慢来，不要一口吃掉整个甜点？    提交人    /u/mekmookbro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk858x/is_it_a_good_idea_to_limit_the_time_you_work_on_a/</guid>
+      <pubDate>Sun, 22 Dec 2024 21:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>我什么时候应该使用状态？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk7vxe/when_should_i_use_state/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>在网站标题中添加实时待办事项列表</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</link>
-      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。 甚至相关教程的链接。等等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。甚至相关教程的链接等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</guid>
       <pubDate>Sun, 22 Dec 2024 16:09:38 GMT</pubDate>
     </item>
@@ -85,23 +99,9 @@
     <item>
       <title>在 DNS 中，当主 A 记录的 IP 没有响应请求时，是否可以路由到不同的 IP 地址？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</link>
-      <description><![CDATA[我有一个指向我家 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
+      <description><![CDATA[我有一个指向我家庭 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</guid>
       <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免接触 bubbi.app</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
-      <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>
-      <pubDate>Sun, 22 Dec 2024 11:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>许多程序员使用 .sh tld 有什么特殊原因吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</link>
-      <description><![CDATA[最近我看到很多程序员都在使用这个顶级域名。我试着搜索这个域名到底是什么意思，根据维基百科；  .sh 是英国海外领土圣赫勒拿、阿森松和特里斯坦达库尼亚的互联网国家代码顶级域名，尽管它主要用于圣赫勒拿。  我不知道，但它甚至不意味着与编程或其他任何东西有关的东西。它只是一个普通的域名（或者我的意思是，普通的）。 我也试着搜索它的价格，也许这就是很多人使用它的原因，但当我在 porkbun 上查看时，它的价格是 26-46 美元？！ 我只是对这个顶级域名很好奇，仅此而已。也许有人知道原因是什么。 提前谢谢您。    提交人    /u/Old-Property3847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:14:30 GMT</pubDate>
     </item>
     <item>
       <title>Hono.js 与 Express.js 的比较</title>

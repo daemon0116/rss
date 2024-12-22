@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 21:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 22:16:36 GMT</lastBuildDate>
+    <item>
+      <title>还值得开始攻读计算机科学学位吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk955h/still_worthy_to_start_a_computer_science_degree/</link>
+      <description><![CDATA[直奔主题。鉴于 o3 和其他 LLM 的最新成果，当我们处于 AGI 的边缘时，开始学习 CS 是否仍然值得？我不知道，我在这里看到这么多悲观主义者和幸福主义者的帖子，我们实际上应该期待什么？我正在考虑支付 chatGPT 订阅费用以帮助我学习并提高效率，但这是否只是 AI 制造和我给它想法？    提交人    /u/eduardotvn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hk955h/still_worthy_to_start_a_computer_science_degree/</guid>
+      <pubDate>Sun, 22 Dec 2024 22:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>最近有人注意到 AI 谈论“表现”吗......</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk6shi/did_anyone_notice_ai_talking_about_manifestation/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>您最喜欢的帮助人们了解 LLM 工作原理的视频是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk3kix/what_is_your_favourite_video_to_help_someone/</link>
-      <description><![CDATA[我还是觉得有点困惑…… 有没有人推荐一些很棒的视频来了解这是如何运作的？    提交人    /u/SeperentOfRa   [link] [评论]]]></description>
+      <description><![CDATA[我还是觉得有点困惑…… 有没有人推荐一些很棒的视频来帮助理解这是如何运作的？    提交人    /u/SeperentOfRa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hk3kix/what_is_your_favourite_video_to_help_someone/</guid>
       <pubDate>Sun, 22 Dec 2024 17:47:25 GMT</pubDate>
     </item>
@@ -83,13 +90,6 @@
       <pubDate>Sun, 22 Dec 2024 16:27:41 GMT</pubDate>
     </item>
     <item>
-      <title>当前像o1这样的先进人工智能在现实世界的工业级项目建设中表现如何？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjr74j/how_does_current_advanced_ai_like_o1_perform_in/</link>
-      <description><![CDATA[o3 在类似 leetcode 的编程竞赛中击败了几乎所有人类专家，但如果我想使用像 UE5 这样的游戏引擎并构建一些大型游戏，或者我想将论文中的算法集成到游戏引擎或其他大型程序中，目前最先进的 AI 在这些领域表现如何？    提交人    /u/MPM_SOLVER   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjr74j/how_does_current_advanced_ai_like_o1_perform_in/</guid>
-      <pubDate>Sun, 22 Dec 2024 04:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>人们说程序员已经被淘汰了……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjaend/people_are_saying_coders_are_cooked/</link>
       <description><![CDATA[...但我认为事实恰恰相反，其他人应该更担心。 问问自己，谁在用人工智能构建？程序员即将开始与一切竞争，颠覆一个又一个的利基市场。 编码是几代人以来利用智能的最有效方式。这不会改变。它只会变得更加放大。    提交人    /u/goguspa   [link] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 19 Dec 2024 15:03:09 GMT</pubDate>
     </item>
