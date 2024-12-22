@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 20:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:16:17 GMT</lastBuildDate>
+    <item>
+      <title>我什么时候应该使用状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk7vxe/when_should_i_use_state/</link>
+      <description><![CDATA[今天，我正在为我的网络应用制作一个类似俱乐部的功能，我决定将用户所在的所有俱乐部存储在状态中（从 api 检索俱乐部数据之后）。但后来我心想，这太多了吗？我还将非敏感用户数据存储在状态中以便快速访问，但你们觉得呢。我什么时候应该使用状态？    提交人    /u/Altugsalt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk7vxe/when_should_i_use_state/</guid>
+      <pubDate>Sun, 22 Dec 2024 21:13:44 GMT</pubDate>
+    </item>
     <item>
       <title>协会网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[最近我看到很多程序员都在使用这个顶级域名。我试着搜索这个域名到底是什么意思，根据维基百科；  .sh 是英国海外领土圣赫勒拿、阿森松和特里斯坦达库尼亚的互联网国家代码顶级域名，尽管它主要用于圣赫勒拿。  我不知道，但它甚至不意味着与编程或其他任何东西有关的东西。它只是一个普通的域名（或者我的意思是，普通的）。 我也试着搜索它的价格，也许这就是很多人使用它的原因，但当我在 porkbun 上查看时，它的价格是 26-46 美元？！ 我只是对这个顶级域名很好奇，仅此而已。也许有人知道原因是什么。 提前谢谢您。    提交人    /u/Old-Property3847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</guid>
       <pubDate>Sun, 22 Dec 2024 10:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建面向公众的搜索索引最简单、最适合初学者的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjurn2/whats_the_easiest_most_beginnerfriendly_way_to/</link>
-      <description><![CDATA[我只有非常基本的编码经验，虽然我愿意在这里学习简单的东西，但我更愿意走最简单的路线。我曾尝试过 Algolia 和 Django，但它们可能有点超出我现在的技能范围。我不希望索引很多项目或让很多人访问索引。是否有网站/网站组合可以创建和构建索引（如 Algolia）并创建和托管前端 UI 以使用搜索，这些网站/网站组合是免费的，对初学者友好，编码最少？谢谢！    提交人    /u/Kalsain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjurn2/whats_the_easiest_most_beginnerfriendly_way_to/</guid>
-      <pubDate>Sun, 22 Dec 2024 08:50:28 GMT</pubDate>
     </item>
     <item>
       <title>Hono.js 与 Express.js 的比较</title>
