@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 13:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 14:15:56 GMT</lastBuildDate>
+    <item>
+      <title>带有 SSL 和自定义域的 Codeberg 页面</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjywrw/codeberg_pages_with_ssl_and_custom_domain/</link>
+      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjywrw/codeberg_pages_with_ssl_and_custom_domain/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>coco：一个简单的无堆栈、单线程、仅标头的 C++11 协程库</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjyusy/coco_a_simple_stackless_singlethreaded_and/</link>
+      <description><![CDATA[  由    /u/Ill_Excuse_4​​291  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjyusy/coco_a_simple_stackless_singlethreaded_and/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>消除 N+1：Go 中的两阶段数据加载和渲染模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjynu3/eradicating_n1s_the_twophase_data_load_and_render/</link>
+      <description><![CDATA[  由    /u/prlaur782  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjynu3/eradicating_n1s_the_twophase_data_load_and_render/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:38:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify 如何利用模块化整体架构每分钟处理 30TB 的数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjyg0i/how_shopify_handled_30tb_per_minute_with_a/</link>
+      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjyg0i/how_shopify_handled_30tb_per_minute_with_a/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:25:28 GMT</pubDate>
+    </item>
     <item>
       <title>为什么工程师讨厌开会以及如何解决这个问题</title>
       <link>https://www.reddit.com/r/programming/comments/1hjy380/why_engineers_hate_meetings_and_how_to_fix_it/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/Adorable-Way-6201  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hju09y/java_payroll_system_calculate_employee_overtime/</guid>
       <pubDate>Sun, 22 Dec 2024 07:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用列表框构建 Java 库存管理系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1hju027/building_a_java_inventory_management_system_using/</link>
-      <description><![CDATA[  由    /u/Adorable-Way-6201  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hju027/building_a_java_inventory_management_system_using/</guid>
-      <pubDate>Sun, 22 Dec 2024 07:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Java 的面包店管理系统项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjtzo7/bakery_management_system_project_using_java/</link>
-      <description><![CDATA[  由    /u/Adorable-Way-6201  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjtzo7/bakery_management_system_project_using_java/</guid>
-      <pubDate>Sun, 22 Dec 2024 07:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flux：用 shell 编写的 DNF 和 Flatpak 包装器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjt820/flux_a_dnf_and_flatpak_wrapper_written_in_shell/</link>
-      <description><![CDATA[  由    /u/sandibi13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjt820/flux_a_dnf_and_flatpak_wrapper_written_in_shell/</guid>
-      <pubDate>Sun, 22 Dec 2024 06:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erlang 中的并发</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</guid>
-      <pubDate>Sun, 22 Dec 2024 02:23:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

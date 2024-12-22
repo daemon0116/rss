@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 13:21:48 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 14:16:12 GMT</lastBuildDate>
+    <item>
+      <title>有人用过 Tauri 来构建桌面应用程序吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</link>
+      <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
+      <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助，开发人员。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjyr0s/i_need_help_devs/</link>
+      <description><![CDATA[我不是开发人员，但据我所知这里有很多开发人员，如果有人能花一点时间帮我为我的数字营销课程制作一个登陆页面，我会很高兴的，他们给了我们一个网站，并告诉我们将其登陆页面转换为 z 世代主题或其他东西。我没有足够的时间和金钱来聘请当地的开发人员，我希望一些好心人能帮忙……    提交人    /u/Own-Flan5950   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjyr0s/i_need_help_devs/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:44:15 GMT</pubDate>
+    </item>
     <item>
       <title>字节跳动 INFP：让图像栩栩如生的人工智能</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</link>
@@ -55,7 +69,7 @@
       <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>避免使用 bubbi.app</title>
+      <title>避免接触 bubbi.app</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
       <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[作为前端开发人员，我发现自己在用我的代码和 figma 设计玩这个游戏。 我想知道是否有一个工具可以为我做到这一点？如果它是在开发环境中就好了……例如，不要只告诉我它错了，还要告诉我哪里错了，比如颜色或边框半径等。    提交人    /u/Double-Intention-741   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjstlh/how_do_you_play_spot_the_difference/</guid>
       <pubDate>Sun, 22 Dec 2024 06:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端如何工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjsg8c/how_do_backends_work/</link>
-      <description><![CDATA[好吧，这听起来非常愚蠢，我觉得这个问题以前有人问过，但我读过的所有回复都没有真正让我明白。 基本上，我对程序员如何为网站制作后端感到困惑。更具体地说，开发人员如何在他们的网络应用中使用 C++、Python、Rust 等语言。我听到了很多关于前端主要是 JS、CSS 和 HTML 的说法，但除此之外，我想我还没有理解如何为网络应用使用其他语言，并让应用真正“获取”后端代码。 你是否只是像编写其他项目一样编写代码，然后专门将其部署到网络服务器上？是否有某些函数能够调用这些后端程序？ 抱歉说了这么多。我现在正在读大学二年级，我想我正试图在圣诞假期赶上潮流。我从来没有对网络应用特别感兴趣，如果我要进入网络领域，我知道我想做后端，因为我喜欢 C++ 和 Rust 等低级语言。 感谢大家的回答，如果这是一个非常明显的问题，我很抱歉！    提交人    /u/Munchi1011   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjsg8c/how_do_backends_work/</guid>
-      <pubDate>Sun, 22 Dec 2024 05:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我收集有关网站开发任务的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjrteq/help_me_collect_feedback_for_my_website/</link>
-      <description><![CDATA[请查看我的网站的设计。 这是我的表单的网址：https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&amp;subpage=design&amp;id=YlkT8w9Ebke-i_tIKzaC_lBNB1NqQhlHkmL7rF0tuJxUMlVVRThSOVdUUlNOTTNFNzJCWUU3VVVYMi4u&amp;analysis=false&amp;tab=0 我知道这不是最好的事情，那是因为我们正在研究的是一个笑话。我只是需要一些真实的回应。    提交人    /u/mohammed_28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjrteq/help_me_collect_feedback_for_my_website/</guid>
-      <pubDate>Sun, 22 Dec 2024 05:09:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
