@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Dec 2024 12:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 13:21:53 GMT</lastBuildDate>
+    <item>
+      <title>创建交互式内容的开源工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hjy6ld/open_source_tool_to_create_interactive_content/</link>
+      <description><![CDATA[大家好。我想与大家分享一个开源项目，我一直在开发这个项目，以满足我自己制作交互式内容的工作需求。这个项目的名字叫 TilBuci，灵感来自 Flash 或演示文稿编辑器等工具。这是项目网站： https://tilbuci.com.br/ 该项目使用 Haxe（生成 Javascript）和 PHP 作为后端进行开发。我还使用其他项目（如 Electron.js 和 Apache Cordova）将生成的内容导出到 Web 以外的平台。它的操作在某种程度上受到 CMS 软件（如 Wordpress）的启发，允许联合创作，并为每个用户提供权限级别。项目存储库如下： https://github.com/lucasjunqueira-var/tilbuci    提交人    /u/chokito76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hjy6ld/open_source_tool_to_create_interactive_content/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:09:12 GMT</pubDate>
+    </item>
     <item>
       <title>如果我使用 GPL2、GPL3 下的框架，图像、角色和音乐辅助是否需要开源、免所有权并获得 GPL 许可？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hjwbye/if_i_used_a_framework_under_a_gpl2_gpl3_does_the/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>LTX Video 的最新更新</title>
       <link>https://www.reddit.com/r/opensource/comments/1hj296v/ltx_videos_latest_update/</link>
-      <description><![CDATA[终于在开源视频生成中看到了真正的竞争 - LTX Video 的最新更新 一直在关注开源视频生成的发展，刚刚遇到了 LTX Video 0.9.1。对于那些不熟悉的人来说，这是一个高效的视频生成框架，试图解决我们经常看到的资源瓶颈。这次更新引起了我的注意： 团队设法消除了困扰大多数开放框架的那些可怕的频闪纹理。任何玩过视频生成的人都知道我在说什么 - 那些让一切看起来都像坏了的电视机的奇怪的闪烁伪影。消失了。 资源使用率仍然出奇地合理。能够在普通硬件上运行它，而不会出现通常的 VRAM 问题。这可能是大多数开源视频项目进入的最大障碍，所以看到这一点令人耳目一新。 一个有趣的技术选择是他们对 AI 生成的图像的处理。他们实施了一个图像降级系统，似乎可以产生更自然的运动。这是一个解决社区一直感到沮丧的问题的明智方法。 注意事项：如果您想使用新的 VAE 改进（相信我，您会这样做），您现在需要它们特定的 ComfyUI 节点。可在 https://github.com/Lightricks/ComfyUI-LTXVideo 对于想要进行实验的同行：他们的文档（https://github.com/Lightricks/LTX-Video）建议从图像字幕开始作为基本描述，然后手动添加运动元素。经过一些测试，这肯定会比直接跳到运动提示产生更好的效果。 真的很高兴看到它的发展方向。这个领域已经停滞了一段时间，所以拥有可靠的开源替代方案来推动创新正是我们所需要的。    提交人    /u/hadjiprimesx30   [链接] [评论]]]></description>
+      <description><![CDATA[终于在开源视频生成中看到了真正的竞争 - LTX Video 的最新更新 一直在关注开源视频生成的发展，刚刚遇到了 LTX Video 0.9.1。对于那些不熟悉的人来说，这是一个高效的视频生成框架，试图解决我们经常看到的资源瓶颈。这次更新引起了我的注意： 团队设法消除了困扰大多数开放框架的那些可怕的频闪纹理。任何玩过视频生成的人都知道我在说什么 - 那些让一切看起来都像坏了的电视机的奇怪闪烁伪影。消失了。 资源使用率仍然出奇地合理。能够在普通硬件上运行它，而不会出现通常的 VRAM 问题。这可能是大多数开源视频项目进入的最大障碍，所以看到这一点令人耳目一新。 一个有趣的技术选择是他们对 AI 生成的图像的处理。他们实施了一个图像降级系统，似乎可以产生更自然的运动。这是一个解决社区一直感到沮丧的问题的明智方法。 注意事项：如果您想使用新的 VAE 改进（相信我，您会这样做），您现在需要它们特定的 ComfyUI 节点。可在 https://github.com/Lightricks/ComfyUI-LTXVideo 对于想要进行实验的同行：他们的文档（https://github.com/Lightricks/LTX-Video）建议从图像字幕开始作为基本描述，然后手动添加运动元素。经过一些测试，这肯定会比直接跳到运动提示产生更好的效果。 真的很高兴看到它的发展方向。这个领域已经停滞了一段时间，所以拥有可靠的开源替代方案来推动创新正是我们所需要的。    提交人    /u/hadjiprimesx30   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj296v/ltx_videos_latest_update/</guid>
       <pubDate>Sat, 21 Dec 2024 04:33:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我创建了一个库，用于创建和维护 Gossip 网络，然后允许用户从网络内部查询对等点以使用网络结构。 由于以下几个原因，这种网络结构很酷很有趣。 - 去中心化 - 随机和动态结构 - 在节点流失的情况下进行自我修复 - 高效广播信息 在此处查看 repo： https://github.com/matthew-alexander-love/gossip    提交人    /u/NestedNetworker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj1i8k/gossip_open_source_networking_made_easy_ish/</guid>
       <pubDate>Sat, 21 Dec 2024 03:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gossip - 去中心化网络变得简单（ish）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hj1h1p/gossip_decentralized_networking_made_easy_ish/</link>
-      <description><![CDATA[我创建了一个库，用于创建和维护 Gossip 网络，然后允许用户从网络内部查询对等点以使用网络结构。 由于以下几个原因，这种网络结构很酷很有趣。 - 去中心化 - 随机和动态结构 - 在节点流失的情况下进行自我修复 - 高效广播信息 在此处查看 repo： https://github.com/matthew-alexander-love/gossip    提交人    /u/NestedNetworker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hj1h1p/gossip_decentralized_networking_made_easy_ish/</guid>
-      <pubDate>Sat, 21 Dec 2024 03:45:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

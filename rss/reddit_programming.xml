@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 12:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 13:21:23 GMT</lastBuildDate>
+    <item>
+      <title>为什么工程师讨厌开会以及如何解决这个问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjy380/why_engineers_hate_meetings_and_how_to_fix_it/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjy380/why_engineers_hate_meetings_and_how_to_fix_it/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>字节跳动 INFP：让图像栩栩如生的人工智能</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjxwzb/bytedance_infp_the_ai_that_brings_images_to_life/</link>
+      <description><![CDATA[  由    /u/sh_tomer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjxwzb/bytedance_infp_the_ai_that_brings_images_to_life/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘视频流服务的内部原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjxp44/unraveling_the_internals_of_video_streaming/</link>
+      <description><![CDATA[  由    /u/animesh371  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjxp44/unraveling_the_internals_of_video_streaming/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>c#(.Net) — 基本身份验证 API（en）</title>
       <link>https://www.reddit.com/r/programming/comments/1hjx6nt/cnet_basic_authentication_api_en/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</guid>
       <pubDate>Sun, 22 Dec 2024 02:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>向量嵌入、标记化和向量数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjjw4s/vector_embeddings_tokenization_and_vector/</link>
-      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjjw4s/vector_embeddings_tokenization_and_vector/</guid>
-      <pubDate>Sat, 21 Dec 2024 21:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 express css 和 moustache 在 nodejs 中制作了一个 markdown 文档托管服务器，它托管并列出 docs 文件夹内的所有 markdown 文件，可以在服务器上导航和查看。您可以从 repo 下载源代码。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjh7bo/i_made_a_markdown_documentation_hosting_server_in/</link>
-      <description><![CDATA[  由    /u/cryptomonk_rt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjh7bo/i_made_a_markdown_documentation_hosting_server_in/</guid>
-      <pubDate>Sat, 21 Dec 2024 19:29:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

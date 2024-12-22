@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 12:33:17 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 13:21:48 GMT</lastBuildDate>
+    <item>
+      <title>字节跳动 INFP：让图像栩栩如生的人工智能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</link>
+      <description><![CDATA[        提交人    /u/sh_tomer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjxx7r/bytedance_infp_the_ai_that_brings_images_to_life/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>对可用于生产的网页的总体“蓝图”进行评分！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjxt0l/rate_my_overall_blueprint_for_a_production_ready/</link>
+      <description><![CDATA[      https://preview.redd.it/quryg80bae8e1.png?width=1737&amp;format=png&amp;auto=webp&amp;s=9807b1ea6e982efd8404d44f98411bba1fde3096 随着我对 Web 开发领域的深入了解，我意识到语言和框架的多样性是多么令人眼花缭乱。更重要的是，了解它们如何相互联系对我来说是一个挑战。因此，为了解决这个问题，我决定创建一个网页每个组件的概述，并制定一个“蓝图”，概述构建网页所需的关键元素。 请注意： 我理解框架的选择取决于每个项目的复杂性，并且根据项目的具体需求可能需要不同的框架。我还不是专业人士，但我很想分享我迄今为止学到的东西。我非常感谢任何经验丰富的专业人士的反馈或意见！提前谢谢您！    提交人    /u/ProtonMarco   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjxt0l/rate_my_overall_blueprint_for_a_production_ready/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:45:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sass：你可以嵌套命名空间属性吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</link>
+      <description><![CDATA[我读到这是可能的，但是当我尝试下面的代码时，它似乎对我不起作用： body { `color: $primary;` `font {` `family: $type-serif;` `size: 18px;` `}`  &gt; 我遗漏了什么吗？    提交人    /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 Web 开发以外，您还擅长其他什么吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjxn1f/are_you_specialized_in_something_else_alongside/</link>
+      <description><![CDATA[我之前和一些技术人员交谈过，发现他们中的大多数人都不太重视 Web 开发。我觉得大多数人都把 Web 开发视为在专攻其他领域之前的垫脚石。大多数人声称他们在专攻其他领域之前曾从事过 Web 开发。我已经独自学习了几年 Web 开发并完成了一些项目，但这让我觉得自己有点像冒名顶替综合症，因为我多年来所做的所有这些工作都是别人的垫脚石或他们职业生涯中的小点。    提交人    /u/starengates   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjxn1f/are_you_specialized_in_something_else_alongside/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:33:56 GMT</pubDate>
+    </item>
     <item>
       <title>我最近免费构建了一个 LinkedIn Scraper 解决方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjx3bu/i_recently_built_a_linkedin_scraper_solution_for/</link>
@@ -27,7 +55,7 @@
       <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>避免接触 bubbi.app</title>
+      <title>避免使用 bubbi.app</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
       <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[请查看我的网站的设计。 这是我的表单的网址：https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&amp;subpage=design&amp;id=YlkT8w9Ebke-i_tIKzaC_lBNB1NqQhlHkmL7rF0tuJxUMlVVRThSOVdUUlNOTTNFNzJCWUU3VVVYMi4u&amp;analysis=false&amp;tab=0 我知道这不是最好的事情，那是因为我们正在研究的是一个笑话。我只是需要一些真实的回应。    提交人    /u/mohammed_28   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjrteq/help_me_collect_feedback_for_my_website/</guid>
       <pubDate>Sun, 22 Dec 2024 05:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github Wrapped（非官方）——代码年。使用 reactjs、chakra ui 和 framer motion 构建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjpxzx/github_wrapped_unnofficial_year_in_code_built/</link>
-      <description><![CDATA[        提交人    /u/gabrielandrew_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjpxzx/github_wrapped_unnofficial_year_in_code_built/</guid>
-      <pubDate>Sun, 22 Dec 2024 03:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 WIP 宠物游戏预览（忽视阶段）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjpji8/preview_of_my_wip_pet_game_stages_of_neglect/</link>
-      <description><![CDATA[        提交人    /u/Brilliant_Balance208   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjpji8/preview_of_my_wip_pet_game_stages_of_neglect/</guid>
-      <pubDate>Sun, 22 Dec 2024 02:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>想象一下我是你的新初级开发人员，你什么时候会认为我做得很好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjp3vy/imagine_im_your_new_junior_dev_when_would_you/</link>
-      <description><![CDATA[想象一下，您有一位新的初级开发人员，虽然还没有太大的期望，但总体而言，什么样的工作对您来说才算好？    提交人    /u/No-Stick6446   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjp3vy/imagine_im_your_new_junior_dev_when_would_you/</guid>
-      <pubDate>Sun, 22 Dec 2024 02:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>您预见到我的项目使用 Django + Next.js 会出现什么问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</link>
-      <description><![CDATA[为简单起见，我想构建一些类似于 myanimelist 的东西，除了非动漫。功能上没有什么太复杂的，只是想确保我可以处理大量的数据和用户。可能包括视频，但不会是一个主要功能。可能会包括以后购买东西的选项。不确定这些是否会对我的决定产生很大影响。 我对 webdev 还很陌生，所以不确定用什么最好的堆栈来做这件事，但我想我会尝试使用 Django（rest 框架）作为后端，使用 Next.js 作为前端。我确信这对于一个基础级别的项目来说没问题，但如果我尝试扩大规模以处理更多的用户/数据，有什么我应该注意的问题或限制吗？    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</guid>
-      <pubDate>Sun, 22 Dec 2024 02:11:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
