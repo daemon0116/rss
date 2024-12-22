@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 17:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:22:48 GMT</lastBuildDate>
+    <item>
+      <title>JRuby 与 JBang</title>
+      <link>https://www.reddit.com/r/programming/comments/1hk3qae/jruby_with_jbang/</link>
+      <description><![CDATA[  由    /u/indianDeveloper  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hk3qae/jruby_with_jbang/</guid>
+      <pubDate>Sun, 22 Dec 2024 17:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网正在淘汰旧电脑硬件</title>
+      <link>https://www.reddit.com/r/programming/comments/1hk3led/the_internet_is_killing_old_pc_hardware/</link>
+      <description><![CDATA[  由    /u/ExpensiveBob  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hk3led/the_internet_is_killing_old_pc_hardware/</guid>
+      <pubDate>Sun, 22 Dec 2024 17:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>ascii-galaxy：只是一个很酷的 ASCII 文本，带有星系背景，可添加到您的 github readme</title>
+      <link>https://www.reddit.com/r/programming/comments/1hk34uk/asciigalaxy_just_a_cool_ascii_text_with_galaxy/</link>
+      <description><![CDATA[  由    /u/sptrodon123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hk34uk/asciigalaxy_just_a_cool_ascii_text_with_galaxy/</guid>
+      <pubDate>Sun, 22 Dec 2024 17:26:56 GMT</pubDate>
+    </item>
     <item>
       <title>Shopify 每秒如何处理 16,000 个请求</title>
       <link>https://www.reddit.com/r/programming/comments/1hk2g6m/how_shopify_handles_16000_request_per_second/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Candace_Owens_4225  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjx5fg/quantum_hype_has_reached_the_point_of_absurdity/</guid>
       <pubDate>Sun, 22 Dec 2024 11:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flux：用 shell 编写的 DNF 和 Flatpak 包装器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjt820/flux_a_dnf_and_flatpak_wrapper_written_in_shell/</link>
-      <description><![CDATA[  由    /u/sandibi13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjt820/flux_a_dnf_and_flatpak_wrapper_written_in_shell/</guid>
-      <pubDate>Sun, 22 Dec 2024 06:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erlang 中的并发</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</guid>
-      <pubDate>Sun, 22 Dec 2024 02:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
