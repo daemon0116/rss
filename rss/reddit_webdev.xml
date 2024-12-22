@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 08:23:09 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 09:18:06 GMT</lastBuildDate>
+    <item>
+      <title>创建面向公众的搜索索引最简单、最适合初学者的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjurn2/whats_the_easiest_most_beginnerfriendly_way_to/</link>
+      <description><![CDATA[我只有非常基本的编码经验，虽然我愿意在这里学习简单的东西，但我更愿意走最简单的路线。我曾尝试过 Algolia 和 Django，但它们可能有点超出我现在的技能范围。我不希望索引很多项目或让很多人访问索引。是否有网站/网站组合可以创建和构建索引（如 Algolia）并创建和托管前端 UI 以使用搜索，这些网站/网站组合是免费的，对初学者友好，编码最少？谢谢！    提交人    /u/Kalsain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjurn2/whats_the_easiest_most_beginnerfriendly_way_to/</guid>
+      <pubDate>Sun, 22 Dec 2024 08:50:28 GMT</pubDate>
+    </item>
     <item>
       <title>针对重复网站的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjt3pu/advise_on_duplicate_website/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>您是否将网站设计得在手机和平​​板电脑上有所不同？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</link>
-      <description><![CDATA[我曾与儿子讨论网页设计，当时我们讨论了桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
+      <description><![CDATA[我曾与儿子讨论网页设计，当时我们正在讨论桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</guid>
       <pubDate>Sun, 22 Dec 2024 01:21:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      几天前我推出了 1board，这是一个用于汇编来自 Stripe、GA4 和 Plausible 的所有数据的工具。我刚刚添加了 Spotify Wrapped 类型的年度回顾功能。您可以在此处免费试用：https://www.1board.dev/  我还应该添加什么？    提交人    /u/mst152   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjmyww/i_built_a_spotify_wrapped_for_web_analytics/</guid>
       <pubDate>Sun, 22 Dec 2024 00:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 OIDC 身份验证的想法是否错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</link>
-      <description><![CDATA[我实现了从 IDP 进行单点登录的 OIDC。我在 Blazor 中做过很多次，但从未在 Vue/Nuxt 中做过。所以这次它的行为有点不同。 登录后，它在 Web 服务器内存中具有访问令牌和刷新令牌。令牌随每个请求一起发送到后端 API，后端 API 将确保令牌良好，对其进行自检和缓存。如果一切正常，您将收到 API 响应。对我来说似乎很正常？ 然而，有时 Web 服务器会从内存中丢失访问令牌/刷新令牌。无论是服务器重启还是用户点击不同的 kubernetes 副本时。 最初我以为会话 cookie 包含所有信息，但事实并非如此。因此，当它丢失访问令牌时，一切都会停止工作并需要重新进行身份验证。 解决方案是使用像 redis 这样的存储来保持会话和刷新令牌持久。它可以工作，但这是正常的做法吗？除了添加这个额外的基础设施，我是否可以创建一个包含刷新令牌的加密 cookie？像商店一样使用 cookie。 抱歉，问题太多了。我只是想知道该怎么办。    提交人    /u/kakemot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:18:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
