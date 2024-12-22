@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 04:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 05:17:21 GMT</lastBuildDate>
+    <item>
+      <title>每个 Web 开发人员都应该知道的 React 属性</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjrv42/react_attributes_that_every_web_developer_should/</link>
+      <description><![CDATA[  由    /u/Traditional_Length50  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjrv42/react_attributes_that_every_web_developer_should/</guid>
+      <pubDate>Sun, 22 Dec 2024 05:12:34 GMT</pubDate>
+    </item>
     <item>
       <title>像专家一样学习任何编程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1hjqy1q/learn_any_programming_language_like_a_expert/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
       <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
       <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Successful_Pen_6348  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hj9xuh/type_tracking_using_arm_memory_tagging_blog_linaro/</guid>
       <pubDate>Sat, 21 Dec 2024 13:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>防止每个 C 程序发生内存泄漏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hj9g7r/memory_leak_proof_every_c_program/</link>
-      <description><![CDATA[  由    /u/Successful_Pen_6348  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hj9g7r/memory_leak_proof_every_c_program/</guid>
-      <pubDate>Sat, 21 Dec 2024 13:04:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

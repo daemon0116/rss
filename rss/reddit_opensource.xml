@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Dec 2024 04:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 05:17:45 GMT</lastBuildDate>
+    <item>
+      <title>快速、离线的文件共享应用程序，无需零配置。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hjrnds/fast_and_offline_filesharing_application_that/</link>
+      <description><![CDATA[      Szare 是一款快速、离线的文件共享应用程序，无需任何配置。 功能 🌐 完全离线 🚀 高速本地网络传输 📱 现代网络界面 📂 目录导航 📊 实时进度跟踪    提交人    /u/Embarrassed-Jellys   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hjrnds/fast_and_offline_filesharing_application_that/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我到处都能看到印度人在发垃圾邮件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hjrjp0/everywhere_i_go_i_find_indians_spamming/</link>
+      <description><![CDATA[厌倦了观看印度人在问题部分和 prs 中发送垃圾邮件。    由    /u/Embarrassed-Jellys 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hjrjp0/everywhere_i_go_i_find_indians_spamming/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:52:07 GMT</pubDate>
+    </item>
     <item>
       <title>crypt.fyi - 开源、短暂、零知识秘密共享，具有端到端加密</title>
       <link>https://www.reddit.com/r/opensource/comments/1hjkbnz/cryptfyi_opensource_ephemeral_zeroknowledge/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>我最好的 roku 替代品是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</link>
-      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它来观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</guid>
       <pubDate>Sat, 21 Dec 2024 01:08:18 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是初学者，我想知道在哪里可以找到可以贡献的开源项目     提交人    /u/Historical-Chip-5152   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hinsa5/where_to_find_open_source_projects/</guid>
       <pubDate>Fri, 20 Dec 2024 16:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个极简的、仅供客户端使用的电子邮件签名生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</link>
-      <description><![CDATA[不想一直被打扰，所以我想我只需创建自己的生成器。  GitHub：https://github.com/activenode/signature-project  页面：signature.activeno.de     由   提交  /u/activenode   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</guid>
-      <pubDate>Fri, 20 Dec 2024 16:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源产品的商业模式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hildeu/business_model_for_open_source_product/</link>
-      <description><![CDATA[大家好， 在不伤害社区的情况下，将开源产品货币化的最佳方式是什么。销售插件、限制功能还是其他什么？你对此事有什么经验？    提交人    /u/kalintush   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hildeu/business_model_for_open_source_product/</guid>
-      <pubDate>Fri, 20 Dec 2024 14:48:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
