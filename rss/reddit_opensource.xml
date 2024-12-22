@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Dec 2024 18:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 19:14:31 GMT</lastBuildDate>
+    <item>
+      <title>APICraft Rails 是如何创建的……</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hk4fcp/how_apicraft_rails_was_created/</link>
+      <description><![CDATA[最近，作为 API 设计优先工作流的一部分，我们正在寻找实现此目的的工具。我们最终观察到，实现此目的的生态系统相当分散，这是可以理解的。大多数社区都致力于快速原型设计。 但是，我们还发现，许多组织使用 Rails 作为其主要整体，为企业客户或内部 FE 客户端和其他工具提供 API。鉴于此用例，我们构建了一些内部工具来帮助我们更快地开发。它使我们能够在几秒钟内获得可用的 API，而无需实施。我们的客户可以从第 0 天开始使用它，仅基于合同。这种方法使我们能够并行化我们的开发工作流程，允许前端团队或其他消费者独立于 API 实施时间表进行。 结果对我们的工作流程产生了变革性的影响，我们意识到这个工具也可以使其他人受益。为了与社区分享此功能，我们将其打包为 Rails 珍品。虽然仍有改进空间，但该 gem 已经提供了显著的价值，并帮助团队轻松采用 API 设计优先的方法。 我们很高兴看到其他人如何使用它并为它的发展做出贡献！ https://github.com/apicraft-dev/apicraft-rails    提交人    /u/EcstaticDog4946   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hk4fcp/how_apicraft_rails_was_created/</guid>
+      <pubDate>Sun, 22 Dec 2024 18:28:01 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个加密记事本，作为受保护文本的替代品，用于记笔记。无需登录。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hk0m7b/i_created_an_encrypted_notepad_as_an_alternative/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在构建一个闭源 Web 应用程序，它将使用 BSD 2-Clause 许可证下的库。 我对许可证的理解是，版权的副本必须包含在重新分发中，但不清楚的是重新分发的定义。 我必须在网站上公开版权吗？还是我应该将版权与源代码一起包含？    提交人    /u/dotnet_ninja   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj4ldz/bsd_2clause_license_in_closedsource_software/</guid>
       <pubDate>Sat, 21 Dec 2024 07:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌输入工具的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hj466i/alternative_for_google_input_tool/</link>
-      <description><![CDATA[我正在使用适用于 Windows 的谷歌输入工具（ms word），但谷歌停止了桌面输入工具（现在仅适用于网络）所以有没有开源替代品（用于桌面）    提交人    /u/GJ747   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hj466i/alternative_for_google_input_tool/</guid>
-      <pubDate>Sat, 21 Dec 2024 06:37:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
