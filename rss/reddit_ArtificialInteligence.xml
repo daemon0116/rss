@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 01:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 02:54:03 GMT</lastBuildDate>
     <item>
-      <title>改变法学硕士观念的必要性</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmtke/the_necessity_of_changing_an_llms_mind/</link>
-      <description><![CDATA[这并不是要破解 LLM 政策，而是一个严肃的问题，即当 API 或语言规范发生根本性更新时，如何最好地利用 LLM 实现我们作为程序员每天都会完成的事情。 仅作为示例，我将使用从 reddit 的旧 API 到新的 Devvit API 和方法的转换。我可以努力训练 GPT，并特别将其指向 Devvit API url 和文档。 但是，在开始推荐已更改或完全弃用的旧版 devvit-cli 工具命令之前，只需要在对话中进行几次提示。 现在，作为程序员，我们有时会发现，一夜之间，您在给定语言或 API 上积累的所有经验知识可能突然变得毫无用处，我们忍受并在内心深处理解“好吧，现在我需要从我所知道的旧 2.7 重新学习 Python 3.x”，或者对开发 reddit 应用程序有同样的想法。 但是 LLM 的权重和偏见需要数月才能得到强化和调整，而事实是，过去对给定主题的正确答案可能会在一夜之间发生变化。 您发现哪些技巧最能有效地传达这一观点，尽管目前互联网上可能有更多的关于做某事的 *旧* 方法，当它与新标准相冲突时，是否应该将其全部忽略，因为互联网上可供训练的内容非常少？    提交人    /u/ripred3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmtke/the_necessity_of_changing_an_llms_mind/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:11:36 GMT</pubDate>
+      <title>记住我的话：AGI 的关键是推理过程中的训练</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjorzq/mark_my_words_the_key_to_agi_is_training_during/</link>
+      <description><![CDATA[TL;DR 目前我们无法实时更新模型的权重，这意味着我们无法从根本上在当前范式内实现 AGI（我一般的 reddit 用户无知的看法）。我们可以使用当前的架构获得非常智能的模型，但永远无法让它们真正永久地进行学习和适应（例如，在我看来，RAG 不算数，但它可能是拼图的一部分）；这种看法合理吗？ 这已经是我大约一年来一直在想的事情了，我觉得很奇怪，即使环顾网络，几乎没有人考虑过这个问题，我是不是偏离轨道了这么多？它开始变得令人沮丧，所以我会在这里发泄一下，希望得到支持或者被打倒在地，无论哪种方式都没问题。 AGI 的字面定义是一种可以即时学习并适应任何事物的人工智能，你无论如何都无法做到这一点，并且永远无法用当前（甚至 SOTA，如 o3）模型的当前基本架构做到这一点，这些模型首先经过训练，然后对它们进行推理，例如当你提示一个模型时；它们永远保持静态，只对它们进行推理（是的，我们仍然不了解 o3 的官方情况，但我确信这一点对于 SOTA 模型仍然成立）。 通过上下文学习和添加其他验证模型等，你可以在当前模型上获得一些（有限的）泛化，但从根本上讲，模型的权重永远保持不变并且永远是静态的，它们不会发展；它们只会在您进行另一次训练或微调模型时发生变化，而这种情况很少发生（目前每 n 个月发生一次）。 以我（无知的）观点来看，一旦我们找到一种可行的方法来更新模型权重，同时对模型本身进行推理，我们就可以开始谈论 AGI。这类似于我们人类学习时所做的事情，当我们思考、说话或做动作时，我们的突触（=神经元之间的连接）会发生变化并随着它们相互激发而更新；这在当前的 AI 模型中仍然不会实时发生；模型中与此等效的“动作”是在模型响应提示时更新模型的权重。请注意，我说的是 AGI 的“关键”，而不是 AGI 本身，因为在这个新的假设范式中首先想到的是，我们需要找到正确的算法/方法来更新权重，而不会让模型递归地“爆炸”到疯狂，而对我来说，这将是紧随其后的下一个非常难以解决的问题。我不是人工智能研究人员，但我确信这无法在基于 GPT（或一般的 Transformers）的神经网络上完成。我们需要一种新的架构。 如果有人比我聪明得多，可以加入并澄清/揭穿这种看法，我会感到心安。就像，必须在某个地方对此进行研究，对吧？似乎人们只是接受 Transformers 作为最终使用的架构，当它们开始变得相当老旧时（2017 年），我们确定它们是接近人工智能的最佳方式吗？ （我知道我问这个问题好像这是一个简单的问题，但我仍然想知道人们是否至少在考虑这个问题）。 我已经找到了一些术语，如在线学习和液体神经网络，但我还没有进行足够的研究来判断它们是否与我上面写的内容有关。 在写这篇文章的时候，我突然想到，也许这只是人工智能发展多个阶段的开始？也许现在我们正处于创建（静态）足够智能的模型的阶段，然后我们将切换阶段并使用这些已经静态创建的模型来构建新的前沿动态模型？ 请对我所说的一切持保留态度，因为我只是一个普通的 reddit 用户在网上发表自己的想法（抱歉，我的文字听起来很激烈，我已经考虑这个问题有一段时间了，所以在写作时有点过头了）。   由    /u/Techeable  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjorzq/mark_my_words_the_key_to_agi_is_training_during/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在是人工智能开发人员努力转向特定企业应用程序的时候了。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjojdq/its_time_for_ai_developers_to_pivot_hard_to/</link>
+      <description><![CDATA[我认为我们可以同意，在 openai 和 google 之间，我们现在拥有足够多的模型来满足几乎所有消费者的需求。当然，在这个领域还有很多事情可以做，但现在是人工智能行业开始开发和营销用于特定企业的产品的时候了。 我说的是会计、法律、医学、营销、文案等。并不是说他们还没有开始这样做，但是当我们被电视、广播和互联网上的法律服务广告所淹没时，我们就会知道我们终于到达了这一步，一个人只需支付 20 美元而不是 500 美元到 1,500 美元或更多就可以成立一家新创业公司。 对于任何想进一步了解我们目前情况的人，我要求 gemini 1.5 提供一些企业 ais 的列表，它说了以下话： 你对此感到好奇是对的！ AI 正在迅速改变这些领域的企业运营方式。以下是一些关键参与者及其重点领域的细分： 对于会计和金融： * Intuit：（TurboTax 和 QuickBooks 的制造商）正在大力投资 AI，以实现记账自动化、预测财务趋势和标记潜在欺诈行为。他们甚至在探索 AI 的税收优化策略。 * UiPath：虽然以通用自动化而闻名，但 UiPath 正在构建 AI 模型以简化发票处理、对帐和财务报告等任务，尤其是对于大型运营。 * AppZen：该公司使用 AI 来审计费用、识别异常并确保合规性，从而减少企业的人工工作量和风险。 对于法律： * Lex Machina：通过使用 AI 分析诉讼数据、预测案件结果并提供对对方律师、法官和整体法律策略的见解，从而提供法律分析。 * ROSS Intelligence：利用 NLP 让律师更有效地研究判例法和法律文件，有效地充当 AI 法律研究员。 * Kira Systems：专注于合同分析，使用AI提取关键信息，识别条款并管理法律协议中的风险。 对于房地产评估： * HouseCanary：将AI与传统评估方法相结合，提供更准确，更高效的房地产估值，同时考虑市场趋势和房地产特征。 * Collat​​eral Analytics：开发用于房地产贷款风险评估的AI模型，帮助机构就抵押贷款和房地产投资做出明智的决策。 对于营销，文案和广告： * Jasper.ai（以前称为Jarvis）：一种流行的AI写作工具，可以生成营销文案，博客文章，社交媒体内容等，帮助营销人员进行内容创作。 * Copy.ai：与Jasper类似，Copy.ai提供基于AI的文案工具，可满足各种营销需求，包括广告文案，网站内容和电子邮件活动。 * Persado：使用AI生成情感定位的营销语言，帮助企业制作引起特定受众共鸣的信息。 * Anyword：专注于营销文案的预测分析，使用人工智能分析和优化内容以获得更好的性能和转化率。 具有商业应用的通用人工智能： * OpenAI（使用 GPT-3 及更高版本）：虽然不是特定于业务的，但 OpenAI 的模型具有强大的语言处理能力，适用于许多业务任务，如摘要、翻译和内容生成。 * Google AI（使用 LaMDA 和 PaLM）：同样，谷歌的人工智能研究和模型提供了广泛的潜在商业应用，从客户服务聊天机器人到数据分析和流程优化。 重要提示：这不是一个详尽的清单，人工智能格局在不断发展。新公司和新模式层出不穷，因此随时了解特定行业的最新发展至关重要。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjojdq/its_time_for_ai_developers_to_pivot_hard_to/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不会写代码，只能用 Trickle AI 帮我制作一个 AI 圣诞树提示制作器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjogbn/i_cant_code_and_i_just_use_trickle_ai_and_help_me/</link>
+      <description><![CDATA[我所做的只是聊天，我可以在单独的选项卡上看到网站预览和代码。请查看我的工具并分享您的反馈。这是我的 AI 圣诞树提示制作器。  您可以免费试用此工具，Trickle.so 谢谢。     提交人    /u/zengccfun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjogbn/i_cant_code_and_i_just_use_trickle_ai_and_help_me/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:41:58 GMT</pubDate>
     </item>
     <item>
       <title>没有人害怕人工智能的未来吗？</title>
@@ -76,25 +90,11 @@
       <pubDate>Sat, 21 Dec 2024 14:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能公司是否过于关注企业？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj8bks/are_ai_companies_focusing_too_much_on_enterprises/</link>
-      <description><![CDATA[感觉很多 AI 工具都是为企业打造的，独立开发者和小团队则被抛在身后。 AI 创造者是否应该更加关注小团队的可访问性？您将如何改善这种平衡？    提交人    /u/Arindam_200   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj8bks/are_ai_companies_focusing_too_much_on_enterprises/</guid>
-      <pubDate>Sat, 21 Dec 2024 11:50:16 GMT</pubDate>
-    </item>
-    <item>
       <title>o3推出后，我突然陷入了生存危机，我所学到的只是工业革命之后如何钻木取火。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj7b1m/after_the_launch_of_o3_i_am_suddenly_engulfed_by/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj7b1m/after_the_launch_of_o3_i_am_suddenly_engulfed_by/</guid>
       <pubDate>Sat, 21 Dec 2024 10:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>不会有 UBI，地球只会变得极度荒芜</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hiizzu/there_will_not_be_ubi_the_earth_will_just_be/</link>
-      <description><![CDATA[老实说，我为那些期待失业后每月从政府领取支票的人感到遗憾，这将使他们（在精英眼中）成为一张没有生产力的嘴。 我根本不认为这有效果。我所观察到和看到的一切都告诉我，不，我们不会得到 UBI，是的，精英会让我们挨饿。我说的是字面意思。一旦人们找不到工作，我们就会饿死在街头。精英不再需要我们工作，也不需要我们购买他们的产品（机器人/人工智能将采购一切）或文化（AGI 将产生它）。他们真的没有理由让我们留在身边，我们只会成为资源消耗者和无用的污染者。所以他们会通过大规模饥荒杀死我们所有人，然后独霸世界。 几个月来我没有听到过任何反驳的声音，所以请证明我错了。    提交人    /u/Phoenix5869   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hiizzu/there_will_not_be_ubi_the_earth_will_just_be/</guid>
-      <pubDate>Fri, 20 Dec 2024 12:43:41 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
