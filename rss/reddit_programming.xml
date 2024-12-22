@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 10:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 11:14:00 GMT</lastBuildDate>
+    <item>
+      <title>建立网站很难</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjwgah/making_a_website_is_hard/</link>
+      <description><![CDATA[  由    /u/AreyouWithm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjwgah/making_a_website_is_hard/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjvwzr/hello/</link>
+      <description><![CDATA[我是一个 17 岁的小伙子，目前正在一家初创公司工作，我需要能够编写算法等的程序员。我正在寻找 16-20 岁左右的专注年轻人！在 ig 上联系我：erik_.fazekas 来吧    由   提交  /u/Turbulent_Dust_7511   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjvwzr/hello/</guid>
+      <pubDate>Sun, 22 Dec 2024 10:23:20 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Java 的银行贷款计算项目</title>
       <link>https://www.reddit.com/r/programming/comments/1hju0gb/banking_loan_calculation_project_using_java/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
       <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
       <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjeypl/rules_to_avoid_common_extended_inline_assembly/</guid>
       <pubDate>Sat, 21 Dec 2024 17:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到 QuickJS-NG</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</guid>
-      <pubDate>Sat, 21 Dec 2024 16:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Rust 宏解决编译时代码出现问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</guid>
-      <pubDate>Sat, 21 Dec 2024 15:30:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Dec 2024 10:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 11:14:24 GMT</lastBuildDate>
+    <item>
+      <title>如果我使用 GPL2、GPL3 下的框架，图像、角色和音乐辅助是否需要开源、免所有权并获得 GPL 许可？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hjwbye/if_i_used_a_framework_under_a_gpl2_gpl3_does_the/</link>
+      <description><![CDATA[所以我想制作自己的 OG 角色，但遗憾的是我必须处理这个垃圾 GPL 东西，它是否强制我让任何人用我的艺术助手做任何事情并使用我的角色？ 如果是，为什么这样？这太荒谬了。 听起来他们不喜欢为 GPL 项目赚钱或更多库，从一开始就使用开源东西是没用的，哈哈，我得到了不支持开源的教训。 如果只是为了&quot;代码&quot;我没问题，但我的 OG 角色最好保留下来，而且乐器制造商有他们受限制的 TOS，所以我不能为他们使用 GPL。    提交人    /u/xmaxrayx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hjwbye/if_i_used_a_framework_under_a_gpl2_gpl3_does_the/</guid>
+      <pubDate>Sun, 22 Dec 2024 10:56:58 GMT</pubDate>
+    </item>
     <item>
       <title>开源 ERP？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hjtcdx/open_source_erp/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我创建了一个库，用于创建和维护 Gossip 网络，然后允许用户从网络内部查询对等点以使用网络结构。 由于以下几个原因，这种网络结构很酷很有趣。 - 去中心化 - 随机和动态结构 - 在节点流失的情况下进行自我修复 - 高效广播信息 在此处查看 repo： https://github.com/matthew-alexander-love/gossip    提交人    /u/NestedNetworker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj1h1p/gossip_decentralized_networking_made_easy_ish/</guid>
       <pubDate>Sat, 21 Dec 2024 03:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最好的 roku 替代品是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</link>
-      <description><![CDATA[我曾经很喜欢我的 roku，但每年都会用广告换取性能。我们主要用它观看流媒体服务：netflix、disney、max、youtube 和 paramount。 我看过 kodi。如果我们有一个媒体库，它看起来会很棒，但我找不到插件来让它支持我们观看的服务。 Mythtv 似乎仍在做 DVR 的东西，但我们不再支付有线电视费了。    提交人    /u/SuperfluousBrain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hiyp3y/whats_my_best_option_for_a_roku_alternative/</guid>
-      <pubDate>Sat, 21 Dec 2024 01:08:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

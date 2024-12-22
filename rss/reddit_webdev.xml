@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 10:18:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 11:14:19 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 目录 | 观看重要内容，不受广告干扰</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjwj0h/youtube_catalog_watch_what_matters_adfree/</link>
+      <description><![CDATA[- 链接：https://ytcatalog.707x.in/ - GitHub：https://github.com/realChakrawarti/yt-catalog 感谢您的关注。如有任何建议/反馈，我们将不胜感激。    提交人    /u/CURVX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjwj0h/youtube_catalog_watch_what_matters_adfree/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:11:47 GMT</pubDate>
+    </item>
     <item>
       <title>许多程序员使用 .sh tld 有什么特殊原因吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>您预见到我的项目使用 Django + Next.js 会出现什么问题吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</link>
-      <description><![CDATA[为简单起见，我想构建一些类似于 myanimelist 的东西，除了非动漫。功能上没有什么太复杂的，只是想确保我可以处理大量的数据和用户。可能包括视频，但不会是一个主要功能。可能会包括以后购买东西的选项。不确定这些是否会对我的决定产生很大影响。 我对 webdev 还很陌生，所以不确定用什么最好的堆栈来做这件事，但我想我会尝试使用 Django（rest 框架）作为后端，使用 Next.js 作为前端。我确信这对于一个基础级别的项目来说没问题，但如果我尝试扩大规模以处理更多的用户/数据，有什么我应该注意的问题或限制吗？    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
+      <description><![CDATA[为简单起见，我想构建一些类似于 myanimelist 的东西，除了非动漫之外。功能上没有什么太复杂的，只是想确保我可以处理大量的数据和用户。可能包括视频，但不会是一个主要功能。可能会包括以后购买东西的选项。不确定这些是否会对我的决定产生很大影响。 我对 webdev 还很陌生，所以不确定用什么最好的堆栈来做这件事，但我想我会尝试使用 Django（rest 框架）作为后端，使用 Next.js 作为前端。我确信这对于一个基础级别的项目来说没问题，但如果我尝试扩大规模以处理更多的用户/数据，有什么我应该注意的问题或限制吗？    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</guid>
       <pubDate>Sun, 22 Dec 2024 02:11:45 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>您是否将网站设计得在手机和平​​板电脑上有所不同？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</link>
-      <description><![CDATA[我曾与儿子讨论网页设计，当时我们讨论了桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
+      <description><![CDATA[我曾与儿子讨论网页设计，当时我们正在讨论桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</guid>
       <pubDate>Sun, 22 Dec 2024 01:21:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，当我购买域名时，是否也会有一个 SMTP 服务器来发送和接收邮件，例如注册和联系等？ 谢谢！    提交人    /u/Menxii   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjngu8/does_domain_name_providers_prive_smtp_servers_as/</guid>
       <pubDate>Sun, 22 Dec 2024 00:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管服务提供商建议（不适用于 WP）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjn22v/hosting_providers_recommendations_not_for_wp/</link>
-      <description><![CDATA[我正在为我的 saas 代理机构寻找托管服务提供商，我得到了一些建议，但不确定哪个是最好的，哪个提供商用于托管您的编码网站，无论是基于 React 还是 vanilla js 或全栈。您选择它而不是其他的原因是什么    提交人    /u/ibadddd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjn22v/hosting_providers_recommendations_not_for_wp/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:24:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
