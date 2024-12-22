@@ -4,13 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 19:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 20:19:12 GMT</lastBuildDate>
     <item>
-      <title>是什么阻止我们摆脱 JavaScript？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk4n4m/whats_preventing_us_from_moving_away_from/</link>
-      <description><![CDATA[尽管大型语言模型 (LLM) 和 AI 工具等技术取得了进步，但当前的 Web 生态系统（尤其是 JavaScript）尚未被取代或经过重大重新思考以支持新事物？是什么阻碍了我们？    由   提交  /u/grandimam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk4n4m/whats_preventing_us_from_moving_away_from/</guid>
-      <pubDate>Sun, 22 Dec 2024 18:38:21 GMT</pubDate>
+      <title>协会网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</link>
+      <description><![CDATA[大家好， 我想为我的心脏病协会建立一个网站。 由于我没有任何资金，我尽可能自己做。 我已经选择了一个带有域名的托管计划。 作为一个完全的初学者（20 年前我用 HTML 做了几个网站...），请问最好的选择是什么？ 像 WordPress 这样的 CMS？我已经开始研究它了，但我有点迷茫。 大约有三十页，包括菜单、频繁的新闻更新等，以及其他静态页面。 提前感谢您的反馈，祝您晚上愉快。    提交人    /u/EldarinFR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</guid>
+      <pubDate>Sun, 22 Dec 2024 19:23:32 GMT</pubDate>
     </item>
     <item>
       <title>创建我的第一个开源项目，有什么建议吗？</title>
@@ -22,7 +22,7 @@
     <item>
       <title>对于 Web 应用程序，我需要查看哪些内容</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</link>
-      <description><![CDATA[嗨，我正在制作我的第一个 Web 应用程序。它应该是一个用于问答之夜的应用程序，因此它应该有一个管理员端，可以在其中提出问题并开始轮次，以及一个用户端，可以在其中回答上述问题。我的主要问题是设置问题的自动生成页面，从用户那里获取答案，并将用户从一轮的 html 端重定向到下一轮。 提前致谢！    提交人    /u/entity_Theix   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在制作我的第一个 Web 应用程序。它应该是一个用于问答之夜的应用程序，因此它应该有一个管理员端，可以在其中提问和开始回合，以及一个用户端，可以在其中回答上述问题。我的主要问题是设置问题的自动生成页面，从用户那里获取答案，并将用户从一轮的 html 端重定向到下一轮。 提前致谢！    提交人    /u/entity_Theix   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</guid>
       <pubDate>Sun, 22 Dec 2024 17:00:47 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>LiveAPI Devlogs：通过 3 种行业启发的方法转变用户入职方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</link>
-      <description><![CDATA[在开发产品时，我面临的一个挑战是难以让人们加入平台。  为了解决这个问题，我决定分析市场上类似产品的表现，从中获得一些见解，并利用这些经验来开发我产品的入门功能。 我想以文章的形式分享我的经验。如果您想为新用户创建流畅的入门体验，请随时在此处查看。 https://journal.hexmos.com/liveapi-devlogs03/    提交人    /u/lordwiz360   [链接] [评论]]]></description>
+      <description><![CDATA[在开发产品时，我面临的一个挑战是难以让人们加入平台。  为了解决这个问题，我决定分析市场上类似产品的表现，从中获得一些见解，并利用这些经验来开发我产品的入门功能。 我想以文章的形式分享我的学习成果。如果您想为新用户创建流畅的入门体验，请随时在此处查看。 https://journal.hexmos.com/liveapi-devlogs03/    提交人    /u/lordwiz360   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</guid>
       <pubDate>Sun, 22 Dec 2024 15:04:32 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>避免使用 bubbi.app</title>
+      <title>避免接触 bubbi.app</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
       <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>

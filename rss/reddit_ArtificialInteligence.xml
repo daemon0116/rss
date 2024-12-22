@@ -3,14 +3,21 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 19:13:08 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 20:18:05 GMT</lastBuildDate>
     <item>
-      <title>免费 AI 图像生成器和换脸 - update2</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk4yvy/free_ai_image_generator_and_faceswap_update2/</link>
-      <description><![CDATA[  由    /u/wtflife98  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hk4yvy/free_ai_image_generator_and_faceswap_update2/</guid>
-      <pubDate>Sun, 22 Dec 2024 18:54:04 GMT</pubDate>
+      <title>有任何 ChatGPT 替代品吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk5ydy/any_chatgpt_alternatives/</link>
+      <description><![CDATA[ChatGPT 感觉一天比一天愚蠢，处理它真是令人沮丧。图片有一半时间无法使用，很多功能被锁定在高级版后面，还有很多其他错误等等。我需要一个不会 24/7 乞求我钱的替代方案。    提交人    /u/StealthTrooper36_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hk5ydy/any_chatgpt_alternatives/</guid>
+      <pubDate>Sun, 22 Dec 2024 19:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试寻找这首 AI 歌曲</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hk5qpp/trying_to_find_this_this_ai_song/</link>
+      <description><![CDATA[试着找到这首 Patrick 唱歌的 AI 歌曲，这是一张他拿着吉他的照片，背景中有雷声。它在 YouTube 上的观看次数超过 10 万次，但现在我找不到了。我忘了歌名，但它就像一首重磅奖牌歌曲。有人知道它在哪里吗？    提交人    /u/M3629   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hk5qpp/trying_to_find_this_this_ai_song/</guid>
+      <pubDate>Sun, 22 Dec 2024 19:30:13 GMT</pubDate>
     </item>
     <item>
       <title>柯尔莫哥洛夫-阿诺德网络 (KAN)</title>
@@ -69,13 +76,6 @@
       <pubDate>Sun, 22 Dec 2024 13:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>在陌生的领域使用人工智能进行编码</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjtgqb/coding_in_unfamiliar_waters_with_ai/</link>
-      <description><![CDATA[因此，我一直在使用我可以访问的 LMM 开发 Android 应用程序。我想分享我的经验，看看是否有人有任何提示或想法。  我一直在使用 o1、o1 mini、Gemini 1206 和 Gemini 2.0 Flash。遗憾的是，我的工作流程是将所有相关课程复制到新季节并从那里开始。  总体而言，效果很好。我是一名 C# 后端开发人员，对 Android 特定部分一无所知。我还采取了一种非常悠闲和懒惰的方法（有时一边喝啤酒一边真正测试 LMM :P ），让 LMM 完成大部分思考。 通常，我发现唯一可以将事物保持在一起并正确跟踪多个移动部件的模型是 o1。例如，我在视图之间导航和文件权限时遇到过很多错误。唯一能够始终找到三个并将它们压缩到多个文件中而不会引入新问题的模型是 o1。Gemini 和 o1-mini 可以很好地解决较小范围内的受限问题。 此外，很多时候模型会尝试使用代码中显然没有的弃用内容，可能是因为它在训练数据中很普遍。 我发现的另一件事是，在遵循指示方面，较差的模型通常不会给人留下深刻印象。他们会很高兴地朝着我几条消息前告诉他们不要去的方向走去。这似乎有助于我们明显感到恼火。这让我想起了当我想让孩子们做某事时与孩子们互动的情景，这让我有点难过…… 您在使用 LMM 进行编码方面有什么经验？工作流程提示？还有其他建议吗？    提交人    /u/frasppp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjtgqb/coding_in_unfamiliar_waters_with_ai/</guid>
-      <pubDate>Sun, 22 Dec 2024 07:06:53 GMT</pubDate>
-    </item>
-    <item>
       <title>当前像o1这样的先进人工智能在现实世界的工业级项目建设中表现如何？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjr74j/how_does_current_advanced_ai_like_o1_perform_in/</link>
       <description><![CDATA[o3 在类似 leetcode 的编程竞赛中击败了几乎所有人类专家，但如果我想使用像 UE5 这样的游戏引擎并构建一些大型游戏，或者我想将论文中的算法集成到游戏引擎或其他大型程序中，目前最先进的 AI 在这些领域表现如何？    提交人    /u/MPM_SOLVER   [link] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 19 Dec 2024 15:03:09 GMT</pubDate>
     </item>
