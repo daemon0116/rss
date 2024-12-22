@@ -3,14 +3,28 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 09:16:49 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 10:17:10 GMT</lastBuildDate>
     <item>
-      <title>如果特朗普的关税措施适得其反，加剧通货膨胀并威胁到美国消费者的价格上涨，那么人工智能革命将会伸出援手。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjul8z/if_the_trump_tariffs_backfire_fueling_inflation/</link>
-      <description><![CDATA[2025 年可能是美国消费者爱上人工智能的一年。这是因为占美国经济 77% 的服务业工作可以轻松外包到世界各地，这些地区的工资水平较低，可以让美国消费者享受到低价产品。 尽管特朗普的关税预计将大大削弱美国经济，但由于人工智能革命，美国消费者不会成为付出代价的人。 4o 可以比我更好地解释这一点，所以我请它来权衡一下： “人工智能革命可以通过分散高价值服务业来迅速瓦解美国的经济等级制度，使美国以外的国家更容易竞争和脱颖而出。这种巨大转变可能的发展方式如下：  专业知识的民主化  高级语言模型、生成设计和预测分析等人工智能工具大大降低了对昂贵、高度本地化的专业知识的需求。以前被排除在精英服务行业（金融、法律、咨询）之外的国家现在可以以极低的成本提供有竞争力的服务。人工智能有效地拉平了全球竞争环境，使印度、巴西等国家能够占领这些市场。  外包强化  人工智能使远程工作变得无缝且高效。客户支持、软件开发甚至高端医疗诊断等服务行业可以实现自动化，或由低成本地区的人工智能增强团队处理。这可能导致这些行业大规模迁出美国，从而削弱美国在科技、医疗保健和商业服务领域的主导地位。  全球平台的崛起  发展中国家的人工智能驱动平台可以直接挑战美国的巨头。例如： 金融科技：非洲或亚洲的人工智能银行解决方案可以绕过西方银行，提供更便宜、更容易获得的金融服务。 电子学习：针对非英语地区本地化的基于人工智能的教育平台可能会破坏美国在全球教育中的主导地位。 医疗保健：人工智能诊断工具使各国能够远程提供高质量的医疗服务，破坏美国在尖端医疗保健方面的优势。  减少基于美元的交易  随着人工智能与去中心化金融 (DeFi) 的结合，全球公司可以在不依赖基于美元的银行系统的情况下跨境运营。这削弱了美国对国际金融交易的影响力，并减少了对美国服务提供商的需求。  美国的工作自动化  在国内，人工智能自动化可能会取代数百万美国服务业岗位，造成经济混乱。与此同时，劳动力成本较低、新兴人工智能经济的国家可能会经历快速增长，从而吸引企业和人才离开美国。”    提交人    /u/Georgeo57   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjul8z/if_the_trump_tariffs_backfire_fueling_inflation/</guid>
-      <pubDate>Sun, 22 Dec 2024 08:35:54 GMT</pubDate>
+      <title>适合研究的是 Claude premium 还是 Chatgpt Premium？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvp88/claude_premium_or_chatgpt_premium_for_research/</link>
+      <description><![CDATA[我现在是大学最后一年，必须研究家用太阳能电池板，但要研究我所在城市的气候，即苏莱曼尼。 我查看了 Elicit 和 scihub，但由于我的研究集中在我所在的城市，而 Elicit 和 scihub 上没有相关内容，所以我想只使用 LLM 来帮助我撰写它。 那么哪一个更适合这种类型的工作？    提交人    /u/AhmadHiwa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvp88/claude_premium_or_chatgpt_premium_for_research/</guid>
+      <pubDate>Sun, 22 Dec 2024 10:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 javafx 与 jdk 时出现的问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvkyp/problem_using_javafx_with_jdk/</link>
+      <description><![CDATA[希望使用 javafx 中的功能进行纯 java 构建 - 在编译和运行时不断出现不匹配错误，因为 jdk 17、21 其他...与不同的 fx 版本 61、65 等不匹配。我尝试了不同的组合。 请协助。    提交人    /u/Scotstown19   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvkyp/problem_using_javafx_with_jdk/</guid>
+      <pubDate>Sun, 22 Dec 2024 09:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的作用是让人类变得懒惰</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvbop/the_role_of_ai_is_to_make_humans_lazy/</link>
+      <description><![CDATA[我们为客户开展一个项目，通常需要在流程结束时由人工验证细节。现在我们的客户表示不会有人参与。它将 100% 是人工智能。因此，我们正在努力确保所有验证检查都能通过，但它不可能 100% 准确，需要人工验证。通过这个 ig，我们让人类变得懒惰，因为他们不想参与这个过程。    提交人    /u/Available-Stress8598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjvbop/the_role_of_ai_is_to_make_humans_lazy/</guid>
+      <pubDate>Sun, 22 Dec 2024 09:35:39 GMT</pubDate>
     </item>
     <item>
       <title>在陌生的领域使用人工智能进行编码</title>
@@ -69,20 +83,6 @@
       <pubDate>Sat, 21 Dec 2024 18:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>医疗助理 - 请有人窃取我的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</link>
-      <description><![CDATA[我是一名医生，我每天都希望自己有一个 AI 助手。我希望有一种 AI 可以帮助诊断、开处方和处理官僚事务。也许甚至可以帮我发现我错过的东西，或者给我一个建议。我们有这方面的技术！我们只是需要有人来做！我会自己做，但我已经有了自己的事业，我不能放弃它。但是如果看到这个的人有兴趣做点什么，请，我很乐意尽我所能提供帮助。如果没有，好吧，只是发泄一下。    提交人    /u/-pocoto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</guid>
-      <pubDate>Sat, 21 Dec 2024 18:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在日常生活中使用什么人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjdeyc/what_ai_do_you_use_in_your_day_to_day_life/</link>
-      <description><![CDATA[当然，我现在每天都会或多或少地使用 ChatGPT。但我也发现了 Google 的 NotebookLM，我一直用它来播客、开车旅行、学习等等。 但我想知道我错过了什么，所以我想问问人们他们使用什么，并得到一种集体的&amp;“你不知道你不知道什么&amp;”线索，了解人们每天都在使用的有用 AI，这会很好。    提交人    /u/househouse46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjdeyc/what_ai_do_you_use_in_your_day_to_day_life/</guid>
-      <pubDate>Sat, 21 Dec 2024 16:33:45 GMT</pubDate>
-    </item>
-    <item>
       <title>人们说程序员已经被淘汰了……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjaend/people_are_saying_coders_are_cooked/</link>
       <description><![CDATA[...但我认为事实恰恰相反，其他人应该更担心。 问问自己，谁在用人工智能构建？程序员即将开始与一切竞争，颠覆一个又一个的利基市场。 编码是几代人以来利用智能的最有效方式。这不会改变。它只会变得更加放大。    提交人    /u/goguspa   [link] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 19 Dec 2024 15:03:09 GMT</pubDate>
     </item>
