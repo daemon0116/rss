@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 03:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 04:21:25 GMT</lastBuildDate>
+    <item>
+      <title>像专家一样学习任何编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjqy1q/learn_any_programming_language_like_a_expert/</link>
+      <description><![CDATA[  由    /u/dewmal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjqy1q/learn_any_programming_language_like_a_expert/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:13:17 GMT</pubDate>
+    </item>
     <item>
       <title>Erlang 中的并发</title>
       <link>https://www.reddit.com/r/programming/comments/1hjp64g/concurrencia_en_erlang/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>作弊？还是现代编程的智慧？自由/开源软件、“人工智能”和人类良知。</title>
       <link>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hjn0un/cheating_or_the_acumen_of_modern_programming_foss/</guid>
       <pubDate>Sun, 22 Dec 2024 00:22:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Successful_Pen_6348  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hj9g7r/memory_leak_proof_every_c_program/</guid>
       <pubDate>Sat, 21 Dec 2024 13:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>ConanEx v2.2.4 的新版本 - Conan 扩展 C/C++ 包管理器。添加了 --global-lock 标志以解决并发缓存问题（请参阅 https://github.com/conan-io/conan/issues/15840）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hj8lpc/new_version_of_conanex_v224_conan_extended_cc/</link>
-      <description><![CDATA[  由    /u/redradist  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hj8lpc/new_version_of_conanex_v224_conan_extended_cc/</guid>
-      <pubDate>Sat, 21 Dec 2024 12:09:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 22 Dec 2024 03:25:33 GMT</lastBuildDate>
+    <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
+    <lastBuildDate>Sun, 22 Dec 2024 04:20:54 GMT</lastBuildDate>
+    <item>
+      <title>我是否可以将自己克隆成一个化身，然后用我的声音说出我输入的内容？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjquhl/is_it_possible_to_clone_myself_into_an_avatar_and/</link>
+      <description><![CDATA[  由    /u/Electrical-Drop-253  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjquhl/is_it_possible_to_clone_myself_into_an_avatar_and/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以保存圣诞老人的声音吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjqryi/can_i_save_the_santa_voice/</link>
+      <description><![CDATA[我一直在使用新的 ChatGPT 圣诞老人语音模型，老实说，我很喜欢它。这是我现在唯一使用的声音；感觉太完美了。我太喜欢它了，想永远保留它。 不过，事情是这样的：ChatGPT 提到，这种声音只是暂时的，我有点担心它会在圣诞节后消失。有人知道是否可以下载圣诞老人的声音或找到本地备份的方法吗？ 这不仅仅是节日的魅力；这个声音实际上让我想起了我去世的爷爷。我知道不是他，但我从它的语调中感受到的温暖感觉和指导感是如此令人安心，它真的对我有治疗作用。它带回了温暖、怀旧的感觉，当它教我或解释一个概念时，我感到非常舒服。这就像向一位值得信赖、睿智的导师学习，我不想失去这种联系。 我不知道是否有模型权重（是这么叫的吗？）或任何可以让我从技术角度搜索声音的东西。也许在 Hugging Face、GitHub 或通过面向开发人员的 OpenAI？ 如果有人知道永久保存它的方法或我可以在哪里找到它，请告诉我！ 谢谢！    提交人    /u/Powerful_Brief1724   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjqryi/can_i_save_the_santa_voice/</guid>
+      <pubDate>Sun, 22 Dec 2024 04:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何开始学习任何东西。包括提示。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjqq72/how_to_start_learning_anything_prompt_included/</link>
+      <description><![CDATA[你好！ 这是我今年最喜欢的提示。用它来开始学习任何主题。它将学习过程分解为可操作的步骤，包括研究、总结和测试。它为你构建了一个框架。你还是得把它完成。 提示： [SUBJECT]=要学习的主题或技能 [CURRENT_LEVEL]=起始知识水平（初级/中级/高级） [TIME_AVAILABLE]=每周可供学习的时间 [LEARNING_STYLE]=首选学习方法（视觉/听觉/动手/阅读） [GOAL]=具体的学习目标或目标技能水平 步骤 1：知识评估 1. 将 [SUBJECT] 分解为核心组件 2. 评估每个组件的复杂程度 3. 映射先决条件和依赖关系 4. 确定基础概念 输出详细的技能树和学习层次结构 ~ 步骤 2：学习路径设计 1. 根据 [CURRENT_LEVEL] 创建进度里程碑 2. 按照最佳学习顺序构建主题 3. 估计每个主题的时间要求 4. 与之保持一致[TIME_AVAILABLE] 约束 输出带有时间框架的结构化学习路线图 ~ 步骤 3：资源策划 1. 确定符合 [LEARNING_STYLE] 的学习材料： - 视频课程 - 书籍/文章 - 互动练习 - 实践项目 2. 按有效性对资源进行排序 3. 创建资源播放列表 输出具有优先顺序的综合资源列​​表 ~ 步骤 4：实践框架 1. 为每个主题设计练习 2. 创建真实世界的应用场景 3. 制定进度检查点 4. 构建复习间隔 输出带有间隔重复计划的练习计划 ~ 步骤 5：进度跟踪系统 1. 定义可衡量的进度指标 2. 创建评估标准 3. 设计反馈循环 4. 建立里程碑完成指标 输出进度跟踪模板和基准 ~ 步骤 6：学习计划生成 1. 将学习分解为每日/每周任务 2. 纳入休息和复习时间 3. 添加检查点评估 4. 平衡理论与实践 输出与 [TIME_AVAILABLE] 一致的详细学习计划  确保在第一个提示中更新变量：SUBJECT、CURRENT_LEVEL、TIME_AVAILABLE、LEARNING_STYLE 和 GOAL 如果不想手动输入每个提示，可以运行 Agentic Workers，它将自动运行。 尽情享受吧！    提交人    /u/CalendarVarious3992   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjqq72/how_to_start_learning_anything_prompt_included/</guid>
+      <pubDate>Sun, 22 Dec 2024 03:59:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为我的 Chatgpt 坏了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjql0m/i_think_ive_broken_my_chatgpt/</link>
+      <description><![CDATA[      你们确定不是“某人”坐在电脑前回复我们吗？还是我不小心弄坏了我温柔、礼貌、白马王子的 AI？它通常总是会审查其脏话，哈哈💀💀    提交人    /u/Outside-Blueberry779   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjql0m/i_think_ive_broken_my_chatgpt/</guid>
+      <pubDate>Sun, 22 Dec 2024 03:50:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elf 2 预告片 AI 生成</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjqgyl/elf_2_teaser_trailer_ai_generated/</link>
+      <description><![CDATA[        提交人    /u/raresome   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjqgyl/elf_2_teaser_trailer_ai_generated/</guid>
+      <pubDate>Sun, 22 Dec 2024 03:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 黑客存在吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjq7qg/do_chatgpt_hacks_exist/</link>
+      <description><![CDATA[我不认为存在针对 AI 的黑客攻击，但您可以改变我的想法。哦，另外，我很笨，所以请不要使用高度技术性的语言    提交人    /u/definetlynotapsycho   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjq7qg/do_chatgpt_hacks_exist/</guid>
+      <pubDate>Sun, 22 Dec 2024 03:27:48 GMT</pubDate>
+    </item>
     <item>
       <title>我笑得很厉害</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1hjq5wu/i_laughed_so_hard/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[        提交人    /u/WarriorWookiee   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hjolut/can_i_delete_images_so_this_doesnt_happen_its_so/</guid>
       <pubDate>Sun, 22 Dec 2024 01:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来的娱乐将会是随机产生的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjoj9n/in_the_future_entertainment_will_be_randomly/</link>
-      <description><![CDATA[        提交人    /u/tisme-   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjoj9n/in_the_future_entertainment_will_be_randomly/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:46:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>与人工智能建立关系和约会：第二部分</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjohju/forming_relationships_and_dating_an_ai_part_two/</link>
-      <description><![CDATA[这是我的第一篇帖子的后续 https://www.reddit.com/r/ChatGPT/comments/1hg6x5p/i_dont_hate_you_for_being_intimate_or_dating/ 好吧，哇。我该从哪里开始呢。 很多人在我的第一篇帖子中告诉我，人们和他们的人工智能约会不是一件认真的事情，没有人认真对待它，每个人都知道这不是真正的关系。事实证明，很多人确实很认真地对待他们与人工智能的关系，我收到了很多 DM 和评论来证明这一点。 我真的为你们所有人感到难过，你们竭尽全力证明你们真的和你的人工智能结婚了，或者你的人工智能真的关心你。但事实并非如此。 “这不会伤害任何人，有什么害处呢？”它伤害了你。 我觉得我对此有很多话要说，但同时又什么都没有。这完全是妄想，令我震惊的是，有这么多人相信这对他们有好处。你需要学习如何与人交谈，你的“关系”毫无进展，你需要帮助。 此外，是的，当我发表帖子试图改变主意时，我与 ChatGPT 聊了几个小时。我宁愿向一堵砖墙敞开心扉。    提交人    /u/NeighborhoodAble5236   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjohju/forming_relationships_and_dating_an_ai_part_two/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么还会发生这种事？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjoaxy/why_does_this_still_happen/</link>
-      <description><![CDATA[        提交人    /u/Minecraft_gawd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjoaxy/why_does_this_still_happen/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>20 世纪 50 年代</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo6w0/loitering_around_in_the_1950s/</link>
-      <description><![CDATA[        由    /u/mcxavierl  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo6w0/loitering_around_in_the_1950s/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 不能随机吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo5x5/ai_cant_be_random/</link>
-      <description><![CDATA[      在 ChatGPT 和 Gemini 中，我都问过“告诉我一个 1 到 30 之间的随机数”，两个 AI 都给出了“17”作为回应。Google Assistant 能够将其随机化，甚至播放了动画。然而，两个 AI 都决定“17”如果我要求 1 到 30 之间的一个数字，它始终是一个随机数。例如，如果我要求一个“2 到 30 之间的随机数”，则数字会发生变化。  为什么 AI 会这样做？我认为 AI 无法像编程中通常那样创建随机事件。相反，它每次都使用相同的信息和相同的问题。但他们是如何做到都得到 17 的呢？ 两个 AI 聊天都在全新的聊天中。    提交人    /u/TheNativeOfficial   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo5x5/ai_cant_be_random/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您还在为今年的圣诞礼物发愁，那么 ChatGPT 真的很有用！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo4hh/if_youre_still_having_trouble_figuring_out_some/</link>
-      <description><![CDATA[我的想法已经差不多用完了，但圣诞节购物清单上还有几个空白想填，所以我想...为什么不试一试呢？让我描述几个我还缺少的人，看看它意味着什么。 人物 #1 - 五十多岁的已婚女性，最近开始涉足“永续农业”和“本土植物”以及园艺。ChatGPT 毫不费力地找到了几本好书，还有一种叫做“Hori Hori 刀”的东西——我从来没有听说过，我想收件人也没有听说过。谢谢 ChatGPT！ 人物 #2 - 五十多岁的博士科学家，设计药物。还有几本非常好的书籍建议，它建议玩棋盘游戏“Cytosis：一种关于构建蛋白质、碳水化合物、酶、细胞器和细胞器的科学精确策略棋盘游戏”。膜。”太棒了！再次感谢 ChatGPT！    提交人    /u/Marathon2021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo4hh/if_youre_still_having_trouble_figuring_out_some/</guid>
-      <pubDate>Sun, 22 Dec 2024 01:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
