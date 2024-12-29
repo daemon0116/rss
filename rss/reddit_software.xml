@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 13:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 14:15:28 GMT</lastBuildDate>
+    <item>
+      <title>无法为 Balabolka 添加声音</title>
+      <link>https://www.reddit.com/r/software/comments/1howj4f/trouble_adding_voices_to_balabolka/</link>
+      <description><![CDATA[我从这里和 Win 11 中的选项下载了一些，但在 Bala 设置中的 SAPI 5 下没有出现任何内容。其他两个选项（4 和 Microsoft 选项）无法选择。请帮忙    提交人    /u/27remember   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1howj4f/trouble_adding_voices_to_balabolka/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:58:56 GMT</pubDate>
+    </item>
     <item>
       <title>带有 2FA（Google/Microsoft Authenticator 令牌）的 VPN 和 Server 2019</title>
       <link>https://www.reddit.com/r/software/comments/1hosi2j/vpn_with_2fa_token_for_googlemicrosoft/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/nopsgubbs5006  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hnpfge/what_is_a_good_voice_changer_software_with_sound/</guid>
       <pubDate>Fri, 27 Dec 2024 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款动漫日历应用：MeronPan</title>
-      <link>https://www.reddit.com/r/software/comments/1hnoamy/i_built_an_anime_calendar_app_meronpan/</link>
-      <description><![CDATA[嗨，软件迷们！👋  我是一名独立开发者，我想与大家分享我的最新项目：MeronPan - 动漫日历，这是一款旨在帮助动漫迷追踪他们最喜欢的节目的应用程序。 这个想法来自于我自己对记住新动漫剧集何时播出或在哪里观看的沮丧。我意识到我需要一个简单的解决方案，于是 MeronPan 诞生了！ MeronPan 有什么用？  直观的日历：一个简约、易于使用的日历，显示即将上映的动漫。 详细信息：包括播出时间表和可用的流媒体平台。 持续更新：数据库会定期更新，以反映最新版本和平台更改。  作为一名动漫迷，我想创建一个我自己会用到的东西，看到用户到目前为止对这款应用的喜爱，我很兴奋。 如果您想尝试或查看，可以在这里找到：Google Play 上的 MeronPan 有任何反馈或建议吗？我愿意接受建设性的批评和新想法！😊    提交人    /u/Shot_Cheesecake_7285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hnoamy/i_built_an_anime_calendar_app_meronpan/</guid>
-      <pubDate>Fri, 27 Dec 2024 20:37:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

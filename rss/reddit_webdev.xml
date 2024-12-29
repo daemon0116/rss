@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 13:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 14:15:51 GMT</lastBuildDate>
+    <item>
+      <title>CSS 特殊性地狱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</link>
+      <description><![CDATA[因此，我决定重建一个网站，完全重新编写 HTML 和 CSS。 当我开始处理 CSS 时，我的问题出现了。 对我来说，事情变得更加复杂，网站的移动版和桌面版使用基本媒体查询的相同 CSS。但是，CSS 的某些方面会显示在其中一个上，而不会显示在另一方上。 经过几个小时无意义地移动元素后，我发现特异性是一个大问题。 我正在寻找的是某种工具，它可以向我显示正在使用的 CSS 以及未使用的 CSS，具体取决于特异性。chrome 中的 Dev Tools 有点帮助，但它没有向我显示我期望使用 CSS 的地方没有使用什么 CSS。 如果有人有任何见解或链接，我将不胜感激。    提交人    /u/MaxxB1ade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</guid>
+      <pubDate>Sun, 29 Dec 2024 14:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>corepack 的 packageManager 字段破坏了 package.json</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</link>
+      <description><![CDATA[        提交人    /u/hyperknot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</guid>
+      <pubDate>Sun, 29 Dec 2024 14:05:22 GMT</pubDate>
+    </item>
     <item>
       <title>我在 DigitalOcean 和 Hetzner 上部署了相同的应用程序！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hovril/i_deployed_the_same_app_on_digitalocean_and/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[几周前，一家律师事务所的 IT 经理问我是否能帮助他们将网站迁移到新的托管服务。我告诉他去问新的托管公司，他们要么免费，要么收取少量费用。这比雇佣我更快更便宜。 他说，新的托管公司拒绝做这项工作，所以我问他使用什么编程语言，他说 C！我拒绝了这份工作，并告诉他尝试用一种为网络开发的现代语言重写网站。 我知道 PHP 的创建者在 90 年代初创建了 PHP，因为他厌倦了用 C 编写网站，但我从未真正见过用 C 制作的可用于生产且仍在使用的网站，除了一些大学毕业生的业余项目。你有吗？ 如果该网站确实是用 C 语言制作的，我对它仍然存在感到印象深刻，我有点希望我接受这份工作来看看它是如何运作的，这是一家古老的律师事务所，谁知道他们的服务器上有什么。    提交人    /u/lynob   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hos4pk/have_you_ever_seen_a_website_written_in_c/</guid>
       <pubDate>Sun, 29 Dec 2024 08:56:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>架构建议 - 将 Websocket API 分为私有和公共，好主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</link>
-      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，这将增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，因此想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</guid>
-      <pubDate>Sun, 29 Dec 2024 08:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间复杂度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1horxxg/time_complexity/</link>
-      <description><![CDATA[因此我在后端编写了这个函数来更新帖子的反应，并且我在相同的函数中执行喜欢和不喜欢的查询，并且基于查询响应，我要么删除数据要么将数据插入到表中。当我完成此代码的编写后，我想为什么不计算这个函数的时间复杂度，结果是 O(log n) + O(log m) + O(log k) n =&gt; 帖子数量，m =&gt; 喜欢的帖子数量，k =&gt; 不喜欢的帖子数量， 我问副驾驶我是否可以进一步优化它，他建议我不要使用 EXPLICIT sql 查询并使用 Sequelize 等。 别介意我刚才说的废话，主要问题是，我们什么时候需要，而不是明确的方法。或者我只是在写愚蠢的函数。 （上下文：我在构建时正在学习 mysql）    提交人    /u/Ayushgairola   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1horxxg/time_complexity/</guid>
-      <pubDate>Sun, 29 Dec 2024 08:42:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

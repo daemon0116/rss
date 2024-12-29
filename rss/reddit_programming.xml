@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 13:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 14:15:33 GMT</lastBuildDate>
+    <item>
+      <title>我从人工智能辅助编程中学到的东西</title>
+      <link>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</link>
+      <description><![CDATA[  由    /u/al_420  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 DigitalOcean 和 Hetzner 上部署了相同的应用程序！| 便宜的 VPS 与昂贵的 VPS！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hovw0a/i_deployed_the_same_app_on_digitalocean_and/</link>
+      <description><![CDATA[过去几年来，我一直是从 DigitalOcean 购买 VPS 的首选。然而，最近，一些更便宜的云提供商，特别是 Hetzner，受到了很多关注！ 在他们最便宜的计划中，您只需每月 4 美元 即可获得 2 个核心、4 GB RAM、40 GB SSD 和 20 TB 带宽！ ![Hetzner 定价 SS](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3x55o2e1jtllcd86yl1w.png) 要在 DigitalOcean 上获得类似的东西，您需要支付 24 美元/月！ 现在从纸面上看，这听起来很划算！似乎转用 Hetzner 是明智之举。但有什么问题吗？它真的像大家说的那么好吗？与 DigitalOcean 之类的计划相比，Hetzner 最便宜的计划可以处理多少流量？ 为了找出答案，我在同一地区的两个平台上部署了相同的应用程序，比较了它们的性能，并在此视频中分享了我的发现：https://youtu.be/mrDXF-Y9T50 如果您着急，这里是结果 👇   虚拟用户 Digital Ocean Hetzner    50 593.4ms 575.99   100 754.84ms 626.04   250 1.4s+ 950.23   500 6s 1.8s   费用 6 美元/月 4 美元/月      提交人    /u/devarifhossain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hovw0a/i_deployed_the_same_app_on_digitalocean_and/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:20:55 GMT</pubDate>
+    </item>
     <item>
       <title>BSD kqueue 的技术债务堆积如山</title>
       <link>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</link>
       <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</guid>
       <pubDate>Sun, 29 Dec 2024 12:18:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利因违反 ChatGPT 隐私规则对 OpenAI 处以罚款</title>
-      <link>https://www.reddit.com/r/programming/comments/1houqv8/italy_fines_openai_over_chatgpt_privacy_rules/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1houqv8/italy_fines_openai_over_chatgpt_privacy_rules/</guid>
-      <pubDate>Sun, 29 Dec 2024 12:07:09 GMT</pubDate>
     </item>
     <item>
       <title>PHP getenv 和 $_ENV 之间的区别：注意细微差别！</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/InterviewKitchen4536  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hod13q/stuff_i_learnt_in_2024/</guid>
       <pubDate>Sat, 28 Dec 2024 19:21:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java：Tern 是一个使用 AES 算法加密和解密文件的命令行工具，用 Java 实现，还具有将文件数组压缩、加密和散列为一个大文件的特殊功能，该文件也可以再次解包以恢复所有文件，请查看源代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</link>
-      <description><![CDATA[  由    /u/Thoriumhexaflouride  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:14:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
