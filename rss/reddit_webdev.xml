@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 20:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 21:16:27 GMT</lastBuildDate>
+    <item>
+      <title>如何让我的网站出现在 Google 上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp5ye7/how_do_i_get_my_website_on_google/</link>
+      <description><![CDATA[如何索引我的网站以便在 Google 上可搜索？有人有好的教程视频吗？ 此外，如何确保在搜索结果中显示正确的链接（https 和 www）？ 示例 https://www.mysite.com    提交人    /u/Mrreddituser111312   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp5ye7/how_do_i_get_my_website_on_google/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助非技术专业人员转型进入技术行业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp5s43/helping_nontech_professionals_transition_into_the/</link>
+      <description><![CDATA[您是否对开始科技职业生涯感到好奇，但却不知道从哪里开始？作为帮助许多非技术人员转型到科技行业的人，我很乐意指导您踏上这段激动人心的旅程。 我提供个性化的 1:1 指导，专为初学者量身定制。以下是我可以为您提供的帮助： • 为您的技术之旅创建分步个性化路线图。 • 将复杂的概念分解为简单的步骤。 • 通过现场编码课程、调试和代码审查进行动手实践。 • 作业可帮助您建立信心和实际技能。 无论您是在探索编程、Web 开发还是技术基础知识，我都会按照您自己的节奏为您提供支持。欢迎随时联系我们，让我们开始构建您在科技领域的未来！    提交人    /u/FewLifeguard4544   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp5s43/helping_nontech_professionals_transition_into_the/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:03:55 GMT</pubDate>
+    </item>
     <item>
       <title>今天我了解到...</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp3gu3/til_that/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>从哪里开始将 llms 集成到我的 webdev 工作流程中？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</link>
-      <description><![CDATA[嗨，我是一名 Web 开发人员，我开发了一个小型 SaaS 应用程序并将其推向市场。  堆叠 Typescript、react、redux-tk、phaser.js（游戏引擎）和 firestore。 最近主要使用 Shad 进行样式设计。 无论如何，到目前为止，我已经非常成功地使用了 Claude + copilot，主要是因为我在 AI 热潮之前就学习了 Web 开发，因此了解我的整个代码库，并且可以闻到糟糕的代码。我以在 Claude.ai 网站上提示 Claude 的传统方式来做到这一点。  我还没有跳转到光标等，但想知道我是否错过了更大的生产力提升。  我很想知道 2024 年底的状况？人们每天都在使用什么并推荐什么？  人们从花费整整一年的时间使用各种人工智能工具等中学到了什么教训。 谢谢！    提交人    /u/deadant88   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名 Web 开发人员，我开发了一个小型 SaaS 应用程序并将其推向市场。  堆叠 Typescript、react、redux-tk、phaser.js（游戏引擎）和 firestore。 最近主要使用 Shad 进行样式设计。 无论如何，到目前为止，我已经非常成功地使用了 Claude + copilot，主要是因为我在 AI 热潮之前就学习了 Web 开发，因此了解我的整个代码库，并且可以闻到糟糕的代码。我以在 Claude.ai 网站上提示 Claude 的方式做到这一点。  我还没有跳转到光标等，但想知道我是否错过了更大的生产力提升。  我很想知道 2024 年底的状况？人们每天都在使用什么并推荐什么？  人们从花费整整一年的时间使用各种人工智能工具等中学到了什么教训。 谢谢！    提交人    /u/deadant88   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</guid>
       <pubDate>Sun, 29 Dec 2024 17:23:25 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨 正如标题所示，我想通过向电子邮件发送邀请来实现 WizzAir、Airbnb、Zoom、Google Meet 等可以实现的功能。 如我所见，会议/航班/预订已自动添加到我的日历中。 我尝试通过通过电子邮件发送 .ics 文件来实现这一点，但 gmail 只能识别约会并建议我手动将其添加到我的日历中。 你知道我该怎么做吗？ 谢谢    提交人    /u/Sapessiii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hox3su/auto_add_event_to_calendar_from_mail/</guid>
       <pubDate>Sun, 29 Dec 2024 14:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助 Web 开发机构在 Astro 和 Next.js 之间做出选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hox0ik/please_help_with_choosing_between_astro_and/</link>
-      <description><![CDATA[我正在考虑开办一家网站开发机构，想专门从事中小型网站的建设。我不想使用网站构建器，我所有的网站都将是手写的。我在 Astro 和 Next.js 之间犹豫不决。我想使用 Sanity 作为 Headless CMS，因为它具有高度的可定制性和它提供的可视化编辑工具。 以下是我的想法：  Astro：我喜欢它专为内容驱动的网站而设计，我的许多客户都需要这种网站（例如博客、作品集或小型企业网站）。但是，它与 Sanity 的可视化编辑器配合得不太好，因为它不是响应式的，需要启用 SSR。我也不喜欢 MPA 的感觉——尽管它的视图转换改善了这种感觉，但它们无法提供与 SPA 相同的体验。 Next.js：我喜欢它的高级缓存系统和动态和交互式网站的整体灵活性。它还可以与 Sanity 等工具无缝集成，这是一个很大的优点，而且它拥有更大的社区。缺点是有人说它对于我想要构建的网站类型来说有点过头了。但有些机构使用它（例如 robotostudio.com）。使用 ISR 可能是一种妥协？  我知道像 Netlify 这样的托管平台为 Astro 提供了 ISR 之类的功能，这可能会弥补缓存和动态内容交付方面的一些差距。但我仍然不确定它是否值得额外的配置，或者我是否应该使用 Next.js 来获得它的全方位功能。 我的问题： 对于内容繁重、大多是静态的网站，Astro 是否值得付出努力，或者 Next.js 是否通过其静态生成功能提供类似（或更好）的性能？    提交人    /u/IndividualMission996   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hox0ik/please_help_with_choosing_between_astro_and/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 特殊性地狱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</link>
-      <description><![CDATA[因此，我决定重建一个网站，完全重新编写 HTML 和 CSS。 当我开始处理 CSS 时，我的问题出现了。 对我来说，事情变得更加复杂，网站的移动版和桌面版使用基本媒体查询的相同 CSS。但是，CSS 的某些方面会显示在其中一个上，而不会显示在另一方上。 经过几个小时无意义地移动元素后，我发现特异性是一个大问题。 我正在寻找的是某种工具，它可以向我显示正在使用的 CSS 以及未使用的 CSS，具体取决于特异性。chrome 中的 Dev Tools 有点帮助，但它没有向我显示我期望使用 CSS 的地方没有使用什么 CSS。 如果有人有任何见解或链接，我将不胜感激。    提交人    /u/MaxxB1ade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:08:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
