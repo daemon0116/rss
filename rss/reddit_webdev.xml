@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 19:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 20:19:21 GMT</lastBuildDate>
+    <item>
+      <title>今天我了解到...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp3gu3/til_that/</link>
+      <description><![CDATA[... 即使设置了 z-index，position: absolute 看起来也高于 position: fixed    提交人    /u/Past-Sugar827   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp3gu3/til_that/</guid>
+      <pubDate>Sun, 29 Dec 2024 19:20:33 GMT</pubDate>
+    </item>
     <item>
       <title>既然在 GitLab 中直接编辑 Astro Starlight 或 Docusaurus 的 Markdown 文件很简单，为什么还要使用无头 CMS 来管理它们？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp283p/why_use_a_headless_cms_to_manage_markdown_files/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>从哪里开始将 llms 集成到我的 webdev 工作流程中？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</link>
-      <description><![CDATA[嗨，我是一名 Web 开发人员，我开发了一个小型 SaaS 应用程序并将其推向市场。  堆叠 Typescript、react、redux-tk、phaser.js（游戏引擎）和 firestore。 最近主要使用 Shad 进行样式设计。 无论如何，到目前为止，我已经非常成功地使用了 Claude + copilot，主要是因为我在 AI 热潮之前就学习了 Web 开发，因此了解我的整个代码库，并且可以闻到糟糕的代码。我以在 Claude.ai 网站上提示 Claude 的方式做到这一点。  我还没有跳转到光标等，但想知道我是否错过了更大的生产力提升。  我很想知道 2024 年底的状况？人们每天都在使用什么并推荐什么？  人们从花费整整一年的时间使用各种人工智能工具等中学到了什么教训。 谢谢！    提交人    /u/deadant88   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名 Web 开发人员，我开发了一个小型 SaaS 应用程序并将其推向市场。  堆叠 Typescript、react、redux-tk、phaser.js（游戏引擎）和 firestore。 最近主要使用 Shad 进行样式设计。 无论如何，到目前为止，我已经非常成功地使用了 Claude + copilot，主要是因为我在 AI 热潮之前就学习了 Web 开发，因此了解我的整个代码库，并且可以闻到糟糕的代码。我以在 Claude.ai 网站上提示 Claude 的传统方式来做到这一点。  我还没有跳转到光标等，但想知道我是否错过了更大的生产力提升。  我很想知道 2024 年底的状况？人们每天都在使用什么并推荐什么？  人们从花费整整一年的时间使用各种人工智能工具等中学到了什么教训。 谢谢！    提交人    /u/deadant88   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</guid>
       <pubDate>Sun, 29 Dec 2024 17:23:25 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>CSS 特殊性地狱</title>
       <link>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</link>
-      <description><![CDATA[因此，我决定重建一个网站，完全重新编写 HTML 和 CSS。 当我开始处理 CSS 时，我的问题出现了。 对我来说，事情变得更加复杂，网站的移动版和桌面版使用基本媒体查询的相同 CSS。但是，CSS 的某些方面会显示在其中一个上，而不会显示在另一方上。 经过几个小时无意义地移动元素后，我发现特异性是一个大问题。 我正在寻找的是某种工具，它可以根据特异性向我显示正在使用的 CSS 和未使用的 CSS。chrome 中的 Dev Tools 有点帮助，但它没有向我显示我期望使用 CSS 的地方没有使用什么 CSS。 如果有人有任何见解或链接，我将不胜感激。    提交人    /u/MaxxB1ade   [链接] [评论]]]></description>
+      <description><![CDATA[因此，我决定重建一个网站，完全重新编写 HTML 和 CSS。 当我开始处理 CSS 时，我的问题出现了。 对我来说，事情变得更加复杂，网站的移动版和桌面版使用基本媒体查询的相同 CSS。但是，CSS 的某些方面会显示在其中一个上，而不会显示在另一方上。 经过几个小时无意义地移动元素后，我发现特异性是一个大问题。 我正在寻找的是某种工具，它可以向我显示正在使用的 CSS 以及未使用的 CSS，具体取决于特异性。chrome 中的 Dev Tools 有点帮助，但它没有向我显示我期望使用 CSS 的地方没有使用什么 CSS。 如果有人有任何见解或链接，我将不胜感激。    提交人    /u/MaxxB1ade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</guid>
       <pubDate>Sun, 29 Dec 2024 14:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>corepack 的 packageManager 字段破坏了 package.json</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</link>
-      <description><![CDATA[        提交人    /u/hyperknot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:05:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

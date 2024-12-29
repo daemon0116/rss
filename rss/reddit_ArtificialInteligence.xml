@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 19:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 20:18:19 GMT</lastBuildDate>
     <item>
       <title>人工智能能否帮助视频游戏开发者进行优化？如果可以，该如何做？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hp2ha1/could_ai_aid_video_game_developers_with/</link>
@@ -83,18 +83,18 @@
       <pubDate>Sun, 29 Dec 2024 10:42:29 GMT</pubDate>
     </item>
     <item>
+      <title>“那么，AGI 现在价值 1000 亿美元？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hot7zr/so_agi_is_worth_100_billion_now/</link>
+      <description><![CDATA[  由    /u/5HARK007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hot7zr/so_agi_is_worth_100_billion_now/</guid>
+      <pubDate>Sun, 29 Dec 2024 10:18:53 GMT</pubDate>
+    </item>
+    <item>
       <title>一款畅销平板电脑现已配备亲中共宣传人工智能助手。这是针对中国电子产品的更广泛警告。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1horl5u/a_popular_tablet_now_ships_with_a_proccp/</link>
       <description><![CDATA[  由    /u/darrenjyc  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1horl5u/a_popular_tablet_now_ships_with_a_proccp/</guid>
       <pubDate>Sun, 29 Dec 2024 08:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 发布 Byte Latent Transformer：一种改进的 Transformer 架构</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ho4cvo/meta_released_byte_latent_transformer_an_improved/</link>
-      <description><![CDATA[Byte Latent Transformer 是 Meta 推出的一种新型改进型 Transformer 架构，它不使用标记化，可以直接处理原始字节。它引入了基于熵的补丁概念。通过此处的示例了解完整架构及其工作原理：https://youtu.be/iWmsYztkdSg    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ho4cvo/meta_released_byte_latent_transformer_an_improved/</guid>
-      <pubDate>Sat, 28 Dec 2024 12:04:22 GMT</pubDate>
     </item>
     <item>
       <title>我添加了专业人士的天赋</title>
@@ -106,7 +106,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
