@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 03:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 04:22:45 GMT</lastBuildDate>
+    <item>
+      <title>批评我的个人网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</link>
+      <description><![CDATA[大家好， 我刚刚建立了我的第一个个人网站，因为我想在严格担任后端之后展示更多全栈工作。 我很乐意听到任何建议或批评。 谢谢！    提交人    /u/Livid_Tap9955   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fornax – 全栈 BunJS Web 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
+      <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看这个网站，告诉我在网页开发、UI/UX 方面可以做得更好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</link>
+      <description><![CDATA[        提交人    /u/Electronic_Oven3518   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 14 需要应用路由器后端开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</link>
+      <description><![CDATA[您好，一年前我开始了一个大项目，使用了 Next.js 14、App router、Mongoose (MongoDB)、Stripe、DaisyUI 和 Shadcn。我自己也是一名开发人员，但我真的精疲力竭了。我可以付钱请人完成这个项目。如果您有兴趣，请直接发消息给我，谢谢。    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器上数据的简单方式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</link>
+      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端和客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</guid>
+      <pubDate>Sun, 29 Dec 2024 03:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>你对使用人工智能来总结网站上的真实用户评论有什么看法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</link>
+      <description><![CDATA[我正在浏览旅行顾问，在用户点评部分，我注意到了下面的披露。 “上述景点描述由人工智能创建，使用了用户提交给 Tripadvisor 的点评中常见的信息和短语。”  我个人认为它消除了点评的实用性，因为我不想仔细检查每一条点评，只是为了验证它不是幻觉信息。只是好奇其他人对网站上的这个有什么反应。    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</guid>
+      <pubDate>Sun, 29 Dec 2024 03:34:38 GMT</pubDate>
+    </item>
     <item>
       <title>第 3 集 | 🚀 使用 Hono 和 SQLite 构建您的第一个 CRUD API</title>
       <link>https://www.reddit.com/r/webdev/comments/1holrww/episode_3_build_your_first_crud_api_with_hono_and/</link>
-      <description><![CDATA[嘿 Reddit 朋友们！👋 我带着我的 HONO 系列第 3 集回来了，我们将通过构建我们的第一个 CRUD API将事情提升到一个新的水平！🚀 在这一集中，标题为“第 3 集 | 🚀 使用 Hono 和 SQLite 构建您的第一个 CRUD API”，我将引导您完成： ✅ 使用 Hono 和 SQLite 设置基本的 CRUD API。 ✅ 实现创建、读取、更新和删除操作。 ✅ 构建项目以实现可扩展性和效率。 如果您一直在关注或刚刚加入本系列，这一集是获得 Hono 和 SQLite 实践经验的完美方式！ 在这里查看：第 3 集 - 使用 Hono 和 SQLite 构建您的第一个 CRUD API 🎥 并且不要忘记从这里的 repo 获取代码：GitHub Repo 📂 与往常一样，在我继续构建该系列时，我很乐意听到您的想法、问题或建议。 您的反馈非常有帮助，我迫不及待地想看看你们如何构建自己的 API！ 💻✨ 让我们继续编码并一起构建令人惊叹的东西！ 🌟    提交人    /u/RevolutionaryAd1557   [link] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit 朋友们！👋 我带着我的 HONO 系列第 3 集回来了，我们将通过构建我们的第一个 CRUD API将事情提升到一个新的水平！🚀 在这一集中，标题为“第 3 集 | 🚀 使用 Hono 和 SQLite 构建您的第一个 CRUD API”，我将引导您完成： ✅ 使用 Hono 和 SQLite 设置基本的 CRUD API。 ✅ 实现创建、读取、更新和删除操作。 ✅ 构建项目以实现可扩展性和效率。 如果您一直在关注或刚刚加入本系列，这一集是获得 Hono 和 SQLite 实践经验的完美方式！ 在这里查看：第 3 集 - 使用 Hono 和 SQLite 构建您的第一个 CRUD API 🎥 并且不要忘记从此处的 repo 获取代码：GitHub Repo 📂 与往常一样，在我继续构建该系列时，我很乐意听到您的想法、问题或建议。 您的反馈非常有帮助，我迫不及待地想看看你们如何构建自己的 API！ 💻✨ 让我们继续编码并一起构建令人惊叹的东西！ 🌟    提交人    /u/RevolutionaryAd1557   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1holrww/episode_3_build_your_first_crud_api_with_hono_and/</guid>
       <pubDate>Sun, 29 Dec 2024 02:19:53 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我正在开发一个依赖外部提供商提供电子邮件服务的网站，很想听听您的想法。我看到很多人推荐使用 G-Suite (Google Workspace) 来处理个人电子邮件地址，使用 SendGrid 等服务来处理营销活动和交易电子邮件。还有其他好的选项可以同时处理交易电子邮件和营销电子邮件吗？有效设置所需的关键服务和配置是什么？    提交人    /u/kevinmamaqi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hoh2zu/whats_the_best_way_to_handle_email_for_an_online/</guid>
       <pubDate>Sat, 28 Dec 2024 22:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hog4oq/first_website/</link>
-      <description><![CDATA[我自学 HTML、CSS 和 JS 大约两年了，现在开始整理我的第一个网站创意。灵感和功能设计多种多样，还有很多工作要做（有些部分尚未完成），我希望从比我更有经验的开发人员那里获得一些意见。希望你们喜欢！    提交人    /u/frostymanos   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hog4oq/first_website/</guid>
-      <pubDate>Sat, 28 Dec 2024 21:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个网站反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hog1kf/first_website_feedback/</link>
-      <description><![CDATA[大家好， 我在 Wordpress 中创建了我的第一个网站，但是我并不是一名网站开发人员，更像是一名全能 IT 人员。 你们能给我一些反馈吗？ 对于外行和专业人士来说，它看起来还不错吗？ 网站： https://glowit.be 期待您的回复 致以亲切的问候    提交人    /u/NotASysAdmin666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hog1kf/first_website_feedback/</guid>
-      <pubDate>Sat, 28 Dec 2024 21:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么工具或框架来创建沉浸式体验？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hofiny/what_tool_or_framework_was_used_to_create/</link>
-      <description><![CDATA[      我喜欢黑/白到彩色的效果，也喜欢按下“了解更多”并开始阅读文本时的效果。  我明白，如果我问这个问题，我就无法编写代码或创建到这个级别......  但我至少想尝试重新创建黑白到彩色的效果。这些假期我有时间，我很想学习并尝试更有创意。  你建议我做什么来实现类似的效果？ https://hatom.com    提交人    /u/tehnewbie   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hofiny/what_tool_or_framework_was_used_to_create/</guid>
-      <pubDate>Sat, 28 Dec 2024 21:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款极简 HTML/CSS 编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</link>
-      <description><![CDATA[我正在寻找一种简单、最小的工具来进行静态 HTML/CSS 网站设计。我认为过去它被称为所见即所得编辑器。 它真的不需要做太多事情。我只想能够以交互方式查看我对网站所做的更改。并查看它在不同屏幕尺寸下的外观。并在不同的配色方案之间切换。 有什么建议吗？    提交人    /u/Advanced_Toe_298   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚接触 Visual Studio Code - 扩展？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</link>
-      <description><![CDATA[我是 Visual Studio Code 的新手。多年来一直在使用 DreamWeaver，所以我从来没有真正需要查找扩展来提供帮助。我希望你们能帮助新成员获得每个人都应该拥有的扩展！ 非常感谢！    提交人    /u/Itachi03   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[showoff saturday] 想分享一个我们用 HTML、CSS 和 11ty 静态网站生成器为一家彩色玻璃公司制作的独特网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</link>
-      <description><![CDATA[这是网站  https://terrazastainedglass.com 在桌面页面上将他们的作品作为装饰元素融入其中，这很有趣。与我通常的家庭服务客户相比，这绝对是不同类型的客户。原始网站乏善可陈，设计不一致，而且很普通。他们想要一个更优雅、更专业、内容结构更好的东西来真正推销工作和流程。由于他们的业务性质，这个网站更注重图像。我们需要尽可能多地展示作品，让图像推销作品。  总的来说，我们对我们能想出的东西非常满意！     提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
