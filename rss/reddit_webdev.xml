@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 10:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 11:14:58 GMT</lastBuildDate>
+    <item>
+      <title>有人尝试过 onedollarstats.com 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hotbc5/has_anyone_tried_onedollarstatscom/</link>
+      <description><![CDATA[这是 Drizzle ORM 的同一批人制作的分析工具。我看到他们的 orm 网站上有宣传，但在网上找不到任何人使用它。有人用吗？它好用吗？我并不需要分析，我只是喜欢看数字，1 美元/月是我愿意为一时兴起而花的价格    提交人    /u/Nicolello_iiiii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hotbc5/has_anyone_tried_onedollarstatscom/</guid>
+      <pubDate>Sun, 29 Dec 2024 10:25:55 GMT</pubDate>
+    </item>
     <item>
       <title>寻求有关系统设计和报价范围的反馈。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hosy9v/seeking_feedback_on_system_design_and_quote_range/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>架构建议 - 将 Websocket API 分为私有和公共，好主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</link>
-      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，这将增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，因此想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
+      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，它会增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，所以想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</guid>
       <pubDate>Sun, 29 Dec 2024 08:42:12 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>Fornax - 全栈 BunJS Web 框架</title>
+      <title>Fornax – 全栈 BunJS Web 框架</title>
       <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
       <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，一年前我开始了一个大项目，使用了 Next.js 14、App router、Mongoose (MongoDB)、Stripe、DaisyUI 和 Shadcn。我自己也是一名开发人员，但我真的精疲力竭了。我可以付钱请人完成这个项目。如果您有兴趣，请直接发消息给我，谢谢。    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</guid>
       <pubDate>Sun, 29 Dec 2024 04:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务器上数据的简单方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</link>
-      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端和客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</guid>
-      <pubDate>Sun, 29 Dec 2024 03:50:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
