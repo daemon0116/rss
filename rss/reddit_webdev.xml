@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 11:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:33:28 GMT</lastBuildDate>
+    <item>
+      <title>不错的小 URL 破解，让您成为第一批申请该职位的候选人（LinkedIn 最多只允许 24 小时的筛选）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1housts/nice_little_url_hack_to_be_among_the_first/</link>
+      <description><![CDATA[简单方法如下：  使用&quot;24 hours&quot; 过滤器，输入所需关键词（例如：软件实习生或软件毕业生），然后复制完整的网址。 从网址中找到 tpr 值，并将其更改为较小的数字（以秒为单位）。 访问更新后的网址。  参考： https://searchjobs.me/article/linkedin-job-search-hack-be-among-the-first-to-apply-for-any-job/    提交人    /u/willis7747   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1housts/nice_little_url_hack_to_be_among_the_first/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Namecheap 的最新“优惠”。再告诉我一下 ensh*ttification 是如何成为阴谋论的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1houlh0/the_latest_offers_from_namecheap_tell_me_again/</link>
+      <description><![CDATA[       由    /u/doobltroobl  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1houlh0/the_latest_offers_from_namecheap_tell_me_again/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 漏洞/效率检查器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hou7vw/web_vulnerabilityefficieny_checker/</link>
+      <description><![CDATA[我正在寻找可以评估我的网站漏洞或更有效的编程方法的东西。 有哪些工具可以在生产或开发网站上使用来检查漏洞或代码错误？ 是否有任何开源工具、程序或方法可以做到这一点？有任何价格合理的商业代码审查服务吗？    提交人    /u/Unhappy_Trout   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hou7vw/web_vulnerabilityefficieny_checker/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么会发生这种情况？ 上下文在正文中。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</link>
+      <description><![CDATA[由于 CP 法律，Pixiv 在我的国家被屏蔽，我无法访问，但我的朋友可以。我们生活在同一个国家和城市，当时我们也没有使用 VPN。 是什么原因造成的？主要问题是“为什么我们生活在同一个国家，我被屏蔽了，而他没有被屏蔽”，而不是为什么 pixiv 本身被屏蔽    提交人    /u/No-Entertainment3597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:24:17 GMT</pubDate>
+    </item>
     <item>
       <title>有人尝试过 onedollarstats.com 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hotbc5/has_anyone_tried_onedollarstatscom/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>架构建议 - 将 Websocket API 分为私有和公共，好主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</link>
-      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，它会增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，所以想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
+      <description><![CDATA[我目前有一个相当复杂的网站架构，它为最终用户提供 websocket API。目前，我有一个特定的子域用于公共（未经身份验证的）API 请求，另一个子域用于私有和公共 API 请求。 公共子域 WS API 仅为未经身份验证的用户提供可访问的端点提供服务，而私有子域在接受任何交互之前需要身份验证令牌（由 Web 服务器提供）或预先生成的每个用户 API 密钥，并提供公共和私有内容。 例如，当未登录的用户连接到网站时，他们的浏览器将连接到“pubapi.blah.com”并发出诸如“subscribe siteWideNews”之类的命令。 当登录用户连接到网站时，他们的浏览器会连接到“privapi.blah.com”，并发出诸如“authenticate userJoe JoesSecretToken”、“subscribe siteWideNews”、“subscribe privateMessages”之类的命令。 我故意将它们一分为二。这样做的想法是，这将增加 DDoS 弹性 - 如果公共 API 子域受到攻击，登录用户仍然可以使用私有子域。由于它是在 vhost 级别隔离的，因此想法是，如果发生 DDoS 攻击，可以在 Cloudflare 级别采取一些措施。目前，我脑子里的想法基本上很模糊。我只是做了两个 API 通道，认为这可能是一个好主意，不会造成任何损害，在开始设计应用程序时，从那时起就没有真正重新考虑过它。有趣的是，当我想到它时，攻击者也可以用“身份验证”请求淹没私有子域，并可能同样轻松地破坏整个系统，也许只需要多一点努力，如果那样的话。 我想知道拥有这样的两个子域是否真的是个好主意，因为它显然增加了复杂性，而这正是我目前试图减少的。 我正在寻找在这方面有经验的人的意见。拥有这样的两个子域是个好主意吗，还是我应该只使用一个 API 入口点，并从降低复杂性中受益？ 此外，我还对与对抗 WS 端点的 DDoS 攻击相关的经验感兴趣。该网站位于 Cloudflare 后面，包括 websockets。 Websockets 在常规端口 443 上运行。 感谢您的见解。 如果有更好的 subreddit 来回答此类问题，请引导我到那里。    提交人    /u/plonkster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1horxzb/architecture_advice_splitting_websocket_api_into/</guid>
       <pubDate>Sun, 29 Dec 2024 08:42:12 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[        提交者    /u/Master-Variety3841   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</guid>
       <pubDate>Sun, 29 Dec 2024 05:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>批评我的个人网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</link>
-      <description><![CDATA[大家好， 我刚刚建立了我的第一个个人网站，因为我想在严格担任后端之后展示更多全栈工作。 我很乐意听到任何建议或批评。 谢谢！    提交人    /u/Livid_Tap9955   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fornax – 全栈 BunJS Web 框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
-      <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:10:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看这个网站，告诉我在网页开发、UI/UX 方面可以做得更好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</link>
-      <description><![CDATA[        提交人    /u/Electronic_Oven3518   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 14 需要应用路由器后端开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</link>
-      <description><![CDATA[您好，一年前我开始了一个大项目，使用了 Next.js 14、App router、Mongoose (MongoDB)、Stripe、DaisyUI 和 Shadcn。我自己也是一名开发人员，但我真的精疲力竭了。我可以付钱请人完成这个项目。如果您有兴趣，请直接发消息给我，谢谢。    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:02:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 11:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:33:11 GMT</lastBuildDate>
+    <item>
+      <title>BSD kqueue 的技术债务堆积如山</title>
+      <link>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</link>
+      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利因违反 ChatGPT 隐私规则对 OpenAI 处以罚款</title>
+      <link>https://www.reddit.com/r/programming/comments/1houqv8/italy_fines_openai_over_chatgpt_privacy_rules/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1houqv8/italy_fines_openai_over_chatgpt_privacy_rules/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP getenv 和 $_ENV 之间的区别：注意细微差别！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hou9mp/difference_between_php_getenv_and_env_beware_of/</link>
+      <description><![CDATA[环境变量在现代开发中起着至关重要的作用，尤其是对于管理 API 密钥或特定于环境的配置等敏感数据。在 PHP 中，有两种主要方式可以访问这些变量：getenv 函数和 $_ENV 超全局变量。虽然它们似乎可以互换，但它们的行为不同，如果使用不当可能会导致问题。    提交人    /u/noweh95   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hou9mp/difference_between_php_getenv_and_env_beware_of/</guid>
+      <pubDate>Sun, 29 Dec 2024 11:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>每个程序员都应该知道什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1hotewm/what_is_a_thing_every_programmer_should_know/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Thoriumhexaflouride  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</guid>
       <pubDate>Sat, 28 Dec 2024 19:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏笔记本电脑值得吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</link>
-      <description><![CDATA[大家好，我即将购买一台华硕 TUF dash f15，配备 rtx 3050 ti、i7 12650h、144hz 250 nit 62.5% sRGB，我只是对它的价值感兴趣，以同样的价格购买带有集成 GPU 的 ThinkPad 之类的产品会更好，因为我不是一个狂热游戏玩家，我不确定未来是否需要一些视频编辑或游戏开发，有什么建议吗？    提交人    /u/Ok-Sprinkles-2157   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能不适合懒人</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</link>
-      <description><![CDATA[  由    /u/imlutr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle PL/SQL 中的 %TYPE 示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</link>
-      <description><![CDATA[  由    /u/apexysatish  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</guid>
-      <pubDate>Sat, 28 Dec 2024 18:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
