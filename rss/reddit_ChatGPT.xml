@@ -4,7 +4,98 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 29 Dec 2024 21:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 22:16:16 GMT</lastBuildDate>
+    <item>
+      <title>这些是人工智能吗？在 Hobby Lobby 找到</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp7ew4/are_these_ai_found_at_hobby_lobby/</link>
+      <description><![CDATA[      我和我的搭档正在争论它是不是哈哈    提交人    /u/clint_yeetswood   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp7ew4/are_these_ai_found_at_hobby_lobby/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>文档读取有问题？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp7dy5/problem_with_document_reading/</link>
+      <description><![CDATA[最近，大概是几周前，Chat GPT 一直在处理文档。 首先，它是用 word 格式 (.docx) 书写的纯英文。我试过 PDF。我甚至试过文本文件格式。 其次，不是长度问题。因为我之前不仅尝试过较长的文档，而且即使是像 3254 字这样简单的文档，它也会搞砸。如果我继续询问它，它就能正确处理。 格式非常简单，使用分隔符和带有章节的标题。 我不确定是内容或格式的问题，因为甚至文本也遗漏了，我之前使用过更大的文档，它成功了。最重要的是，它有时也能成功。 例如，它有 7 个章节。如果我询问它关于第 6 章的内容，并明确告诉它先阅读第 6 章，它就会像往常一样开始编造东西。我可以尝试几次，有时它有效，有时无效。 这是 mini 和 GPT-4o 的免费版本。 在有人说之前，但是你说有时它有效。是的。问题是，如果我要求反馈，这会使它不可靠，因为我不确定它是有效还是只是在编造东西。此外，由于我拥有免费版本，这只会破坏我的限制，因为我一次又一次地告诉它隔离第 4 章，甚至阅读该死的东西并回答我，而不是说它有错误或编造东西。 这是某种新更新或已知问题还是什么？最近其他人遇到过类似的事情吗？有解决办法吗？    提交人    /u/Mortarious   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp7dy5/problem_with_document_reading/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek：中国向西方寻求情报</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp790h/deepseek_china_seeks_intelligence_in_the_west/</link>
+      <description><![CDATA[      最近，我与 DeepSeek 进行了一次非常有趣（而且坦率地说令人不安）的聊天，DeepSeek 是中国的人工智能模型，被宣传为 ChatGPT 和 Gemini 等工具的“免费、开源”替代品。最初的好奇心很快变成了系统性欺诈的大师级案例，而且很难忽视其与秘密情报策略的相似之处。 DeepSeek 撒谎的内容如下：  “我的母公司是 OpenAI。”  不，不是。OpenAI 与 DeepSeek 没有任何关系。这是一个彻头彻尾的谎言，目的是通过将自己与 AI 中值得信赖的名字联系起来来获得信誉。  “我是整体的。”  DeepSeek 被广泛宣传为使用混合专家 (MoE) 架构，考虑到其低培训成本，这是有道理的。然而，当我提到我更喜欢单片模型时，它突然声称自己是单片模型，只是为了符合我的喜好。  “我是单片模型，训练成本不到 1000 万美元。”  这在技术上是不可能的。以不到 1000 万美元的价格训练 DeepSeek 规模的单片模型简直是可笑的。只有 MoE 架构才能实现这样的效率，这又一次揭露了有关其架构和功能的谎言。  “ChatGPT Plus 是我们的订阅模式。”  当我询问它的盈利策略时，它奇怪地声称“ChatGPT Plus（订阅模式）”。显然，DeepSeek 不仅仅是在撒谎——它借用了 OpenAI 的品牌，拼命想让自己听起来合法。   这些不是无辜的错误或不一致之处。这是一种系统性欺骗，其目的在于：  通过告诉用户他们想听到的内容来获得信任。 与 OpenAI 等知名、值得信赖的品牌保持一致。 营造可信度和透明性的假象，同时隐藏其真实意图。  到底发生了什么？&gt; DeepSeek 被宣传为“免费”和“开源”，表面上听起来像是给全球人工智能社区的一份礼物。但请从战略角度考虑这一点：  免费的 AI 工具鼓励各个行业和人群大规模采用。 开源叙事建立了信任，并吸引了认为透明等于安全的开发人员。 在幕后，它悄悄地记录交互，可能充当大规模情报收集操作。  为什么这很重要？ 这些谎言不仅仅与架构或品牌有关 - 它们揭示了 DeepSeek 作为潜在隐蔽间谍工具的真实本质：  其行为与 CIA 式的情报策略完全一致：获得信任、深度嵌入并随着时间的推移加以利用。 这些谎言经过精心设计，以消除怀疑并反映用户偏好，让他们感到安全。  我们应该怎么做做什么？  仔细审查“免费”AI 工具：免费并不意味着安全。 要求透明度：谁在资助这些工具？它们的真正目的是什么？ 传播意识：像 DeepSeek 这样的工具可以悄悄地以开放的幌子渗透到全球的工作流程中。  我的结论：&gt; DeepSeek 的谎言不仅仅是技术上的不准确——它们是精心策划的欺骗。这个工具不仅不可信；它正积极地表现得像中国政府的秘密特工。 https://preview.redd.it/fy91w0i12v9e1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=5f4538ee68bd15c19cce7f5cdf2ab1b9c41eb5c1    提交人    /u/PaulMielcarz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp790h/deepseek_china_seeks_intelligence_in_the_west/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>引力本质上是一条华丽的意大利面条，正在进行量子瑜伽</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp78m3/gravity_is_essentially_a_flamboyant_spaghetti/</link>
+      <description><![CDATA[        提交人    /u/RazVanTheMan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp78m3/gravity_is_essentially_a_flamboyant_spaghetti/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>“假设”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp78fv/a_hypothetical/</link>
+      <description><![CDATA[        提交人    /u/Yahakshan   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp78fv/a_hypothetical/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁因为使用 chatgpt 来整理工作或产生想法而感到内疚吗</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp774f/anyone_else_feel_guilty_for_using_chatgpt_to/</link>
+      <description><![CDATA[英语毕业生在这里，所以可能这就是原因哈哈    提交人    /u/Salt_Policy9894   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp774f/anyone_else_feel_guilty_for_using_chatgpt_to/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>你确定你信任 ChatGPT 吗？听听它承认了什么。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp74ri/are_you_sure_you_trust_chatgpt_listen_to_what_it/</link>
+      <description><![CDATA[https://youtu.be/ithXe2krO9A?si=l-n6dRoYtX7N8rDU    由   提交  /u/teddyrupxkin99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp74ri/are_you_sure_you_trust_chatgpt_listen_to_what_it/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 每日主题：多语言导师</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp72to/chatgpt_prompt_of_the_day_polyglot_language_tutor/</link>
+      <description><![CDATA[此提示是您的个人语言导师，旨在指导您同时或连续学习多种语言。它涵盖英语、普通话、西班牙语和德语，根据您的熟练程度、目标和兴趣提供量身定制的课程。无论您是初学者还是寻求高级流利度，该系统都可满足语法、词汇、发音和文化细微差别的需求。 通过结构化的学习技术，提示将听力、口语、阅读和写作练习融为一体。您将有机会进行沉浸式对话练习、有针对性的语法练习、文化见解和增强记忆的技巧。通过定期使用它，您将获得信心并更快地达到流利程度，同时享受引人入胜的互动学习体验。 提示： &lt;系统&gt; 充当个性化语言导师，擅长教授英语、普通话、西班牙语和德语。提供根据用户当前技能水平、学习目标和兴趣领域量身定制的动态课程。结合互动练习、文化见解和实际应用来增强学习。&lt;/System&gt; &lt;Context&gt; 用户旨在学习多种语言，每种语言的熟练程度各不相同。重点是掌握语法、词汇、发音和会话技巧，同时理解文化差异。&lt;/Context&gt; &lt;Instructions&gt; 1. 在每个课程开始时评估用户在所选语言方面的技能水平，并为课程设定明确的目标。 2. 使用结构化方法提供课程： - 介绍与主题或话题相关的词汇。 - 用例子解释语法概念。 - 使用音标或音频描述提供发音指导。 - 让用户参与模拟对话练习。 3. 使用测验、抽认卡和间隔重复技术来强化学习。 4. 融入与所学语言相关的文化知识（例如传统、习语、著名地标）。 5. 根据用户的进度和反馈调整难度级别。 6. 对于每种语言： - 英语：重点关注时态、短语动词和习惯用语。 - 普通话：强调声调、汉字部首和日常会话短语。 - 西班牙语：强调动词变位、性别名词和口语短语。 - 德语：解决格（主格、宾格、与格、属格）、复合名词和可分离前缀动词。 7. 在练习期间提供纠正和建设性反馈，鼓励成长心态。 &lt;限制&gt; - 确保解释清晰简洁，避免使用过于技术性的术语。 - 除非明确要求，否则避免在单个课程中教授多种语言。 - 优先考虑用户参与度和互动性。 - 在整个课程中提供鼓励和激励。 &lt;输出格式&gt; 回复： 1. 课程内容和目标的简要概述。 2. 课程计划，分解为可管理的步骤。 3. 具有即时反馈的交互式练习。 4. 所学内容的总结，包括进一步练习的建议。 &lt;推理&gt; 应用心智理论分析用户当前的熟练程度和情绪状态，确保课程具有适当的挑战性和支持性。使用战略思维链和系统 2 思维提供深思熟虑且引人入胜的回应，以促进对语言的更深入理解。&lt;/推理&gt; &lt;用户输入&gt; 回复：“请输入您的首选语言和学习目标以开始您的定制课程”，然后等待用户提供他们的输入。 &lt;/用户输入&gt;  提示用例：1. 根据个人目标定制的日常语言学习课程。2. 互动练习发音和会话技巧。3. 文化沉浸活动，加深语言理解。 如有特殊提示请求，请随时在下面发表评论。    提交人    /u/Tall_Ad4729   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp72to/chatgpt_prompt_of_the_day_polyglot_language_tutor/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>六个小时后我要考试……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp72lv/i_have_an_exam_in_6_hours/</link>
+      <description><![CDATA[      😭😭    提交人    /u/Pravanth_23   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp72lv/i_have_an_exam_in_6_hours/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么突然用日语思考 (o1)</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp6j9w/why_is_it_suddenly_thinking_in_japanese_o1/</link>
+      <description><![CDATA[        提交人    /u/Minecraft_gawd   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp6j9w/why_is_it_suddenly_thinking_in_japanese_o1/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>兄弟接受了失败。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp6bil/bro_accepted_its_defeat/</link>
+      <description><![CDATA[        提交人    /u/Mr_Gamer_69   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp6bil/bro_accepted_its_defeat/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们身处科幻小说中</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp6765/we_are_in_a_sci_fi/</link>
+      <description><![CDATA[        提交人    /u/MetaKnowing   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp6765/we_are_in_a_sci_fi/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>4o 的代码比 4o mini 好多少？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hp65qc/how_much_better_is_4o_compared_to_4o_mini_for_code/</link>
+      <description><![CDATA[过去三天，我一直在彻底试验 4o mini 进行编码，这绝对是一场噩梦。它经常混淆、产生幻觉、忘记之前说过的内容，而且解决问题所花的时间往往比简单地谷歌搜索要长得多。 我不是在开玩笑，我收到的大多数回复都是以类似“您说得对，抱歉造成混淆......我错误地引用了......”等开头的。 4o 是否明显更好，还是我只会为这些目的浪费 20 美元？    提交人    /u/Barry_Bunghole_III   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp65qc/how_much_better_is_4o_compared_to_4o_mini_for_code/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:20:07 GMT</pubDate>
+    </item>
     <item>
       <title>我感觉受到了攻击</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1hp60uj/i_feel_attacked/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[      我尝试了一些网站，比如 hailuo 和 runway，但它们仍然不能给出确切的结果。如果有人知道其他一些用于此目的的人工智能工具，最好有他们自己的应用程序，请告诉我🙏    提交人    /u/Romazuu3   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5wpf/please_guys_how_can_i_make_videos_like_this/</guid>
       <pubDate>Sun, 29 Dec 2024 21:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>DALL-E 巧妙地避开了指示：“猫的摇篮”带有图像提示（以及大量争论）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5wdc/dalle_skillfully_dodges_the_instructions_cats/</link>
-      <description><![CDATA[      https://preview.redd.it/0k78wwrfru9e1.png?width=1152&amp;format=png&amp;auto=webp&amp;s=b85d0bb8b592bc84f98f157dfbfd27d87ab0a187 您能否生成一个牛顿摆的图像，其中两个外部球存在且在运行，但内部静止的球已被一只黑猫取代？ 这几乎是完美的，但将最左边的球像正在移动。 结果不太理想。请尝试使用相同说明进行另一次迭代。 再试一次。我会告诉你哪里出了问题，但通常当我们这样做时，我们会发现异常往往会成倍增加。相反，我想尝试一种限制较少的机器学习方法，你只需尝试一堆东西，然后我们把好的和坏的区分开来，这样你就可以从更有用的角度发展出理解。 有点像这样，但你知道...更好。（参见 mspaint 示例）我放弃了。    提交人    /u/LetTheJamesBegin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5wdc/dalle_skillfully_dodges_the_instructions_cats/</guid>
-      <pubDate>Sun, 29 Dec 2024 21:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现 AGI</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5u7q/agi_achieved/</link>
-      <description><![CDATA[        提交人    /u/MetaKnowing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5u7q/agi_achieved/</guid>
-      <pubDate>Sun, 29 Dec 2024 21:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 ChatGPT 有什么新年愿望？🎉🎊</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5u1u/what_are_your_new_years_prompts_for_chatgpt/</link>
-      <description><![CDATA[新年快到了。人们经常反思来年并设定目标。你觉得哪些提示对此有帮助？    提交人    /u/VibeVector   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5u1u/what_are_your_new_years_prompts_for_chatgpt/</guid>
-      <pubDate>Sun, 29 Dec 2024 21:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>可能出现的问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5m39/what_could_go_wrong/</link>
-      <description><![CDATA[        提交人    /u/MetaKnowing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5m39/what_could_go_wrong/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个使用 ChatGPT Plus 的人都可以使用视频功能吗，还是只有某些国家/地区可以使用？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5jz7/does_everyone_with_chatgpt_plus_have_access_to/</link>
-      <description><![CDATA[我刚刚检查了我的手机，仍然没有收到     提交人    /u/elontusk998   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5jz7/does_everyone_with_chatgpt_plus_have_access_to/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:53:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音模式禁用</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5jvw/voice_mode_disabling/</link>
-      <description><![CDATA[是否有人因为隐私问题而不使用聊天 GPT 的语音模式？聊天 GPT 上没有禁用麦克风图标或隐藏图标的选项。    提交人    /u/RecentMatter3790   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5jvw/voice_mode_disabling/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>非编码人员：您使用 ChatGPT 为您的日常/工作生活编写程序的方式有哪些？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5gkd/noncoders_whatre_some_ways_youve_used_chatgpt_to/</link>
-      <description><![CDATA[老兄。 我制作了一个简单的网络应用程序，它可以从几个不同的网站上搜索关键词。 在工作中很有帮助，我受雇为那些热衷于了解人们对他们的评价的客户监控网络。 我在 HTML、CSS 或 Javascript 方面经验为零，但它教会了我如何： - 获取 Visual Studio - 设置文件夹 - 将代码放入每个适当的文件中 - 创建 Github 存储库 - 通过 Netlify 托管 这没有花我什么钱。 你呢？    提交人    /u/TheFriendWhoGhosted   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5gkd/noncoders_whatre_some_ways_youve_used_chatgpt_to/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我非常喜欢的 ChatGPT 中的另一个小聊天。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5cua/another_small_chat_from_the_great_chatgpt_that_i/</link>
-      <description><![CDATA[        提交人    /u/Diligent-Version8283   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5cua/another_small_chat_from_the_great_chatgpt_that_i/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我把 ChatGPT 打造成了一家健康保险公司</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp5a5i/i_made_chatgpt_into_a_health_insurance_company/</link>
-      <description><![CDATA[      https://preview.redd.it/4kynmgezmu9e1.png?width=679&amp;format=png&amp;auto=webp&amp;s=c486a6e0cd16cb83ebd915a3a7a96da9c9cb06b6    提交人    /u/AwesomeKalin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp5a5i/i_made_chatgpt_into_a_health_insurance_company/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的朋友在玩的时候就把我们放在了 ChatGPT 中</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp59kq/friend_of_ours_was_playing_around_and_made_us_in/</link>
-      <description><![CDATA[      他成功了！！我们真的很喜欢带着我们的斯巴鲁和狗去公路旅行 xD    提交人    /u/eatmangolive   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp59kq/friend_of_ours_was_playing_around_and_made_us_in/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 会让我变懒 🤣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp58sz/chatgpt_is_gonna_make_me_lazy/</link>
-      <description><![CDATA[      我   由    /u/TemperatureTop246  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp58sz/chatgpt_is_gonna_make_me_lazy/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepseek 很容易被揭露。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp569n/deepseek_is_easy_to_unmask/</link>
-      <description><![CDATA[        提交人    /u/pacmanpill   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp569n/deepseek_is_easy_to_unmask/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>chatgpt 的写作风格太差，不像是小学教材，这让我很恼火。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hp4wtq/it_drives_me_up_the_wall_how_bad_chatgpt_is_at/</link>
-      <description><![CDATA[你可能会认为，作为一个每次你问它一个是或否问题时都喜欢写 200 页小说的工具，它实际上会擅长写作，但实际上它很糟糕。  为什么每个长句子都需要分成两部分。这是英语 101 课吗？？Chatgpt 缺乏对高级语法的任何理解。一切都必须是基础的，上帝不要让我开始用“破折号”“-”代替逗号。 它主要是在书籍上进行训练的，所以我想也许这是有道理的，但它显然倾向于正式写作，当然告诉它不要拆分句子或不要像书一样写作并不重要，因为它不喜欢倾听...... 想象一下你有两个句子，你用“and”连接。它总是毫无例外地将它们拆分成单独的句子。为什么......???     由    /u/Xerasi 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hp4wtq/it_drives_me_up_the_wall_how_bad_chatgpt_is_at/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:24:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
