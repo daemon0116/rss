@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Dec 2024 22:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:36:20 GMT</lastBuildDate>
     <item>
-      <title>要成为一名优秀的 Web 开发人员，您需要掌握 HTML 和 CSS 吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk843v/do_you_need_to_master_html_and_css_to_be_a_good/</link>
-      <description><![CDATA[  由    /u/noweh95  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk843v/do_you_need_to_master_html_and_css_to_be_a_good/</guid>
-      <pubDate>Sun, 22 Dec 2024 21:24:25 GMT</pubDate>
+      <title>我为 argparse 制作了一个嵌入式包装器，可以自动创建 GUI 界面</title>
+      <link>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</link>
+      <description><![CDATA[  由    /u/passwordwork  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>我最近免费构建了一个 LinkedIn Scraper 解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk7nx1/i_recently_built_a_linkedin_scraper_solution_for/</link>
-      <description><![CDATA[  由    /u/powerful52  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk7nx1/i_recently_built_a_linkedin_scraper_solution_for/</guid>
-      <pubDate>Sun, 22 Dec 2024 21:02:48 GMT</pubDate>
+      <title>Seergdb v2.5 适用于 Linux。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</link>
+      <description><![CDATA[  由    /u/epasveer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>Palladium——另一种编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk75pw/palladium_yet_another_programming_language/</link>
-      <description><![CDATA[  由    /u/pmqtt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk75pw/palladium_yet_another_programming_language/</guid>
-      <pubDate>Sun, 22 Dec 2024 20:38:46 GMT</pubDate>
+      <title>Nevalang：具有匿名端口和增强型 DI 钻取功能的重大发布🎉</title>
+      <link>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</link>
+      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>晚上和周末也可以写代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk750c/its_okay_to_code_on_nights_and_weekends/</link>
-      <description><![CDATA[  由    /u/tejaskumarlol  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk750c/its_okay_to_code_on_nights_and_weekends/</guid>
-      <pubDate>Sun, 22 Dec 2024 20:37:50 GMT</pubDate>
+      <title>纯 SQL 中的 Code 2024 的出现</title>
+      <link>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</link>
+      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>Quantum CLI 介绍，这是一款可让你在终端中与本地思维链 AI 聊天的 CLI 工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk6w1c/introducing_quantum_cli_a_cli_tool_that_lets_you/</link>
-      <description><![CDATA[  由    /u/ProgrammingLifeIO  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk6w1c/introducing_quantum_cli_a_cli_tool_that_lets_you/</guid>
-      <pubDate>Sun, 22 Dec 2024 20:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>JRuby 与 JBang</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk3qae/jruby_with_jbang/</link>
-      <description><![CDATA[  由    /u/indianDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk3qae/jruby_with_jbang/</guid>
-      <pubDate>Sun, 22 Dec 2024 17:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ascii-galaxy：只是一个很酷的 ASCII 文本，带有星系背景，可添加到您的 github readme</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk34uk/asciigalaxy_just_a_cool_ascii_text_with_galaxy/</link>
-      <description><![CDATA[  由    /u/sptrodon123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk34uk/asciigalaxy_just_a_cool_ascii_text_with_galaxy/</guid>
-      <pubDate>Sun, 22 Dec 2024 17:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 每秒如何处理 16,000 个请求</title>
-      <link>https://www.reddit.com/r/programming/comments/1hk2g6m/how_shopify_handles_16000_request_per_second/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hk2g6m/how_shopify_handles_16000_request_per_second/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全工程 - 构建可靠分布式系统的指南（教科书）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjztxo/security_engineering_a_guide_to_building/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjztxo/security_engineering_a_guide_to_building/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:45:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>布隆过滤器如何让 SQLite 速度提高 10 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjzsmb/how_bloom_filters_made_sqlite_10x_faster/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjzsmb/how_bloom_filters_made_sqlite_10x_faster/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ANX.Guid.Generator - 生成极客友好的 GUID</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjzmwo/anxguidgenerator_generate_geekfriendly_guids/</link>
-      <description><![CDATA[  由    /u/aeonax  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjzmwo/anxguidgenerator_generate_geekfriendly_guids/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 SSL 和自定义域的 Codeberg 页面</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjywrw/codeberg_pages_with_ssl_and_custom_domain/</link>
+      <title>定制标准文本编辑器 ed(1)</title>
+      <link>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</link>
       <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjywrw/codeberg_pages_with_ssl_and_custom_domain/</guid>
-      <pubDate>Sun, 22 Dec 2024 13:53:59 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>coco：一个简单的无堆栈、单线程、仅标头的 C++11 协程库</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjyusy/coco_a_simple_stackless_singlethreaded_and/</link>
-      <description><![CDATA[  由    /u/Ill_Excuse_4​​291  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjyusy/coco_a_simple_stackless_singlethreaded_and/</guid>
-      <pubDate>Sun, 22 Dec 2024 13:50:47 GMT</pubDate>
+      <title>我在 2024 年学到的东西</title>
+      <link>https://www.reddit.com/r/programming/comments/1hod13q/stuff_i_learnt_in_2024/</link>
+      <description><![CDATA[  由    /u/InterviewKitchen4536  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hod13q/stuff_i_learnt_in_2024/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>消除 N+1：Go 中的两阶段数据加载和渲染模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjynu3/eradicating_n1s_the_twophase_data_load_and_render/</link>
-      <description><![CDATA[  由    /u/prlaur782  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjynu3/eradicating_n1s_the_twophase_data_load_and_render/</guid>
-      <pubDate>Sun, 22 Dec 2024 13:38:55 GMT</pubDate>
+      <title>Java：Tern 是一个使用 AES 算法加密和解密文件的命令行工具，用 Java 实现，还具有将文件数组压缩、加密和散列为一个大文件的特殊功能，该文件也可以再次解包以恢复所有文件，请查看源代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</link>
+      <description><![CDATA[  由    /u/Thoriumhexaflouride  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:14:02 GMT</pubDate>
     </item>
     <item>
-      <title>Shopify 如何利用模块化整体架构每分钟处理 30TB 的数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1hjyg0i/how_shopify_handled_30tb_per_minute_with_a/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hjyg0i/how_shopify_handled_30tb_per_minute_with_a/</guid>
-      <pubDate>Sun, 22 Dec 2024 13:25:28 GMT</pubDate>
+      <title>游戏笔记本电脑值得吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</link>
+      <description><![CDATA[大家好，我即将购买一台华硕 TUF dash f15，配备 rtx 3050 ti、i7 12650h、144hz 250 nit 62.5% sRGB，我只是对它的价值感兴趣，以同样的价格购买带有集成 GPU 的 ThinkPad 之类的产品会更好，因为我不是一个狂热游戏玩家，我不确定未来是否需要一些视频编辑或游戏开发，有什么建议吗？    提交人    /u/Ok-Sprinkles-2157   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能不适合懒人</title>
+      <link>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</link>
+      <description><![CDATA[  由    /u/imlutr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle PL/SQL 中的 %TYPE 示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</link>
+      <description><![CDATA[  由    /u/apexysatish  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</guid>
+      <pubDate>Sat, 28 Dec 2024 18:46:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这不是一个抽象概念</title>
+      <link>https://www.reddit.com/r/programming/comments/1hoa5zw/thats_not_an_abstraction/</link>
+      <description><![CDATA[  由    /u/Hamza12700  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hoa5zw/thats_not_an_abstraction/</guid>
+      <pubDate>Sat, 28 Dec 2024 17:13:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 位 BASIC 遗失的教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1ho8619/lost_lessons_from_8bit_basic/</link>
+      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ho8619/lost_lessons_from_8bit_basic/</guid>
+      <pubDate>Sat, 28 Dec 2024 15:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我所知道的有关运输符合规格的产品的所有提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1ho81mx/every_tip_i_know_for_shipping_products_that_match/</link>
+      <description><![CDATA[  由    /u/Dry-Background-4732  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ho81mx/every_tip_i_know_for_shipping_products_that_match/</guid>
+      <pubDate>Sat, 28 Dec 2024 15:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS 代码库中的全局范围污染</title>
+      <link>https://www.reddit.com/r/programming/comments/1ho7j80/global_scope_pollutions_in_js_codebase/</link>
+      <description><![CDATA[  由    /u/professionalthing111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ho7j80/global_scope_pollutions_in_js_codebase/</guid>
+      <pubDate>Sat, 28 Dec 2024 15:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 GitHub 数据，我创建了一张交互式地图，显示了全球每百万人口的程序员数量。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ho6p75/based_on_github_data_i_created_an_interactive_map/</link>
+      <description><![CDATA[  由    /u/alucinario  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ho6p75/based_on_github_data_i_created_an_interactive_map/</guid>
+      <pubDate>Sat, 28 Dec 2024 14:26:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

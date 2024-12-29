@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 22:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:36:45 GMT</lastBuildDate>
     <item>
-      <title>抓取了一个网站，并尝试复制。可以使用信息。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk8jya/scraped_a_site_and_trying_to_get_a_clone_up_could/</link>
-      <description><![CDATA[因此，我主要从事后端开发，只有几年的经验。最近，我管理的一个论坛的所有者去世了。在我们丢失域名之前，我抓取了与之相关的网站和论坛，以尽可能多地存档。  好吧，域名丢失是今天发生的。这超出了我的能力范围，但是有没有一种简单的方法可以获取存档信息并克隆网站，或者我们需要访问所有其他内容？我需要什么？  首先，我假设可以访问数据库以及任何其他后端内容？     提交人    /u/A_little_rose   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk8jya/scraped_a_site_and_trying_to_get_a_clone_up_could/</guid>
-      <pubDate>Sun, 22 Dec 2024 21:45:35 GMT</pubDate>
+      <title>如何在 Odoo 网站上集成 Microsoft Bing IndexNow？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hokuqj/how_to_integrate_microsoft_bing_indexnow_on_odoo/</link>
+      <description><![CDATA[ 请帮助我将 Microsoft Bing IndexNow 集成到我的 Odoo 网站上。我该如何通过安装一些 API 密钥来实现这一点？什么是“在网站根目录托管您的 UTF-8 密钥文件”？ 我必须在 Odoo 的哪里上传 UTF-8 密钥？Head 部分还是 Body 部分？     提交人    /u/RanjanBhattacharya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hokuqj/how_to_integrate_microsoft_bing_indexnow_on_odoo/</guid>
+      <pubDate>Sun, 29 Dec 2024 01:32:03 GMT</pubDate>
     </item>
     <item>
-      <title>限制个人项目的工作时间是个好主意吗？（即使你有空闲时间）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk858x/is_it_a_good_idea_to_limit_the_time_you_work_on_a/</link>
-      <description><![CDATA[我在观看 code with me 视频时遇到了这个问题。为了回答观众的问题，那个人说了类似“我每天花大约 2 到 4 个小时开发这个应用”这样的话。 我有一个像墓地一样的文件夹，里面全是我最终失去兴趣的项目。有些项目处于开始阶段，有些项目几乎已经准备好启动。我相信我们大多数人都有这样的墓地 不过，所有这些项目都有一个共同点：我为它们付出了巨大的努力。比如，一旦我有了想法并认为“我可以构建它”，我就会立即开始工作，直到我睁不开眼睛或被其他事情分散注意力为止。 而且大多数时候，我都会在项目出现烦人的错误或需要处理的繁重工作时离开。也许这就是我没有完成它们的原因之一。 由于我目前只从事自由职业，我可以花一两天时间在自己的项目上。大多数时候我都这样做。 也许完成它们的答案是慢慢来，不要一口吃掉整个甜点？    提交人    /u/mekmookbro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk858x/is_it_a_good_idea_to_limit_the_time_you_work_on_a/</guid>
-      <pubDate>Sun, 22 Dec 2024 21:26:01 GMT</pubDate>
+      <title>浏览器扩展：更改内容安全策略、修改响应标头或获取重定向 URL？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hokmq8/browser_extension_change_content_security_policy/</link>
+      <description><![CDATA[我正在开发一个浏览器扩展程序。我的扩展程序正在尝试通过 fetch 获取文件。我并没有尝试将文件加载为 JavaScript 或图像，只是获取文件的内容。远程服务器正在响应阻止请求的 Content-Security-Policy 指令。在扩展程序用户的许可下，我是否可以禁用/覆盖/修改 CSP 以允许获取请求？ 如果不行，我的扩展程序是否可以修改响应标头以将我的扩展程序添加为可接受的 connect-src？ 最后，作为最后的手段：如果必须强制执行 CSP，但资源在交付网络故障之前重定向，我可以获取被阻止资源的 URL 吗？例如，当我尝试 fetch(&#39;example.com/download&#39;) 时，它会重定向到 server.amazonaws.com/files/file.csv，但此文件被阻止通过 CSP 传送文件内容。我至少可以以某种方式检索 URL server.amazonaws.com/files/file.csv 而不是 example.com/download 吗？    提交人    /u/Produkt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hokmq8/browser_extension_change_content_security_policy/</guid>
+      <pubDate>Sun, 29 Dec 2024 01:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>我什么时候应该使用状态？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk7vxe/when_should_i_use_state/</link>
-      <description><![CDATA[今天，我正在为我的网络应用制作一个类似俱乐部的功能，我决定将用户所在的所有俱乐部存储在状态中（从 api 检索俱乐部数据之后）。但后来我心想，这太多了吗？我还将非敏感用户数据存储在状态中以便快速访问，但你们觉得呢。我什么时候应该使用状态？    提交人    /u/Altugsalt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk7vxe/when_should_i_use_state/</guid>
-      <pubDate>Sun, 22 Dec 2024 21:13:44 GMT</pubDate>
+      <title>布拉德·特拉弗斯 VS 戴夫·格雷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hokeel/brad_traversy_vs_dave_gray/</link>
+      <description><![CDATA[您认为谁是更好的老师并且更新的内容更好？ 我只想关注一个，我还没有决定哪一个。 非常感谢。    由   提交  /u/mcwito   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hokeel/brad_traversy_vs_dave_gray/</guid>
+      <pubDate>Sun, 29 Dec 2024 01:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>协会网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</link>
-      <description><![CDATA[大家好， 我想为我的心脏病协会建立一个网站。 由于我没有任何资金，我尽可能自己做。 我已经选择了一个带有域名的托管计划。 作为一个完全的初学者（20 年前我用 HTML 做了几个网站...），请问最好的选择是什么？ 像 WordPress 这样的 CMS？我已经开始研究它了，但我有点迷茫。 大约有三十页，包括菜单、频繁的新闻更新等，以及其他静态页面。 提前感谢您的反馈，祝您晚上愉快。    提交人    /u/EldarinFR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk5lip/association_website/</guid>
-      <pubDate>Sun, 22 Dec 2024 19:23:32 GMT</pubDate>
+      <title>在生产中使用 nginx-unit 的经验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hojnqx/experience_using_nginxunit_in_production/</link>
+      <description><![CDATA[这里有人有在生产中运行 nginx-unit 的经验吗？它似乎特别适合在单个 VPS 上运行多个应用程序服务器，因为您只需管理一台服务器，而不是一台 Web 服务器加上多台应用程序服务器。有点像 PHP FPM，但您可以使用任何您喜欢的语言。但我没有看到太多关于它的讨论（我在 reddit 上找到的最后一次讨论大约是在 6 年前）。    提交人    /u/evencuriouser   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hojnqx/experience_using_nginxunit_in_production/</guid>
+      <pubDate>Sun, 29 Dec 2024 00:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>创建我的第一个开源项目，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk3xzg/creating_my_first_open_source_project_any_tips/</link>
-      <description><![CDATA[在接下来的几天里，我将开始编写我的第一个开源项目。我正在寻找有关如何构建 GitHub 存储库、项目应使用哪些许可证以及我应该从一开始就实施的任何最佳实践的建议/提示，以便创建一个结构良好、可供其他人贡献的项目。我在英国，当测试版完成后，我计划创建一个慈善机构，该慈善机构将“拥有”该项目和 IP（如域名）。    提交人    /u/netzure   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk3xzg/creating_my_first_open_source_project_any_tips/</guid>
-      <pubDate>Sun, 22 Dec 2024 18:04:47 GMT</pubDate>
+      <title>我忘记计划实时更新的时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hojeq9/the_time_i_forgot_to_plan_for_realtime_updates/</link>
+      <description><![CDATA[当我构建活动管理平台时，我遇到了一个感觉非常熟悉的问题——实时更新。我过于关注核心功能，以至于低估了实时更新对用户体验的重要性。在测试期间，组织者发现刷新页面只是为了查看新的 RSVP 或活动详细信息的更改，这令人沮丧。 解决方案不仅仅是添加 WebSockets 或轮询；而是重新思考平台如何处理数据流。在重新审视架构后，我实现了一个轻量级的实时层，它可以无缝工作而不会耗尽服务器资源。 这让我想起了一个古老的教训：可扩展性不仅仅是处理流量——它还在于预测用户当下的需求。在这个领域工作了几十年，我仍然在学习最简单的功能往往会产生最大的影响。 如果您也面临过类似的挑战，我很想听听您是如何解决的。一场好的对话能激发出惊人的火花！    提交人    /u/crazychampion2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hojeq9/the_time_i_forgot_to_plan_for_realtime_updates/</guid>
+      <pubDate>Sun, 29 Dec 2024 00:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>对于 Web 应用程序，我需要查看哪些内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</link>
-      <description><![CDATA[嗨，我正在制作我的第一个 Web 应用程序。它应该是一个用于问答之夜的应用程序，因此它应该有一个管理员端，可以在其中提问和开始回合，以及一个用户端，可以在其中回答上述问题。我的主要问题是设置问题的自动生成页面，从用户那里获取答案，并将用户从一轮的 html 端重定向到下一轮。 提前致谢！    提交人    /u/entity_Theix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</guid>
-      <pubDate>Sun, 22 Dec 2024 17:00:47 GMT</pubDate>
+      <title>托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoicnt/hosting/</link>
+      <description><![CDATA[嗨，我想问一下，因为我对托管 Web 应用还不是很了解。当我使用 supabase 或 firebase 作为后端时，我通常只托管静态网站和全栈网站。  我打算用 Vue 和 Laravel 为我的客户建立一个项目，但我不知道完成后应该如何托管它    提交人    /u/Totoro-Caelum   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoicnt/hosting/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:29:03 GMT</pubDate>
     </item>
     <item>
-      <title>在 GSAP 中动画剪辑路径？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk1uai/animating_clip_path_in_gsap/</link>
-      <description><![CDATA[只是有点困惑为什么这个剪辑路径动画只是从初始状态跳转到最终状态而不是动画。如果有人知道我会很感激，这让我很抓狂！ https://codepen.io/nwoodward/pen/gbYWyQo?editors=1010    提交人    /u/EducationalZombie538   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk1uai/animating_clip_path_in_gsap/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:25:20 GMT</pubDate>
+      <title>需要文件上传方面的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoi4i8/need_help_with_file_uploading/</link>
+      <description><![CDATA[所以现在我正在开发一个基于 Next js、Express 和 MongoDB 的项目。我想允许用户上传文件并将其存储在我的数据库中。但是 MongoDB 不直接允许这样做，有人能提出一些建议吗？    提交人    /u/scoop_creator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoi4i8/need_help_with_file_uploading/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>在网站标题中添加实时待办事项列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</link>
-      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。甚至相关教程的链接等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:09:38 GMT</pubDate>
+      <title>对于在线业务来说，处理电子邮件的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoh2zu/whats_the_best_way_to_handle_email_for_an_online/</link>
+      <description><![CDATA[我正在开发一个依赖外部提供商提供电子邮件服务的网站，很想听听您的想法。我看到很多人推荐使用 G-Suite (Google Workspace) 来处理个人电子邮件地址，使用 SendGrid 等服务来处理营销活动和交易电子邮件。还有其他好的选项可以同时处理交易电子邮件和营销电子邮件吗？有效设置所需的关键服务和配置是什么？    提交人    /u/kevinmamaqi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoh2zu/whats_the_best_way_to_handle_email_for_an_online/</guid>
+      <pubDate>Sat, 28 Dec 2024 22:28:39 GMT</pubDate>
     </item>
     <item>
-      <title>LiveAPI Devlogs：通过 3 种行业启发的方法转变用户入职方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</link>
-      <description><![CDATA[在开发产品时，我面临的一个挑战是难以让人们加入平台。  为了解决这个问题，我决定分析市场上类似产品的表现，从中获得一些见解，并利用这些经验来开发我产品的入门功能。 我想以文章的形式分享我的学习成果。如果您想为新用户创建流畅的入门体验，请随时在此处查看。 https://journal.hexmos.com/liveapi-devlogs03/    提交人    /u/lordwiz360   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</guid>
-      <pubDate>Sun, 22 Dec 2024 15:04:32 GMT</pubDate>
+      <title>第一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hog4oq/first_website/</link>
+      <description><![CDATA[我自学 HTML、CSS 和 JS 大约两年了，现在开始整理我的第一个网站创意。灵感和功能设计多种多样，还有很多工作要做（有些部分尚未完成），我希望从比我更有经验的开发人员那里获得一些意见。希望你们喜欢！    提交人    /u/frostymanos   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hog4oq/first_website/</guid>
+      <pubDate>Sat, 28 Dec 2024 21:43:56 GMT</pubDate>
     </item>
     <item>
-      <title>有人用过 Tauri 来构建桌面应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</link>
-      <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
+      <title>第一个网站反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hog1kf/first_website_feedback/</link>
+      <description><![CDATA[大家好， 我在 Wordpress 中创建了我的第一个网站，但是我并不是一名网站开发人员，更像是一名全能 IT 人员。 你们能给我一些反馈吗？ 对于外行和专业人士来说，它看起来还不错吗？ 网站： https://glowit.be 期待您的回复 致以亲切的问候    提交人    /u/NotASysAdmin666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hog1kf/first_website_feedback/</guid>
+      <pubDate>Sat, 28 Dec 2024 21:39:59 GMT</pubDate>
     </item>
     <item>
-      <title>Sass：你可以嵌套命名空间属性吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</link>
-      <description><![CDATA[我读到这是可能的，但是当我尝试下面的代码时，它似乎对我不起作用： body { `color: $primary;` `font {` `family: $type-serif;` `size: 18px;` `}`  &gt; 我遗漏了什么吗？    提交人    /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:40:14 GMT</pubDate>
+      <title>使用什么工具或框架来创建沉浸式体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hofiny/what_tool_or_framework_was_used_to_create/</link>
+      <description><![CDATA[      我喜欢黑/白到彩色的效果，也喜欢按下“了解更多”并开始阅读文本时的效果。  我明白，如果我问这个问题，我就无法编写代码或创建到这个级别......  但我至少想尝试重新创建黑白到彩色的效果。这些假期我有时间，我很想学习并尝试更有创意。  你建议我做什么来实现类似的效果？ https://hatom.com    提交人    /u/tehnewbie   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hofiny/what_tool_or_framework_was_used_to_create/</guid>
+      <pubDate>Sat, 28 Dec 2024 21:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>除了 Web 开发以外，您还擅长其他什么吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjxn1f/are_you_specialized_in_something_else_alongside/</link>
-      <description><![CDATA[我之前和一些技术人员交谈过，发现他们中的大多数人都不太重视 Web 开发。我觉得大多数人都把 Web 开发视为在专攻其他领域之前的垫脚石。大多数人声称他们在专攻其他领域之前曾从事过 Web 开发。我已经独自学习了几年 Web 开发并完成了一些项目，但这让我觉得自己有点像冒名顶替综合症，因为我多年来所做的所有这些工作都是别人的垫脚石或他们职业生涯中的小点。    提交人    /u/starengates   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjxn1f/are_you_specialized_in_something_else_alongside/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:33:56 GMT</pubDate>
+      <title>推荐一款极简 HTML/CSS 编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</link>
+      <description><![CDATA[我正在寻找一种简单、最小的工具来进行静态 HTML/CSS 网站设计。我认为过去它被称为所见即所得编辑器。 它真的不需要做太多事情。我只想能够以交互方式查看我对网站所做的更改。并查看它在不同屏幕尺寸下的外观。并在不同的配色方案之间切换。 有什么建议吗？    提交人    /u/Advanced_Toe_298   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:59:39 GMT</pubDate>
     </item>
     <item>
-      <title>我最近建立了一个 LinkedIn Scraper 解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjx2yy/i_recently_built_a_linkedin_scraper_solution/</link>
-      <description><![CDATA[        提交人    /u/powerful52   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjx2yy/i_recently_built_a_linkedin_scraper_solution/</guid>
-      <pubDate>Sun, 22 Dec 2024 11:54:40 GMT</pubDate>
+      <title>刚接触 Visual Studio Code - 扩展？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</link>
+      <description><![CDATA[我是 Visual Studio Code 的新手。多年来一直在使用 DreamWeaver，所以我从来没有真正需要查找扩展来提供帮助。我希望你们能帮助新成员获得每个人都应该拥有的扩展！ 非常感谢！    提交人    /u/Itachi03   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>在 DNS 中，当主 A 记录的 IP 没有响应请求时，是否可以路由到不同的 IP 地址？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</link>
-      <description><![CDATA[我有一个指向我家庭 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</guid>
-      <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
+      <title>[showoff saturday] 想分享一个我们用 HTML、CSS 和 11ty 静态网站生成器为一家彩色玻璃公司制作的独特网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</link>
+      <description><![CDATA[这是网站  https://terrazastainedglass.com 在桌面页面上将他们的作品作为装饰元素融入其中，这很有趣。与我通常的家庭服务客户相比，这绝对是不同类型的客户。原始网站乏善可陈，设计不一致，而且很普通。他们想要一个更优雅、更专业、内容结构更好的东西来真正推销工作和流程。由于他们的业务性质，这个网站更注重图像。我们需要尽可能多地展示作品，让图像推销作品。  总的来说，我们对我们能想出的东西非常满意！     提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:39:52 GMT</pubDate>
     </item>
     <item>
-      <title>Hono.js 与 Express.js 的比较</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjfnmv/honojs_vs_expressjs/</link>
-      <description><![CDATA[我使用 express 已有很长时间，最近遇到了这个名为 hono.js 的新后端框架/路由器。我试过它，它与 express 非常相似，但我不明白它为什么存在。除了“基于 Web 标准构建”这一点（他们在网站上强调了这一点）。Hono.js 让我可以做哪些我无法使用 express 做到的事情？什么时候我想使用 Hono 而不是 express？    提交人    /u/Clean_Mention2022   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjfnmv/honojs_vs_expressjs/</guid>
-      <pubDate>Sat, 21 Dec 2024 18:17:18 GMT</pubDate>
+      <title>我使用 Angular 构建了一个心情日历，2024 年的日历就快完成了。我会继续努力，所以任何反馈都会受到欢迎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoeoem/i_built_a_mood_calendar_using_angular_and_im/</link>
+      <description><![CDATA[        由    /u/dartegnian  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoeoem/i_built_a_mood_calendar_using_angular_and_im/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:36:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

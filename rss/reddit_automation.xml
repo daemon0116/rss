@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 22 Dec 2024 22:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 01:35:17 GMT</lastBuildDate>
     <item>
-      <title>我想使用 Make.com 合并多个视频并添加画外音</title>
-      <link>https://www.reddit.com/r/automation/comments/1hjxztt/i_want_to_combine_multiple_videos_add_voiceover/</link>
-      <description><![CDATA[有没有简单的方法可以做到这一点？基本上，我想设置 Make.com 以从 Pexels 抓取视频，然后将剪辑合并为一个视频并添加画外音。    提交人    /u/lliviia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hjxztt/i_want_to_combine_multiple_videos_add_voiceover/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:57:30 GMT</pubDate>
+      <title>电子邮件 AI 自动化 - 我认为我们可以做得更好</title>
+      <link>https://www.reddit.com/r/automation/comments/1hoiqg4/email_ai_automation_i_think_we_can_do_it_better/</link>
+      <description><![CDATA[嗨！您是否花费太多时间搜索隐藏在电子邮件中的重要文档？我们遇到过这种情况，因此我们正在创建一款 SaaS，可自动将电子邮件附件同步到您现有的云存储（OneDrive、Google Drive 等），按主题组织它们（使用 AI），并生成 Excel 摘要（例如发票）。我们的目标是提供无缝解决方案，与您现有的工作流程集成，无需使用新软件。我们目前正在积极开发中，希望您能提供意见：  这是您面临的问题吗？ 与现有云存储的集成对您来说重要吗？ 哪些功能对您来说至关重要？  您的反馈将有助于我们发展。 网站：www.mail-docs.com     提交人    /u/senderowski001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hoiqg4/email_ai_automation_i_think_we_can_do_it_better/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>我想制作汽车人游戏，有什么简单的方法吗</title>
-      <link>https://www.reddit.com/r/automation/comments/1hjt2x7/i_want_to_make_autobots_for_game_is_there_any/</link>
-      <description><![CDATA[我想学习为电脑游戏制作自动人。有什么方法可以快速完成吗？我想做游戏自动化    提交人    /u/Traditional_Owl_3195   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hjt2x7/i_want_to_make_autobots_for_game_is_there_any/</guid>
-      <pubDate>Sun, 22 Dec 2024 06:38:27 GMT</pubDate>
+      <title>我如何创建个性化的冷电子邮件推广活动，将我的回复率从 2% 提高到 20%</title>
+      <link>https://www.reddit.com/r/automation/comments/1ho6bod/how_i_created_a_personazlied_cold_email_outreach/</link>
+      <description><![CDATA[      我为我的冷电子邮件活动构建了一个自动化功能： • 将我的冷推广活动的响应率从 2% 提高到 8% • 帮助我在短短 30 分钟内创建了 1,000 条个性化推广信息。 • 生成个性化消息，发送给我的连接请求中的潜在客户。 方法如下： • 从他们的网站上抓取领英简历和信息。 • 使用 OpenAl 根据项目符号列表中抓取的信息提出 3 个自动化想法。 • 将其用作 {{Actionltems}} 变量并将其插入到模板中： 冷电子邮件模板（上面的图片👆🏻） 》工作原理如下：  准备：  • 需要一个 Airtable 帐户。登录后，个人访问密钥在此处： https://airtable.com/create/tokens • 需要一个 Perplexity 帐户以获取 API 密钥 (https://www.perplexity.ai/settings/api) • 需要一个 OpenAl 帐户和 API 密钥 (https://platform.openai.com/settings/organization /api-keys) 和组织 ID (https://platform.openai.com/settings/organization /general)  抓取线索：  • 在 Apollo 中创建一个免费帐户 • 转到列表，并使用过滤器创建符合目标客户资料的潜在客户列表 • 复制 URL 并使用 leadsrapidly.com 抓取数据并导出到 CSV。  设置 Airtable：  • 创建一个名为“Cold Leads DB”的新表 • 导入 Airtable • 创建以下列 ■ Linkedin 摘要 • 网站摘要 ■ 破冰船 • 连接请求 • 设置以下过滤器： • LinkedIn 摘要为空  购买 LinkedIn Scraper 订阅  • 有很多选项可供选择，但我选择的是 LinkedIn Data Scraper by RockSolid API。 • 订阅后，复制 API 密钥并将其粘贴到 Make.com 蓝图内的 HTTP 模块中  在 Make 中设置自动化模块：  • 设置自动化（导入蓝图，在下面购买以获取它） • 一切都为您设置好了，只需检查它们以确保它们正常工作，并个性化提示。 • 配置 Perplexity 和 GPT Prompt 模块以按照您听起来的方式生成内容。  潜在客户个性化流程：  • 使用蓝图中的提示并根据您的要求进行调整。  完成和审查内容：  • 将 Airtable 搜索记录限制配置为 2 以进行测试运行。选择您自己的基础和表格。 • 在测试期间，确保您对输出感到满意。如果是，请将限制重新设置回 40。  转到 Make.com 并运行自动化  它看起来像这样：AI-POWERED 个性化外展系统（*注意：这只是一个要查看的模板，而不是蓝图） PS：如果您希望获得蓝图，这里是购买链接：单击此处    提交人    /u/Acceptable-Kiwi9628   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ho6bod/how_i_created_a_personazlied_cold_email_outreach/</guid>
+      <pubDate>Sat, 28 Dec 2024 14:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>对社交媒体内容自动化感兴趣吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hj0zzy/interested_in_social_media_content_automation/</link>
-      <description><![CDATA[TiktokLiveGames 是一项提供匿名内容和自动化 tiktok 直播的服务。请访问 tiktoklivegames.io 了解更多信息     提交人    /u/tiktoklivegames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hj0zzy/interested_in_social_media_content_automation/</guid>
-      <pubDate>Sat, 21 Dec 2024 03:17:31 GMT</pubDate>
+      <title>您梦想中的 2025 年自动化项目是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ho2qfi/whats_your_dream_automation_project_for_2025/</link>
+      <description><![CDATA[如果时间和资源不是问题，明年您最想实现自动化的一件事是什么？    提交人    /u/Remarkable_Toe_8335   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ho2qfi/whats_your_dream_automation_project_for_2025/</guid>
+      <pubDate>Sat, 28 Dec 2024 10:04:03 GMT</pubDate>
     </item>
     <item>
-      <title>像圣诞树一样协调跨 API 的自动化工作流程</title>
-      <link>https://www.reddit.com/r/automation/comments/1hixd98/orchestrating_an_automation_workflow_across_apis/</link>
-      <description><![CDATA[        提交人    /u/Various-Might5115   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hixd98/orchestrating_an_automation_workflow_across_apis/</guid>
-      <pubDate>Fri, 20 Dec 2024 23:59:56 GMT</pubDate>
+      <title>如何自动检测螺纹？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hnwkej/how_to_inspect_thread_automatically/</link>
+      <description><![CDATA[如何自动检查线程？    提交人    /u/MiserableNecessary78   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hnwkej/how_to_inspect_thread_automatically/</guid>
+      <pubDate>Sat, 28 Dec 2024 03:17:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用 pythonscript 在 notepad++ 中自动列出列表</title>
-      <link>https://www.reddit.com/r/automation/comments/1hioke8/automatic_lists_in_notepad_with_pythonscript/</link>
-      <description><![CDATA[我一直在尝试创建一个脚本，通过 pythonscript 自动在列表的每一行开头添加符号（有序列表为 1. 、2. 、3. 等，无序列表为 - ），但我对它完全是菜鸟，所以我遇到了一些问题。 首先，这是我的代码： # import keyboard import re while True: try: if keyboard.is_pressed(&#39;Enter&#39;) and re.search(r&quot;^\t*\d+[.] &quot;, editor.lineDuplicate())==True: num = int(re.split(r&quot;[.]\s&quot;, editor.lineDuplicate())[0]) editor.insertText(-1, &quot;{num + 1}. &quot;) continue elif keyboard.is_pressed(&#39;Enter&#39;) and re.search(r&quot;^\t*- &quot;, editor.lineDuplicate())==True: editor.insertText(-1, &quot;- &quot;) continue except: continue  import keyboard 语句已被注释，因为如果我实际尝试导入它，我会收到此错误：ModuleNotFoundError: 没有名为“keyboard”的模块 基本上，我试图使用正则表达式来检查行首是否有一个通常用于在文本文档中启动有序或无序列表的字符串。 然后，如果按下 Enter 键并且该字符串位于行首，它会在行首添加正确的字符串（对于编号列表，只要遇到“. &quot;，它就会拆分行字符串，获取列表的第一个元素（上一行开头的数字）并在插入新字符串之前向其添加 1。 现在，即使脚本正在运行，也什么也没有发生，我的理论是，这个脚本在实际获取正确的行来检查正则表达式条件方面存在一些问题。我的问题是，如果你们中的一些人比我更有 pythonscript 经验，那么：  如何复制当前文件中特定行的文本？ if 语句中的指令是在 notepad++ 转到新行之前还是之后处理？ 有没有更好的方法来完成我想做的事情？或者只是编写我已经编写的代码？     提交人    /u/Chanciicnahc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hioke8/automatic_lists_in_notepad_with_pythonscript/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:13:51 GMT</pubDate>
+      <title>9 款最佳 AI 社交媒体管理工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1hnrauu/9_best_ai_social_media_manager_tools/</link>
+      <description><![CDATA[        提交人    /u/HoudaMarketer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hnrauu/9_best_ai_social_media_manager_tools/</guid>
+      <pubDate>Fri, 27 Dec 2024 22:51:25 GMT</pubDate>
     </item>
     <item>
-      <title>职业建议：进入自动化岗位（物流/供应链重点）</title>
-      <link>https://www.reddit.com/r/automation/comments/1hinksv/career_advice_breaking_into_automation_roles/</link>
-      <description><![CDATA[大家好， 我正在寻求一些关于进入自动化领域的职业建议，特别是涉及物流或供应链自动化的工作。 以下是一些我的背景信息：  我自学了 UiPath，对其功能感到满意。 我有使用 Power Automate、Zapier 和多个 CRM（HubSpot、Salesforce 等）等工具的实践经验。 我在目前的职位上构建了工作流和自动化，但它们主要侧重于简化内部流程，而不是大规模的“真正的自动化”。  我对自动化如何彻底改变物流和供应链等行业很着迷，但我不确定如何专业地进入这个领域。我的理想角色包括设计和部署自动化工作流程，以优化运营，减少手动工作量并为企业创造可衡量的影响。 因此，以下是我对这个优秀社区的问题：  在物流或供应链管理中的自动化角色中，哪些认证、技能或经验最受重视？ 我应该针对自动化领域的入门级或中级职位瞄准哪些特定的公司或行业？ 我如何推销我在 UiPath、Power Automate 和 Zapier 方面的现有经验，以脱颖而出成为候选人？ 关于在自动化领域建立网络或联系有什么建议吗？  我愿意接受您分享的任何指导、故事或提示。提前感谢你的帮助！😊    提交人    /u/Haunting-Fuel-9844   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hinksv/career_advice_breaking_into_automation_roles/</guid>
-      <pubDate>Fri, 20 Dec 2024 16:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 Veo 2 优于 OpenAI 的 Sora</title>
-      <link>https://www.reddit.com/r/automation/comments/1hihwie/googles_veo_2_outperforms_openais_sora/</link>
+      <title>ChatGPT 搜索：易受错误信息影响</title>
+      <link>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</link>
       <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hihwie/googles_veo_2_outperforms_openais_sora/</guid>
-      <pubDate>Fri, 20 Dec 2024 11:34:22 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</guid>
+      <pubDate>Fri, 27 Dec 2024 11:34:27 GMT</pubDate>
     </item>
     <item>
-      <title>zkCross：通过无缝、安全的交换彻底改变 DeFi！🚀</title>
-      <link>https://www.reddit.com/r/automation/comments/1higs9e/zkcross_revolutionizing_defi_with_seamless_secure/</link>
-      <description><![CDATA[zkCross 即将颠覆 DeFi 游戏！ 85% 的 DeFi 仅位于六条链上，zkCross 打破了常规，轻松连接所有链。 忘掉滑点和流动性问题吧——这项技术让掉期变得轻而易举。此外，它非常安全，有加密证明支持您的资金。 他们刚刚获得了 5250 万美元的巨额资金，并通过法定货币和一键转账使其更易于使用。 DeFi 正在大放异彩，zkCross 正在引领潮流。    提交人    /u/liTtlebrocoi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1higs9e/zkcross_revolutionizing_defi_with_seamless_secure/</guid>
-      <pubDate>Fri, 20 Dec 2024 10:13:32 GMT</pubDate>
+      <title>处理邮件通知</title>
+      <link>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</link>
+      <description><![CDATA[嗨，我是自动化新手，到目前为止，我制作了一些小的 Python 脚本来自动完成我经常使用的网站。 现在，我想就如何执行特定任务获得一些建议。我在 mac OS 上，我想自动执行此过程：1-当我收到一封包含账单的特定邮件时触发 2-阅读此邮件以找到打开显示账单的网站的超链接 3-将账单保存到磁盘 现在，我想我将依靠步骤 1 的邮件规则和步骤 3 的 Python 脚本但我不知道如何检测步骤 2 中的超链接并将其发送到步骤 3 的 Python 脚本..    提交人    /u/coggia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</guid>
+      <pubDate>Fri, 27 Dec 2024 07:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>参与 2025 年电子邮件状况调查</title>
-      <link>https://www.reddit.com/r/automation/comments/1hif5m0/be_a_part_of_state_of_email_2025/</link>
-      <description><![CDATA[  由    /u/zedakhtar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hif5m0/be_a_part_of_state_of_email_2025/</guid>
-      <pubDate>Fri, 20 Dec 2024 08:07:33 GMT</pubDate>
+      <title>通过邮件验证自动创建 Reddit 账户 - 观看实际操作</title>
+      <link>https://www.reddit.com/r/automation/comments/1hn6u6f/automated_reddit_account_creation_with_mail/</link>
+      <description><![CDATA[有没有想过，在创建 Reddit 帐户时，如何实现自动化，并进行完整的邮件验证？我最近完成了一个有趣的项目，我构建了一个基于 iOS 的机器人，它就是用来做这件事的。它可以无缝处理整个过程，包括验证电子邮件，使帐户创建变得超级高效和轻松。 我已经在视频中记录了整个过程，以展示它是如何实时工作的。无论您是对自动化、机器人开发感兴趣，还是只是对这些系统的运行方式感到好奇，您都可能会发现这段视频很有见地。 在这里查看：https://youtu.be/LKWlwOKUEUM?si=O8n8kABB2KE_1K_M 很想听到您的想法和反馈。    提交人    /u/Gianni17_724   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hn6u6f/automated_reddit_account_creation_with_mail/</guid>
+      <pubDate>Fri, 27 Dec 2024 04:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>[节日促销] Perplexity AI PRO - 1 年计划优惠 - 75% 折扣</title>
-      <link>https://www.reddit.com/r/automation/comments/1hidy92/holiday_promo_perplexity_ai_pro_1_year_plan_offer/</link>
-      <description><![CDATA[      如标题：我们提供一年计划的 Perplexity AI PRO 优惠券代码。  订购：CHEAPGPT.STORE 接受付款：  PayPal。 Revolut。  反馈：反馈帖子    提交人    /u/Verza-   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hidy92/holiday_promo_perplexity_ai_pro_1_year_plan_offer/</guid>
-      <pubDate>Fri, 20 Dec 2024 06:40:00 GMT</pubDate>
+      <title>关系数据库？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hn1t5z/relational_databases/</link>
+      <description><![CDATA[我在 Sheets 和 Air Table 上遇到了瓶颈。 我想对两个表进行连接。 select * from table1, table2 where table2.foreignkey = table1.id 我也希望能够使用 SQL 进行删除。在 Sheets 中删除很困难。AirTable 需要选择记录并输入它们以一次删除 10 条。 有没有我可以查看的关系选项？ 谢谢！！    提交人    /u/BestRedLightTherapy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hn1t5z/relational_databases/</guid>
+      <pubDate>Fri, 27 Dec 2024 00:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>有人为客户构建无代码结构化文档提取吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hi7b44/anyone_building_nocode_structured_document/</link>
-      <description><![CDATA[寻找实施开发人员以利用我们的结构化文档提取平台。公司使用我们将数据从复杂文档中提取到结构化的 JSON 输出中或直接提取到他们自己的 Excel 表中。 如果您有兴趣，请直接发私信给我。我是位于旧金山的 YC 创始人，我们正在向独立的无代码开发人员开放合作伙伴计划。    提交人    /u/Western_Falcon_5975   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hi7b44/anyone_building_nocode_structured_document/</guid>
-      <pubDate>Fri, 20 Dec 2024 00:21:48 GMT</pubDate>
+      <title>用于工作流自动化的 Chrome 扩展？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmyx7q/a_chrome_extension_for_workflow_automation/</link>
+      <description><![CDATA[大家好， 我想到了一些事情，对于我的用例，我需要它。但是，我想验证我是否并不孤单。 因此，这适用于大量使用 Chrome/浏览器工作和生活的用户。 您是否认为如果有办法在 Chrome 中“自动化”某些操作会很有帮助？例如，  假设我正在网站上阅读某篇文章，并且我想快速：1）将文章保存在某处；2）生成它的 AI 摘要；3）也许起草一条关于它的推文；4）显示 AI 摘要 或者，也许，我想右键单击图像 -&gt; 将其发送到某个外部端点或 Zapier 自动化 或者，我想在 Slack 频道中快速分享这个 dank meme，因此我右键单击 -&gt; &quot;将 meme 发送给我的工作伙伴&quot; 或者，我选择文本 -&gt; 右键单击​​ -&gt; &gt; &gt; &quot;通过 URL 分享&quot;，然后我获得一个复制到文本粘贴的链接 或者，我收到一封电子邮件，我选择其文本 -&gt; 右键单击​​ -&gt; &gt; &gt; &quot;以礼貌的方式说不&quot;然后完成 或者也许您想要一个随机的社交媒体帖子创意，因此您只需单击浏览器工具栏中的按钮，然后单击 &quot;生成 bla bla 帖子创意&quot;即可获得它  这是一种执行您自己的自定义&quot;工作流&quot;的方法，而无需离开浏览器或您正在执行的任何操作。您可以自动执行操作、使用外部服务、发送数据等。可能像 &quot;Zapier&quot;，但是为了您的个人浏览体验。 那么，您觉得怎么样？这会有帮助吗？这是否足够“有价值”？    提交人    /u/usamaejazch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmyx7q/a_chrome_extension_for_workflow_automation/</guid>
+      <pubDate>Thu, 26 Dec 2024 21:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个 API，用于处理所有网页抓取和数据获取难题。将所有实时数据需求转换为单个 APl 调用。</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhznb9/i_built_an_api_that_handles_all_the_web_scraping/</link>
-      <description><![CDATA[https://onequery.app 将其压缩到其他一些 LLM 中，以自动从网络获取信息：https://www.onequery.app/blog/browsing-the-web-with-ai    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhznb9/i_built_an_api_that_handles_all_the_web_scraping/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:34:11 GMT</pubDate>
+      <title>在 2 小时内创建了一个内部工具/microsaas</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmwoxa/literally_created_an_internal_toolmicrosaas_in_2/</link>
+      <description><![CDATA[  由    /u/vidiit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmwoxa/literally_created_an_internal_toolmicrosaas_in_2/</guid>
+      <pubDate>Thu, 26 Dec 2024 20:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>如何为营销团队选择最佳的 SaaS 项目管理工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhr26a/how_to_choose_the_best_saas_project_management/</link>
-      <description><![CDATA[        提交人    /u/hevinjose7   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhr26a/how_to_choose_the_best_saas_project_management/</guid>
-      <pubDate>Thu, 19 Dec 2024 11:39:50 GMT</pubDate>
+      <title>找到合适的人选</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmvcw7/finding_the_right_fit/</link>
+      <description><![CDATA[很长一段时间以来，我都在为我们的客户支持系统而苦苦挣扎。漫长的等待时间和不满意的客户正在成为常态。我迫切需要一个能够高效处理电话并提供有用见解的解决方案。 有一天，我发现了 NLPearl，这是一个由人工智能驱动的电话代理，可以像人类一样与客户互动。我很高兴地得知它还可以分析电话并提供反馈。 注册后，我定制了代理以适应我们品牌的声音。结果令人难以置信，提高了客户满意度并减少了等待时间。如果您面临类似的挑战，我强烈建议您查看 NLPearl！ 您是否曾想过在客户服务中使用人工智能？哪些功能对您来说最重要？    提交人    /u/minemateinnovation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmvcw7/finding_the_right_fit/</guid>
+      <pubDate>Thu, 26 Dec 2024 19:05:13 GMT</pubDate>
     </item>
     <item>
-      <title>让我们互相帮助共同成长，我们每个人都有上升的空间。</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhmnw4/lets_help_eachother_grow_theres_room_for_all_of/</link>
-      <description><![CDATA[我正在建立一个由敬业的企业家、兼职人员和行动者组成的社区，他们希望建立世代财富。  https://discord.gg/richorded    提交人    /u/tiecopfe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhmnw4/lets_help_eachother_grow_theres_room_for_all_of/</guid>
-      <pubDate>Thu, 19 Dec 2024 06:22:28 GMT</pubDate>
+      <title>潜力无限，令人兴奋</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmttwj/new_but_thrilled_by_the_potentials/</link>
+      <description><![CDATA[我已决定 2025 年是我的自动化学习年。但自动化已经彻底改变了我的工作方式，我开始感受到成为真正的报告大师会是什么样子。 我的报告流程刚刚取得突破。我没有手动整合每月 XYZ 报告的所有数据，而是构建了两个 Google Apps 脚本来将电子邮件和日历数据提取到电子表格中。然后，我清理了数据，将其下载到 ChatGPT，并使用我预先编写的 ChatGPT 提示以及我所有的报告问题来生成答案。然后我将答案复制粘贴到报告表单中。 还有谁发现自动化让曾经令人生畏的任务变得充满力量？ 如果您可以建议后续步骤（请对我的新手大脑保持简单），我将非常乐意听取您的意见。谢谢。     由    /u/continue_in_park 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmttwj/new_but_thrilled_by_the_potentials/</guid>
+      <pubDate>Thu, 26 Dec 2024 17:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>自动发帖...</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhma50/automating_posts/</link>
-      <description><![CDATA[大家好... 我的一个客户想要在以 R 开头的某个平台上自动发布帖子... 在它的某些社区中...我已经尝试了 10 次不同的方法.. 但是一两天后，账户就被禁止了.. 有没有什么可能的方法可以实现这一点.. 我的客户有一台 Apple M1，因此，除非他能够在远程窗口或类似的东西中启动它，否则我无法在他的系统上尝试电源自动化，我想这太过分了.. 我该怎么办？我如何制作这个自动化程序，使他的帐户不会被禁止..    提交人    /u/Over_Ebb940   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhma50/automating_posts/</guid>
-      <pubDate>Thu, 19 Dec 2024 05:58:03 GMT</pubDate>
+      <title>欧洲的人工智能资金热潮</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmmmjz/europes_ai_funding_boom/</link>
+      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmmmjz/europes_ai_funding_boom/</guid>
+      <pubDate>Thu, 26 Dec 2024 11:35:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>为客户网站启用人工智能聊天机器人 - 需求工具和方法</title>
+      <link>https://www.reddit.com/r/automation/comments/1hmi140/ai_enabled_chatbots_for_client_website_in_demand/</link>
+      <description><![CDATA[大家好， 我与一家社交媒体营销机构合作，我们从事内容创作、Instagram 和 Facebook 广告、社交媒体、媒体制作和元付费广告。我们有一个餐饮餐厅客户，我们计划为其网站构建支持 AI 的聊天机器人。企业目前正在使用哪些工具和 API，人们是否使用 API 或在线工具来构建聊天机器人。你们能提出自己的想法和建议吗？    提交人    /u/PlutoExists03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hmi140/ai_enabled_chatbots_for_client_website_in_demand/</guid>
+      <pubDate>Thu, 26 Dec 2024 05:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
