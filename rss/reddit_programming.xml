@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 09:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 10:18:18 GMT</lastBuildDate>
+    <item>
+      <title>我如何从这个网站复制粘贴一些统计数据？当我这样做时，它完全变了。谢谢</title>
+      <link>https://www.reddit.com/r/programming/comments/1hot6cl/how_can_i_copy_paste_some_stats_from_this_website/</link>
+      <description><![CDATA[  由    /u/PuzzleheadedFix7236  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hot6cl/how_can_i_copy_paste_some_stats_from_this_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 10:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>不太现代的 C++</title>
+      <link>https://www.reddit.com/r/programming/comments/1hot45m/not_so_modern_c/</link>
+      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hot45m/not_so_modern_c/</guid>
+      <pubDate>Sun, 29 Dec 2024 10:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>在外部 USB 上安装 Rust 并保存在那里</title>
       <link>https://www.reddit.com/r/programming/comments/1honbwk/installing_rust_on_an_external_usb_and_keeping/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/Hamza12700  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hoa5zw/thats_not_an_abstraction/</guid>
       <pubDate>Sat, 28 Dec 2024 17:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 位 BASIC 遗失的教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1ho8619/lost_lessons_from_8bit_basic/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ho8619/lost_lessons_from_8bit_basic/</guid>
-      <pubDate>Sat, 28 Dec 2024 15:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我所知道的有关运输符合规格的产品的所有提示</title>
-      <link>https://www.reddit.com/r/programming/comments/1ho81mx/every_tip_i_know_for_shipping_products_that_match/</link>
-      <description><![CDATA[  由    /u/Dry-Background-4732  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ho81mx/every_tip_i_know_for_shipping_products_that_match/</guid>
-      <pubDate>Sat, 28 Dec 2024 15:35:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
