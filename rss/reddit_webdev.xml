@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 12:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 13:20:24 GMT</lastBuildDate>
+    <item>
+      <title>我在 DigitalOcean 和 Hetzner 上部署了相同的应用程序！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hovril/i_deployed_the_same_app_on_digitalocean_and/</link>
+      <description><![CDATA[过去几年来，我一直是从 DigitalOcean 购买 VPS 的首选。然而，最近，一些更便宜的云提供商，特别是 Hetzner，受到了很多关注！ 在他们最便宜的计划中，您只需每月 4 美元 即可获得 2 个核心、4 GB RAM、40 GB SSD 和 20 TB 带宽！ ![Hetzner 定价 SS](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3x55o2e1jtllcd86yl1w.png) 要在 DigitalOcean 上获得类似的东西，您需要支付 24 美元/月！ 现在从纸面上看，这听起来很划算！似乎转用 Hetzner 是明智之举。但有什么问题吗？它真的像大家说的那么好吗？与 DigitalOcean 之类的计划相比，Hetzner 最便宜的计划可以处理多少流量？ 为了找出答案，我在同一地区的两个平台上部署了相同的应用程序，比较了它们的性能，并在此视频中分享了我的发现：https://youtu.be/mrDXF-Y9T50 如果您着急，这里是结果 👇   虚拟用户 Digital Ocean Hetzner    50 593.4ms 575.99   100 754.84ms 626.04   250 1.4s+ 950.23   500 6s 1.8s   费用 6 美元/月 4 美元/月      提交人    /u/devarifhossain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hovril/i_deployed_the_same_app_on_digitalocean_and/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望获得一些关于我的开源项目 UI 的意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hovqar/looking_to_get_some_opinion_on_my_open_source/</link>
+      <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hovqar/looking_to_get_some_opinion_on_my_open_source/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何才能制作类似我的网站的展示视频？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</link>
+      <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站类型只有两种：scrolly 和 webgl</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</link>
+      <description><![CDATA[听我说。Scrolly 是您的标准网站，从 Facebook 和 airbnb 等科技巨头到 2014 年为路边的餐馆制作的网站。 Webgl 是您在 awwwards 上看到的所有奇怪的 webgl 内容。完整体验，重点是 DOM 上的画布。 我看到的每个网站都属于这两类之一。我发现的唯一例外是像 dustinbrett.com 这样的东西，它看起来像一个桌面 UI。 您还见过其他违反此规则的东西吗？    提交人    /u/neat_man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</guid>
+      <pubDate>Sun, 29 Dec 2024 13:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>真的有人买了域名来做这个😂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hovf92/someone_really_bought_domain_to_do_this/</link>
+      <description><![CDATA[        提交人    /u/Honest_Equivalent_40   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hovf92/someone_really_bought_domain_to_do_this/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>体育网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</link>
+      <description><![CDATA[由于我是一名网页开发人员和体育爱好者，我想建立自己的与足球相关的体育网站。我在与体育相关的 Facebook 页面上也有 50 多万粉丝。通过这个 Facebook 页面推广我的网站会有帮助吗？    提交人    /u/purgetoxicselfhabits   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 12:36:22 GMT</pubDate>
+    </item>
     <item>
       <title>不错的小 URL 破解，让您成为第一批申请该职位的候选人（LinkedIn 最多只允许 24 小时的筛选）</title>
       <link>https://www.reddit.com/r/webdev/comments/1housts/nice_little_url_hack_to_be_among_the_first/</link>
@@ -25,13 +67,6 @@
       <description><![CDATA[我正在寻找可以评估我的网站漏洞或更有效的编程方法的东西。 有哪些工具可以在生产或开发网站上使用来检查漏洞或代码错误？ 是否有任何开源工具、程序或方法可以做到这一点？有任何价格合理的商业代码审查服务吗？    提交人    /u/Unhappy_Trout   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hou7vw/web_vulnerabilityefficieny_checker/</guid>
       <pubDate>Sun, 29 Dec 2024 11:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么会发生这种情况？ 上下文在正文中。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</link>
-      <description><![CDATA[由于 CP 法律，Pixiv 在我的国家被屏蔽，我无法访问，但我的朋友可以。我们生活在同一个国家和城市，当时我们也没有使用 VPN。 是什么原因造成的？主要问题是“为什么我们生活在同一个国家，我被屏蔽了，而他没有被屏蔽”，而不是为什么 pixiv 本身被屏蔽    提交人    /u/No-Entertainment3597   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hou4mm/why_is_this_happening_context_in_body_text/</guid>
-      <pubDate>Sun, 29 Dec 2024 11:24:17 GMT</pubDate>
     </item>
     <item>
       <title>有人尝试过 onedollarstats.com 吗？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[因此我在后端编写了这个函数来更新帖子的反应，并且我在相同的函数中执行喜欢和不喜欢的查询，并且基于查询响应，我要么删除数据要么将数据插入到表中。当我完成此代码的编写后，我想为什么不计算这个函数的时间复杂度，结果是 O(log n) + O(log m) + O(log k) n =&gt; 帖子数量，m =&gt; 喜欢的帖子数量，k =&gt; 不喜欢的帖子数量， 我问副驾驶我是否可以进一步优化它，他建议我不要使用 EXPLICIT sql 查询并使用 Sequelize 等。 别介意我刚才说的废话，主要问题是，我们什么时候需要，而不是明确的方法。或者我只是在写愚蠢的函数。 （上下文：我在构建时正在学习 mysql）    提交人    /u/Ayushgairola   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1horxxg/time_complexity/</guid>
       <pubDate>Sun, 29 Dec 2024 08:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年开始我的学习之旅：需要建议和见解！🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hordvw/starting_my_learning_journey_in_2026_advice_and/</link>
-      <description><![CDATA[大家好，我将在 2026 年开启一段令人兴奋且雄心勃勃的学习之旅，我很乐意听取您的建议、见解或建议。以下是我正在深入研究的内容： 📚 我的学习目标 1. 掌握 C++ 和 DSA： - 我专注于竞争性编程并培养强大的解决问题的能力。 - 当前进度：学习递归和解决基本问题。  Web 开发：  完成 HTML 和 CSS，现在转向 JavaScript 和实际项目。 计划构建一个响应式作品集网站作为我的第一个项目。  BCA 第 4 学期学习：课程：• Java • 软件工程 • 网络安全 • 电子商务和 Windows 服务器管理。    平衡大学学业和个人学习一直是一个挑战，所以这里的建议会很有帮助！ 🕒时间管理  我制定了 7 小时学习计划：  上午：核心概念和困难主题。 下午：项目工作和练习。 晚上：重新审视概念、解决问题和回顾进度。 🌱 我在寻找什么 初学者在这些领域应避免的错误。 必须了解的资源或要解决的项目。 如何在管理大学和个人学习的同时充分利用我的时间。  有过类似经历的专业人士能给出什么一般性建议吗？    问题：  开始 C++、DSA 或 Web 开发时，你希望了解什么？  对于 Java、网络安全和电子商务，我应该关注哪些关键概念？  您能推荐一些被低估但非常有价值的资源吗？   提前谢谢大家。     提交人    /u/noMerciemf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hordvw/starting_my_learning_journey_in_2026_advice_and/</guid>
-      <pubDate>Sun, 29 Dec 2024 08:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有没有人创办过网络开发机构？如果有的话，你的经历如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hor3xc/has_anyone_here_started_a_web_development_agency/</link>
-      <description><![CDATA[正如标题所说，我正在创办自己的网络开发机构，我只是想知道您是否对我如何产生潜在客户和获得客户有什么建议，我确实有一些人愿意为我工作并按项目获得报酬。     提交人    /u/In-Hell123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hor3xc/has_anyone_here_started_a_web_development_agency/</guid>
-      <pubDate>Sun, 29 Dec 2024 07:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很好奇，lovable、softgen、bolt 如何显示 typescript next.js 代码的实时预览？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hops3a/im_curious_how_does_lovable_softgen_bolt_show/</link>
-      <description><![CDATA[我正在尝试所有这些 MVP 应用程序的想法，并想知道它们如何在运行时呈现预览？ 我遇到了 2 个解决方案 - sandpack - webcontainers webcontainers 是付费的，所以我不认为 lovable 或 softgen 使用它。 然后我检查了网络选项卡，他们也不太可能使用 sandpack。 那么，他们怎么可能运行这个？    提交人    /u/ravi_sojitra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hops3a/im_curious_how_does_lovable_softgen_bolt_show/</guid>
-      <pubDate>Sun, 29 Dec 2024 06:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何安全地托管网站并确保 API 密钥或访问令牌不被泄露？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoppph/how_can_i_securely_host_a_website_and_ensure_that/</link>
-      <description><![CDATA[我是一名学生，我想托管使用 API 的网站。通常对于我的静态网站，我会将其托管在 GitHub 上，因为我不是专业使用它们，而只是为了练习 Web 开发。不过，现在我已经创建了一个网站，我想让其他人也使用它。您能否给我一些说明和/或我应该学习的东西，以便在托管网站中安全地使用 API。谢谢！    提交人    /u/linnxyz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoppph/how_can_i_securely_host_a_website_and_ensure_that/</guid>
-      <pubDate>Sun, 29 Dec 2024 06:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>甚至 ISP 也忘记添加 `.toFixed(2)` 或 `Intl` 方法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</link>
-      <description><![CDATA[        提交者    /u/Master-Variety3841   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</guid>
-      <pubDate>Sun, 29 Dec 2024 05:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
