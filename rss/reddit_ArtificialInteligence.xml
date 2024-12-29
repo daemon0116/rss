@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 05:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 06:24:11 GMT</lastBuildDate>
+    <item>
+      <title>GenAI 在客户管理/项目管理中的应用？炒作与现实世界的成功</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hop128/genai_in_client_management_project_management/</link>
+      <description><![CDATA[我已经看到许多课程大力推广 GenAI 在项目管理中的应用，但我一直遇到同样的问题。 虽然我已经将我的一些 PM 送到了 Prompt-writing 课程，我认为他们正在开发角色和其他更高级的内容生成工具，但我一直遇到同样的问题： 生成的内容太过通用/乏味。客户将他们的真实内容放在防火墙后面，尽管使用内部 AI 系统来查询文档组，但编写的分析结果仍未达到我对每周和每月报告生成的期望。关键电子表格、关键 powerpoint 幻灯片、关键每周要点仍必须手写才能产生高影响力。我似乎无法训练 GenAI 在给定的一周内对会议记录或多文档工作进行有意义、有影响力的分析。我不知道如何训练它找到我本能知道的绝对高价值内容。 事实上，我们使用 GenAI 不仅仅是为了一般的工作 - 记录会议、创建记录，然后查询这些记录以获取“关键要点”。通常我可以比 AI 更快地写出关键要点，因为我刚刚离开会议 - 这让我可以做的就是将会议记录工作分配给非常初级的员工。 我很想创建提示，可以浏览会议记录并生成“系统应”要求或审查所有要求并生成测试用例。在那里没有得到真正的结果。 您在哪里看到在项目或客户管理中使用 GenAI 的真正可靠结果？    提交人    /u/Think_Leadership_91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hop128/genai_in_client_management_project_management/</guid>
+      <pubDate>Sun, 29 Dec 2024 05:23:44 GMT</pubDate>
+    </item>
     <item>
       <title>厌倦了 ChatGPT 对关键问题进行美化和煽动性的偏见。还有选择吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hooa3q/tired_of_chatgpt_bias_towards_sanitized/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>给我的建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hois62/suggestion_for_me/</link>
-      <description><![CDATA[大家好， 我应该选修什么样的人工智能课程？在人工智能的众多课程中，我感到很迷茫。我想知道，如果我想在未来 1 年内开始经营一家小企业，我应该利用哪些资源来适应自己！ 此外，我是一名环境/化学工程师。因此，如果您能建议哪些课程可以帮助我在这个领域发展，我将不胜感激！ 谢谢    提交人    /u/playpauseresume   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我应该选修什么样的人工智能课程？在人工智能的众多课程中，我感到很迷茫。我想知道，如果我想在未来 1 年内开始经营一家小企业，我应该利用哪些资源来适应自己！ 此外，我还是一名环境/化学工程师。因此，如果您能建议哪些课程可以帮助我在这个领域发展，我将不胜感激！ 谢谢    提交人    /u/playpauseresume   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hois62/suggestion_for_me/</guid>
       <pubDate>Sat, 28 Dec 2024 23:49:51 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Sat, 28 Dec 2024 12:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>教育领域的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ho3x7r/idea_for_the_education_sector/</link>
-      <description><![CDATA[一种人工智能，你可以将每个学生的详细信息输入其中。他们的年龄和成绩，以及老师想要添加的任何信息。他们可以告诉它每个学生的个性和偏好、对科目的能力，甚至他们的社交技能以及他们对各种事件或刺激的反应。  然后，人工智能可以推荐非常具体的方法来鼓励孩子更好地学习，从特定的科目到教学方法，再到要避免做的事情或话等等。 每个学生都会有他们自己版本的学校议程，甚至他们自己版本的老师，基于对每个孩子的非常不同的方法。而老师将能够管理这一切，而不必花费大量额外的时间为每位学生制定个性化的议程    提交人    /u/CoralinesButtonEye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ho3x7r/idea_for_the_education_sector/</guid>
-      <pubDate>Sat, 28 Dec 2024 11:33:08 GMT</pubDate>
-    </item>
-    <item>
       <title>我添加了专业人士的天赋</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</link>
       <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>

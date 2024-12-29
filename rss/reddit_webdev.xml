@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 05:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 06:24:59 GMT</lastBuildDate>
+    <item>
+      <title>我很好奇，lovable、softgen、bolt 如何显示 typescript next.js 代码的实时预览？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hops3a/im_curious_how_does_lovable_softgen_bolt_show/</link>
+      <description><![CDATA[我正在尝试所有这些 MVP 应用程序的想法，并想知道它们如何在运行时呈现预览？ 我遇到了 2 个解决方案 - sandpack - webcontainers webcontainers 是付费的，所以我不认为 lovable 或 softgen 使用它。 然后我检查了网络选项卡，他们也不太可能使用 sandpack。 那么，他们怎么可能运行这个？    提交人    /u/ravi_sojitra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hops3a/im_curious_how_does_lovable_softgen_bolt_show/</guid>
+      <pubDate>Sun, 29 Dec 2024 06:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何安全地托管网站并确保 API 密钥或访问令牌不被泄露？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hoppph/how_can_i_securely_host_a_website_and_ensure_that/</link>
+      <description><![CDATA[我是一名学生，我想托管使用 API 的网站。通常对于我的静态网站，我会将其托管在 GitHub 上，因为我不是专业使用它们，而只是为了练习 Web 开发。不过，现在我已经创建了一个网站，我想让其他人也使用它。您能否给我一些说明和/或我应该学习的东西，以便在托管网站中安全地使用 API。谢谢！    提交人    /u/linnxyz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hoppph/how_can_i_securely_host_a_website_and_ensure_that/</guid>
+      <pubDate>Sun, 29 Dec 2024 06:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>甚至 ISP 也忘记添加 `.toFixed(2)` 或 `Intl` 方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</link>
+      <description><![CDATA[        提交者    /u/Master-Variety3841   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</guid>
+      <pubDate>Sun, 29 Dec 2024 05:21:59 GMT</pubDate>
+    </item>
     <item>
       <title>哪里可以聘请法学硕士 (LLM) 工程师或人工智能 (AI) 开发人员？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hooe14/where_to_hire_llm_engineers_or_ai_devs/</link>
@@ -20,7 +41,7 @@
       <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>Fornax – 全栈 BunJS Web 框架</title>
+      <title>Fornax - 全栈 BunJS Web 框架</title>
       <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
       <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
@@ -43,7 +64,7 @@
     <item>
       <title>服务器上数据的简单方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</link>
-      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端或客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端和客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</guid>
       <pubDate>Sun, 29 Dec 2024 03:50:34 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[这里有人有在生产中运行 nginx-unit 的经验吗？它似乎特别适合在单个 VPS 上运行多个应用程序服务器，因为您只需管理一台服务器，而不是一台 Web 服务器加上多台应用程序服务器。有点像 PHP FPM，但您可以使用任何您喜欢的语言。但我没有看到太多关于它的讨论（我在 reddit 上找到的最后一次讨论大约是在 6 年前）。    提交人    /u/evencuriouser   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hojnqx/experience_using_nginxunit_in_production/</guid>
       <pubDate>Sun, 29 Dec 2024 00:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我忘记计划实时更新的时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hojeq9/the_time_i_forgot_to_plan_for_realtime_updates/</link>
-      <description><![CDATA[当我构建活动管理平台时，我遇到了一个感觉非常熟悉的问题——实时更新。我过于关注核心功能，以至于低估了实时更新对用户体验的重要性。在测试期间，组织者发现刷新页面只是为了查看新的 RSVP 或活动详细信息的更改，这令人沮丧。 解决方案不仅仅是添加 WebSockets 或轮询；而是重新思考平台如何处理数据流。在重新审视架构后，我实现了一个轻量级的实时层，它可以无缝工作而不会耗尽服务器资源。 这让我想起了一个古老的教训：可扩展性不仅仅是处理流量——它还在于预测用户当下的需求。在这个领域工作了几十年，我仍然在学习最简单的功能往往会产生最大的影响。 如果您也面临过类似的挑战，我很想听听您是如何解决的。一场好的对话能激发出惊人的火花！    提交人    /u/crazychampion2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hojeq9/the_time_i_forgot_to_plan_for_realtime_updates/</guid>
-      <pubDate>Sun, 29 Dec 2024 00:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoicnt/hosting/</link>
-      <description><![CDATA[嗨，我想问一下，因为我对托管 Web 应用还不是很了解。当我使用 supabase 或 firebase 作为后端时，我通常只托管静态网站和全栈网站。  我打算用 Vue 和 Laravel 为我的客户建立一个项目，但我不知道完成后应该如何托管它    提交人    /u/Totoro-Caelum   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoicnt/hosting/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要文件上传方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoi4i8/need_help_with_file_uploading/</link>
-      <description><![CDATA[所以现在我正在开发一个基于 Next js、Express 和 MongoDB 的项目。我想允许用户上传文件并将其存储在我的数据库中。但是 MongoDB 不直接允许这样做，有人能提出一些建议吗？    提交人    /u/scoop_creator   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoi4i8/need_help_with_file_uploading/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:18:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
