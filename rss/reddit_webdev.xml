@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 17:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 18:23:53 GMT</lastBuildDate>
+    <item>
+      <title>有人能向我解释一下 git/github 中的分支是如何工作的吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp1rad/can_someone_explain_to_me_how_branching_works_in/</link>
+      <description><![CDATA[      参考图片 我是软件工程/网络开发的新手，正在尝试理解版本控制。我已经很熟悉它了，但我想了解更多。我听过人们说，“没有人真正知道 git 是如何工作的，但它确实有效”。但我想知道细节。到目前为止，我一直在使用一些理所当然的东西，比如使用高级开发人员告诉我的东西、聊天 gpt 甚至 stack overflow 上的一些 boomer。 正如我所说，我想知道分支如何工作的细节，我附上了一张图片，有人能解释一下所有这些分支是什么意思吗？比如什么是 head，什么是 master，什么是 origin master 等等。  最后，哪个分支是中心分支或主要分支，我应该始终从中创建新的分支。 提前致谢。    提交人    /u/Far-Storage-4369   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp1rad/can_someone_explain_to_me_how_branching_works_in/</guid>
+      <pubDate>Sun, 29 Dec 2024 18:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的所有帐户都需要 SSL 证书吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp1331/ssl_certs_for_all_of_my_accounts/</link>
+      <description><![CDATA[我一直非常依赖我的帐户附带的免费 SSL，但是，我最近离开了 BlueHost，获得了一个 20i 经销商帐户，它有同样的优惠 - 获得所有托管套餐的免费 SSL - 但当然域名的名称服务器必须与 20i 合作。对于我的一些客户来说，让我管理他们的 DNS 并更改他们已有的所有内容是不切实际的，但我也不能只为 30 多个帐户购买 SSL。有人知道任何合理但可靠的 SAN 证书，不需要我每 60-90 天手动续订一次吗？    提交人    /u/pcooper114   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp1331/ssl_certs_for_all_of_my_accounts/</guid>
+      <pubDate>Sun, 29 Dec 2024 17:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>从哪里开始将 llms 集成到我的 webdev 工作流程中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</link>
+      <description><![CDATA[嗨，我是一名 Web 开发人员，我开发了一个小型 SaaS 应用程序并将其推向市场。  堆叠 Typescript、react、redux-tk、phaser.js（游戏引擎）和 firestore。 最近主要使用 Shad 进行样式设计。 无论如何，到目前为止，我已经非常成功地使用了 Claude + copilot，主要是因为我在 AI 热潮之前就学习了 Web 开发，因此了解我的整个代码库，并且可以闻到糟糕的代码。我以在 Claude.ai 网站上提示 Claude 的方式做到这一点。  我还没有跳转到光标等，但想知道我是否错过了更大的生产力提升。  我很想知道 2024 年底的状况？人们每天都在使用什么并推荐什么？  人们从花费整整一年的时间使用各种人工智能工具等中学到了什么教训。 谢谢！    提交人    /u/deadant88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp0s6r/where_to_start_on_integrating_llms_into_my_webdev/</guid>
+      <pubDate>Sun, 29 Dec 2024 17:23:25 GMT</pubDate>
+    </item>
     <item>
       <title>使用 DSPy 构建可用于生产的 AI 代理和 LLM 程序：提示和代码片段</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp03w6/building_productionready_ai_agents_llm_programs/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>REST API 纯粹主义者：为什么如此固执地争论 GET 与 POST？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hoyfe1/rest_api_purists_why_so_stubborn_about_get_vs_post/</link>
-      <description><![CDATA[TLDR：朋友侮辱我说“我使用 POST 来获取具有多个复杂有效负载的调用。他执意要仅使用 GET 进行检索并驳回了我的所有观点。他把我描绘成自负且好斗的人。请帮我提出你的意见。是他傲慢还是我是白痴。他像个技术纳粹一样过度自信地说“我研究过这个，这是唯一正确的方法” 大家好， 我最近与一位朋友/同事就 REST API 设计进行了争论，我现在还在生气。事情是这样的： 我们正在讨论需要处理复杂且庞大的搜索条件的 API 端点。我建议我们使用 POST 请求，因为：  GET 可能会因查询参数过大而达到 URL 长度限制。 有效负载将是结构化的 JSON 对象，更适合 POST 主体。 它还可以避免在 URL 中暴露敏感数据，使其更安全。  很合理，对吧？好吧，我的朋友拒绝了，说 “POST 检索？这不是 RESTful！使用 GET，否则你就违反了惯例！” 他甚至不承认在这种情况下使用 GET 的实际挑战。 当我指出现实世界中的 API 示例（甚至是大公司提供的）使用 POST 进行复杂搜索时，他开始采取防御态度并开始反驳我的观点，说道：“如果你不遵循 REST 标准，那称之为 REST 有什么意义呢？” 我理解 REST 原则的价值，但是拜托 - 灵活性和现实世界的约束也很重要！并非所有情况都适合 REST 教条。 我想问你们：  在建议实际偏离 REST 标准时，您是否曾面临过类似的拒绝？ 您对使用 POST 进行大型有效负载或搜索操作的立场是什么？     提交人    /u/Zenitsu_Aagatsuma   [link] [评论]]]></description>
+      <description><![CDATA[TLDR：朋友侮辱我说“我使用 POST 来获取具有多个复杂有效负载的调用。他执意要仅使用 GET 进行检索并驳回了我的所有观点。他把我描绘成自负且好斗的人。请帮我提出你的意见。是他傲慢还是我是白痴。他像个技术纳粹一样过度自信地说“我研究过这个，这是唯一正确的方法” 大家好， 我最近与一位朋友/同事就 REST API 设计进行了争论，我现在还在生气。事情是这样的： 我们正在讨论需要处理复杂且庞大的搜索条件的 API 端点。我建议我们使用 POST 请求，因为：  GET 可能会因查询参数过大而达到 URL 长度限制。 有效负载将是结构化的 JSON 对象，更适合 POST 主体。 它还可以避免在 URL 中暴露敏感数据，使其更安全。  很合理，对吧？好吧，我的朋友拒绝了，说 “POST 检索？这不是 RESTful！使用 GET，否则你就违反了惯例！” 他甚至不承认在这种情况下使用 GET 的实际挑战。 当我指出现实世界中的 API 示例（甚至是大公司提供的）使用 POST 进行复杂搜索时，他开始采取防御态度并开始反驳我的观点，说道：“如果你不遵循 REST 标准，那称之为 REST 有什么意义呢？” 我理解 REST 原则的价值，但是拜托 - 灵活性和现实世界的约束也很重要！并非所有情况都完全符合 REST 教条。 我想问你们：  在建议实际偏离 REST 标准时，您是否曾面临过类似的拒绝？ 您对使用 POST 进行大型有效负载或搜索操作的立场是什么？  过滤器请求对象的示例 { &quot;pagination&quot;: { &quot;page&quot;: 1, &quot;pageSize&quot;: 10 }, &quot;filters&quot;: { &quot;search&quot;: &quot;Harry Potter&quot;, &quot;status&quot;: [&quot;Available&quot;, &quot;Reserved&quot;], &quot;categories&quot;: [&quot;Fiction&quot;, &quot;Fantasy&quot;], &quot;author&quot;: { &quot;name&quot;: &quot;J.K. Rowling&quot;, &quot;country&quot;: &quot;UK&quot; }, &quot;publishedYearRange&quot;: { &quot;start&quot;: 1997, &quot;end&quot;: 2007 } }, &quot;sort&quot;: { &quot;field&quot;: &quot;title&quot;, &quot;order&quot;: &quot;asc&quot; }     提交人    /u/Zenitsu_Aagatsuma   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hoyfe1/rest_api_purists_why_so_stubborn_about_get_vs_post/</guid>
       <pubDate>Sun, 29 Dec 2024 15:36:38 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hovqar/looking_to_get_some_opinion_on_my_open_source/</guid>
       <pubDate>Sun, 29 Dec 2024 13:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能制作类似我的网站的展示视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</link>
-      <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站类型只有两种：scrolly 和 webgl</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</link>
-      <description><![CDATA[听我说。Scrolly 是您的标准网站，从 Facebook 和 airbnb 等科技巨头到 2014 年为路边的餐馆制作的网站。 Webgl 是您在 awwwards 上看到的所有奇怪的 webgl 内容。完整体验，重点是 DOM 上的画布。 我看到的每个网站都属于这两类之一。我发现的唯一例外是像 dustinbrett.com 这样的东西，它看起来像一个桌面 UI。 您还见过其他违反此规则的东西吗？    提交人    /u/neat_man   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>体育网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</link>
-      <description><![CDATA[由于我是一名网页开发者和体育爱好者，我想建立自己的与足球相关的体育网站。我在与体育相关的 Facebook 页面上也有 50 多万粉丝。通过这个 Facebook 页面推广我的网站会有帮助吗？    提交人    /u/purgetoxicselfhabits   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hov6o4/sports_website/</guid>
-      <pubDate>Sun, 29 Dec 2024 12:36:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Dec 2024 17:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 18:23:59 GMT</lastBuildDate>
+    <item>
+      <title>Air Script 是一款可以破解 Wi-Fi 的瑞士军刀，当捕获到握手信息时还可以选择发送电子邮件通知。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hp1pke/air_script_is_wifi_pwning_swiss_army_knife_that/</link>
+      <description><![CDATA[      Air Script 是一种自动化工具，旨在促进 Wi-Fi 网络渗透测试。它通过自动执行网络扫描、握手捕获和暴力破解密码等任务，简化了识别和利用 Wi-Fi 网络的过程。主要功能包括： 自动攻击：Air Script 可以自动瞄准范围内的所有 Wi-Fi 网络，无需用户干预即可捕获握手。完成后，它会停用监控模式，并可以发送可选的电子邮件通知来通知用户。Air Script 还通过简化网络扫描、握手捕获和密码破解等任务来自动化 Wi-Fi 渗透测试，以实现有针对性的解除身份验证。 暴力破解功能：捕获握手后，该工具会提示用户提供单词列表以尝试破解 Wi-Fi 密码，或者将捕获的 Wi-Fi 握手上传到 WPA-sec 项目。该网站是一个公共存储库，用户可以在其中贡献和分析 Wi-Fi 握手以识别漏洞。该服务尝试使用其广泛的已知密码和单词表数据库来破解握手。 电子邮件通知：用户可以选择在成功捕获握手后接收电子邮件警报，从而可以远程监控攻击的进度。 附加工具：Air Script 包含各种补充工具，可增强黑客、渗透测试人员和安全研究人员的工作流程。用户可以根据需要选择要安装的工具。 兼容性：该工具与 Raspberry Pi 等设备兼容，可实现谨慎操作。用户可以从移动设备通过 SSH 进入 Pi，而无需越狱或 root 访问权限。    提交人    /u/AFGjkn2r   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hp1pke/air_script_is_wifi_pwning_swiss_army_knife_that/</guid>
+      <pubDate>Sun, 29 Dec 2024 18:03:39 GMT</pubDate>
+    </item>
     <item>
       <title>开源劫持</title>
       <link>https://www.reddit.com/r/opensource/comments/1hoxjz0/open_source_hijack/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://github.com/wapikit/wapikit  我不太想谈论 WapiKit 以及它打算培育的整个生态系统。 这是我很长时间以来一直致力于构建的东西。它是一个开源生态系统，使 WhatsApp 营销变得触手可及。 wapikit.com 是核心和旗舰产品，它是一款自托管、高性能和单二进制可执行 WhatsApp 活动管理器、实时团队收件箱和无代码聊天流程配置器，功能丰富，我们将在即将推出的产品更新中进一步探索每个功能。 ✅ WapiKit 同时提供 UI 和 API 接口。 它可以做以下事情：管理联系人列表：高效处理联系人以进行活动管理。细分联系人：轻松细分受众以进行有针对性的营销。实时团队收件箱：允许多个团队成员同时管理对话。集成：通过我们的集成套件与 Slack、自定义网站聊天小部件和 AI 插件无缝连接。 AI 功能：通过集成 LLM 模型启用自动回复。 您可以在此处加入我们：https://join.slack.com/t/wapikit/shared_invite/zt-2kl7eg29s-4DfP9lFwojQg_yCcyW_w6Q ✅ 将其用作您自托管的 WhatsApp 业务管理器，用于销售、营销和客户支持集成。 ✅ 我们已经发布了具有活动管理功能和联系人列表管理的 alpha 版本。并且正在发布实时团队收件箱功能。  然后是 js.wapikit.com ( wapi.js ) 和 go.wapikit.com ( wapi.go )，这两个 SDK 都是独立构建的，目的都是为了将​​它们用作通过 WhatsApp 业务 API 轻松构建应用程序的工具，无论是 WhatsApp 聊天机器人还是其他后端应用程序。它们与 WhatsApp 业务管理 API 和 WhatsApp 云 API 配合良好。您可以查看它们的文档。如果有任何问题，请在评论部分问我。我在过去的帖子中分享了几个用例示例。甚至 WapiKit 本身也在后端使用 Wapi.go。 如果您是一家初创公司或独立开发者，并希望免费设置 WhatsApp 营销/销售/客户支持基础设施，您可以查看 github，尝试一下或发表评论“Hi”，我会通过演示帮助您。    提交人    /u/UnusualMeasurement10   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hnyz0i/open_source_ecosystem_for_whatsapp_marketing/</guid>
       <pubDate>Sat, 28 Dec 2024 05:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析 ElasticSearch、Redis 和 Terraform 分叉前后的贡献。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hnxww0/analysis_of_contributions_to_elasticsearch_redis/</link>
-      <description><![CDATA[       由    /u/nicholashairs  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hnxww0/analysis_of_contributions_to_elasticsearch_redis/</guid>
-      <pubDate>Sat, 28 Dec 2024 04:33:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

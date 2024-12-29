@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 17:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 18:23:28 GMT</lastBuildDate>
+    <item>
+      <title>我已经构建了 Noema：一种在 Python 中控制 LLM 的声明式方法！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp1ike/ive_build_noema_a_declarative_way_to_control_llms/</link>
+      <description><![CDATA[  由    /u/Super_Dependent_2978  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp1ike/ive_build_noema_a_declarative_way_to_control_llms/</guid>
+      <pubDate>Sun, 29 Dec 2024 17:55:16 GMT</pubDate>
+    </item>
     <item>
       <title>C++ 绝对是一款好语言</title>
       <link>https://www.reddit.com/r/programming/comments/1hozfd4/c_is_an_absolute_blast/</link>
@@ -27,25 +34,11 @@
       <pubDate>Sun, 29 Dec 2024 15:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>关于欧洲国民身份证系统的惊人事实</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoym67/surprising_facts_about_european_national_id/</link>
-      <description><![CDATA[  由    /u/ukupat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoym67/surprising_facts_about_european_national_id/</guid>
-      <pubDate>Sun, 29 Dec 2024 15:45:32 GMT</pubDate>
-    </item>
-    <item>
       <title>我从人工智能辅助编程中学到的东西</title>
       <link>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</link>
       <description><![CDATA[  由    /u/al_420  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</guid>
       <pubDate>Sun, 29 Dec 2024 13:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 DigitalOcean 和 Hetzner 上部署了相同的应用程序！| 便宜的 VPS 与昂贵的 VPS！</title>
-      <link>https://www.reddit.com/r/programming/comments/1hovw0a/i_deployed_the_same_app_on_digitalocean_and/</link>
-      <description><![CDATA[过去几年来，我一直是从 DigitalOcean 购买 VPS 的首选。然而，最近，一些更便宜的云提供商，特别是 Hetzner，受到了很多关注！ 在他们最便宜的计划中，您只需每月 4 美元 即可获得 2 个核心、4 GB RAM、40 GB SSD 和 20 TB 带宽！ ![Hetzner 定价 SS](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3x55o2e1jtllcd86yl1w.png) 要在 DigitalOcean 上获得类似的东西，您需要支付 24 美元/月！ 现在从纸面上看，这听起来很划算！似乎转用 Hetzner 是明智之举。但有什么问题吗？它真的像大家说的那么好吗？与 DigitalOcean 之类的计划相比，Hetzner 最便宜的计划可以处理多少流量？ 为了找出答案，我在同一地区的两个平台上部署了相同的应用程序，比较了它们的性能，并在此视频中分享了我的发现：https://youtu.be/mrDXF-Y9T50 如果您着急，这里是结果 👇   虚拟用户 Digital Ocean Hetzner    50 593.4ms 575.99   100 754.84ms 626.04   250 1.4s+ 950.23   500 6s 1.8s   费用 6 美元/月 4 美元/月      提交人    /u/devarifhossain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hovw0a/i_deployed_the_same_app_on_digitalocean_and/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:20:55 GMT</pubDate>
     </item>
     <item>
       <title>BSD kqueue 的技术债务堆积如山</title>
@@ -60,20 +53,6 @@
       <description><![CDATA[环境变量在现代开发中起着至关重要的作用，尤其是对于管理敏感数据（如 API 密钥或特定于环境的配置）而言。在 PHP 中，有两种主要方式可以访问这些变量：getenv 函数和 $_ENV 超全局变量。虽然它们似乎可以互换，但它们的行为不同，如果使用不当可能会导致问题。    提交人    /u/noweh95   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hou9mp/difference_between_php_getenv_and_env_beware_of/</guid>
       <pubDate>Sun, 29 Dec 2024 11:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个程序员都应该知道什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hotewm/what_is_a_thing_every_programmer_should_know/</link>
-      <description><![CDATA[在《每个程序员都应该知道的 97 件事》一书中，他们向一群作者询问了他们认为重要的想法/方法/原则。有成千上万的经验丰富的软件工程师阅读这个 subreddit，那里一定有很多很棒的建议。你的建议是什么？    由   提交  /u/tevelee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hotewm/what_is_a_thing_every_programmer_should_know/</guid>
-      <pubDate>Sun, 29 Dec 2024 10:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何从这个网站复制粘贴一些统计数据？当我这样做时，它完全变了。谢谢</title>
-      <link>https://www.reddit.com/r/programming/comments/1hot6cl/how_can_i_copy_paste_some_stats_from_this_website/</link>
-      <description><![CDATA[  由    /u/PuzzleheadedFix7236  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hot6cl/how_can_i_copy_paste_some_stats_from_this_website/</guid>
-      <pubDate>Sun, 29 Dec 2024 10:15:33 GMT</pubDate>
     </item>
     <item>
       <title>不太现代的 C++</title>
@@ -109,6 +88,27 @@
       <description><![CDATA[  由    /u/epasveer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</guid>
       <pubDate>Sat, 28 Dec 2024 23:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nevalang：具有匿名端口和增强型 DI 钻取功能的重大发布🎉</title>
+      <link>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</link>
+      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>纯 SQL 中的 Code 2024 的出现</title>
+      <link>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</link>
+      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:28:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>定制标准文本编辑器 ed(1)</title>
+      <link>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</link>
+      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</guid>
+      <pubDate>Sat, 28 Dec 2024 19:24:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
