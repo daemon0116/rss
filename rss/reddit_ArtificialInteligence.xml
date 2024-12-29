@@ -3,8 +3,15 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 04:21:17 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 29 Dec 2024 05:16:48 GMT</lastBuildDate>
+    <item>
+      <title>厌倦了 ChatGPT 对关键问题进行美化和煽动性的偏见。还有选择吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hooa3q/tired_of_chatgpt_bias_towards_sanitized/</link>
+      <description><![CDATA[我注意到 ChatGPT 拒绝或操纵那些试图参与批判性讨论或图像的提示，这些提示不符合看似规避风险、可能以公关为导向的内容政策；很多次，在 ChatGPT 拒绝提示后，我要求它解释原因，它列出了模糊且政治保守的标准，说明为什么这些提示违反了 ChatGPT 内容政策。我并不是想写充满仇恨或脏话的咆哮，我是在为主流观众写社会调查和艺术批评。ChatGPT 一直告诉我，我会让人们不高兴，而它的存在是为了确保每个人都感到温暖和迷茫。它已经超出了对极端言论的监管，这是氛围监管。嗯？ 当使用 Dall-e 从文本提示生成图像时，情况会更糟，例如，在撰写学术批评性评论时，它不允许提及艺术家或作者的名字。当我要求 ChatGPT 解释为什么它不能描述某位艺术家的作品时，它告诫我，它无法描述这些特点，因为读者可能会觉得它“令人迷失方向”，而且可能会“引起不确定性”。鉴于学习可能需要在挑战假设的过程中遇到不舒服的挑战、不确定性、迷失方向等——当 ChatGPT 内容政策限制了可以产生的内容的批判能力时，它的意义何在？它以一种可疑的方式说教。 那么，对于批判性挑战文本和视觉效果，还有什么替代方案呢？感谢您的想法。    提交人    /u/Honest-Day9595   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hooa3q/tired_of_chatgpt_bias_towards_sanitized/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:39:54 GMT</pubDate>
+    </item>
     <item>
       <title>AnyLearning 简介 - 一款可让你标记图像并完全离线训练 AI 模型的桌面应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hons2u/introduction_to_anylearning_a_desktop_app_that/</link>
@@ -22,14 +29,21 @@
     <item>
       <title>给我的建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hois62/suggestion_for_me/</link>
-      <description><![CDATA[大家好， 我应该选修什么样的人工智能课程？在人工智能的众多课程中，我感到很迷茫。我想知道，如果我想在未来 1 年内开始经营一家小企业，我应该利用哪些资源来适应自己！ 此外，我还是一名环境/化学工程师。因此，如果您能建议哪些课程可以帮助我在这个领域发展，我将不胜感激！ 谢谢    提交人    /u/playpauseresume   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我应该选修什么样的人工智能课程？在人工智能的众多课程中，我感到很迷茫。我想知道，如果我想在未来 1 年内开始经营一家小企业，我应该利用哪些资源来适应自己！ 此外，我是一名环境/化学工程师。因此，如果您能建议哪些课程可以帮助我在这个领域发展，我将不胜感激！ 谢谢    提交人    /u/playpauseresume   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hois62/suggestion_for_me/</guid>
       <pubDate>Sat, 28 Dec 2024 23:49:51 GMT</pubDate>
     </item>
     <item>
+      <title>我想我已经弄清楚了如何*简单地*使用 AI 来挑选股票......也许是 ETF 等等......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hoig8r/i_think_i_figured_out_how_to_simply_use_ai_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hoig8r/i_think_i_figured_out_how_to_simply_use_ai_for/</guid>
+      <pubDate>Sat, 28 Dec 2024 23:33:48 GMT</pubDate>
+    </item>
+    <item>
       <title>最低 GPU 用于提升技能并执行简单工作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hoh95e/minimum_gpu_for_upskilling_and_do_simple_work/</link>
-      <description><![CDATA[我正在尝试设计一款新的、价格合理的开发人员笔记本电脑，可以进行一些基本的 LLM 培训。没什么特别的。我基本上处于教程阶段，如果我擅长的话，以后愿意在规格上做出更大的调整。现在，我只是在寻找一台可以做任何事情的笔记本电脑，从 hello world 教程到合理的业余实验，价格大约为 2000 美元或更低。 我目前正在研究 System76 或 Alienware 的高端选项。似乎 GeForce RTX 4060 或 4070 带有大约 8GB 的​​ VRAM 是我可以在 1500 美元到 2300 美元左右买到的。这听起来够用吗？    提交人    /u/MetroDcNPC   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试设计一款新的、价格合理的开发人员笔记本电脑，可以进行一些基本的 LLM 培训。没什么特别的。我基本上处于教程阶段，如果我擅长的话，以后愿意在规格上做出更大的调整。现在，我只是在寻找一台可以做任何事情的笔记本电脑，从 hello world 教程到合理的业余实验，价格大约为 2000 美元或更低。 我目前正在研究 System76 或 Alienware 的高端选项。似乎 GeForce RTX 4060 或 4070 带有大约 8GB 的​​ VRAM 是我可以在 1500 到 2300 美元左右买到的。这听起来够用吗？    提交人    /u/MetroDcNPC   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hoh95e/minimum_gpu_for_upskilling_and_do_simple_work/</guid>
       <pubDate>Sat, 28 Dec 2024 22:36:37 GMT</pubDate>
     </item>
@@ -41,13 +55,6 @@
       <pubDate>Sat, 28 Dec 2024 22:20:39 GMT</pubDate>
     </item>
     <item>
-      <title>软件工程专业学生使用一线 GenAI 的见解</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hoepfm/insights_from_the_frontline_genai_utilization/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“来自前线的见解：软件工程学生中的 GenAI 使用情况”，作者是 Rudrajit Choudhuri、Ambareesh Ramakrishnan、Amreeta Chatterjee、Bianca Trinkenreich、Igor Steinmacher、Marco Gerosa 和 Anita Sarma。 本文调查了软件工程 (SE) 学生中生成式 AI (genAI) 工具使用的现状，重点关注他们在使用 ChatGPT 和 Copilot 等工具时的学术体验。作者对 16 名 SE 学生进行了反思性访谈，并结合了教师的意见，以了解这些工具在哪些方面有益或具有挑战性，以及这些挑战背后的原因。以下是一些主要发现：  GenAI 使用环境：学生主要将 genAI 用于增量学习和初始实施任务。这些工具提供了个性化支持，有助于澄清概念并提供编码任务的初步指导。 面临的挑战：当学生使用 genAI 进行初始学习和高级实施时，挑战更加明显。困难包括与 genAI 进行有效沟通、设定切合实际的期望以及适当利用 AI 的建议。 内在的 GenAI 问题：学生面临的问题包括推理缺陷、欺骗行为以及 genAI 对复杂编程任务的支持存在局限性。这些问题通常会导致学生认知负担增加和学习中断。 对学生的影响：学生报告了学习质量和自我认知受到的影响，包括对人工智能的过度依赖、因频繁出错而感到沮丧以及在与同龄人比较其熟练程度时产生自我怀疑。这些挑战还影响了他们在教育和职业上采用 genAI 技术的意愿。 教育意义：该研究为教育工作者提供了将 genAI 融入 SE 教育的实用见解。重点放在教导学生批判性地评估 genAI 输出并调整教育课程以支持 AI 素养。  为了全面探索这些发现以及将 genAI 整合到软件工程教育中的建议，您可以在此处查看完整的细分：这里。 您可以在此处查看完整的原始研究论文：原始论文。    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hoepfm/insights_from_the_frontline_genai_utilization/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:38:10 GMT</pubDate>
-    </item>
-    <item>
       <title>O3 之后需要进行哪些发展才能达到 AGI？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hocaa6/what_developments_are_needed_post_o3_to_reach_agi/</link>
       <description><![CDATA[定义： 数字 AGI：在大多数重要工作领域都比人类表现更好的人工智能，但在某些领域仍然会存在缺陷。（这是 O3，但目前效率非常低） 通用 AGI：与 AGI 相同，但真正通用，缺陷更少，可以解决一些问题，例如较长的工作等。 数字 ASI：与前面提到的 D-AGI 相同，但例如解决了前沿数学 v2 或 ARC-AGI v2 及以上问题，在编码基准测试中排名第一。可能开始自动化智力工作或由于实用主义导致一般定义开始融化。 通用 ASI：与数字 ASI 相同，但通用且更智能。奇点。 自动化程度：  超级增强：大幅加快研发速度 2-3 倍 奇点：由于数字 ASI 而进行的递归自我改进导致速度提高 3 倍以上。  问答  您认为 2024-2028 年会发生什么？会达到哪些水平以及如何实现？ 您对提到的每个级别的时间表是什么？ 您认为我们可能被迫克服哪些强大的限制？ 您如何看待超级增强？     提交人    /u/Connect_Art_6497   [链接] [评论]]]></description>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找有关 AI Agents 和 Agentics 的资源</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hoa86s/looking_for_resources_on_ai_agents_agentics/</link>
-      <description><![CDATA[大家好！ 最近我对 AI 代理和代理学的概念非常着迷，但我不知道从哪里开始。我想建立一个坚实的理解——从基础理论到更高级的技术细节（架构、算法、框架），以及对多代理系统和突发行为的任何见解。如果您有任何推荐的教科书、研究论文、在线课程，甚至是 YouTube 频道可以帮助您掌握这些概念，我将不胜感激。 提前感谢您的建议！    提交人    /u/Refeb   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 最近我对人工智能代理和代理学的概念非常着迷，但我不知道从哪里开始。我想建立一个坚实的理解——从基础理论到更高级的技术细节（架构、算法、框架），以及对多智能体系统和突发行为的任何见解。如果您有任何推荐的教科书、研究论文、在线课程，甚至是 YouTube 频道可以帮助您掌握这些概念，我将不胜感激。 提前感谢您的建议！    提交人    /u/Refeb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hoa86s/looking_for_resources_on_ai_agents_agentics/</guid>
       <pubDate>Sat, 28 Dec 2024 17:15:58 GMT</pubDate>
     </item>
@@ -90,23 +97,16 @@
       <pubDate>Sat, 28 Dec 2024 11:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年经纪人有何大事？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hnq2t3/whats_the_big_deal_about_agents_in_2025/</link>
-      <description><![CDATA[我知道什么是代理，以及它们通常有什么用处。但为什么现在对它们如此热衷？我们已经有了用于开发代理工作流程的框架/库，如 langchain、crewai、autogen 等。这可能在 2024 年甚至更早完成。  为什么所有大公司现在都开始谈论代理？     提交人    /u/Square_Poet_110   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hnq2t3/whats_the_big_deal_about_agents_in_2025/</guid>
-      <pubDate>Fri, 27 Dec 2024 21:56:29 GMT</pubDate>
-    </item>
-    <item>
       <title>我添加了专业人士的天赋</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</link>
-      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅供那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
+      <description><![CDATA[由于最近对专业内容更加突出的兴趣，我认为一个好的开始是了解用户的哪些答案来自真正了解他们所谈论内容的人。 因此，我通过 mods 使经过验证的专业标签仅可分配。如果您想要该标签，您必须证明您在该领域工作。我把这留给您，我不在乎您的数据，并在看到后删除所有内容。如果您获得了标签，结果发现您对自己的职业撒了谎，无论出于何种原因，您都将被永久禁止，并且无法上诉。 一旦我们拥有足够多的人，我们还可以允许用户将某些帖子限制为仅那些用户进行更专业的讨论。 让我知道您的想法    提交人    /u/ILikeBubblyWater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hmc09x/i_added_flairs_for_professionals/</guid>
       <pubDate>Wed, 25 Dec 2024 23:49:53 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>

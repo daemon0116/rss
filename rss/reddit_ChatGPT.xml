@@ -4,11 +4,32 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 29 Dec 2024 04:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 05:17:01 GMT</lastBuildDate>
+    <item>
+      <title>试图帮助我怀孕的妻子弄清楚该吃什么</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hoonco/trying_to_help_my_pregnant_wife_figure_out_what/</link>
+      <description><![CDATA[        提交人    /u/limadeltakilo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hoonco/trying_to_help_my_pregnant_wife_figure_out_what/</guid>
+      <pubDate>Sun, 29 Dec 2024 05:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek（新中国法学硕士）的内容过滤功能非常弱，它甚至会批评中国政府对天安门广场的处理方式</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hoo5cu/deepseek_new_chinese_llm_has_hilariously_weak/</link>
+      <description><![CDATA[        提交人    /u/YearNarrow   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hoo5cu/deepseek_new_chinese_llm_has_hilariously_weak/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>undetectable.ai 真的有效吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hoo12u/does_undetectableai_really_work/</link>
+      <description><![CDATA[我写了一篇文章（我想补充一下，这篇文章是我自己写的），它说这篇文章很可能是由人工智能写的。我使用的是免费版本，也就是打开的第一个链接，它说这篇文章很可能是人工智能写的。我把它放到 gptzero 中，它说这是人类写的。它可靠吗？我很担心，因为我为比赛写了这篇文章，我担心如果他们使用人工智能检测器，他们会说我使用了人工智能，尽管我没有使用过。    提交人    /u/Curious-Curiouserr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hoo12u/does_undetectableai_really_work/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:25:22 GMT</pubDate>
+    </item>
     <item>
       <title>法律案件 o1 的上下文窗口</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1honuzv/context_window_for_o1_for_legal_case/</link>
-      <description><![CDATA[抱歉，这是一个愚蠢的问题，但是即使在 4o 的帮助下，我也找不到明确的答案。 我正在准备一份大型文档（25,000 字），需要使用 o1 进行分析（我使用的是 Plus 套餐），并且我知道它每周最多可以发送 50 条消息（大概是从第一条消息开始的 7 天？）。 上下文窗口（在这种情况下我可以包含的文本量或文档的大小）比 4o 大还是小？ 我正在使用 4o 为 o1 准备提示和结构，考虑到我只有一周的时间，我通常需要一些额外的提示才能最好地利用它。 这是针对法律案件的，我需要对其进行压缩并为案件使用正确的法律分类。  我不是律师。    由    /u/MissJoannaTooU 提交   [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，这是一个愚蠢的问题，但是即使在 4o 的帮助下，我也找不到明确的答案。 我正在准备一份大型文档（25,000 字），需要使用 o1 进行分析（我使用的是 Plus 套餐），并且我知道它每周最多可以发送 50 条消息（大概是从第一条消息开始的 7 天？）。 上下文窗口（在这种情况下我可以包含的文本量或文档的大小）比 4o 大还是小？ 我正在使用 4o 为 o1 准备提示和结构，考虑到我只有一周的时间，我可以使用一些额外的技巧来最好地利用它。 这是针对法律案件的，我需要对其进行压缩并为案件使用正确的法律分类。  我不是律师。    由    /u/MissJoannaTooU 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1honuzv/context_window_for_o1_for_legal_case/</guid>
       <pubDate>Sun, 29 Dec 2024 04:15:51 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>ChatGPT创造了一种新语言</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1honhcz/chatgpt_creates_a_new_language/</link>
-      <description><![CDATA[      创建一种既易于学习又能有效沟通的新语言是一项令人兴奋的挑战。为了确保它易于使用，我们将专注于简单性、规律性和效率。我们将平衡语音、语法和词汇，使来自不同语言背景的说话者都能直观地理解该语言。让我们将其分解为关键要素：  语音和发音 • 简单的声音：使用一小组辅音和元音，这些辅音和元音对于来自各种语言背景的人来说都很容易发音。避免使用复杂的辅音群或许多语言中不存在的声音。• 辅音：p、b、t、d、k、g、f、v、m、n、s、z、l、r• 元音：a、e、i、o、u（如“father”、“bed”、“machine”、“go”、“food”）• 清晰的发音：每个字母对应一个声音，发音一致。 • 无声调：为简单起见，避免使用声调变化（如普通话或泰语）。 字母表和书写系统 • 基于拉丁字母表：坚持使用熟悉的拉丁字母，以方便学习，没有特殊字符或变音符号（例如，没有重音符号或变音符号）。• 拼写是语音：每个单词的拼写都与其发音完全一致，没有静音字母或不规则之处。 语法 • 词序：使用主谓宾 (SVO) 词序，因为许多常用语言（例如英语、西班牙语、中文）的使用者都熟悉这种词序。• 无性别：消除语法性别（例如，没有基于性别的“他/她”区别）。• 简单时态：仅使用现在、过去和将来时态。 • 现在：I walk • 过去：I walk • 将来：I will walk • 使用助动词（如 will）表示将来的动作和一般过去时形式。 • 无格系统：避免使用格（如主格、宾格）以简化句子结构。词序本身就能表明含义。 • 无冠词：省略“a”或“the”以简化交流（例如，“I see dog”而不是“I see a dog”）。 • 复数：在名词后添加简单的 -s 或 -es 形成复数（例如 dog → dogs，box → boxes）。 词汇 • 基本词根：使用常用语言的核心词汇，或创建一个词根源自国际词汇的系统。 • 例如，auto（汽车）源自希腊语，tele（远）源自希腊语等。尝试使词汇类似于国际公认的词汇，以方便许多说话者学习。 • 复合词：允许轻松创建复合词来表达更复杂的概念。 • 例如：light + time = lighttime（白天）。• 避免使用同义词：为每个概念使用一个词以避免混淆（例如，“big”不需要多个词，只需使用一个词）。 代词和常用词 • 代词：• 我 = mi • 你（单数）= tu • 他/她 = li • 我们 = ni • 他们 = la • 常用动词：使用易于变位的常规短动词：• to be = es（例如，I am = Mi es）• to have = havi（例如，I have = Mi havi）• to do/make = fari（例如，I do = Mi fari） 句子结构 • 简单句：句子应该直接且易于理解。 • 我吃苹果 → Mi manja apel • 我们去公园 → Ni ir al park • 疑问句：通过提高语调或使用疑问词来构成疑问句： • 谁？= Ki？ • 什么？= Kio？ • 在哪里？= Kie？ • 为什么？= Kial？ • 怎么样？= Kiel？ 构词和派生 • 词缀：使用简单的前缀和后缀轻松构词。 • un- = 否定（例如，unhappy = malfeli）。 • -ing = 正在进行的动作（例如，running = kuranta）。 • -er = 行动者（例如，worker = labora）。  例句 1. 我喜欢食物。  Mi ami manjo。 2. 书在哪儿？ Kie es libro？ 3. 我们明天要去旅行。 Ni vojaĝos morgaŭ。 主要特点总结： 1. 语音和简单的发音。 2. 基于拉丁语的字母表。 3. 规则和简单的语法（SVO 词序，无格，简单时态）。 4. 国际词汇，词根源自常用语言。 5. 简单的问题形成和否定。  通过结合规则性、简单性和国际元素，这种语言应该易于学习并有效地进行全球交流。 您想要添加或修改任何功能吗？    提交人    /u/Nolan4sheriff   [链接] [评论] ]]></description>
+      <description><![CDATA[      创建一种既易于学习又能有效沟通的新语言是一项令人兴奋的挑战。为了确保它易于使用，我们将专注于简单性、规律性和效率。我们将平衡语音、语法和词汇，使来自不同语言背景的说话者都能直观地理解该语言。让我们将其分解为关键要素：  语音和发音 • 简单的声音：使用一小组辅音和元音，这些辅音和元音对于来自各种语言背景的人来说都很容易发音。避免使用复杂的辅音群或许多语言中不存在的声音。• 辅音：p、b、t、d、k、g、f、v、m、n、s、z、l、r• 元音：a、e、i、o、u（如“father”、“bed”、“machine”、“go”、“food”）• 清晰的发音：每个字母对应一个声音，发音一致。 • 无声调：为简单起见，避免使用声调变化（如普通话或泰语）。 字母表和书写系统 • 基于拉丁字母表：坚持使用熟悉的拉丁字母，以方便学习，没有特殊字符或变音符号（例如，没有重音符号或变音符号）。• 拼写是语音：每个单词的拼写都与其发音完全一致，没有静音字母或不规则之处。 语法 • 词序：使用主谓宾 (SVO) 词序，因为许多常用语言（例如英语、西班牙语、中文）的使用者都熟悉这种词序。• 无性别：消除语法性别（例如，没有基于性别的“他/她”区别）。• 简单时态：仅使用现在、过去和将来时态。 • 现在：I walk • 过去：I walk • 将来：I will walk • 使用助动词（如 will）表示将来的动作和一般过去时形式。 • 无格系统：避免使用格（如主格、宾格）以简化句子结构。词序本身就能表明含义。 • 无冠词：省略“a”或“the”以简化交流（例如，“I see dog”而不是“I see a dog”）。 • 复数：在名词后添加简单的 -s 或 -es 形成复数（例如 dog → dogs，box → boxes）。 词汇 • 基本词根：使用常用语言的核心词汇，或创建一个词根源自国际词汇的系统。 • 例如，auto（汽车）源自希腊语，tele（远）源自希腊语等。尝试使词汇类似于国际公认的词汇，以方便许多说话者学习。 • 复合词：允许轻松创建复合词来表达更复杂的概念。 • 例如：light + time = lighttime（白天）。• 避免使用同义词：为每个概念使用一个词以避免混淆（例如，“big”不需要多个词，只需使用一个词）。 代词和常用词 • 代词：• 我 = mi • 你（单数）= tu • 他/她 = li • 我们 = ni • 他们 = la • 常用动词：使用易于变位的常规短动词：• to be = es（例如，I am = Mi es）• to have = havi（例如，I have = Mi havi）• to do/make = fari（例如，I do = Mi fari） 句子结构 • 简单句：句子应该直接且易于理解。 • 我吃苹果 → Mi manja apel • 我们去公园 → Ni ir al park • 疑问句：通过提高语调或使用疑问词来构成疑问句： • 谁？= Ki？ • 什么？= Kio？ • 在哪里？= Kie？ • 为什么？= Kial？ • 怎么样？= Kiel？ 构词和派生 • 词缀：使用简单的前缀和后缀轻松构词。 • un- = 否定（例如，unhappy = malfeli）。 • -ing = 正在进行的动作（例如，running = kuranta）。 • -er = 行动者（例如，worker = labora）。  例句 1. 我喜欢食物。  Mi ami manjo。 2. 书在哪儿？ Kie es libro？ 3. 我们明天去旅行。 Ni vojaĝos morgaŭ。 主要特点总结： 1. 语音和简单的发音。 2. 基于拉丁语的字母表。 3. 规则和简单的语法（SVO 词序，无格，简单时态）。 4. 国际词汇，词根源自常用语言。 5. 简单的问题形成和否定。  通过结合规则性、简单性和国际元素，这种语言应该易于学习并有效地进行全球交流。 您想要添加或修改任何功能吗？    提交人    /u/Nolan4sheriff   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1honhcz/chatgpt_creates_a_new_language/</guid>
       <pubDate>Sun, 29 Dec 2024 03:54:34 GMT</pubDate>
     </item>
@@ -53,13 +74,6 @@
       <description><![CDATA[  由    /u/bigoldbear94  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hon16m/this_content_may_violate/</guid>
       <pubDate>Sun, 29 Dec 2024 03:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>泄露文件显示，OpenAI 对“AGI”有着非常明确的定义。“一旦 OpenAI 开发出能够产生至少 1000 亿美元利润的 AI 系统，AGI 就将实现。”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hon0vy/leaked_documents_show_openai_has_a_very_clear/</link>
-      <description><![CDATA[        提交人    /u/Baseradio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hon0vy/leaked_documents_show_openai_has_a_very_clear/</guid>
-      <pubDate>Sun, 29 Dec 2024 03:28:22 GMT</pubDate>
     </item>
     <item>
       <title>o1 策略循环问题浪费了我的代币。</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[        提交人    /u/SMmania   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1homgw8/bro_im_cooked/</guid>
       <pubDate>Sun, 29 Dec 2024 02:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传文件和图像的功能是否仅限于高级/付费用户使用？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hom7hy/has_the_feature_to_upload_files_images_been/</link>
-      <description><![CDATA[我一直是免费用户，只要有机会，我就会定期使用文件上传功能扫描文本文件。但是，从昨天开始，我就无法再使用该功能了。 它被限制了吗？    提交人    /u/GimmeDePusiBoss   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hom7hy/has_the_feature_to_upload_files_images_been/</guid>
-      <pubDate>Sun, 29 Dec 2024 02:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最新的 AI 音乐视频。新的高水位线还是我们坚持使用乳房？[1080p] sora</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hom69y/my_latest_ai_music_video_new_high_water_mark_or/</link>
-      <description><![CDATA[    /u/SubstantialNinja   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hom69y/my_latest_ai_music_video_new_high_water_mark_or/</guid>
-      <pubDate>Sun, 29 Dec 2024 02:41:37 GMT</pubDate>
     </item>
     <item>
       <title>mammouth.ai 是骗局吗？</title>
