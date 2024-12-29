@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Dec 2024 22:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 23:17:37 GMT</lastBuildDate>
+    <item>
+      <title>新的开源 API 回归 CLI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hp8cnm/new_open_source_api_regression_cli_tool/</link>
+      <description><![CDATA[寻求对我的全新 api 回归 cli 工具的反馈。它可以在 https://github.com/thecodinghumans/ApiRegressionCLI 上找到。 该项目的主要目标：支持使用单个命令测试 API 的多种场景和功能。 我发现现有 CLI 的主要问题是它们要么不在本地存储请求的集合/集合，要么它们的格式化方式与源代码控制不兼容。 其他优点 - 不存储在云中（也不打算这样做） - 不需要 GUI 来运行 - 允许对 api 进行比大多数合成物更多的检查 如果有人有任何想法，请告诉我    提交人    /u/metalprogrammer2024   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hp8cnm/new_open_source_api_regression_cli_tool/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:57:15 GMT</pubDate>
+    </item>
     <item>
       <title>“但是你如何防止别人拿走你的东西呢？”</title>
       <link>https://www.reddit.com/r/opensource/comments/1hp6mzu/but_how_do_you_prevent_someone_from_taking_your/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/OMERSTOP1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ho44pf/what_are_the_best_open_source_alternatives_to/</guid>
       <pubDate>Sat, 28 Dec 2024 11:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥 开源目录样板！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ho3wsc/open_source_directory_boilerplate/</link>
-      <description><![CDATA[🔥 开源目录样板！ 大家好，我将我的目录开源了，请在这里查看。 https://github.com/javayhu/free-directory-boilerplate 这是一个综合目录，包含启动目录网站所需的一切。 网站：https://free-directory-boilerplate.vercel.app    提交人    /u/javayhu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ho3wsc/open_source_directory_boilerplate/</guid>
-      <pubDate>Sat, 28 Dec 2024 11:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

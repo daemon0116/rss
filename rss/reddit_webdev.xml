@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 22:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 23:17:32 GMT</lastBuildDate>
+    <item>
+      <title>两个前端提供之间的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp7upj/help_between_two_frontend_offers/</link>
+      <description><![CDATA[大家好，想知道有谁能在两个 offer 之间帮我挑选。 亚马逊（前端工程师 II）： 24 万美元，每周 5 天在办公室 初创公司（前端工程师）： 21 万美元，完全远程 我总共有 3 年经验。我倾向于亚马逊，因为它是 FAANG，如果能在职业生涯早期将这个名字写在我的简历上就好了。 同时，我担心工作与生活的平衡和毒性……我想我也会在初创公司学到更多东西。 有人有什么见解吗？    提交人    /u/Large-Translator-759   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp7upj/help_between_two_frontend_offers/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:34:34 GMT</pubDate>
+    </item>
     <item>
       <title>个人项目的隐藏价值</title>
       <link>https://www.reddit.com/r/webdev/comments/1hp6agl/the_hidden_value_of_personal_projects/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一个客户，他在 11 月发现有人在运营一个冒充他们的网站，并使用他们的姓名、地址、电话号码和一些图片来销售劣质的木制拼图。我的客户接到一些人的电话，抱怨他们没有收到任何东西，我们就是这样发现的。 我知道这不是我的客户，因为他们不做电子商务，徽标是 Fiver 徽标，客户服务号码只能通过短信发送，而且他们只接受 PayPal。 我从一个服务器追到另一个服务器追了他们两个月，他们现在在拉脱维亚，服务器主机对我的滥用请求没有任何反应。 我还能做些什么来打倒他们或让他们的生活痛苦不堪？我犹豫着是否发布 URL，因为它使用了我客户的真实电话号码和地址。    提交人    /u/BoonLight   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hoxdoh/internet_scammer_using_clients_name_and_address/</guid>
       <pubDate>Sun, 29 Dec 2024 14:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动将邮件中的事件添加到日历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hox3su/auto_add_event_to_calendar_from_mail/</link>
-      <description><![CDATA[嗨 正如标题所示，我想通过向电子邮件发送邀请来实现 WizzAir、Airbnb、Zoom、Google Meet 等可以实现的功能。 如我所见，会议/航班/预订已自动添加到我的日历中。 我尝试通过通过电子邮件发送 .ics 文件来实现这一点，但 gmail 只能识别约会并建议我手动将其添加到我的日历中。 你知道我该怎么做吗？ 谢谢    提交人    /u/Sapessiii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hox3su/auto_add_event_to_calendar_from_mail/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:29:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

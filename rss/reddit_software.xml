@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 22:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 23:17:15 GMT</lastBuildDate>
+    <item>
+      <title>从 pdf 中提取图像</title>
+      <link>https://www.reddit.com/r/software/comments/1hp8730/extract_images_from_pdf/</link>
+      <description><![CDATA[创建了一个免费的在线工具，用于从 pdf 文件中提取图像。  https://creationbin.com/extract-images-from-pdf    提交人    /u/yevo_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hp8730/extract_images_from_pdf/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>可以追踪并记录我电脑上所有活动的软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1hp7csb/software_that_tracks_and_keeps_record_of_all/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Shadowplay 出于某种原因无法超过 50 Mb/s，即使我将其设置为 90 Mb/s。但是我可以使用低于 45-50k kbps 的速度，30k kbps 也可以，所以我假设低于这个速度的任何速度都可以。什么可能导致这种情况，我该如何修复它？    提交人    /u/mohamedkof97   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1horcct/shadowplay_does_not_surpass_50_mbs_for_some_reason/</guid>
       <pubDate>Sun, 29 Dec 2024 07:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>QR 码生成器</title>
-      <link>https://www.reddit.com/r/software/comments/1honqsf/qr_code_generator/</link>
-      <description><![CDATA[寻找一个二维码生成器，客户只需填写 Google 表单，然后就会通过电子邮件收到 10% 的二维码优惠券。  我们需要代码是唯一的，并且只能使用一次。  如果有人有什么好的建议，请告诉我！    提交人    /u/gyunit17   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1honqsf/qr_code_generator/</guid>
-      <pubDate>Sun, 29 Dec 2024 04:09:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 22:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 23:17:19 GMT</lastBuildDate>
+    <item>
+      <title>Fish 4.0：忒修斯之鱼（C++ 到 Rust 重写摘要）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</link>
+      <description><![CDATA[  由    /u/eugay  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>[YT-X] 从终端浏览 YouTube；yt-dlp 包装器</title>
       <link>https://www.reddit.com/r/programming/comments/1hp5rro/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</guid>
       <pubDate>Sat, 28 Dec 2024 20:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯 SQL 中的 Code 2024 的出现</title>
-      <link>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</link>
-      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:28:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
