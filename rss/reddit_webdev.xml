@@ -4,20 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 21:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 22:17:34 GMT</lastBuildDate>
+    <item>
+      <title>我认为我不理解网络框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</link>
+      <description><![CDATA[就上下文而言，我制作游戏很长时间了（Unity C#），使用 android 开发（kotlin - java）制作家庭自动化系统应用程序，构建 PCB 卡，使用微控制器（c++）构建全自己的无人机项目，很长一段时间以来，我都为自己的想法制作网站。上次我开始了一个新项目（像 youtube 这样的视频观看网站），我不知道如何更轻松地编写可读的代码，因为页面太多了，我找不到我想要的东西。我只使用了原始的 Html-css-js-php-mysql 之后我开始研究框架，但我筋疲力尽了。我想我对前后端也不是很了解。我尝试使用 react-vite，但不知道如何制作登录验证系统。试过 next.js，但也不明白如何像 php 那样做 $session 系统。研究过 laravel，但我认为是它的后端系统。有这么多框架，astro、vue、next、nuxt、node、express 等等 我需要指南来了解如何继续。    提交人    /u/ayhanclke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</guid>
+      <pubDate>Wed, 01 Jan 2025 21:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使音频元素中的文件可下载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</link>
+      <description><![CDATA[我肯定问错了问题或者搜索错了东西，但是我有我的网站，我有音频样本（我的作品，不是偷来的），但我想让人们能够下载这些文件。 我没有正确使用哪些搜索词，因为“使音频可下载”或类似搜索词无法提供任何有关实现它所需的代码/html/whatev 的信息。    提交人    /u/rlvo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</guid>
+      <pubDate>Wed, 01 Jan 2025 21:33:37 GMT</pubDate>
+    </item>
     <item>
       <title>我们创建了网站，我可以得到反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</link>
       <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
       <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 JC 证书值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</link>
-      <description><![CDATA[我目前拥有教育学硕士学位，但我希望进入网络开发领域。我当地的大专院校有奖学金，可以支付 30 个学分的证书，我想知道这是否比仅仅创建项目和观看 YouTube/Coursera 更好？我计划在找到工作之前进行一年的技能建设，因此无论哪种方式，时间线似乎都差不多。  我目前的技能仅限于“技术素养”。我会从这门课程中受益，但我很好奇该领域的人会推荐什么？    提交人    /u/CallmeIshmael913   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:38:52 GMT</pubDate>
     </item>
     <item>
       <title>创建我的投资组合网站</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我想知道在 Netlify 从 md 文件生成 html 文件后是否可以获取它。 在我的 VSCode 中，我只能看到用 Decap CMS 制作的 markdown 文件，但看不到网页的 html。 已解决  解决方案/我的错误 大家好，我解决了这个问题或者我弄清楚该怎么做了。我回顾了我所遵循的教程，我需要执行 npm start 才能运行 eleventy 并产生我想要的结果。谢谢大家的帮助！    提交人    /u/TakyonisOnline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hr4ys5/is_it_possible_to_obtain_and_edit_the_html_that/</guid>
       <pubDate>Wed, 01 Jan 2025 15:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于更好的 UI/UX 和后端开发理念的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr4w0u/suggestion_for_better_uiux_with_backend/</link>
-      <description><![CDATA[几个月前，我使用 react 和 tailwind 创建了这个 网站 。我该如何改进它的 ui/ux。另外，我的轮播功能无法正常工作，它顺利地转到末尾，但从最后一张图片反向返回到第一张图片，而不是直接显示第一张图片。 此外，大多数链接都是使用数组进行硬编码的，每次我需要添加新链接时，我都会将链接粘贴到数组中。所以我想使用 java 或 javascript（目前正在学习 java 后端）或使用 appwrite 或 firebase 构建自己的后端。请建议我应该使用哪个东西。 我可以将其添加到我的简历中吗？ 还告诉我如何改进它的用户界面，我应该使用像 framer motion 和 chakra 或material ui这样的pkg吗？    提交人    /u/Indiangoku01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr4w0u/suggestion_for_better_uiux_with_backend/</guid>
-      <pubDate>Wed, 01 Jan 2025 15:19:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
