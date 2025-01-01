@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 20:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:17:50 GMT</lastBuildDate>
+    <item>
+      <title>我们创建了网站，我可以得到反馈吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</link>
+      <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 JC 证书值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</link>
+      <description><![CDATA[我目前拥有教育学硕士学位，但我希望进入网络开发领域。我当地的大专院校有奖学金，可以支付 30 个学分的证书，我想知道这是否比仅仅创建项目和观看 YouTube/Coursera 更好？我计划在找到工作之前进行一年的技能建设，因此无论哪种方式，时间线似乎都差不多。  我目前的技能仅限于“技术素养”。我会从这门课程中受益，但我很好奇该领域的人会推荐什么？    提交人    /u/CallmeIshmael913   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建我的投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</link>
+      <description><![CDATA[我的职业不是网页开发人员，我从事半导体制造设备工作，在那里我是一名全栈开发人员。但我不得不说，我非常享受建立自己的网站的过程。它仍处于 WIP 阶段，但伙计，我一直在推迟我所有其他的项目，不断修改我的网站。我甚至在家里自己托管它。  https://dreblowdesigns.com    提交人    /u/ZoolanderBOT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:35:20 GMT</pubDate>
+    </item>
     <item>
       <title>我为我的网站想出了一个新名称，我该怎么办？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrbapa/ive_come_up_with_a_new_name_for_my_website_what/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[几个月前，我使用 react 和 tailwind 创建了这个 网站 。我该如何改进它的 ui/ux。另外，我的轮播功能无法正常工作，它顺利地转到末尾，但从最后一张图片反向返回到第一张图片，而不是直接显示第一张图片。 此外，大多数链接都是使用数组进行硬编码的，每次我需要添加新链接时，我都会将链接粘贴到数组中。所以我想使用 java 或 javascript（目前正在学习 java 后端）或使用 appwrite 或 firebase 构建自己的后端。请建议我应该使用哪个东西。 我可以将其添加到我的简历中吗？ 还告诉我如何改进它的用户界面，我应该使用像 framer motion 和 chakra 或material ui这样的pkg吗？    提交人    /u/Indiangoku01   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hr4w0u/suggestion_for_better_uiux_with_backend/</guid>
       <pubDate>Wed, 01 Jan 2025 15:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr4lha/made_my_portfolio_site/</link>
-      <description><![CDATA[我讨厌 CSS，但结果看起来真的很不错  这是网站：https://rylena.github.io/PortfolioWebsite    由   提交  /u/RylenLetfTheChat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr4lha/made_my_portfolio_site/</guid>
-      <pubDate>Wed, 01 Jan 2025 15:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 Web 开发者的成熟商业模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr2s2b/proven_business_models_for_web_devs/</link>
-      <description><![CDATA[您能否列出一些经过验证的商业模式，在这些模式中您可以真正发挥您的 Web 开发技能，并将业务提升到一个新的水平，而非程序员却做不到？    提交人    /u/nitin_is_me   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr2s2b/proven_business_models_for_web_devs/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何克隆像 photopea.com 这样的整个网络应用程序并研究其代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr2jl5/how_do_i_clone_an_entire_web_app_like_photopeacom/</link>
-      <description><![CDATA[我想研究其背后的代码，因此我尝试使用保存所有资源来克隆它，但它无法正常工作。对于像这样的 Web 应用程序，这是否意味着它们的所有源代码都是可见的？    提交人    /u/darkpoet_9999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr2jl5/how_do_i_clone_an_entire_web_app_like_photopeacom/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:03:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

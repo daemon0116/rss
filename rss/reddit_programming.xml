@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 20:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:17:34 GMT</lastBuildDate>
+    <item>
+      <title>我仅使用 webhook 为 Slack 和 Bitbucket 创建了拉取请求通知机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</link>
+      <description><![CDATA[  由    /u/RealDaikon7106  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:33:37 GMT</pubDate>
+    </item>
     <item>
       <title>构建开源项目：生活故事、家人和朋友的合作 - AI-Curated</title>
       <link>https://www.reddit.com/r/programming/comments/1hrbahl/building_an_opensource_project_life_stories/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hr3xor/databases_in_2024_a_year_in_review/</guid>
       <pubDate>Wed, 01 Jan 2025 14:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建成熟的在线动作角色扮演游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</link>
-      <description><![CDATA[  由    /u/SF_Nick  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么计算机只能理解二进制数？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr1sc0/why_computers_understand_only_binary_numbers/</link>
-      <description><![CDATA[  由    /u/jehuamanna  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr1sc0/why_computers_understand_only_binary_numbers/</guid>
-      <pubDate>Wed, 01 Jan 2025 12:11:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
