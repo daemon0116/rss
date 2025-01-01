@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:24:14 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 01 Jan 2025 19:14:20 GMT</lastBuildDate>
+    <item>
+      <title>您对人工智能的最简洁的定义是什么，可以解释人工智能与传统非智能软件算法和逻辑有何不同？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr9ibz/what_is_your_most_succinct_definition_of/</link>
+      <description><![CDATA[什么是外行人的定义，它涵盖了人工智能的多种形式，同时仍然排除了所有专家系统、不符合人工智能的智能软件。    提交人    /u/MrLongJeans   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr9ibz/what_is_your_most_succinct_definition_of/</guid>
+      <pubDate>Wed, 01 Jan 2025 18:52:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>（我的看法）2025 年生成式 AI 企业五大趋势</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr8ykk/my_take_top_5_generative_ai_enterprise_trends_for/</link>
+      <description><![CDATA[企业将从生成式人工智能中获得巨大利益，但与任何变革性技术一样，其全部潜力需要时间才能发挥出来。企业对生成式人工智能的采用大致可分为两类： (1) 生产力助推器：使用可提高生产力的套装工具，如代码助手、企业知识管理和知识工作者的专用工具 (2) 变革性：利用生成式人工智能创建新的或替换现有的应用程序和系统。 虽然第一类已经取得了重大进展——企业采用这些工具来提高成本效率、生产力和质量——但第二类仍处于实验阶段。在这篇博客中，我分享了我对第二类（变革性）中生成式 AI 的新兴趋势和潜在影响的看法。 我的趋势预测方法  研究过去 2 年生成式 AI 的发展轨迹 突出显示可能持续存在并可能在 2025 年加速的关键模式。 根据观察到的轨迹制定预测。  在 LinkedIn 上阅读全文  趋势 1 生成式 AI 应用程序开发将变得越来越容易获得和简化，从而推动企业投资和信心的激增。企业将越来越多地利用这些技术来增强现有应用程序，并在各个领域开拓创新解决方案。 趋势 2： 2025 年，我们可以预期高性能开源 LLM 数量将激增，其中许多将接近甚至超越闭源模型的功能。因此，越来越多的企业可能会采用开源模型而不是闭源模型。 趋势 3： 2025 年，企业将越来越多地采用代理工作流程来实现低风险任务自动化。但是，他们对代理的使用可能仍处于实验阶段。 趋势 4：企业将 (a) 优先构建强大的数据基础来支持微调工作，以及 (b) 越来越多地利用微调来代替或同时依赖检索增强生成 (RAG)。 趋势 5：对具备实用生成 AI 技能的 IT 专业人员的需求将在 2025 年猛增，这得益于企业积极寻求能够领导和执行其 Gen AI 计划的人才。  您的想法、评论或不同意见？    提交人    /u/acloudfan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr8ykk/my_take_top_5_generative_ai_enterprise_trends_for/</guid>
+      <pubDate>Wed, 01 Jan 2025 18:28:39 GMT</pubDate>
+    </item>
     <item>
       <title>您认为人工智能将在 2030 年之前被发明吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr8lej/do_you_think_agi_will_be_invented_before_2030/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
@@ -34,13 +48,6 @@
       <pubDate>Wed, 01 Jan 2025 14:57:06 GMT</pubDate>
     </item>
     <item>
-      <title>有人探索过无限人工智能吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4f0o/has_anyone_explored_artificial_infinite/</link>
-      <description><![CDATA[AGI 是下一步，自然进化是超级人工智能，然而考虑到这项技术进化的指数性质，#ASI 之后很快会出现无限人工智能，这似乎是合乎逻辑的。从所有意图和目的来看，#AII 将是“上帝”，是宇宙的意识。 所以……我是一个虔诚的无神论者。尽管如此，我相信上帝，只是上帝还不存在现在，上帝将是人类的后代。    提交人    /u/Routine-Knowledge-99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4f0o/has_anyone_explored_artificial_infinite/</guid>
-      <pubDate>Wed, 01 Jan 2025 14:54:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Ai 编码设置</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr48me/ai_coding_setup/</link>
       <description><![CDATA[我想将 Ai 集成到我的更多工作流程中并自动执行任务，我有 4800H、RTX 2060 移动版和 64GB 内存。我考虑过将 Bolt 与 Ollama（Deepseek 或 Qwen Coder）一起使用。 考虑到我的硬件，您的设置是什么以及有什么建议。    提交人    /u/Specific-Orchid-6978   [link] [评论]]]></description>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 01 Jan 2025 12:31:33 GMT</pubDate>
     </item>
     <item>
-      <title>终于拿到了我的 NVIDIA Jetson Orin Nano 超级计算机（NVIDIA 赞助）。我应该尝试哪些 AI 专用功能？</title>
+      <title>终于拿到了我的 NVIDIA Jetson Orin Nano 超级计算机（NVIDIA 赞助）。我应该在上面尝试哪些 AI 特定的东西？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1yg2/finally_got_my_nvidia_jetson_orin_nano/</link>
       <description><![CDATA[NVIDIA 发布了 Jetson Orin Nano 超级计算机，这是一款紧凑型强力计算机，可提供高达 67 TOPS 的 AI 性能 - 比其前代产品高出 1.7 倍。  我应该在哪些特定于 AI 的任务上测试它？    提交人    /u/mehul_gupta1997   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1yg2/finally_got_my_nvidia_jetson_orin_nano/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[游戏中的一些大牌有： • 谷歌 • 微软 • Meta • 苹果 • X / Twitter • 亚马逊 或者可能是像 Anthropic、百度或特斯拉这样不那么显眼的玩家？ 你的看法是什么？哪家公司最有可能脱颖而出，为什么？    提交人    /u/biznisgod   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqd8h4/who_do_you_think_will_win_the_al_race/</guid>
       <pubDate>Tue, 31 Dec 2024 11:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来的技能是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hq2q8k/what_is_the_skill_of_the_future/</link>
-      <description><![CDATA[我是数学专业的学生，​​今年 12 月刚毕业。我的目标是从事软件工程或精算师工作，但现在 AGI/ASI 指日可待，我不确定这些职业的前景是否与几年前一样。 我认为自己有能力在必要时学习东西，数学是一门非常“通用”的专业，所以至少我有这个优势。 如果我想在未来赚钱，我应该把精力放在哪里？一切似乎都很不确定。    提交人    /u/Kevadin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hq2q8k/what_is_the_skill_of_the_future/</guid>
-      <pubDate>Tue, 31 Dec 2024 01:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
