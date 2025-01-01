@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 11:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:35:21 GMT</lastBuildDate>
+    <item>
+      <title>为什么计算机只能理解二进制数？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr1sc0/why_computers_understand_only_binary_numbers/</link>
+      <description><![CDATA[  由    /u/jehuamanna  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr1sc0/why_computers_understand_only_binary_numbers/</guid>
+      <pubDate>Wed, 01 Jan 2025 12:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 的现代基准测试工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr1k0r/modern_benchmarking_tooling_for_javascript/</link>
+      <description><![CDATA[  由    /u/VeryThiccCat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr1k0r/modern_benchmarking_tooling_for_javascript/</guid>
+      <pubDate>Wed, 01 Jan 2025 11:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络太大，或者缩小</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr1ffm/the_web_is_too_big_or_scaling_down/</link>
+      <description><![CDATA[  由    /u/aaimaadoctor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr1ffm/the_web_is_too_big_or_scaling_down/</guid>
+      <pubDate>Wed, 01 Jan 2025 11:45:33 GMT</pubDate>
+    </item>
     <item>
       <title>这家伙疯了</title>
       <link>https://www.reddit.com/r/programming/comments/1hr0fb8/this_dude_is_insane/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hqlmuo/things_we_learned_out_about_llms_in_2024/</guid>
       <pubDate>Tue, 31 Dec 2024 19:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将旧的 Vim 程序员备忘单更新到了 v2.5（并移至 GitHub 上的新主页）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hql5q2/i_updated_my_old_vim_cheat_sheet_for_programmers/</link>
-      <description><![CDATA[  由    /u/mysticreddit  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hql5q2/i_updated_my_old_vim_cheat_sheet_for_programmers/</guid>
-      <pubDate>Tue, 31 Dec 2024 18:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>“副驾驶暂停”的代价。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hqirav/the_cost_of_the_copilotpause/</link>
-      <description><![CDATA[  由    /u/jpmmcb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hqirav/the_cost_of_the_copilotpause/</guid>
-      <pubDate>Tue, 31 Dec 2024 16:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jonot 的博客：为什么我用 Zig 编写 Game Boy Advance 游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</link>
-      <description><![CDATA[注意：这可能无法在实际的 GBA 上运行，因为它没有实现 GBA 复制保护。它应该可以在大多数模拟器上运行（在 mGBA 上测试过） 2048-zig v1.0 发布：https://github.com/jonot-cyber/2048-zig/releases/tag/1.0    提交人    /u/NXGZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</guid>
-      <pubDate>Tue, 31 Dec 2024 11:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

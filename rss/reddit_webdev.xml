@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 11:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:35:39 GMT</lastBuildDate>
+    <item>
+      <title>每月入门/Web 开发职业主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hr1mk1/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[由于有关该主题的问题越来越多，我们决定每月专门针对该主题发布一个帖子，以减少有关该主题的重复帖子数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子 FAQ 中得到解决，或者可能已经在以前的每月职业主题中被问到过。 专门针对这些类型问题的子版块包括 r/cscareerquestions（用于一般和开放式职业问题）和 r/learnprogramming（用于早期学习问题）。 为做好行业准备而需要学习的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架 (React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要一个包含您构建的 4-5 个个人项目的作品集，以及一份申请工作的简历/履历。 在申请工作之前，计划 6-12 个月的自学和项目制作作为您的作品集。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hr1mk1/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Wed, 01 Jan 2025 12:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>向网站添加视频的最佳方式？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hr0pzw/best_way_to_add_videos_to_a_website/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[因此，我的 iPad 上有一个机构 Apple ID，我可以通过它访问 iCloud 网站，但如果我尝试从手机登录以访问照片和 iCloud Drive，它会要求我输入学校的验证码。我尝试获取网站的 cookie 并将其放在手机上，但我仍然有登录页面，如果我尝试登录，它会显示“连接错误”。我知道这可能是不可能的，但也许有人可以给我一个建议，而不是询问我的学校（我不太了解身份验证系统和其他东西，这就是我在这里提问的原因）    提交人    /u/Golden_Melky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqmml2/clone_icloud_website_cookie/</guid>
       <pubDate>Tue, 31 Dec 2024 19:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站位于验证码检查墙后面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqm36c/website_behind_captchacheckwall/</link>
-      <description><![CDATA[我正在测试一个个人网站，只有一个页面，包含电话、电子邮件等。就像一张在线名片一样。 由于这是个人数据，我将所有内容都设置为隐形旋转式验证码检查。如果检查正常，它会加密电话号码等并显示网站。如果不行，则会显示错误消息。 这样做明智吗？    提交人    /u/ugohdit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqm36c/website_behind_captchacheckwall/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:28:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
