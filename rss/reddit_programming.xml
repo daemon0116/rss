@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 10:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 11:15:13 GMT</lastBuildDate>
+    <item>
+      <title>这家伙疯了</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr0fb8/this_dude_is_insane/</link>
+      <description><![CDATA[  由    /u/FullTube  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr0fb8/this_dude_is_insane/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:28:58 GMT</pubDate>
+    </item>
     <item>
       <title>帮助训练 NLP 模型：分享与编程相关的提示！</title>
       <link>https://www.reddit.com/r/programming/comments/1hr0057/help_train_an_nlp_model_share_your/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[注意：这可能无法在实际的 GBA 上运行，因为它没有实现 GBA 复制保护。它应该可以在大多数模拟器上运行（在 mGBA 上测试过） 2048-zig v1.0 发布：https://github.com/jonot-cyber/2048-zig/releases/tag/1.0    提交人    /u/NXGZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</guid>
       <pubDate>Tue, 31 Dec 2024 11:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>LevelDB 解释：我的一系列与 LevelDB 源代码相关的技术博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</link>
-      <description><![CDATA[  由    /u/selfboot007  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</guid>
-      <pubDate>Tue, 31 Dec 2024 10:06:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
