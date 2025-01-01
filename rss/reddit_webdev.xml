@@ -4,20 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 09:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 10:19:35 GMT</lastBuildDate>
+    <item>
+      <title>Tinder + Omegle 网站创意，如果不行的话，我还会把它作为我的初级开发人员简历。在过去的几天里，我添加了用户报告、管理面板、用户反馈、修复了聊天错误、完全实现了匹配算法和统计视图。这算是一家初创公司吗？xD</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hqzvy5/tinder_omegle_website_idea_if_it_doesnt_work_out/</link>
+      <description><![CDATA[  由    /u/RoberBots  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hqzvy5/tinder_omegle_website_idea_if_it_doesnt_work_out/</guid>
+      <pubDate>Wed, 01 Jan 2025 09:46:15 GMT</pubDate>
+    </item>
     <item>
       <title>如何实现印度各个购物网站的产品价格比较表</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqzk6v/how_to_implement_product_price_comparison_table/</link>
       <description><![CDATA[哪个 api / 服务用于产品价格比较，假设用户访问产品页面，那么他应该看到来自亚马逊、flipkart 和印度其他电子商务的价格，如何以最低成本实现此功能。 我已经看到亚马逊只允许联盟，但我所做的不是联盟，而是为了提升我自己的产品    提交人    /u/TechArtist7   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqzk6v/how_to_implement_product_price_comparison_table/</guid>
       <pubDate>Wed, 01 Jan 2025 09:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>业务优化软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqzk0r/business_optimization_software/</link>
-      <description><![CDATA[大家好，这是我第一次发帖，但我对自己在构建客户端方面取得的进展感到非常高兴，该客户端允许企业使用 AI 优化其运营。我们使用按行业和复杂程度划分的精细提示类别。让用户可以非常轻松地通过我们的工具增加价值。DM 获取测试版链接，我也会在那里回答任何问题 我们将在第一季度推出测试版，因此我会定期向社区更新！    提交人    /u/Test_Weary   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqzk0r/business_optimization_software/</guid>
-      <pubDate>Wed, 01 Jan 2025 09:18:54 GMT</pubDate>
     </item>
     <item>
       <title>fastapi 和 vanilla js 对于 fullstack 来说是一个很好的组合吗？</title>
