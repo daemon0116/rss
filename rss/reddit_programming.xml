@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 23:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 01:28:30 GMT</lastBuildDate>
     <item>
-      <title>Fish 4.0：忒修斯之鱼（C++ 到 Rust 重写摘要）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</link>
-      <description><![CDATA[  由    /u/eugay  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</guid>
-      <pubDate>Sun, 29 Dec 2024 22:58:20 GMT</pubDate>
+      <title>如何管理不稳定的测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqsipv/how_to_manage_flaky_tests/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqsipv/how_to_manage_flaky_tests/</guid>
+      <pubDate>Wed, 01 Jan 2025 01:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>[YT-X] 从终端浏览 YouTube；yt-dlp 包装器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hp5rro/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</link>
-      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hp5rro/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</guid>
-      <pubDate>Sun, 29 Dec 2024 21:03:30 GMT</pubDate>
+      <title>我所知道的有关运输符合规格的产品的所有提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqpsvv/every_tip_i_know_for_shipping_products_that_match/</link>
+      <description><![CDATA[  由    /u/overload119  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqpsvv/every_tip_i_know_for_shipping_products_that_match/</guid>
+      <pubDate>Tue, 31 Dec 2024 22:38:45 GMT</pubDate>
     </item>
     <item>
-      <title>我已经构建了 Noema：一种在 Python 中控制 LLM 的声明式方法！</title>
-      <link>https://www.reddit.com/r/programming/comments/1hp1ike/ive_build_noema_a_declarative_way_to_control_llms/</link>
-      <description><![CDATA[  由    /u/Super_Dependent_2978  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hp1ike/ive_build_noema_a_declarative_way_to_control_llms/</guid>
-      <pubDate>Sun, 29 Dec 2024 17:55:16 GMT</pubDate>
+      <title>Rust、反射和访问规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqoqdo/rust_reflection_and_access_rules/</link>
+      <description><![CDATA[  由    /u/FractalFir  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqoqdo/rust_reflection_and_access_rules/</guid>
+      <pubDate>Tue, 31 Dec 2024 21:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>C++ 绝对是一款好语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hozfd4/c_is_an_absolute_blast/</link>
-      <description><![CDATA[  由    /u/aaimaadoctor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hozfd4/c_is_an_absolute_blast/</guid>
-      <pubDate>Sun, 29 Dec 2024 16:23:20 GMT</pubDate>
+      <title>静态搜索树：比二分搜索快 40 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqo19u/static_search_trees_40x_faster_than_binary_search/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqo19u/static_search_trees_40x_faster_than_binary_search/</guid>
+      <pubDate>Tue, 31 Dec 2024 21:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>构建人工智能驱动的 Git 提交报告生成器：开发日志 1</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoyu2g/building_an_aipowered_git_commit_report_generator/</link>
-      <description><![CDATA[  由   提交  /u/Main-Humor-6933   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoyu2g/building_an_aipowered_git_commit_report_generator/</guid>
-      <pubDate>Sun, 29 Dec 2024 15:56:04 GMT</pubDate>
+      <title>如何不学习 Rust（2021）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqnuch/how_not_to_learn_rust_2021/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqnuch/how_not_to_learn_rust_2021/</guid>
+      <pubDate>Tue, 31 Dec 2024 20:56:30 GMT</pubDate>
     </item>
     <item>
-      <title>使用 DSPy 构建可用于生产的 AI 代理和 LLM 程序：提示和代码片段</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoypv0/building_productionready_ai_agents_llm_programs/</link>
-      <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoypv0/building_productionready_ai_agents_llm_programs/</guid>
-      <pubDate>Sun, 29 Dec 2024 15:50:35 GMT</pubDate>
+      <title>Thytu/Agentarium：用于创建和管理由人工智能代理填充的模拟的开源框架。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqmqjt/thytuagentarium_opensource_framework_for_creating/</link>
+      <description><![CDATA[  由    /u/KingDevKong  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqmqjt/thytuagentarium_opensource_framework_for_creating/</guid>
+      <pubDate>Tue, 31 Dec 2024 20:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>我从人工智能辅助编程中学到的东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</link>
-      <description><![CDATA[  由    /u/al_420  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hovxjb/what_ive_learned_from_aiassisted_programming/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:23:32 GMT</pubDate>
+      <title>DCA3 - GTA 3 Dreamcast 端口首次发布（可用源代码 + 对开发团队的采访）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqmd3y/dca3_gta_3_dreamcast_port_first_release_source/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqmd3y/dca3_gta_3_dreamcast_port_first_release_source/</guid>
+      <pubDate>Tue, 31 Dec 2024 19:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>BSD kqueue 的技术债务堆积如山</title>
-      <link>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1houx9r/bsd_kqueue_is_a_mountain_of_technical_debt/</guid>
-      <pubDate>Sun, 29 Dec 2024 12:18:57 GMT</pubDate>
+      <title>2024 年关于法学硕士的几点认识</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqlmuo/things_we_learned_out_about_llms_in_2024/</link>
+      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqlmuo/things_we_learned_out_about_llms_in_2024/</guid>
+      <pubDate>Tue, 31 Dec 2024 19:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>PHP getenv 和 $_ENV 之间的区别：注意细微差别！</title>
-      <link>https://www.reddit.com/r/programming/comments/1hou9mp/difference_between_php_getenv_and_env_beware_of/</link>
-      <description><![CDATA[环境变量在现代开发中起着至关重要的作用，尤其是对于管理敏感数据（如 API 密钥或特定于环境的配置）而言。在 PHP 中，有两种主要方式可以访问这些变量：getenv 函数和 $_ENV 超全局变量。虽然它们似乎可以互换，但它们的行为不同，如果使用不当可能会导致问题。    提交人    /u/noweh95   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hou9mp/difference_between_php_getenv_and_env_beware_of/</guid>
-      <pubDate>Sun, 29 Dec 2024 11:34:13 GMT</pubDate>
+      <title>我将旧的 Vim 程序员备忘单更新到了 v2.5（并移至 GitHub 上的新主页）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hql5q2/i_updated_my_old_vim_cheat_sheet_for_programmers/</link>
+      <description><![CDATA[  由    /u/mysticreddit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hql5q2/i_updated_my_old_vim_cheat_sheet_for_programmers/</guid>
+      <pubDate>Tue, 31 Dec 2024 18:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>不太现代的 C++</title>
-      <link>https://www.reddit.com/r/programming/comments/1hot45m/not_so_modern_c/</link>
-      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hot45m/not_so_modern_c/</guid>
-      <pubDate>Sun, 29 Dec 2024 10:11:02 GMT</pubDate>
+      <title>“副驾驶暂停”的代价。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqirav/the_cost_of_the_copilotpause/</link>
+      <description><![CDATA[  由    /u/jpmmcb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqirav/the_cost_of_the_copilotpause/</guid>
+      <pubDate>Tue, 31 Dec 2024 16:52:32 GMT</pubDate>
     </item>
     <item>
-      <title>在外部 USB 上安装 Rust 并保存在那里</title>
-      <link>https://www.reddit.com/r/programming/comments/1honbwk/installing_rust_on_an_external_usb_and_keeping/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1honbwk/installing_rust_on_an_external_usb_and_keeping/</guid>
-      <pubDate>Sun, 29 Dec 2024 03:45:48 GMT</pubDate>
+      <title>我们建立了一个 AI 代理目录来帮助你找到最好的 AI 代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqdqr4/we_built_an_ai_agents_directory_to_help_you_find/</link>
+      <description><![CDATA[  由    /u/sahilypatel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqdqr4/we_built_an_ai_agents_directory_to_help_you_find/</guid>
+      <pubDate>Tue, 31 Dec 2024 12:29:52 GMT</pubDate>
     </item>
     <item>
-      <title>让我们用烟花庆祝新年！仅 60 行纯 JavaScript</title>
-      <link>https://www.reddit.com/r/programming/comments/1holkg0/lets_celebrate_the_new_year_with_fireworks_only/</link>
-      <description><![CDATA[  由    /u/swe129  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1holkg0/lets_celebrate_the_new_year_with_fireworks_only/</guid>
-      <pubDate>Sun, 29 Dec 2024 02:09:10 GMT</pubDate>
+      <title>Jonot 的博客：为什么我用 Zig 编写 Game Boy Advance 游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</link>
+      <description><![CDATA[注意：这可能无法在实际的 GBA 上运行，因为它没有实现 GBA 复制保护。它应该可以在大多数模拟器上运行（在 mGBA 上测试过） 2048-zig v1.0 发布：https://github.com/jonot-cyber/2048-zig/releases/tag/1.0    提交人    /u/NXGZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</guid>
+      <pubDate>Tue, 31 Dec 2024 11:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>我为 argparse 制作了一个嵌入式包装器，可以自动创建 GUI 界面</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</link>
-      <description><![CDATA[  由    /u/passwordwork  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:59:12 GMT</pubDate>
+      <title>LevelDB 解释：我的一系列与 LevelDB 源代码相关的技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</link>
+      <description><![CDATA[  由    /u/selfboot007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</guid>
+      <pubDate>Tue, 31 Dec 2024 10:06:03 GMT</pubDate>
     </item>
     <item>
-      <title>Seergdb v2.5 适用于 Linux。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</link>
-      <description><![CDATA[  由    /u/epasveer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:47:22 GMT</pubDate>
+      <title>针对你的前端项目 (webpack 或 vite) 的优化器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hq8gqp/optimer_for_your_frontend_project_webpack_or_vite/</link>
+      <description><![CDATA[  由    /u/No-Donut9906  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hq8gqp/optimer_for_your_frontend_project_webpack_or_vite/</guid>
+      <pubDate>Tue, 31 Dec 2024 06:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>Nevalang：具有匿名端口和增强型 DI 钻取功能的重大发布🎉</title>
-      <link>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</link>
-      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:00:56 GMT</pubDate>
+      <title>我的 2025 年 JavaScript 愿望清单</title>
+      <link>https://www.reddit.com/r/programming/comments/1hq3ybz/my_2025_javascript_wishlist/</link>
+      <description><![CDATA[  由    /u/AsyncBanana  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hq3ybz/my_2025_javascript_wishlist/</guid>
+      <pubDate>Tue, 31 Dec 2024 02:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
