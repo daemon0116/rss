@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 13:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 14:17:17 GMT</lastBuildDate>
+    <item>
+      <title>如何创建成熟的在线动作角色扮演游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</link>
+      <description><![CDATA[  由    /u/SF_Nick  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</guid>
+      <pubDate>Wed, 01 Jan 2025 13:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>为什么计算机只能理解二进制数？</title>
       <link>https://www.reddit.com/r/programming/comments/1hr1sc0/why_computers_understand_only_binary_numbers/</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[  由    /u/Efficient_Bag_989  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hr0057/help_train_an_nlp_model_share_your/</guid>
       <pubDate>Wed, 01 Jan 2025 09:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个由 AI 代理驱动的简历生成器 - 给它评分吧😫</title>
-      <link>https://www.reddit.com/r/programming/comments/1hqzqkd/i_made_an_ai_agent_powered_resume_builder_rate_it/</link>
-      <description><![CDATA[  由    /u/anmolatschool03  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hqzqkd/i_made_an_ai_agent_powered_resume_builder_rate_it/</guid>
-      <pubDate>Wed, 01 Jan 2025 09:34:01 GMT</pubDate>
     </item>
     <item>
       <title>使用自定义 GraphQL 插件集成指标和分析：增强 GraphQL API</title>

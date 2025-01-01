@@ -3,8 +3,8 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 13:21:45 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 01 Jan 2025 14:16:32 GMT</lastBuildDate>
     <item>
       <title>Meta 希望在其平台上增加 AI 用户</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr22t0/meta_wants_to_add_ai_users_to_its_platforms/</link>
@@ -20,14 +20,14 @@
       <pubDate>Wed, 01 Jan 2025 12:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>终于拿到了我的 NVIDIA Jetson Orin Nano 超级计算机（NVIDIA 赞助）。我应该在上面尝试哪些 AI 特定的东西？</title>
+      <title>终于拿到了我的 NVIDIA Jetson Orin Nano 超级计算机（NVIDIA 赞助）。我应该尝试哪些 AI 专用功能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1yg2/finally_got_my_nvidia_jetson_orin_nano/</link>
       <description><![CDATA[NVIDIA 发布了 Jetson Orin Nano 超级计算机，这是一款紧凑型强力计算机，可提供高达 67 TOPS 的 AI 性能 - 比其前代产品高出 1.7 倍。  我应该在哪些特定于 AI 的任务上测试它？    提交人    /u/mehul_gupta1997   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1yg2/finally_got_my_nvidia_jetson_orin_nano/</guid>
       <pubDate>Wed, 01 Jan 2025 12:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年最完美的 AI 论文作者是什么样的？</title>
+      <title>2025 年最完美的 AI 论文作者是怎样的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1frq/whats_the_perfect_ai_essay_writer_for_2025/</link>
       <description><![CDATA[我注意到许多 AI 写作工具都在年底推出订阅大促销，我不知道该选哪一个。我主要需要一个工具来帮助我生成论文、解释内容和引用。虽然我知道没有任何 AI 工具可以完全保证作品不会被检测到，但我仍在寻找可以让我的写作过程更轻松的东西。目前，我正在考虑 MyEssayWriter 和 PerfectEssayWriter。两者似乎都是不错的选择，但我很想知道是否有人尝试过它们，或者对 2025 年适合学术写作的 AI 写作工具有任何其他推荐。您的反馈将非常有帮助！    提交人    /u/paulflythe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr1frq/whats_the_perfect_ai_essay_writer_for_2025/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
