@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 09:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 10:20:27 GMT</lastBuildDate>
+    <item>
+      <title>适应不断变化的时间线的动态 AI 访问控制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwgg3f/dynamic_ai_access_control_for_a_changing_timeline/</link>
+      <description><![CDATA[        提交人    /u/Permit_io   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwgg3f/dynamic_ai_access_control_for_a_changing_timeline/</guid>
+      <pubDate>Wed, 08 Jan 2025 09:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得全局？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwg8e3/how_to_get_the_big_picture/</link>
+      <description><![CDATA[嗨！ 我在一家相当大的公司工作，但只是机器上的一个齿轮。我意识到，尽管我已经工作了 5 年多，但我并不擅长掌握全局。我认为，唯一的原因是我所在的公司创建了自己的堆栈和框架。没有任何文档，而且我的技能非常特殊。我们有一个内部前端框架，它……至少可以说是有缺陷的。html 和 JS 不是文件，而是数据库表中的字段。没有 git 或 svn。几乎所有逻辑都在 sql server 中（我对此很满意。至少我们使用常规 sql，因此很容易搜索东西）。我想我总体上也低于平均水平。有了两个孩子后，我大部分的空闲时间都花在了他们、妻子或其他一些爱好上。 无论如何，我想尝试更常见的东西，也想尝试自己设置一些东西。我现在编写的第一件事只是一个锻炼记录器，它从我使用的应用程序收集数据，并将它们记录到公司内联网（如果我们锻炼了一定量，我们基本上会得到一些东西）。以前我需要手动记录，但现在我不需要了。很好。但代码在我的计算机上本地运行，所以如果我更换电脑/关闭它，它就不起作用。如果我的目标不是必须有“最佳”主机选项，而是一个灵活的主机选项，我可以稍后添加内容，并且（希望）增加我对服务器和计算机如何相互通信的理解，你会推荐哪一个？或者你对像我这样的人还有其他建议吗？    提交人    /u/VersionEquivalent717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwg8e3/how_to_get_the_big_picture/</guid>
+      <pubDate>Wed, 08 Jan 2025 09:31:29 GMT</pubDate>
+    </item>
     <item>
       <title>制作用于收集优惠券并显示折扣和价格的浏览器扩展程序的技巧</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwg1i3/tips_on_making_a_browser_extension_for_collecting/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>我想免费测试你的 Web 应用的安全性</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwfsfc/id_like_to_test_your_web_apps_security_for_free/</link>
-      <description><![CDATA[大家好 这里有许多人都在为自己或客户开发 Web 应用程序。推广此类服务最重要的事情之一不仅是 UI/UX，还要确保您的网站安全，客户的数据安全。您的声誉和客户的声誉很大程度上都依赖于此。 因此，我开发了一个自主 AI 代理，可以快速确保您的产品确实是安全的。 我目前免费提供这项服务，以便获得一些反馈并希望建立用户群。此外，运营成本很低，所以我可以做一段时间。 如果您想了解有关此服务的更多信息并查看我的凭据，我邀请您查看我的网站： https://tarantulaagent.com/about-page/    提交人    /u/dvnci1452   [link] [评论]]]></description>
+      <description><![CDATA[大家好 这里有许多人都在为自己或客户开发 Web 应用程序。推广此类服务最重要的事情之一不仅是 UI/UX，还要确保您的网站安全，客户的数据安全。您的声誉和客户的声誉很大程度上都依赖于此。 因此，我开发了一个自主 AI 代理，可以快速确保您的产品确实是安全的。 我目前免费提供这项服务，以便获得一些反馈并希望建立用户群。此外，运营成本很低，所以我可以这样做一段时间。 如果您想了解有关此服务的更多信息，并查看我的凭证，我邀请您查看我的网站： https://tarantulaagent.com/about-page/ 编辑：在针对 Portswigger 实验室进行测试时，它解决了超过 80% 的实验室它被设计为能够解决。    提交人    /u/dvnci1452   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwfsfc/id_like_to_test_your_web_apps_security_for_free/</guid>
       <pubDate>Wed, 08 Jan 2025 09:01:53 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我告诉这位老太太我是一名网页开发人员，她一脸困惑地问道：“你做网页？？？”    提交人    /u/L84Werk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hw9mck/whats_the_most_ridiculous_andor_funniest_response/</guid>
       <pubDate>Wed, 08 Jan 2025 02:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw921w/best_courses/</link>
-      <description><![CDATA[目前是一名初级开发人员，主要从事 Django 开发。我的雇主愿意为有兴趣的人支付培训/课程费用。 我不在乎认证或资历，我所寻找的只是一门有实质内容的课程！我想坚持 Webdev 内容，但也愿意学习 AI，因为这是公司今年的发展方向 有什么建议吗？    提交人    /u/afor94   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw921w/best_courses/</guid>
-      <pubDate>Wed, 08 Jan 2025 02:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>双键缓存：浏览器​​缓存分区如何改变 Web</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw8xf6/doublekeyed_caching_how_browser_cache/</link>
-      <description><![CDATA[       由    /u/feross  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw8xf6/doublekeyed_caching_how_browser_cache/</guid>
-      <pubDate>Wed, 08 Jan 2025 02:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

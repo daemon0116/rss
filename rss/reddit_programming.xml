@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 09:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 10:20:08 GMT</lastBuildDate>
+    <item>
+      <title>与 2022 年相比，StackOverflow 失去了 77% 的新问题。这是自 2009 年 5 月以来的最低数字。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwg2px/stackoverflow_has_lost_77_of_new_questions/</link>
+      <description><![CDATA[  由    /u/hopeseekr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwg2px/stackoverflow_has_lost_77_of_new_questions/</guid>
+      <pubDate>Wed, 08 Jan 2025 09:20:59 GMT</pubDate>
+    </item>
     <item>
       <title>只想分享我在 32 位操作系统上的进展 正如标题所说，我想分享我从头开始构建 32 位操作系统的历程。到目前为止，我已经完成了一些关键组件，如内核入口、虚拟内存管理、任务切换、中断处理等。</title>
       <link>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</guid>
       <pubDate>Tue, 07 Jan 2025 19:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zig 风格的泛型并不适合大多数语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</link>
-      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:59:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
