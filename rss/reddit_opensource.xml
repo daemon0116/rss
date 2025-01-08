@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 20:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 21:17:47 GMT</lastBuildDate>
+    <item>
+      <title>Valyent：开发人员优先的云平台。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</link>
+      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:41:41 GMT</pubDate>
+    </item>
     <item>
       <title>React 中有没有什么小游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</guid>
       <pubDate>Wed, 08 Jan 2025 00:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传我在 Monogame 引擎中构建的两款游戏供所有人查看和使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</link>
-      <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

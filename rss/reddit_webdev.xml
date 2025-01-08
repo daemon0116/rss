@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 20:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 21:17:42 GMT</lastBuildDate>
+    <item>
+      <title>Temu captchas（过滤人工智能和人类）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwv244/temu_captchas_filter_ai_humans_alike/</link>
+      <description><![CDATA[        提交人    /u/violetbirdbird   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwv244/temu_captchas_filter_ai_humans_alike/</guid>
+      <pubDate>Wed, 08 Jan 2025 21:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>笔记本电脑有推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwu3uj/laptop_recommendations/</link>
+      <description><![CDATA[我的 MacBook 运行速度非常慢，我需要一台高效且价格最好低于 600 美元的电脑来进行远程开发工作和一些学校编程项目，有什么推荐吗？    提交人    /u/Bubbly-Contract-5595   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwu3uj/laptop_recommendations/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>完成了自由职业网站，现在做什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwtrv4/finished_freelance_website_now_what/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，我一直在访问网站寻找灵感并发现：https://www.angellist.com/2023 我一直在寻找类似的效果 js，但找不到重新创建背景网格效果的方法。这里有人知道我怎样才能创建类似的效果吗？    提交人    /u/jlurosa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</guid>
       <pubDate>Wed, 08 Jan 2025 17:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 TYK API 网关的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwom95/question_regarding_tyk_api_gateway/</link>
-      <description><![CDATA[大家好，我正在使用 Tyk Gateway API，对 API 密钥的安全问题有疑虑。例如，在创建策略时，我在请求中包含一个 API 密钥。但是，我担心攻击者可能会暴力破解 API 密钥并获得对 Tyk API 的未经授权的访问权限。我可以实施哪些最佳实践或其他安全措施来保护这些 API 密钥并防止暴力攻击？    提交人    /u/PhotographMinimum538   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwom95/question_regarding_tyk_api_gateway/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助 - 当 Firefox 设置为系统默认设置时，TWA 显示 URL 栏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</link>
-      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题（Chrome 可以工作但 Firefox 不能）类似的内容，除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:24:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
