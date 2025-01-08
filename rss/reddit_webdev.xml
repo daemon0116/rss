@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 16:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 17:16:45 GMT</lastBuildDate>
+    <item>
+      <title>我如何才能在此网站上重新创建背景点网格效果？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</link>
+      <description><![CDATA[嗨，我一直在访问网站寻找灵感并发现：https://www.angellist.com/2023 我一直在寻找类似的效果 js，但找不到重新创建背景网格效果的方法。这里有人知道我怎样才能创建类似的效果吗？    提交人    /u/jlurosa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:06:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 TYK API 网关的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwom95/question_regarding_tyk_api_gateway/</link>
+      <description><![CDATA[大家好，我正在使用 Tyk Gateway API，对 API 密钥的安全问题有疑虑。例如，在创建策略时，我在请求中包含一个 API 密钥。但是，我担心攻击者可能会暴力破解 API 密钥并获得对 Tyk API 的未经授权的访问权限。我可以实施哪些最佳实践或其他安全措施来保护这些 API 密钥并防止暴力攻击？    提交人    /u/PhotographMinimum538   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwom95/question_regarding_tyk_api_gateway/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助 - 当 Firefox 设置为系统默认设置时，TWA 显示 URL 栏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</link>
+      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题（Chrome 可以工作但 Firefox 不能）类似的内容，除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:24:23 GMT</pubDate>
+    </item>
     <item>
       <title>WIX 本身就不安全吗？填写联系表单的正确方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwnnhu/is_wix_inherently_insecure_proper_way_to_do_a/</link>
@@ -20,7 +41,7 @@
       <pubDate>Wed, 08 Jan 2025 15:40:26 GMT</pubDate>
     </item>
     <item>
-      <title>我希望有一个只属于人类的网络</title>
+      <title>我希望有一个只供人类使用的网络</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwmzjp/i_wish_there_was_a_human_only_web/</link>
       <description><![CDATA[我厌倦了看到 AI 内容，感觉很懒惰。我喜欢网络和一切开发，看看互联网变成了什么样子。  我们生活在虚假信息的时代。 我知道我不是天才，但也许这可以激发其他人解决这个问题的意愿。 我希望有一天互联网上会存在每个人都是人类，如何创造它？我不知道如何确保与我互动的每个人都是人类。    提交人    /u/ripndipp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwmzjp/i_wish_there_was_a_human_only_web/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>我在工作中尝试了 6 种以上的 AI 工具，但几乎没有一个能给我带来出色的表现。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</link>
-      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合尝试构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 的工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合试图构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</guid>
       <pubDate>Wed, 08 Jan 2025 15:33:28 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[上下文：我们外包了一个移动应用程序开发。应用程序开发完毕，现在我们接管了源代码。但是，没有源代码文档。我将在我的团队中独自接管源代码。我开始学习 Flutter，但他们共享的源代码当然庞大而复杂。现在我个人觉得我需要一份解释源代码的文档。向 gpt 询问了基本结构，它建议询问诸如 api int、项目结构、状态管理、自定义小部件、扩展库以及对它们所做的更改之类的内容。询问这样的细节是正常的吗，还是我必须自己浏览每个文件并理解它。我要通知我的经理并要求提供适当的文档，但我需要对此的意见，因为我是新手。我是否必须自己浏览源代码并理解每一个内容，或者源代码有文档是正常的？因为如果这是正常的，我可以让我的经理让团队准备一份。当然他可能也知道这是否正常，但我需要第三种意见。 谢谢你的帮助。 我确实知道如何阅读新的代码库。我还学习了带有状态管理的 dart 和 flutter，但代码库确实很复杂。当然理解它需要时间。    提交人    /u/Inside-Pass5632   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwk83j/codebase_document/</guid>
       <pubDate>Wed, 08 Jan 2025 13:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建与 AI 集成的跨平台自动化脚本的最佳工具是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</link>
-      <description><![CDATA[我一直在寻找一种工具，它可以允许在不同平台（macOS 和 Windows）上顺利编写和执行脚本，同时还可以实现 AI 集成。支持项目管理、脚本触发器和实时调试的工具会很棒。有人用过这样的工具吗，或者可以推荐一个好的工具吗？    提交人    /u/Dushusir   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高我的费率让 webdev 再次变得有趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</link>
-      <description><![CDATA[我是一名自由职业的全栈网页设计师和开发人员，最近因为无聊的工作和不遵守合同的客户而感到有些沮丧，导致沟通不畅和客户不满意。几个月前，我向一位企业家朋友发泄，他建议我大幅提高我的费率。这让我感到害怕，但如果事情出错，我有足够的积蓄，所以最终我决定试一试。 现在，几个月后，一切都变了。我完全惊呆了。我有更多的客户，他们认真对待交易，并提出有趣的大工作。他们对我的工作很满意，并向他们认识的预算相似甚至更高的人推荐我。我也有能力拒绝听起来没有吸引力的工作。 这太疯狂了，我真的不知道创业可以这么轻松。而这一切都是因为提高了我的费率。 是的，我只是想分享我的快乐故事。也许这会激励某些人。 编辑：我应该说明我的位置。我住在荷兰，我的费率提高了约 40%。 编辑 2：我只是要重复我在帖子其他地方说过的话。我不会给出我的确切费率，因为这不是这篇文章的重点。我只是想鼓励人们去尝试。您的确切费率在很大程度上取决于您的位置和目标客户。话虽如此，我会给出一个指示：我之前的费率很低，只吸引个人和小型独立企业。我以为保持低费率会增加需求，但我错了。无论我的工作质量如何，更大的潜在客户都会忽略我。一旦我提高费率，他们就会开始更认真地对待我。这是一个古老的故事，但真正经历却令人惊叹。   由    /u/CobaltMazz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有基于 json 到内容编辑器 cms 的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</link>
-      <description><![CDATA[我想将 excel 文档迁移到 json 格式，以创建一个显示内容的平台。我唯一的问题是我想在此过程中摆脱 excel，这让我需要想出一种方法来允许技术知识很少的内容编辑者能够更新 json。 是否有一些工具可以读取 json 并创建一些 cms 平台，编辑者只需单击文本即可编辑？    提交者    /u/TravelOwn4386   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:54:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
