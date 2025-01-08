@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 05:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:26:21 GMT</lastBuildDate>
     <item>
       <title>果冻荚</title>
       <link>https://www.producthunt.com/posts/jellypod-3</link>
@@ -118,6 +118,20 @@ AI 数据分析师
       <pubDate>Wed, 01 Jan 2025 15:05:18 GMT</pubDate>
     </item>
     <item>
+      <title>百吉饼面包店</title>
+      <link>https://www.producthunt.com/posts/bakery-by-bagel</link>
+      <description><![CDATA[
+可货币化的开源 AI
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bakery-by-bagel</guid>
+      <pubDate>Wed, 01 Jan 2025 03:51:29 GMT</pubDate>
+    </item>
+    <item>
       <title>岳母</title>
       <link>https://www.producthunt.com/posts/socra-2</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@ AI 数据分析师
 ]]></description>
       <guid>https://www.producthunt.com/posts/swallow-2</guid>
       <pubDate>Fri, 13 Dec 2024 12:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>无刮擦</title>
-      <link>https://www.producthunt.com/posts/scrapeless</link>
-      <description><![CDATA[
-为企业和开发人员提供的轻松网页抓取工具包
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/scrapeless</guid>
-      <pubDate>Wed, 27 Nov 2024 03:17:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
