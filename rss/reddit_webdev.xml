@@ -4,18 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 04:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 07:18:04 GMT</lastBuildDate>
     <item>
-      <title>我已经创建了 levels.fyi 的替代谈判服务，价格便宜 10 倍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwaiem/i_have_created_an_alternative_to_levelsfyi/</link>
-      <description><![CDATA[多年来，我看到无数的朋友、同事，甚至我自己都在薪资谈判中挣扎。这个过程往往令人生畏且不透明，尤其是在一个薪酬结构（如基本工资、股权、奖金和福利）如此复杂的行业中。 虽然像 levels fyi 这样的平台提供了很高的薪资透明度，但他们的谈判服务价格昂贵，我觉得还有空间提供更易于接受的替代方案。这就是我创建 SalaryScript 的原因——创建一种既可操作又经济实惠的资源，使工程师能够控制自己的财务未来。 SalaryScript 的不同之处  现实世界的策略：SalaryScript 基于成功与 FAANG 和其他顶级科技公司谈判的工程师的真实谈判经验。 易于获取的知识：与高成本服务不同，它旨在成为一本价格合理的指南，为工程师提供他们为自己辩护所需的一切。 循序渐进的方法：从了解薪酬细目到编写完美的还价，SalaryScript 提供了一种结构化的方式来指导谈判过程的每个阶段。  为什么重要 谈判薪水不只是数字问题——它关乎自我价值，并为未来定下基调。你未来的职业生涯。我坚信，只要拥有正确的工具和心态，任何人都可以自信地协商自己的价值。 我很乐意听取您的想法或回答有关该项目的任何问题。如果您曾经协商过薪水或不确定如何处理薪水，您希望早点知道什么？ 干杯， Salaryscript 团队 （附注：如果您有兴趣，可以在此处查看 SalaryScript 或加入候补名单： salaryscript(dot)com ）    提交人    /u/Ok_Pop_7446   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwaiem/i_have_created_an_alternative_to_levelsfyi/</guid>
-      <pubDate>Wed, 08 Jan 2025 03:39:24 GMT</pubDate>
+      <title>Youtube 的表现似乎比盗版动漫网站差，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwd42i/youtube_performance_seems_worse_than_pirated/</link>
+      <description><![CDATA[        提交人    /u/GroundbreakingMix607   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwd42i/youtube_performance_seems_worse_than_pirated/</guid>
+      <pubDate>Wed, 08 Jan 2025 06:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>您不将版权年份编码为动态的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwbsou/do_you_not_code_the_copyright_year_to_be_dynamic/</link>
+      <description><![CDATA[看到很多关于在新年之后更改版权年份的帖子......动态编码不是很常见吗？    提交人    /u/Looooong_Man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwbsou/do_you_not_code_the_copyright_year_to_be_dynamic/</guid>
+      <pubDate>Wed, 08 Jan 2025 04:50:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>行业内平均而言，人们换新职位的概率是多少？一直四处奔波不是很累吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwbjvg/whats_the_industry_average_of_someone_moving_to_a/</link>
+      <description><![CDATA[似乎人们每隔一两年就会换一个新角色。这是科技界的常态吗？不断更换新角色不是很累吗？似乎科技界总是在人员流动，你能找到一份稳定的工作并保住它而不需要改变你的角色吗？或者这就是科技界的现状？    提交人    /u/swiggyu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwbjvg/whats_the_industry_average_of_someone_moving_to_a/</guid>
+      <pubDate>Wed, 08 Jan 2025 04:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的 CSS 行为</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwbey4/weird_css_behaivor/</link>
+      <description><![CDATA[      所以我在 Firefox 中使用 html 和 css 制作了一个简单的菜单，一切进展顺利.. https://preview.redd.it/08w73rty6pbe1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=4485db02c0777513f76fede56d1c8f7a8e1ccbf9 直到我发现它在 Chrome 上的样子。 https://preview.redd.it/vm220fw27pbe1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=add00735070beecb0933fb927b21b1109a266919 chrome 开发人员绊倒了吗？ 每个项目（div）宽 70px，容器宽度为 300px。70 + 70 + 70 = 210px，这是什么鬼？？？容器有足够的空间来容纳更多的 div。也许这与细滚动条有关？即使是这样，视觉效果也与滚动条占用的空间不匹配，因此，至少在我看来，这是一个错误。 我猜 Firefox 毕竟是更基础的浏览器。 #bottles{ display: flex; flex-direction: column; position: absolute; z-index: 999; background-color: red; display: none; width: 300px; height: 550px; color: white; position: absolute; top: 50%; left: 20px; transform: Translation(0,-50%); } #grid .itens{ width: 70px; height: 170px; margin: 10px; display: inline-block; background-color: orange; cursor: pointer; }     提交人    /u/MechanicAwkward55​​45   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwbey4/weird_css_behaivor/</guid>
+      <pubDate>Wed, 08 Jan 2025 04:29:01 GMT</pubDate>
     </item>
     <item>
       <title>域名注册商和 DNS 提供商选项</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</link>
-      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现这么大的付费墙。所以我转到了 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
+      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现如此巨大的付费墙。所以我转向 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</guid>
       <pubDate>Wed, 08 Jan 2025 03:22:02 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[有人能帮我确定这个软件 wiki 是否改编自 docuwiki 或 mediawiki，还是完全是别的什么（也许是从头开始做的）？ 有问题的 wiki： https://opendental.com/manual/wiki.html 我的原始帖子在这里： https://www.reddit.com/r/webdev/comments/1hvl9o2/looking_for_a_program_that_my_company_used_and/  但后来了解到： https://www.reddit.com/r/SALEM/comments/1hw2d30/comment/m5ypnl6/?context=3    由   提交  /u/Proof_Cable_310   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hw6i6c/help_identify_this_wiki_source/</guid>
       <pubDate>Wed, 08 Jan 2025 00:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找休息 API 来获取两地之间的航班和驾驶时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw5n9y/looking_for_a_rest_api_to_get_flight_and_driving/</link>
-      <description><![CDATA[我不需要实际的路线，也不需要任何其他生成的地图，只需要两地之间的飞行和驾驶时间。驾驶时间很简单，但飞行时间似乎有点复杂，而且谷歌的任何 API 实际上都没有提供此功能，即使它在地图中。 有什么建议吗？一个 API 可以同时用于两者会很棒，但不是必需的。    提交人    /u/Red_Icnivad   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw5n9y/looking_for_a_rest_api_to_get_flight_and_driving/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 上的 Bruno http 客户端：无法选择/复制响应窗格内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw4ko4/bruno_http_client_on_windows_11_cant_selectcopy/</link>
-      <description><![CDATA[我在 Bruno v1.35.0 上遇到了这个问题，现在在 1.38.0 上也遇到了。奇怪的是，我可以在标题和时间轴窗格中选择/复制。 我认为这不是 Windows 的问题，因为选择/复制在 Bruno 的其他部分和其他应用程序中按预期工作。 如果您遇到过这个问题并解决了，非常感谢任何指导。谢谢。    提交人    /u/Rustpit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw4ko4/bruno_http_client_on_windows_11_cant_selectcopy/</guid>
-      <pubDate>Tue, 07 Jan 2025 22:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找完美的编程字体？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw47bw/looking_for_the_perfect_programming_font/</link>
-      <description><![CDATA[  由    /u/byxekaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw47bw/looking_for_the_perfect_programming_font/</guid>
-      <pubDate>Tue, 07 Jan 2025 22:38:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

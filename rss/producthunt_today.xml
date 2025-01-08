@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 06:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 07:18:12 GMT</lastBuildDate>
     <item>
       <title>果冻荚</title>
       <link>https://www.producthunt.com/posts/jellypod-3</link>
@@ -104,6 +104,20 @@ AI 数据分析师
       <pubDate>Thu, 02 Jan 2025 22:53:21 GMT</pubDate>
     </item>
     <item>
+      <title>添加到表格 Chrome 扩展程序</title>
+      <link>https://www.producthunt.com/posts/add-to-sheets-chrome-extension</link>
+      <description><![CDATA[
+只需单击一下即可将任何网页内容保存到 Google 表格
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/add-to-sheets-chrome-extension</guid>
+      <pubDate>Thu, 02 Jan 2025 15:44:35 GMT</pubDate>
+    </item>
+    <item>
       <title>屏幕处理</title>
       <link>https://www.producthunt.com/posts/screentreat</link>
       <description><![CDATA[
@@ -116,20 +130,6 @@ AI 数据分析师
 ]]></description>
       <guid>https://www.producthunt.com/posts/screentreat</guid>
       <pubDate>Wed, 01 Jan 2025 15:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>百吉饼面包店</title>
-      <link>https://www.producthunt.com/posts/bakery-by-bagel</link>
-      <description><![CDATA[
-可货币化的开源 AI
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bakery-by-bagel</guid>
-      <pubDate>Wed, 01 Jan 2025 03:51:29 GMT</pubDate>
     </item>
     <item>
       <title>岳母</title>
@@ -202,18 +202,18 @@ AI 数据分析师
       <pubDate>Wed, 25 Dec 2024 10:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>吞</title>
-      <link>https://www.producthunt.com/posts/swallow-2</link>
+      <title>AnyParser 专业版</title>
+      <link>https://www.producthunt.com/posts/anyparser-pro</link>
       <description><![CDATA[
-使用易于使用的无代码平台构建复杂的定价
+将多语言图像和文档解析为 JSON/markdown
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/swallow-2</guid>
-      <pubDate>Fri, 13 Dec 2024 12:27:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/anyparser-pro</guid>
+      <pubDate>Wed, 18 Dec 2024 17:50:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

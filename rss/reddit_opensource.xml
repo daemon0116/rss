@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 04:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 07:18:08 GMT</lastBuildDate>
+    <item>
+      <title>有没有以社区为中心的 Gotify 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
+      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由    /u/OiaOrca  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</guid>
       <pubDate>Mon, 06 Jan 2025 21:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
-      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
-      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
