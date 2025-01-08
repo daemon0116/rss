@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 01 Jan 2025 23:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:21:51 GMT</lastBuildDate>
     <item>
-      <title>3 个令人不安的真实新年夜恐怖故事，将困扰你</title>
-      <link>https://www.reddit.com/r/automation/comments/1hr9cpe/3_disturbing_true_new_years_eve_horror_stories/</link>
-      <description><![CDATA[        由    /u/Guilty_Profession_46  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hr9cpe/3_disturbing_true_new_years_eve_horror_stories/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:45:46 GMT</pubDate>
+      <title>招聘：领导管理自动化项目的 AI 自动化专家</title>
+      <link>https://www.reddit.com/r/automation/comments/1hw52c6/wanted_ai_automation_expert_for_a_lead_management/</link>
+      <description><![CDATA[我有一个 AI 自动化工作机会，需要潜在客户捕获和 CRM 入职优化方面的专业知识。我和我的团队想探索与完美候选人合作的可能性。希望我们能在这个 subreddit 上找到那个人！ 请允许我进一步解释范围、目标和其他细节。 项目概述：潜在客户捕获和 CRM 入职自动化 我们正在寻找一位熟练的自动化专家来帮助我们简化和优化我们的潜在客户捕获和 CRM 入职流程。您将在我们首席技术官的指导下工作，创建与我们现有系统集成的高效、可扩展的解决方案。 工作范围  我们的项目包含五个关键可交付成果：  潜在客户捕获自动化  从多个来源自动收集潜在客户：网站访问者、联系表格、电子邮件查询、电话查询、贸易展览联系、推荐和社交渠道 通过基于源的标记实现无缝流程进入 Zoho CRM  潜在客户资格审查和细分  开发自动化潜在客户评分系统 为合格潜在客户创建细分并培育跟踪潜在客户 实施行业标准条件和可自定义的标记  入职工作流程  自动化样品分发、产品开发讨论、估算的工作流程 构建将估算转换为销售订单、发票和重复订单的系统 实施自动跟进和团队通知  仪表板  创建全面的仪表板跟踪： 流量来源 潜在客户进展指标 逐年客户绩效 增长机会识别   分析与报告  Google Analytics 与潜在客户捕获工具集成 转化率跟踪、每个流量来源的 ROI 分析 入职瓶颈识别   技术要求  您的解决方案必须与我们现有的技术堆栈集成：  Zoho CRM Make.com Airtable Google Analytics Gmail OpenAI API  如果您需要进一步说明，请给我发送 DM。我们正在寻找在 AI 自动化方面具有足够经验的自由职业者。 感谢您的时间！    提交人    /u/lvwvd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hw52c6/wanted_ai_automation_expert_for_a_lead_management/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>抓取 URL 并编译信息</title>
+      <link>https://www.reddit.com/r/automation/comments/1hw31hz/crawl_urls_compile_information/</link>
+      <description><![CDATA[大家好， 我对自动化 AI 环境还很陌生。我是一名营销人员，并不是一名技术人员。以下是我想要的： 我想要一个界面，我可以在其中输入 2-3 个 URL，然后系统会  首先，去抓取页面并提取信息。 其次，根据我的提示将信息编译成一篇逻辑连贯的文章，最好使用 Claude Sonnet  我目前使用 TypingMind 来实现这一点，我已经设置了 FireCrawl 来访问数据，然后我使用 Claude 来编译它。我遇到的问题是功能不稳定。我得到的结果可能是 10 次尝试中的 3 次。即使是当天的第一次尝试，Claude 和 OpenAI 也会抛出错误 429 或繁忙通知或已达到令牌限制。这两个 API 都是付费 API，而不是免费版本。 我非常感谢任何帮助解决这个问题的人。    提交人    /u/Order-227   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hw31hz/crawl_urls_compile_information/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我没有任何编码经验就开发了自己的第一个应用程序——感谢 ChatGPT！正在寻找“FixShare”的测试人员”</title>
+      <link>https://www.reddit.com/r/automation/comments/1hvyf0p/i_built_my_first_app_without_any_coding/</link>
+      <description><![CDATA[        提交人    /u/Fantakuh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hvyf0p/i_built_my_first_app_without_any_coding/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1hvth91/ai_automation/</link>
+      <description><![CDATA[大家好，我想了解一下大家对 AI 自动化的兴趣和胃口。有人在做这件事吗？或者有计划做这件事吗？如果有，你关注的是哪些公司——微软、UiPath 等。 2024 年的 AI 自动化似乎既让人兴奋，又让人惊愕。2025 年似乎是人们投身 AI 自动化的一年。 很想听听大家的想法！    提交人    /u/BusyAd3428   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hvth91/ai_automation/</guid>
+      <pubDate>Tue, 07 Jan 2025 15:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 的 Project Digits：个人 AI 超级计算机</title>
+      <link>https://www.reddit.com/r/automation/comments/1hvpmfw/nvidias_project_digits_a_personal_ai_supercomputer/</link>
+      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hvpmfw/nvidias_project_digits_a_personal_ai_supercomputer/</guid>
+      <pubDate>Tue, 07 Jan 2025 11:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>抖音剪辑</title>
+      <link>https://www.reddit.com/r/automation/comments/1hvn585/tiktok_clipping/</link>
+      <description><![CDATA[您好，我对开始剪辑视频并致力于此非常感兴趣。我听说 yt 每百万次观看支付 100 美元，而 tik tok 的创意计划每百万次观看支付 1000 美元。 我住在玻利维亚，这不是提供创意计划的国家之一。我有一个姐姐住在美国，我以为通过她创建我的帐户并从家上传视频是可行的，但我看到一个视频，显然 TikTok 会跟踪您使用该应用程序的位置。 我听说我可以使用代理来逃避检测，但我仍然不想违反服务条款。有人知道我从美国创建帐户并从家上传的想法是否可行吗？ 还有，有人知道我是否还能在玻利维亚通过 YouTube 短片赚钱吗？也许我可以开始上传短片，直到我找到 TikTok 计划的解决方案。     由    /u/Former_Draw_2471  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hvn585/tiktok_clipping/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 帖子自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1hvk0xn/automation_for_linkedin_posts/</link>
+      <description><![CDATA[刚刚开始了一项新业务，并希望自动发布领英帖子。 理想情况下，我希望设置一些东西，让 ChatGPT 生成帖子材料和图像，然后将其发送到领英，以便每天在特定时间发布。 有什么想法吗？    提交人    /u/Tricky-Interaction75   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hvk0xn/automation_for_linkedin_posts/</guid>
+      <pubDate>Tue, 07 Jan 2025 05:05:40 GMT</pubDate>
     </item>
     <item>
       <title>[新年促销] Perplexity AI PRO - 1 年计划优惠 - 75% 折扣</title>
-      <link>https://www.reddit.com/r/automation/comments/1hr8tny/new_year_promo_perplexity_ai_pro_1_year_plan/</link>
+      <link>https://www.reddit.com/r/automation/comments/1hv2e91/new_year_promo_perplexity_ai_pro_1_year_plan/</link>
       <description><![CDATA[      如标题：我们提供一年计划的 Perplexity AI PRO 优惠券代码。  订购：CHEAPGPT.STORE 接受付款：  PayPal。 Revolut。  反馈：反馈帖子    提交人    /u/Verza-   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hr8tny/new_year_promo_perplexity_ai_pro_1_year_plan/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:22:36 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1hv2e91/new_year_promo_perplexity_ai_pro_1_year_plan/</guid>
+      <pubDate>Mon, 06 Jan 2025 16:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>寻求自动化建议</title>
-      <link>https://www.reddit.com/r/automation/comments/1hqw9vr/seeking_automation_advice/</link>
-      <description><![CDATA[我计划使用 codeium (Windsurf) 自动执行我的日常工作任务。 我是一名创建文档的业务分析师。 您是否还有其他工具想法。    提交人    /u/hawkkkkkman   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hqw9vr/seeking_automation_advice/</guid>
-      <pubDate>Wed, 01 Jan 2025 05:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>除官方图库之外，Make.com 模板的最佳免费来源是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hqtqym/best_free_source_for_makecom_templates_aside_from/</link>
-      <description><![CDATA[  由    /u/Life-Hacking  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hqtqym/best_free_source_for_makecom_templates_aside_from/</guid>
-      <pubDate>Wed, 01 Jan 2025 02:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动 iMessage</title>
-      <link>https://www.reddit.com/r/automation/comments/1hqox21/initiate_imessage/</link>
-      <description><![CDATA[我想要一个助手，自动化，可以为我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以一站式完成此操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hqox21/initiate_imessage/</guid>
-      <pubDate>Tue, 31 Dec 2024 21:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名 Astro-Vastu 专家，我如何才能自动化填写命运报告的过程？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hqjbgo/how_can_i_automate_the_process_of_filling_out/</link>
-      <description><![CDATA[大家好， 我是一名占星术专家，我的工作职责之一就是根据客户的星座为他们准备详细的命运报告。目前，我都是手动填写这些报告，非常耗时。 我正在寻找一种自动化此过程的方法，以便我可以输入一个人的星座和其他相关数据，系统可以生成所需格式的命运报告。理想情况下，系统应该根据输入做出决策并相应地填充报告。 挑战在于我对编码一无所知，所以我正在寻找不需要编程技能的适合初学者的工具或平台。有人做过类似的事情或知道如何处理这个问题吗？ 提前感谢您的建议和意见！    提交人    /u/ProfessionalEast6780   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hqjbgo/how_can_i_automate_the_process_of_filling_out/</guid>
-      <pubDate>Tue, 31 Dec 2024 17:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节跳动规避美国芯片限制</title>
-      <link>https://www.reddit.com/r/automation/comments/1hqd2u0/bytedances_circumvention_of_us_chip_restrictions/</link>
+      <title>2025 年十大人工智能职位</title>
+      <link>https://www.reddit.com/r/automation/comments/1hux6sj/top_10_ai_jobs_in_2025/</link>
       <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hqd2u0/bytedances_circumvention_of_us_chip_restrictions/</guid>
-      <pubDate>Tue, 31 Dec 2024 11:44:26 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1hux6sj/top_10_ai_jobs_in_2025/</guid>
+      <pubDate>Mon, 06 Jan 2025 11:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何检查 MicroLogix 1400 PLC 上的故障</title>
-      <link>https://www.reddit.com/r/automation/comments/1hq696d/how_to_check_a_fault_on_a_micrologix_1400_plc/</link>
-      <description><![CDATA[        由    /u/Asteam_techno  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hq696d/how_to_check_a_fault_on_a_micrologix_1400_plc/</guid>
-      <pubDate>Tue, 31 Dec 2024 04:01:38 GMT</pubDate>
+      <title>Youtube 自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1huw974/youtube_automation/</link>
+      <description><![CDATA[我想知道下面是否有任何短裤自动化工具？ 文字故事 前 10 名 播客到短裤（免费） 我知道我听起来真的很懒，我的正常视频很少成功，所以我想我可以尝试一下这个，也许把它做成视频。如果那些是免费的就好了。    提交人    /u/Jaxondevs   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1huw974/youtube_automation/</guid>
+      <pubDate>Mon, 06 Jan 2025 10:41:57 GMT</pubDate>
     </item>
     <item>
-      <title>团队工作流工具/平台</title>
-      <link>https://www.reddit.com/r/automation/comments/1hptiar/workflow_toolsplatform_for_teams/</link>
-      <description><![CDATA[你用过的最好的工具/平台是什么？我也想知道为什么🙏🏾 Trello？Monday？Notion？我目前使用 Monday，虽然我还没有深入探索过它，但它还不错。    提交人    /u/aokitodo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hptiar/workflow_toolsplatform_for_teams/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:15:45 GMT</pubDate>
+      <title>如何实现简单的电子商务业务自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1huv2df/how_to_automate_a_simple_ecommerce_business/</link>
+      <description><![CDATA[大家好， 我经营着一家简单的电子商务公司，我目前的工作流程如下：  我从制造商处购买产品。 我的电话营销团队会积极致电客户以促进销售。 一旦客户同意购买，我就会向他们发送一个二维码，以便他们使用 UPI 进行付款。 付款后，我会要求他们填写一份 Google 表单（以将客户详细信息存储在 Google 表格中）。 产品交付后，客户会给我打电话，我会指派一名技术助理帮助他们安装并提供演示。  我希望尽可能地自动化此流程，并正在寻找处理以下任务的建议：  电话营销的 CRM 运输管理 自动 WhatsApp 消息 （例如，订单已确认、已发货、已交付、已安装） 数据管理和客户记录保存  这是一个非常简单的业务模型，因此我相信其他人之前已经优化过类似的工作流程。我很想听听您使用过的适用于此类任务的工具、软件或系统。 我并不希望进行大规模的更改，而只是希望进行一些小的改进以使流程更顺畅。 提前感谢您的见解！    提交人    /u/warissaleem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1huv2df/how_to_automate_a_simple_ecommerce_business/</guid>
+      <pubDate>Mon, 06 Jan 2025 09:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>创建您自己的语音助手（在 Mac OS 上），并使用 Inbox AI 将其与您自己的所有自动化功能连接起来</title>
-      <link>https://www.reddit.com/r/automation/comments/1hprd4w/create_your_own_voice_assistant_on_mac_os_and/</link>
-      <description><![CDATA[        由    /u/foeken 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hprd4w/create_your_own_voice_assistant_on_mac_os_and/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:44:23 GMT</pubDate>
+      <title>学习 AI 代理和工作流自动化（N8N、Zapier 等）的最佳起点？</title>
+      <link>https://www.reddit.com/r/automation/comments/1huuoaa/best_starting_point_for_learning_ai_agents/</link>
+      <description><![CDATA[我想使用 AI 代理创建自动化工作流程。有很多工具（N8N、Relevance AI、Make、Zapier），但我不知道从哪里开始。您会向初学者推荐哪个平台？寻找可以帮助我学习基础知识同时实际构建有用的自动化的东西。    提交人    /u/dotMartin_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1huuoaa/best_starting_point_for_learning_ai_agents/</guid>
+      <pubDate>Mon, 06 Jan 2025 08:44:28 GMT</pubDate>
     </item>
     <item>
-      <title>我应该免费创建自动化吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hpq6um/should_i_create_automations_for_free/</link>
-      <description><![CDATA[大家好！我是一名对自动化充满热情的开发人员（特别是 make.com 和 n8n），我在我的公司和朋友中做了很多自动化，但从未为其他人做过。 所以，我认为自己非常擅长自动化，但我从未在这个主题上卖过任何东西。 我应该开始免费做吗？我打算在这个主题上开办一些机构或自由职业，以赚取一些额外的钱。 有人对自动化和/或人工智能的帮助感兴趣吗？    提交人    /u/ConditionGrouchy4731   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hpq6um/should_i_create_automations_for_free/</guid>
-      <pubDate>Mon, 30 Dec 2024 15:53:59 GMT</pubDate>
+      <title>LinkedIn 个人资料抓取</title>
+      <link>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</link>
+      <description><![CDATA[有人知道通过个人资料链接抓取人员 LinkedIn 个人资料简历的方法吗？当我通过 phantombuster 导出销售导航搜索时，它会自动执行此操作，但除了使用 phantombuster 之外找不到其他方法，这意味着我无法使用 apollo 来做到这一点    提交人    /u/SteelRunner1VR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</guid>
+      <pubDate>Mon, 06 Jan 2025 03:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>非营利组织支持马斯克对 OpenAI 提起诉讼</title>
-      <link>https://www.reddit.com/r/automation/comments/1hplp42/nonprofit_group_supports_musks_openai_lawsuit/</link>
-      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hplp42/nonprofit_group_supports_musks_openai_lawsuit/</guid>
-      <pubDate>Mon, 30 Dec 2024 11:56:13 GMT</pubDate>
+      <title>Seleniumbase 的想法？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</link>
+      <description><![CDATA[我很好奇，想听听那些真正使用过 seleniumbase 自动化的人对它的看法。     提交人    /u/tylerdurden4285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</guid>
+      <pubDate>Mon, 06 Jan 2025 03:04:26 GMT</pubDate>
     </item>
     <item>
-      <title>自动化如何使中小企业受益</title>
-      <link>https://www.reddit.com/r/automation/comments/1hpi3ky/how_automation_can_benefit_small_and_medium/</link>
-      <description><![CDATA[嘿，中小企业主和企业家们！👋 您知道自动化可以帮助您的企业节省成本、减少错误并提高生产力吗？中小企业可以使用简化运营和提高效率的工具更快地扩展规模。 查看有关自动化如何使中小企业受益的详细博客：自动化对中小企业 (SME) 的主要好处。 您是否正在自动化业务中的任何任务？让我们分享见解！    提交人    /u/Free-Yam7432   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hpi3ky/how_automation_can_benefit_small_and_medium/</guid>
-      <pubDate>Mon, 30 Dec 2024 07:40:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI代理定价和市场定位</title>
-      <link>https://www.reddit.com/r/automation/comments/1hpi3hi/ai_agency_pricing_and_niche/</link>
-      <description><![CDATA[关于人工智能自动化定价和细分市场的一些想法： 只想分享我所在机构新成立的人工智能自动化部门的一些经验。 关于定价策略： 如果客户想与您长期合作，他们似乎更喜欢预付款。 有人向我表达过“一次性构建成本高昂”。 （平均每个自动化构建 3.5-5k，但会有所不同） 我正在测试收入分成模型（+ 预付款）在创收自动化设置上，客户对此非常接受。 收入分成也更好，因为它让您处于增长合作伙伴关系中，您不必担心接待那么多客户。 将随时向您通报进展情况！我认为一次性或每日构建不是实现可持续发展的方式。  关于利基与一般构建 我认为利基才是出路。为多个行业的每个客户进行定制构建可能非常耗时。 但是，如果您专注于一两个行业，并为它们构建模板上的所有 10 种可能的自动化，那么现在您就可以即插即用，而且速度要快得多。+ 您的客户满意度更高，因为您已经解决了新自动化可能出现的所有问题。  通过利基，您可以与对 AI 一无所知的个体利基领导者合作，并利用他们的分销网络建立双赢的合作伙伴关系  与分销合作伙伴在两个利基行业中测试这一点。    提交人    /u/UnusualAppeal7026   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hpi3hi/ai_agency_pricing_and_niche/</guid>
-      <pubDate>Mon, 30 Dec 2024 07:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化：从手动流程到智能系统</title>
-      <link>https://www.reddit.com/r/automation/comments/1hpi0rn/automation_from_manual_processes_to_intelligent/</link>
-      <description><![CDATA[嘿，科技爱好者们！🤖 自动化已经从基本工具转变为由人工智能和机器学习驱动的智能系统。这种转变正在通过提高效率和决策能力重塑行业。 对这种演变及其影响感到好奇？查看此详细博客：自动化的演变：从手动到智能系统。 您对智能自动化的未来有何看法？    提交人    /u/Free-Yam7432   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hpi0rn/automation_from_manual_processes_to_intelligent/</guid>
-      <pubDate>Mon, 30 Dec 2024 07:35:26 GMT</pubDate>
+      <title>开始使用自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1hu7rpd/getting_started_with_automations/</link>
+      <description><![CDATA[大家好，我一直在关注网上的一些教程，学习如何开始使用自动化，包括选择正确的平台、决定要自动化的内容等等。现在，我想加深对如何有效地开始我的自动化之旅的理解。 您能分享一下哪些课程、教程或文章在您刚开始使用自动化时对您帮助最大吗？此外，您如何及时了解该领域的新趋势和工具？    提交人    /u/jyo_xd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hu7rpd/getting_started_with_automations/</guid>
+      <pubDate>Sun, 05 Jan 2025 14:07:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,111 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 Jan 2025 23:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:23:05 GMT</lastBuildDate>
     <item>
-      <title>为什么这个许可证不存在？🤔</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrdnnl/why_doesnt_this_license_exist/</link>
-      <description><![CDATA[注意：我并不是一名律师，只是对我所看到的许可烦恼的一个思想实验。我认为许多 FOSS 贡献者都有这种烦恼：我们想要互惠代码，但我们也不想将我们的代码 GPL 化，以免它在 Apache/MIT 项目中无法使用。 在阅读 EUPL 条款时，我注意到它明确允许与其他 foss 许可证的“下游”兼容性。它列出了可以重新授权 EUPL 代码的特定许可证：  如果被许可人基于作品和根据兼容许可证许可的另一作品分发或传播衍生作品或其副本，则可以根据此兼容许可证的条款进行此分发或传播。   但是，此列表仅限于 copyleft 许可证（至少是弱 copyleft，如 MPL2） 这让我想到，如果我们采用 EUPL 的这个组件，并对其进行扩展，然后将其与原本宽松的许可证相结合，会怎么样。 采用 Apache2，然后附加到此  您可以将自己的版权声明添加到您的修改中，并且可以为使用、复制或分发您的修改或任何此类衍生作品提供额外或不同的许可条款和条件，前提是您对该作品的使用、复制和分发符合本许可证中规定的条件，  使用如下：  并且只要这些许可条款属于以下“兼容许可证”之一：   Apache 2.0 MIT BSD  GPL LGPL AGPL EUPL MPL 等等  该许可证的目标是我们：  广泛的“许可”    提交人：    /u/secureblueadmin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrdnnl/why_doesnt_this_license_exist/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:56:28 GMT</pubDate>
+      <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
+      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>带有简单 Lua API 的 C++ 3D 游戏引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrcck0/a_3d_game_engine_in_c_with_a_simple_lua_api/</link>
-      <description><![CDATA[Tesseract-Engine 是一款轻量级且功能强大的游戏引擎，专为从事中小型项目的开发人员而设计。它具有简单且视觉上吸引人的界面，提供 LUA 脚本环境，并采用 C++ 构建以获得最佳性能。 它目前没有照明引擎。但我一直在研究它。我编写了自己的 OBJ 导入，用于解析 OBJ、MTL 和相关资产。而且它还挺快的。 任何反馈都将不胜感激 链接：https://dock-it.dev/Bit-By-Byte/Tesseract-Engine    提交人    /u/GigabiteStudios   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrcck0/a_3d_game_engine_in_c_with_a_simple_lua_api/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:58:30 GMT</pubDate>
+      <title>上传我在 Monogame 引擎中构建的两款游戏供所有人查看和使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</link>
+      <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>我的开源项目刚刚达到 50 颗星！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</link>
-      <description><![CDATA[嘿 r/opensource ！ 我的开源产品刚刚达到了它的第一个里程碑，50 颗星！我知道从宏观角度来看这只是一个小数字，但我只是想与世界分享我的小胜利。:) 如果您想查看它，请访问 https://github.com/techblitzdev/TechBlitz/ 。欢迎所有反馈和贡献者！    提交人    /u/loganfordd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:54:04 GMT</pubDate>
+      <title>Boulette：防止您意外关闭远程主机！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</link>
+      <description><![CDATA[       由    /u/poulain_ght  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:55:12 GMT</pubDate>
     </item>
     <item>
-      <title>一个故事：FOSS 意味着为残疾人提供便利！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</link>
-      <description><![CDATA[  由    /u/petelombardio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:49:42 GMT</pubDate>
+      <title>GitHub Contribution Dots - 为投资组合爱好者提供的免费 React 组件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</link>
+      <description><![CDATA[大家好！👋 如果您对作品集感兴趣并喜欢展示您的 GitHub 贡献，我刚刚构建了一个简单的 React 组件，您可能会感兴趣。这是一种免费、简单的方法，可以向您的作品集或项目添加 GitHub 风格的贡献/提交图表 您可以在此处查看 :) https://green-dots.vercel.app/    提交人    /u/Ok_Platypus_4475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 Termite，这是一个可以通过简单的文本提示生成终端 UI 的 AI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</link>
-      <description><![CDATA[        由    /u/jsonathan  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:28:37 GMT</pubDate>
+      <title>团队任务应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
+      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
     </item>
     <item>
-      <title>PeaZip 10.2.0 发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr0f8y/peazip_1020_released/</link>
-      <description><![CDATA[        提交人    /u/peazip   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr0f8y/peazip_1020_released/</guid>
-      <pubDate>Wed, 01 Jan 2025 10:28:47 GMT</pubDate>
+      <title>开源我们的 Python 浏览器 SDK，让你可以使用 LLM 自动执行任何网站上的任务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvsbug/open_sourcing_our_python_browser_sdk_that_allows/</link>
+      <description><![CDATA[使用 Dendrite 构建 AI 代理 / 工作流，可以：  👆🏼 与元素交互 💿 提取结构化数据 🔓 在网站上进行身份验证 ↕️ 下载 / 上传文件 🚫 浏览而不被阻止  在这里查看：https://github.com/dendrite-systems/dendrite-python-sdk    提交人    /u/rivernotch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvsbug/open_sourcing_our_python_browser_sdk_that_allows/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:14:56 GMT</pubDate>
     </item>
     <item>
-      <title>OpenHabitTracker 1.0.9 新年快乐！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqz7xk/openhabittracker_109_and_a_happy_new_year/</link>
-      <description><![CDATA[非常感谢您的反馈，你们真是一个很棒的社区！如果没有您的建议，OpenHT 不会有这么大的进步，我真的很感激！ 我简化了 UI，删除了一些重复的按钮/链接，使一些功能成为可选的，并添加了更多图标。除了设置垂直空间，您现在还可以设置元素之间的水平空间。 现在我正在开发两个请求的功能： - 更好的帮助 - 将您的数据作为 JSON 文件同步到您的 Google Drive OpenHabitTracker 是一个开源 Blazor 应用程序，用于管理任务、笔记和习惯。它可在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请查看 https://openhabittracker.net 祝大家新年快乐！ 我很乐意听到您对未来更新的想法或意见！    提交人    /u/Jinjinov   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqz7xk/openhabittracker_109_and_a_happy_new_year/</guid>
-      <pubDate>Wed, 01 Jan 2025 08:52:09 GMT</pubDate>
+      <title>使用哪种工具进行变更日志管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</link>
+      <description><![CDATA[需要一个变更日志管理，团队可以使用它来管理产品变更日志，想法是发布产品上的任何新内容。供用户和内部使用？ 有没有好的开源工具可以用于此？    提交人    /u/John-Doe-99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:52:39 GMT</pubDate>
     </item>
     <item>
-      <title>资助 OSS 并支付贡献者报酬的方式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqqcu6/a_way_to_fund_oss_and_pay_contributors/</link>
-      <description><![CDATA[我和我的团队一直在开发一个平台来资助 OSS。它被称为 Reopen，使用 NFT 作为 Github 上 OSS 项目赞助配额的所有权。 基本上，维护者会创建一个每年都会举办的活动，其中通过拍卖出售一组 NFT。销售所得分为项目资金、根据贡献者的 PR 活动向其支付报酬以及奖励 NFT 持有者。 我利用开发团队的业余时间（我在巴西拥有一家小型软件开发机构）从事这项工作已有近三年。 我们刚刚在以太坊测试网上发布了这项服务。您可以从 Github 连接到您的 OSS 项目并试用。要创建帐户，您需要一个以太坊钱包。 我很乐意收到你们的反馈。有关概念/想法和平台本身的任何信息。 谢谢！ https://reopen.app https://testnet.reopen.app    提交人    /u/fseixas   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqqcu6/a_way_to_fund_oss_and_pay_contributors/</guid>
-      <pubDate>Tue, 31 Dec 2024 23:08:57 GMT</pubDate>
+      <title>多利巴尔 (Dolibarr) 体验</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</link>
+      <description><![CDATA[您好， 我是 Value，想将 crm 迁移到 dolibarr。有人有经验和建议吗？我正在寻找反馈     由    /u/Elemis89 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:22:17 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Android 的一体化社交媒体客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqll9t/all_in_one_social_media_client_for_android/</link>
-      <description><![CDATA[大家好，正如标题所说，是否有任何开源 Android 应用程序可以在其中拥有我所有的社交媒体帐户（Facebook、Instagram、X、reddit 等）？ 我知道我可以使用浏览器，但我只是想知道是否已经有这样的 OSS 应用程序。    提交人    /u/adhirajSaha   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqll9t/all_in_one_social_media_client_for_android/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:04:46 GMT</pubDate>
+      <title>比例 22 倍</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Windows 用户的 Linux 入门套件！希望以后能省去一些谷歌搜索的麻烦。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqk9i2/linux_starter_kit_for_windows_users_just_hope_to/</link>
-      <description><![CDATA[https://github.com/h8d13/LSK---Linux-Starter-Kit (Deb)    由   提交  /u/Responsible-Sky-1336   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqk9i2/linux_starter_kit_for_windows_users_just_hope_to/</guid>
-      <pubDate>Tue, 31 Dec 2024 18:02:32 GMT</pubDate>
+      <title>法学硕士正在指导开源许可</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvpauq/llms_are_directing_open_source_licensing/</link>
+      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvpauq/llms_are_directing_open_source_licensing/</guid>
+      <pubDate>Tue, 07 Jan 2025 11:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>速度梦想 - 朋友们，它正在发生！🎉</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqjnoz/speed_dreams_its_happening_folks/</link>
-      <description><![CDATA[        提交人    /u/speeddreams_oms   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqjnoz/speed_dreams_its_happening_folks/</guid>
-      <pubDate>Tue, 31 Dec 2024 17:34:17 GMT</pubDate>
+      <title>有什么软件可以检测英语音频效率</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</link>
+      <description><![CDATA[我正在寻找任何可以为我提供音频分析的服务，例如发音分数、语法分数、词汇分数或任何其他英语标准。  我想将其集成到我的系统中，因此需要 API 或自托管系统。     提交人    /u/John-Doe-99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:53:43 GMT</pubDate>
     </item>
     <item>
-      <title>我是开源新手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hqexpi/im_new_to_open_source/</link>
-      <description><![CDATA[创建了第一个小应用程序....虽然不多，但对我有帮助，也许也会对你有帮助....欢迎反馈！ https://github.com/KukicVidan/easy-alias/tree/main    由   提交  /u/Hegel_of_codding   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hqexpi/im_new_to_open_source/</guid>
-      <pubDate>Tue, 31 Dec 2024 13:42:55 GMT</pubDate>
+      <title>如何防止开源项目名称被注册为品牌？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvflae/how_to_prevent_an_opensource_projects_name_from/</link>
+      <description><![CDATA[如果将来开源项目成功，我该如何防止第三方公司对开源项目名称进行品牌注册。确保项目名称可供所有人免费使用，同时防止任何人垄断它（例如，将其注册为商标或限制其他人在生态系统内使用它）非常重要。 我可以创建一个许可证吗： 允许将项目名称自由用于任何目的。 禁止获得名称的专有权（例如，商标）。 要求使用该名称的任何人都不限制其他人使用它。 我的问题是： 这样的许可证在法律上有多可行？ 是否存在具有类似条件的现有许可证？ 这种方法可能出现哪些潜在挑战？ 我将不胜感激任何建议或想法！    提交人    /u/mraksoll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvflae/how_to_prevent_an_opensource_projects_name_from/</guid>
+      <pubDate>Tue, 07 Jan 2025 01:16:18 GMT</pubDate>
     </item>
     <item>
-      <title>任何提供类似功能的开源应用程序，如 goodnotes</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hq7184/any_opensource_app_providing_similar_features/</link>
-      <description><![CDATA[虽然我订阅了 goodnotes，但问题是，不同的操作系统无法同步。因此，如果有任何开源笔记应用程序具有与 goodnotes 类似的功能，例如 - 注释 pdf，能够使用 Apple Pencil 记笔记或注释 pdf 等，应该可以在 windows、mac、ipad、iphone 中使用。如果有任何建议，请分享     提交人    /u/Valor_superman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hq7184/any_opensource_app_providing_similar_features/</guid>
-      <pubDate>Tue, 31 Dec 2024 04:44:40 GMT</pubDate>
+      <title>有没有 milanote 的替代操作系统？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvf39p/is_there_a_os_alternative_for_milanote/</link>
+      <description><![CDATA[Milanote 看起来真的很酷，而且它最适合我和我的笔记风格，但它不是免费的，也不是自托管的。我不太关心协作功能，因为我不会使用它们。     提交人    /u/kegma_1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvf39p/is_there_a_os_alternative_for_milanote/</guid>
+      <pubDate>Tue, 07 Jan 2025 00:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>Graphite：用于矢量图形和程序设计的专业 2D 内容创建包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hpz02d/graphite_professional_2d_content_creation_package/</link>
-      <description><![CDATA[        由    /u/Impossible_Bed_9497  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hpz02d/graphite_professional_2d_content_creation_package/</guid>
-      <pubDate>Mon, 30 Dec 2024 22:11:16 GMT</pubDate>
+      <title>自托管表单后端 – Formspree 的 OSS 替代品。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</link>
+      <description><![CDATA[       由    /u/OiaOrca  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</guid>
+      <pubDate>Mon, 06 Jan 2025 21:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>需要文档管理解决方案方面的帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hpyzsl/need_help_with_documents_management_solution/</link>
-      <description><![CDATA[大家好， 我需要一些建议，以便帮助律师事务所的少数内部用户管理数百份机密文件（PDF、Word 等）。他们面临的主要挑战是更新这些文档的内容。他们想要一个可以搜索特定单词、识别需要更新的文档并提供页码的解决方案。 我应该为此构建自定义解决方案，还是有现成的（最好是开源）工具可以使用？只有少数用户需要访问此解决方案。 谢谢    提交人    /u/nagagile   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hpyzsl/need_help_with_documents_management_solution/</guid>
-      <pubDate>Mon, 30 Dec 2024 22:10:57 GMT</pubDate>
+      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
+      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

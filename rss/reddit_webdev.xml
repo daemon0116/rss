@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 23:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:22:59 GMT</lastBuildDate>
     <item>
-      <title>如何创建 HTML/ZIP/PNG 多语言文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</link>
-      <description><![CDATA[  由    /u/check_ca  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</guid>
-      <pubDate>Wed, 01 Jan 2025 23:13:41 GMT</pubDate>
+      <title>我可以自定义我的电脑的网络体验吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw7952/can_i_customize_my_computers_web_experience/</link>
+      <description><![CDATA[我可以创建自定义网站吗？只能访问我手动允许的网站？    提交人    /u/Proof_Cable_310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw7952/can_i_customize_my_computers_web_experience/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>Agency-vault.com 信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</link>
-      <description><![CDATA[大家好！ 我最近在 r/Scam 上发布了有关一个名为 agency-vault.com 的可能骗局，想知道是否有任何 Web 开发专业人士可以帮助我深入了解这一点。该域名于 2024 年 3 月购买，他们声称，通过每月向他们支付 300 美元，您可以通过创办自己的代理机构并向当地企业出售网站赚取高达 15,000 美元。我认为这完全是一个骗局，我很想从中获取有关创始人或企业本身的任何信息。谢谢！ 编辑：您可以在这里找到我之前的帖子，其中展示了一些诈骗行为 - https://www.reddit.com/r/Scams/comments/1hqvyey/is_agencyvaultcom_really_a_web_dev_platform/    提交人    /u/Constant_Pianist_591   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</guid>
-      <pubDate>Wed, 01 Jan 2025 22:30:29 GMT</pubDate>
+      <title>帮助识别此 wiki 来源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw6i6c/help_identify_this_wiki_source/</link>
+      <description><![CDATA[有人能帮我确定这个软件 wiki 是否改编自 docuwiki 或 mediawiki，还是完全是别的什么（也许是从头开始做的）？ 有问题的 wiki： https://opendental.com/manual/wiki.html 我的原始帖子在这里： https://www.reddit.com/r/webdev/comments/1hvl9o2/looking_for_a_program_that_my_company_used_and/  但后来了解到： https://www.reddit.com/r/SALEM/comments/1hw2d30/comment/m5ypnl6/?context=3    由   提交  /u/Proof_Cable_310   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw6i6c/help_identify_this_wiki_source/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:20:53 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</link>
-      <description><![CDATA[这是一个协作音乐创作平台：https://syncphony.co    提交人    /u/Snoo_30295   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</guid>
-      <pubDate>Wed, 01 Jan 2025 22:28:06 GMT</pubDate>
+      <title>正在寻找休息 API 来获取两地之间的航班和驾驶时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw5n9y/looking_for_a_rest_api_to_get_flight_and_driving/</link>
+      <description><![CDATA[我不需要实际的路线，也不需要任何其他生成的地图，只需要两地之间的飞行和驾驶时间。驾驶时间很简单，但飞行时间似乎有点复杂，而且谷歌的任何 API 实际上都没有提供此功能，即使它在地图中。 有什么建议吗？一个 API 可以同时用于两者会很棒，但不是必需的。    提交人    /u/Red_Icnivad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw5n9y/looking_for_a_rest_api_to_get_flight_and_driving/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:41:52 GMT</pubDate>
     </item>
     <item>
-      <title>我认为我不理解网络框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</link>
-      <description><![CDATA[就上下文而言，我制作游戏很长时间了（Unity C#），使用 android 开发（kotlin - java）制作家庭自动化系统应用程序，构建 PCB 卡，使用微控制器（c++）构建全自己的无人机项目，很长一段时间以来，我都为自己的想法制作网站。上次我开始了一个新项目（像 youtube 这样的视频观看网站），我不知道如何更轻松地编写可读的代码，因为页面太多了，我找不到我想要的东西。我只使用了原始的 Html-css-js-php-mysql 之后我开始研究框架，但我筋疲力尽了。我想我对前后端也不是很了解。我尝试使用 react-vite，但不知道如何制作登录验证系统。试过 next.js，但也不明白如何像 php 那样做 $session 系统。研究过 laravel，但我认为是它的后端系统。有这么多框架，astro、vue、next、nuxt、node、express 等等 我需要指南来了解如何继续。    提交人    /u/ayhanclke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:59:32 GMT</pubDate>
+      <title>Windows 11 上的 Bruno http 客户端：无法选择/复制响应窗格内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw4ko4/bruno_http_client_on_windows_11_cant_selectcopy/</link>
+      <description><![CDATA[我在 Bruno v1.35.0 上遇到了这个问题，现在在 1.38.0 上也遇到了。奇怪的是，我可以在标题和时间轴窗格中选择/复制。 我认为这不是 Windows 的问题，因为选择/复制在 Bruno 的其他部分和其他应用程序中按预期工作。 如果您遇到过这个问题并解决了，非常感谢任何指导。谢谢。    提交人    /u/Rustpit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw4ko4/bruno_http_client_on_windows_11_cant_selectcopy/</guid>
+      <pubDate>Tue, 07 Jan 2025 22:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>使音频元素中的文件可下载</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</link>
-      <description><![CDATA[我肯定问错了问题或者搜索错了东西，但是我有我的网站，我有音频样本（我的作品，不是偷来的），但我想让人们能够下载这些文件。 我没有正确使用哪些搜索词，因为“使音频可下载”或类似搜索词无法提供任何有关实现它所需的代码/html/whatev 的信息。    提交人    /u/rlvo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:33:37 GMT</pubDate>
+      <title>寻找完美的编程字体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw47bw/looking_for_the_perfect_programming_font/</link>
+      <description><![CDATA[  由    /u/byxekaka  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw47bw/looking_for_the_perfect_programming_font/</guid>
+      <pubDate>Tue, 07 Jan 2025 22:38:14 GMT</pubDate>
     </item>
     <item>
-      <title>我们创建了网站，我可以得到反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</link>
-      <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
+      <title>管理虚拟机调用远程 API 所使用的秘密的最佳实践是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</link>
+      <description><![CDATA[我有一个本地 Ubuntu 虚拟机，它运行一些 Python 和 Javascript 代码并通过 mTLS 与一些 API（AWS、DigitalOcean、Schwab）以及我自己的一些 API 进行交互。 目前，我将 SSL 证书/密钥/密码以及包含环境变量（如 API 机密）的 bash 文件存储在一个仅锁定为 600 权限的文件夹中。 从专业角度来说，我只使用过 Azure Key Vault 和 AWS Secrets Manager 等云解决方案以及 Lambda 之类的东西来获取这些机密。 以“困难的方式”完成，你们这些在裸机或虚拟机上运行应用程序的人如何存储机密？肯定有比仅仅放在虚拟机磁盘上更安全的方法吧？ 谢谢大家！    提交人    /u/AwsWithChanceOfAzure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</guid>
+      <pubDate>Tue, 07 Jan 2025 22:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>创建我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</link>
-      <description><![CDATA[我的职业不是网页开发人员，我从事半导体制造设备工作，在那里我是一名全栈开发人员。但我不得不说，我非常享受建立自己的网站的过程。它仍处于 WIP 阶段，但伙计，我一直在推迟我所有其他的项目，不断修改我的网站。我甚至在家里自己托管它。  https://dreblowdesigns.com    提交人    /u/ZoolanderBOT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:35:20 GMT</pubDate>
+      <title>您下一步应该学习什么技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw3edx/what_tech_should_you_learn_next/</link>
+      <description><![CDATA[我学习了几年 PHP、MySQL、JS 等语言，然后从事了相关工作，从那时起，我一直以自由网页开发人员的身份使用这些语言，大约 13 年了。 浏览任何论坛、Youtube 视频或 Reddit 都会让我意识到自己有点落后于时代。例如，使用 SCSS/HTML 手动构建前端，而不是使用 ReactJS 之类的东西。 问题是存在太多不同的途径。每隔一个月就会出现一些新趋势。 关于我下一步应该学习什么，您有什么建议吗？ 即远离 PHP？学习 React？学习移动应用开发？    提交人    /u/stuart_nz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw3edx/what_tech_should_you_learn_next/</guid>
+      <pubDate>Tue, 07 Jan 2025 22:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>我为我的网站想出了一个新名称，我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbapa/ive_come_up_with_a_new_name_for_my_website_what/</link>
-      <description><![CDATA[我正在建立一个尚未上线的 WordPress 网站（仍处于开发阶段）。我决定在正式发布之前更改域名，想知道在此阶段切换到新域名有多难。 如果可能的话，我需要遵循哪些必要的步骤才能顺利完成过渡，而不会对网站的 DNS 或托管造成任何问题？我主要关心如何更新 DNS 记录，以及托管环境是否需要任何特殊配置。 以下是我的主要问题：  在 WordPress 仍在开发中时，如何更新域名？ 我需要与托管服务提供商采取哪些步骤才能切换到新域名？ 如何更新 DNS 记录以指向新域名？ 在网站上线之前进行此更改时，是否存在任何需要注意的风险或常见问题？ 这可能涉及多少小时的工作，这是我可以合理地自己做的事情，还是应该留给我的开发人员？  提前感谢您的帮助！    提交人    /u/PromptAlternative178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbapa/ive_come_up_with_a_new_name_for_my_website_what/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:10:39 GMT</pubDate>
+      <title>当寻求聘请开发人员时，Upwork 是最佳选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw3a3q/is_upwork_the_best_option_when_looking_to_hire_a/</link>
+      <description><![CDATA[我是一名营销企业家，终于从页面构建器中走出来。目前正在构建一个自定义 Web 应用程序，以便我可以完全控制工作的各个方面。  我聘请了 Upwork 上的一名开发人员为我构建这个应用程序，他做得很好（我认为），但他最近开始了一份新工作，没有时间协助推进。我甚至提出将他的 80 美元/小时费率翻倍，但对他来说不值得…… 这实际上是我第一次在 Upwork 上获得良好的体验，但我担心雇用其他人时，他们不像他那样熟练或了解他迄今为止所做的一切。  是否有更可靠的自由职业网站或类似的东西，以便我可以完成并继续维护？     提交人    /u/Machuka420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw3a3q/is_upwork_the_best_option_when_looking_to_hire_a/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>寻找解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hra9cy/looking_for_a_solution/</link>
-      <description><![CDATA[您好，我正在寻找一种解决方案，让我的网站可以登录，用户可以在其中管理他们的个人资料，包括上传某些文档、设置他们的价格、查找联系人等。有没有现成的解决方案，还是我需要定制一个？    提交人    /u/Jalacart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hra9cy/looking_for_a_solution/</guid>
-      <pubDate>Wed, 01 Jan 2025 19:24:41 GMT</pubDate>
+      <title>这是什么 UI 风格？还有其他这种风格的网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw2sd9/what_ui_style_is_this_and_are_there_any_more/</link>
+      <description><![CDATA[https://forgottenlanguages-full.forgottenlanguages.org/    由   提交  /u/ledastraybypixies   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw2sd9/what_ui_style_is_this_and_are_there_any_more/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>希望开始使用一个网站来做一些我曾经使用过 Google Sheets 的事情。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9zp7/looking_to_start_using_a_website_for_something_i/</link>
-      <description><![CDATA[我没有编码或任何网站制作的经验，但想知道哪里是一个不错的起点。到目前为止，我已经在 Google Sheets 电子表格 上工作了 6 个多月，用于跟踪一款街机游戏的分数，但目前还没有保存分数的方法，我最不希望实现的功能在 Google Sheets 上根本无法实现，也就是能够在一个页面上输入新分数，然后将其发送到列出所有内容的主要分数页面，如果这有任何意义的话。 我还希望该网站能够托管多个人的帐户和他们自己单独的分数以及可能的排行榜，但如果您不真正了解正在发生的每一件事以及它的用途，上面链接的电子表格并不容易使用，但同样，没有经验我不知道从哪里开始，怎么做，也不知道任何有关帐户/详细信息安全性的事情，等等。 希望我在这里问这个问题至少能给我一个开始的地方，并希望在未来的某个时候能得到一些东西 （前几天我在另一个 subreddit 上发布了这个帖子，有两个人只是想向我推销他们的服务，但实际上并没有得到答案，所以希望在这里我会有更多的运气。）    提交人    /u/Iamuss76   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9zp7/looking_to_start_using_a_website_for_something_i/</guid>
-      <pubDate>Wed, 01 Jan 2025 19:13:00 GMT</pubDate>
+      <title>Laravel 和 Django 相比如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw26y5/how_do_laravel_django_compare/</link>
+      <description><![CDATA[对于那些同时使用过这两种语言的人来说，它们在复杂性、速度、功能等方面有何不同？ 您更喜欢哪种语言，为什么？    提交人    /u/thebreadmanrises   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw26y5/how_do_laravel_django_compare/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>我正在建立一个网站来练习使用 AI 进行工作面试 | 你觉得它的 UI 怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9i6w/im_building_a_website_to_practise_interviewing/</link>
-      <description><![CDATA[        提交人    /u/h3llwaiver   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9i6w/im_building_a_website_to_practise_interviewing/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:52:14 GMT</pubDate>
+      <title>支付处理器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw1rlp/payment_processors/</link>
+      <description><![CDATA[我正在创建一个非营利组织，以帮助为加拿大各地的小型慈善机构筹集资金。该业务模式需要大量从订阅模板每周支付 1 美元的定期付款交易。 不过，我最大的问题是找到一个支付网关，它不会在捐款到达需要经济援助的慈善机构之前吞噬 30% 或更多的捐款。 我希望你们能推荐一些我可以联系的公司，这些公司对非营利组织很友好，并且愿意根据独特的业务模式调整他们的定价模式。 谢谢，我会回答我能回答的任何问题。    提交人    /u/Future-Eggplant2404   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw1rlp/payment_processors/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:55:53 GMT</pubDate>
     </item>
     <item>
-      <title>尝试创建具有网格布局的文章列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9687/attempting_to_create_a_article_list_with_grid/</link>
-      <description><![CDATA[我将尝试使用规则 6 来回答这个问题，所以我开始了。 我是网格的新手，我正在尝试将前端和后端结合在一起创建一个关于视频游戏相关新闻的新闻网站，这是我的第一个项目。我正在创建一个屏幕，其中包含列表中特定类型的所有文章。我从 IGN 和 Youtube 等网站中汲取灵感，这些网站在您搜索内容时会这样做。 我的问题在于使其对所有设备都有适当的响应。当谈到使用网格来显示单个项目时，我想模仿这些网站的行为，但我无法让图像和随附的文本模仿我想要的行为。 缩小并调整此 IGN 链接上的页面大小，以查看我想要实现的目标。搜索结果会在网格布局内动态调整。 （示例链接） 我尝试搜索 YouTube 视频，但找不到适合我的特定解决方案的视频。我也尝试过谷歌搜索并询问 ChatGPT，但 GPT 似乎不明白我想问什么。 尽管学习了一段时间的 Web 开发，但我对网格仍然很陌生，对此感到困惑。一些澄清或指导将非常有帮助！ 谢谢！    提交人    /u/ItsBrendonian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9687/attempting_to_create_a_article_list_with_grid/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:37:58 GMT</pubDate>
+      <title>比 Siteground 更便宜的 PHP + SQL 托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw11zj/cheaper_hosting_than_siteground_for_php_sql/</link>
+      <description><![CDATA[所以我有这个网站。首先，我使用 LAMP 东西在我的计算机上构建了它。 现在它在 Siteground 上使用 PHP 和本机 SQL DB。我认为费用是每月 200 美元？ 有没有更低成本的选择？比如我不介意 PHP 处理速度较慢。而且我的数据库可能非常小。而且 siteground 是一个品牌名称 我正在尝试通过这个东西赚钱，如果每月费用下降一点，我会有更好的机会。    提交人    /u/OttawaHonker5000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw11zj/cheaper_hosting_than_siteground_for_php_sql/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>是否需要购买 Namecheap PrivateEmail？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr7zsd/is_purchasing_namecheap_privateemail_required/</link>
-      <description><![CDATA[大家好 我一直习惯于购买域名、托管包，然后直接通过 cPanel 创建我的电子邮件帐户。现在我看到很多托管服务提供商都在推广这些“专业商务电子邮件”计划，例如“入门版、专业终极版等”，这些计划比常规托管包要贵得多。 我很难找到信息，但这些现在是否是通过 cPanel 为域名创建电子邮件所必需的附加组件，或者是否仍然可以在不购买这些额外附加组件计划的情况下做到这一点？  我有一段时间没用过 Namecheap 了。我只是在建立一个包含 1-3 个电子邮件的基本网站。    提交人    /u/sugarkryptonite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr7zsd/is_purchasing_namecheap_privateemail_required/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:46:15 GMT</pubDate>
+      <title>个人博客</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw060k/personal_blog/</link>
+      <description><![CDATA[我想创建一个个人博客，请建议框架/程序... Wordpress 对一个小博客有很多依赖，可能没人会读 我有点喜欢 Ghostcms，但不喜欢它的设置和维护 或者 SSG 会更有用，比如 Hugo？ 请让我知道你使用什么或你认为什么适合这个用例    提交人    /u/Psychological_Draw78   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw060k/personal_blog/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>您以前持有过哪些愚蠢的信念？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr75j8/what_are_some_stupid_beliefs_you_held_earlier/</link>
-      <description><![CDATA[我先开始：  如果你努力工作，公司会主动给你加薪。 当然，我现在工作的地方可能很糟糕，但其他地方可能会更糟。     提交人    /u/Beginning-Comedian-2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr75j8/what_are_some_stupid_beliefs_you_held_earlier/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:08:02 GMT</pubDate>
+      <title>为咖啡馆建立原型网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvzja4/building_a_prototype_website_for_a_cafe/</link>
+      <description><![CDATA[大家好，我有个朋友在多伦多开了一家咖啡馆，有个设计师为他设计了网站。我问我是否可以免费为他建立一个原型，因为我失业了，而且这将是我简历上的一个很棒的项目。我对技术栈真的很困惑。 我目前的想法：前端：React/React + Astro 用于静态内容支付：stripe 后端：Express 或 FastApi 用于处理 stripe 支付和存储在线订单。部署：尚不确定。 你对堆栈有什么看法？有没有更好的方法来构建这个原型？有没有专门处理这个问题的现有工具或框架？    提交人    /u/stealth_Master01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvzja4/building_a_prototype_website_for_a_cafe/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>当我要求加薪时，老板告诉我，开发人员“现在的工资不高”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr70qc/my_boss_told_me_developers_dont_get_paid_as_much/</link>
-      <description><![CDATA[背景 - 我是一名自学成才的 Web 开发人员，在一家非营利组织工作了一年半。我最初是一名前端开发人员，后来将我的角色扩展到全栈开发人员。 我们是一个由 5 名技术人员组成的小团队，自开始以来，我的薪水一直是 60,000 加元。考虑到我所增加的价值（我主动实施了节省成本的解决方案，并且经常因我的工作和效率而受到称赞），我认为是时候要求加薪了。 如果资金紧张，我不会有任何问题，因为这是一家非营利组织，而且我通常喜欢这份工作和团队。但我在网上没有找到任何表明开发人员薪水下降的信息。这是真的吗？ 而且，我的老板是我的叔叔。    提交人    /u/ryan1431   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr70qc/my_boss_told_me_developers_dont_get_paid_as_much/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:01:58 GMT</pubDate>
+      <title>帮助：除了“无聊”的东西，您从哪里获得灵感？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvziq6/help_where_do_you_go_for_inspiration_but_for_the/</link>
+      <description><![CDATA[我是前端开发人员。当我寻找灵感时，我只能找到对明亮、美丽、精致的英雄单页的无尽赞美，这些单页具有漂亮的 3D 渲染和照片、霓虹色、疯狂的创意和令人印象深刻的动画。 我们在网络上的 99% 的体验都不是超级闪亮、光滑的网站。您在网络上的体验真的看起来像滚动浏览 Dribbble 吗？不，它主要是看起来“无聊”或标准或糟糕的网站。 但我在寻找“无聊”的网站。我见过的一些最漂亮、最时尚的设计永远不会让人惊叹不已，也不会出现在新闻提要中。  这太随机了，但魁北克网站和这个专注于魁北克无障碍设施的网站是我用过的两个外观最好、感觉最好的网站。前者甚至根本没有照片。它们永远不会被称为伟大的设计，但是当你需要查找信息时，一切都井井有条。这真是伟大的设计。 我很沮丧，因为我不需要看到第 4000 个时尚的英雄页面，你需要滚动整个页面才能找到关键信息。我厌倦了。开始觉得千篇一律了。 我想看到有史以来最好的导航栏，无论是可访问性还是信息结构。我想看看设计最佳的页脚。我想知道哪些网站具有最高效的桌面到移动转换，以及它们如何处理每个页面的导航菜单、子页面菜单和目录。哪些网站设计得如此出色，以至于您甚至没有意识到它设计得很好，因为它没有在您面前大喊“设计公司”或“自由职业者”？我只需要非常非常简单的背景知识的参考资料。您知道有多少网站有新闻/博客部分吗？但您知道在 Behance 上发布的新闻/博客部分有多少很少吗！？谁的服务条款页面最好？谁的媒体工具包页面最好？谁的“卡片”元素设计最好？？？哪个非营利网站真正赋予了您学习和捐赠的权利？？？ 所以，如果可以，请帮助我，或者如果您也在苦苦挣扎，请和我一起抱怨：  您去哪些地方寻找网页设计无聊部分的灵感？有“无聊”的 awwward 吗？“无聊的 Behance”？“无聊的 Dribbble”？ 是的，我看过有组件库和模板的网站——它们很烂！它们只是一堆空白的东西，有花哨的动画和圆角，绝对没有上下文。上下文很重要，它驱动着设计的需求。  对您来说，哪些网站代表了真正的设计？ 不是花哨的设计。我不在乎你的包含所有英雄部分的单页。我曾经有过客户，他们有数百页纯文本，需要转移或重新组织。我说的是实际的、真正的、功能齐全的网站。而不仅仅是可滚动的广告。 另外，我们可以多谈谈这个吗？我觉得我们的行业充斥着这些浮华和迷人的网站的故事。别误会我的意思，我喜欢它们。但那些设计师不是网络英雄。让信息易于查找的人才是真正的设计，对吧？  感谢您的时间！    提交人    /u/fawnover   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvziq6/help_where_do_you_go_for_inspiration_but_for_the/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:23:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

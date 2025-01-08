@@ -4,111 +4,111 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 23:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:22:37 GMT</lastBuildDate>
     <item>
-      <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
-      <link>https://www.reddit.com/r/software/comments/1hrc088/use_an_android_smartphone_as_a_serial_modem_with/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hrc088/use_an_android_smartphone_as_a_serial_modem_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:43:04 GMT</pubDate>
+      <title>我刚刚发布了 Notate – 开源跨平台 AI 研究助手，提供本地 LLM 支持</title>
+      <link>https://www.reddit.com/r/software/comments/1hw6p9v/i_just_released_notate_opensource_crossplatform/</link>
+      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hw6p9v/i_just_released_notate_opensource_crossplatform/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>iTunes 解密器</title>
-      <link>https://www.reddit.com/r/software/comments/1hralze/itunes_decrypter/</link>
-      <description><![CDATA[有人可以推荐我一款解密 iTunes 备份的软件吗？顺便说一句，如果这不是合适的 subreddit 来发布它，请告诉我在哪个 subreddit 中发布它    提交人    /u/Ir0nOre33   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hralze/itunes_decrypter/</guid>
-      <pubDate>Wed, 01 Jan 2025 19:40:09 GMT</pubDate>
+      <title>Bios 循环请帮忙</title>
+      <link>https://www.reddit.com/r/software/comments/1hw60a1/bios_loop_please_help/</link>
+      <description><![CDATA[我已经一年左右没有对我的电脑进行任何硬件更改了。昨天一切都运行良好。今天启动时，它加载到了 BIOS 中。我在 M.2 上安装了 Windows 11，它被选为第一启动优先级。UEFI 已激活。安全启动已打开（关闭时也无法工作）。但每次我离开 BIOS 时，它都会重新启动进入 BIOS…… 主板：Msi B550 Gaming edge Wifi CPU：Ryzen 73800X Gpu：AMD radon 6700 XT 非常感谢您的帮助，请询问更多信息！🙏🙏    提交人    /u/Finneview   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hw60a1/bios_loop_please_help/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:58:37 GMT</pubDate>
     </item>
     <item>
-      <title>真正的数字活页夹？</title>
-      <link>https://www.reddit.com/r/software/comments/1hr7nt8/a_true_digital_ringbinder/</link>
-      <description><![CDATA[我正在寻找一种类似于物理活页夹的管理项目“文件夹”的方法。我目前正在使用 Obsidian，但它的 pdf 处理功能不是最好的。我也使用过 Zotero，但我不喜欢将 pdf 隐藏为附件的方式。 要求：- 处理每个项目孤立的 pdf 集合 - 最多可以包含数百个文档 - 文档不应合并为单个 pdf 或编辑 - 搜索给定项目的所有文档 - 标记、突出显示和评论文档 - 基于桌面，文档保存在本地 - 理想情况下，我喜欢交叉链接功能 我根本不需要任何协作功能 - 这纯粹是为了个人用途。我不介意付费，但我的预算不是很多。   由    /u/deep-blue-seams  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hr7nt8/a_true_digital_ringbinder/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:31:17 GMT</pubDate>
+      <title>2024 年 Crowdstrike/Microsoft 大规模中断：责任在哪里？</title>
+      <link>https://www.reddit.com/r/software/comments/1hw5ms6/the_colossal_2024_crowdstrikemicrosoft_outage/</link>
+      <description><![CDATA[为什么没有对 2024 年 Crowdstrike/Microsoft 大规模中断追究更多责任？ 政府和大量诉讼在哪里？ 其他公司损失超过 100 亿美元¹，全球人民的生活受到影响，有些人甚至处于危险之中² &amp;无数 IT 管理员的周末被毁了。 与此同时，他们的股价几乎回到了历史最高水平³！ 来源： ¹ https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages ² https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages#Healthcare ³ https://finance.yahoo.com/quote/CRWD    由   提交  /u/MadeInDex-org   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hw5ms6/the_colossal_2024_crowdstrikemicrosoft_outage/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:41:13 GMT</pubDate>
     </item>
     <item>
-      <title>将 PDF 转换为音频文件的程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1hr4d2w/program_to_convert_pdf_to_audio_file/</link>
-      <description><![CDATA[我花了好几天的时间才为 Balabolka 添加声音。有没有其他免费或低于 30 美元的程序可以将我从 Kobo 下载的电子书（pdf 格式）转换为可以在手机上播放的音频文件？    提交人    /u/27remember   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hr4d2w/program_to_convert_pdf_to_audio_file/</guid>
-      <pubDate>Wed, 01 Jan 2025 14:51:54 GMT</pubDate>
+      <title>需要基于网络的发票软件解决方案</title>
+      <link>https://www.reddit.com/r/software/comments/1hw0nyx/need_invoice_software_solution_web_based/</link>
+      <description><![CDATA[嗨，不确定这是否是发布此内容的最佳子版块，但我们是一家拥有 200 名员工和 120 名医疗保健领域客户的公司。我们的治疗师每个月都必须在我们特定的公司模板上填写发票，每个客户都有自己的发票模板，其中预先填写了客户特定信息。我们目前让他们使用可填写的 pdf，但我想让这个过程更加简化。我认为 Adob​​e 可以做到这一点，但由于我们员工太多，成本太高，因此正在寻找替代解决方案。 要求如下：  它基于 Web，因此他们可以从任何设备访问它 它类似于在线 PDF，但我需要根据员工看到的客户向他们提供特定访问权限，因为当前 PDF 模板已预先填充了他们的客户信息 会自动计算时间，例如，如果他们在 2025 年 1 月 2 日下午 3 点到 4 点 45 分工作，则当天的总时间将为 1.75 小时 我可以要求填写某些字段，并在未填写时给出提示或错误 他们可以在指定的位置绘制自己的签名，客户也可以这样做，而无需单独的程序 会有一个提交选项，然后通过电子邮件发送给我或将其存储在我可以访问的地方  期待任何建议或意见。这将是一个很大的帮助 让我知道是否需要更多详细信息    提交人    /u/SpotZealousideal6945   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hw0nyx/need_invoice_software_solution_web_based/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>我的外部硬盘有问题</title>
-      <link>https://www.reddit.com/r/software/comments/1hr2x1k/problem_with_my_external_hard_disk/</link>
-      <description><![CDATA[我在笔记本电脑中放入了 2 TB 的关键 nvme，它工作正常，我之前在笔记本电脑中装有 512 GB 的 nvme，我给它装上外壳并将其设为外置，问题是我的笔记本电脑无法识别它，我尝试使用 UTHSB_MPTOOL 安装某种驱动程序，安装时我收到失败消息，然后外部硬盘停止亮起蓝灯，我在设备管理器中再也看不到硬盘了，我能做什么吗？，（我尝试再次安装 Windows，但没有成功），这是设备管理器中的设备名称：m.2-c rtl9210b 2402 scsi    提交人    /u/AhmedAlHomsi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hr2x1k/problem_with_my_external_hard_disk/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:27:40 GMT</pubDate>
+      <title>谷歌助手常规替代方案</title>
+      <link>https://www.reddit.com/r/software/comments/1hvtp6t/google_assistant_routine_alternative/</link>
+      <description><![CDATA[我的笔记本电脑 24/7 都开着，还外接了显示器。有没有类似谷歌助手程序的软件？例如：早上 6 点打招呼，然后查看天气、日历事件/tssk、一些新闻，然后播放一些音乐。非常感谢您的帮助     提交人    /u/stigsstupidcousin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hvtp6t/google_assistant_routine_alternative/</guid>
+      <pubDate>Tue, 07 Jan 2025 15:19:34 GMT</pubDate>
     </item>
     <item>
-      <title>实时脸部滤镜</title>
-      <link>https://www.reddit.com/r/software/comments/1hr1zsu/live_face_filter/</link>
-      <description><![CDATA[寻找可以在运行时运行的脸部滤镜。它可以是独立应用程序或浏览器扩展。 由于身体状况，我目前脸颊上有难看的瘀伤，但我仍然需要工作，并且需要在会议期间打开相机。这就是为什么我需要一个可以将脸颊和整个脸部的颜色调整为自然的软件。 任何帮助都将不胜感激🙏    提交人    /u/SkyshaftoDesu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hr1zsu/live_face_filter/</guid>
-      <pubDate>Wed, 01 Jan 2025 12:25:44 GMT</pubDate>
+      <title>使用 Internet Explorer 11 查看 PDF 文件的问题。</title>
+      <link>https://www.reddit.com/r/software/comments/1hvsikf/viewing_pdf_files_with_internet_explorer_11/</link>
+      <description><![CDATA[在 Internet Explorer 11 中查看 PDF 时，它们会下载到计算机上的什么位置？是 %AppData% 文件夹吗？有谁能帮帮我。非常感谢！ “如果您只是单击链接，但没有下载，则它很可能在某个缓存中，但就像网页一样，并没有真正以您真正可以使用的方式下载到文件系统中，而只是在内存中。” 正是如此！那么我在哪里可以找到它？ 我有一个 .exe 程序可以打开像这样的 Internet Explorer pdf /bitmap 文件，我想知道它的位置，以便我能够保存数据。    提交人    /u/W1CKEDR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hvsikf/viewing_pdf_files_with_internet_explorer_11/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>图像分类软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hr0wrm/software_for_sorting_images/</link>
-      <description><![CDATA[我正在寻找一款软件来快速排序和删除从我的手机上传的照片。  它应该能够将多个不同的文件夹设置为“端点”，然后让我轻松地将照片移动到这些文件夹，而无需不必要的操作。 它还应该有一个选项，可以将照片移动到 yyyy/mm 格式的文件夹中，因此如果照片没有进入专用文件夹，它将按年份和月份排序。 有什么建议吗？    提交人    /u/Catriks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hr0wrm/software_for_sorting_images/</guid>
-      <pubDate>Wed, 01 Jan 2025 11:06:33 GMT</pubDate>
+      <title>哪些视频播放器/流媒体可以允许我调整音频和视频之间的同步/偏移？</title>
+      <link>https://www.reddit.com/r/software/comments/1hvq561/what_video_playersstreamers_will_allow_me_to/</link>
+      <description><![CDATA[我的蓝牙扬声器以立体声配对，并且有一两秒的延迟，因此音频和视频不同步。 哪些视频播放器可以让我调整这一点？ （我的 Transcribe！音频软件可以，但我正在寻找其他软件，尤其是适用于 iOS 和 Android 的软件，也适用于 Windows）    提交人    /u/edge_l_wonk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hvq561/what_video_playersstreamers_will_allow_me_to/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>Iobit 驱动助推器安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hqvzgp/is_iobit_driver_booster_safe/</link>
-      <description><![CDATA[我想更新我的驱动程序，但我不知道如何操作，所以我正在使用这个软件。它安全吗？    提交人    /u/SpecialExam8760   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqvzgp/is_iobit_driver_booster_safe/</guid>
-      <pubDate>Wed, 01 Jan 2025 04:54:54 GMT</pubDate>
+      <title>带有单元格的记事本</title>
+      <link>https://www.reddit.com/r/software/comments/1hvpc3q/notepad_but_with_cells/</link>
+      <description><![CDATA[嗨，我想知道是否存在这样的东西，像记事本一样简单，但带有像 excel 这样的单元格，但不进行计算或任何仅单元格的操作。这样的东西存在吗。我知道我可以使用 Excel，但我真的想要一个字面上只用于以单元格格式记笔记的东西，它非常轻量并且可以快速使用。没有公式或任何东西，只有单元格。    提交人    /u/Mammoth_Ad5012   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hvpc3q/notepad_but_with_cells/</guid>
+      <pubDate>Tue, 07 Jan 2025 11:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么好的免费程序可以删除具有多个子文件夹的文件夹中一定大小以下的文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1hqtq4r/any_good_free_program_that_can_deleted_files/</link>
-      <description><![CDATA[有没有什么好的免费程序可以删除带有许多子文件夹的文件夹中特定大小以下的文件？我想要删除所有小于 150k 的图像和小于 5mb 的视频，有没有免费的 Windows 程序可以做到这一点？    提交人    /u/Beavisguy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqtq4r/any_good_free_program_that_can_deleted_files/</guid>
-      <pubDate>Wed, 01 Jan 2025 02:25:52 GMT</pubDate>
+      <title>如何删除停止更新</title>
+      <link>https://www.reddit.com/r/software/comments/1hvoicx/how_do_i_delete_stop_updates/</link>
+      <description><![CDATA[我该如何删除它 https://preview.redd.it/pg6s4dpdtjbe1.png?width=494&amp;format=png&amp;auto=webp&amp;s=3cd8599e198006f17e4f553e25118ec1a492c8fd 当我打开它时，出现一个空文件夹，它仍然停止更新    由    /u/XhyperBanana  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hvoicx/how_do_i_delete_stop_updates/</guid>
+      <pubDate>Tue, 07 Jan 2025 10:26:04 GMT</pubDate>
     </item>
     <item>
-      <title>APNG 分割工具</title>
-      <link>https://www.reddit.com/r/software/comments/1hqrp12/apng_splitting_tools/</link>
-      <description><![CDATA[我有一个超过 200MB 的 APNG 文件。有哪些工具可以将其无损分割成较小的 APNG 文件（90MB 或更小）？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqrp12/apng_splitting_tools/</guid>
-      <pubDate>Wed, 01 Jan 2025 00:24:17 GMT</pubDate>
+      <title>帮助解决蓝光播放器的音频问题</title>
+      <link>https://www.reddit.com/r/software/comments/1hviqek/help_resolving_audio_issues_on_my_bluray_player/</link>
+      <description><![CDATA[我有一台索尼蓝光播放器（索尼 BDP-3700）。我目前正在用 DVD 观看《甜蜜苦乐人生》，我注意到在打斗场景中，音频会降低。但是，对话可以正常播放。这只是 DVD 的问题，还是我需要调整系统内的音频设置来解决这个问题？    由   提交  /u/GoBravesChopOn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hviqek/help_resolving_audio_issues_on_my_bluray_player/</guid>
+      <pubDate>Tue, 07 Jan 2025 03:54:13 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 iPhone HDMI 作为输入显示器</title>
-      <link>https://www.reddit.com/r/software/comments/1hqmie2/how_to_use_iphone_hdmi_as_a_input_display/</link>
-      <description><![CDATA[我原本想用小预算让 c64mini 变得更小巧。但我不知道该如何展示它。所以我想到用我的手机（iPhone 10）。但现在我在想如何将 iPhone 10 的输出 HDMI 用作输入 HDMI……    提交人    /u/Ok-Recording2188   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqmie2/how_to_use_iphone_hdmi_as_a_input_display/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:49:24 GMT</pubDate>
+      <title>Miracast 无法在我的 PC 上使用。Spacedesk 是唯一的选择吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1hva6c0/miracast_doesnt_work_on_my_pc_is_spacedesk_the/</link>
+      <description><![CDATA[嗨！正如我在标题中提到的，Miracast 无法在我的主 PC 上运行（不知道为什么，但它显示为不可用，我已经尝试了所有方法）。 我想将笔记本电脑无线连接到它，以将其用作第二台显示器。 我发现 Spacedesk 可能是 Miracast 的可靠替代品，但它不是开源的这一事实让我很困扰。 还有其他可用的替代品吗？我可以完全信任 Spacedesk 吗？据我所知，如果我可以完全控制连接到我自己的 WiFi 的设备，应该没有任何问题......我说得对吗？    提交人    /u/1pctipaday   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hva6c0/miracast_doesnt_work_on_my_pc_is_spacedesk_the/</guid>
+      <pubDate>Mon, 06 Jan 2025 21:18:28 GMT</pubDate>
     </item>
     <item>
-      <title>有适用于 PC 的 Android 模拟器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hqmhx5/android_emulators_for_pc/</link>
-      <description><![CDATA[*如果这里不允许这样做，请告诉我。我只是想模拟一个我无法在手机上玩的游戏 :-ppp 如果这算作盗版，请告诉我，谢谢！！ 你好，我是 arc。我正在寻找一个模拟 Android 应用程序的模拟器。我试过 bluestacks，但考虑到它有多粗糙……而且呃……它现在主要是过度膨胀的软件，我不会冒这个险。所以如果有人能给我推荐一些没有过度膨胀软件/病毒之类的垃圾，我会很感激的。    提交人    /u/tragedyisdead   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqmhx5/android_emulators_for_pc/</guid>
-      <pubDate>Tue, 31 Dec 2024 19:48:49 GMT</pubDate>
+      <title>有人知道 Linux 的 ForScore 替代品吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1hv8xxc/anyone_know_of_a_forscore_alternative_for_linux/</link>
+      <description><![CDATA[ForScore 很棒，但只适用于 iPad。到目前为止，我只找到了一种名为 DiNoScore 的东西，但它非常简陋。或者任何可以用来整理乐谱的应用程序都很棒，但到目前为止我什么也没找到。    由   提交  /u/Cakepufft   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hv8xxc/anyone_know_of_a_forscore_alternative_for_linux/</guid>
+      <pubDate>Mon, 06 Jan 2025 20:29:02 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么程序可以伪造 PC 组件？</title>
-      <link>https://www.reddit.com/r/software/comments/1hqkozk/theres_any_program_that_spoff_pc_components/</link>
-      <description><![CDATA[有没有什么程序可以伪造 PC 组件？（比如 CPU）    提交者    /u/Interesting_Air3283   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqkozk/theres_any_program_that_spoff_pc_components/</guid>
-      <pubDate>Tue, 31 Dec 2024 18:22:59 GMT</pubDate>
+      <title>将视频从 1080p 升级到 4k/8k 的最佳免费/付费软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hv5dr1/best_freepaid_software_to_upscale_a_video_from/</link>
+      <description><![CDATA[大家好， 我想将一些视频升级，这是一个 2 分钟的视频，到 4k 或 8k，这可能吗？它会提高图片质量吗？如果您尝试过这些软件中的任何一个，请告诉我，谢谢    提交人    /u/kareemamr50   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hv5dr1/best_freepaid_software_to_upscale_a_video_from/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>我正在寻找某种方法将卡通滤镜放在图像上而不改变它。</title>
-      <link>https://www.reddit.com/r/software/comments/1hqk30b/im_looking_for_some_way_to_put_a_cartoon_filter/</link>
-      <description><![CDATA[我不确定还能去哪里，因为谷歌只是一个接一个的人工智能垃圾游戏。我怀念那些只改变颜色或样式而不改变图像的好旧过滤器。我只想将逼真的图像变成卡通风格而不改变图像。这可能吗？ 我有一个安卓和 Windows 10 操作系统    提交人    /u/Daemonsblaze0315   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqk30b/im_looking_for_some_way_to_put_a_cartoon_filter/</guid>
-      <pubDate>Tue, 31 Dec 2024 17:54:17 GMT</pubDate>
+      <title>将家庭视频 DVD 翻录成数字文件的最佳程序是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1hv223v/best_program_to_rip_family_video_dvds_to_digital/</link>
+      <description><![CDATA[大家好！ 我正在寻找将家庭视频 DVD 翻录成数字文件的最佳程序的推荐。我们的 DVD 是 15 或 20 年前由一些过时的服务制作的，原始的 VHS 和磁带都已丢失。 谢谢！    提交人    /u/Brief_Professor_1349   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hv223v/best_program_to_rip_family_video_dvds_to_digital/</guid>
+      <pubDate>Mon, 06 Jan 2025 15:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>推荐我图像调整大小或裁剪工具</title>
-      <link>https://www.reddit.com/r/software/comments/1hqhnlb/recommend_me_image_resize_or_crop_tool/</link>
-      <description><![CDATA[我需要调整或裁剪（不知道哪个更好，教我）我的照片到 1440px1800 以便以最佳质量将它们发布到 Instagram 上。我需要一个网站，我可以在里面选择裁剪或调整大小为 9:16 或 4:5 比例    提交人    /u/BeamBlizzard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqhnlb/recommend_me_image_resize_or_crop_tool/</guid>
-      <pubDate>Tue, 31 Dec 2024 16:01:11 GMT</pubDate>
+      <title>正在寻找一种方法来在任何给定的网页上模拟 Google 日历上的此功能。（“Google Keep”用于笔记）</title>
+      <link>https://www.reddit.com/r/software/comments/1huzujc/looking_for_a_way_to_emulate_this_feature_on/</link>
+      <description><![CDATA[https://imgur.com/a/uAsqso4 我真正想要的是一种添加注释的方法，当我访问该网站时会弹出注释，就像日历的保留功能一样。 *它需要包含在 Firefox 中，不需要外部应用程序。附加组件就可以了。 *它只需要显示与当前显示的站点相关的信息 *如果我可以显示带有评论的站点列表，那就太酷了 *注释会非常酷，但我认为这在动态页面上效果不佳。 这是我在不同网站上看到的快速模型：https://imgur.com/a/A8VlMT2    提交人    /u/anktombomb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1huzujc/looking_for_a_way_to_emulate_this_feature_on/</guid>
+      <pubDate>Mon, 06 Jan 2025 14:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

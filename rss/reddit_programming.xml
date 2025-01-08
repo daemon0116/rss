@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 23:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:22:41 GMT</lastBuildDate>
     <item>
-      <title>用 Actor 思考 - 第 3 部分 - 使用 Actor 模型来跟踪飞机</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrdllf/thinking_in_actors_part_3_using_the_actor_model/</link>
-      <description><![CDATA[  由    /u/jeremycarterau  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrdllf/thinking_in_actors_part_3_using_the_actor_model/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:53:59 GMT</pubDate>
+      <title>为我的游戏引擎添加编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw73th/adding_an_editor_to_my_game_engine/</link>
+      <description><![CDATA[  由    /u/Ark_Forkmachine  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw73th/adding_an_editor_to_my_game_engine/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>以下是我为我的 Web 应用程序创建强大、可扩展的应用内教程的方法和原因</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrdlel/heres_how_and_why_i_created_robust_scalable_inapp/</link>
-      <description><![CDATA[  由    /u/No-Definition-2886  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrdlel/heres_how_and_why_i_created_robust_scalable_inapp/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:53:46 GMT</pubDate>
+      <title>掌握 Flutter 中的 GestureDetector</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw5azj/mastering_gesturedetector_in_flutter/</link>
+      <description><![CDATA[  由    /u/Puzzleheaded_Goal617  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw5azj/mastering_gesturedetector_in_flutter/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>我仅使用 webhook 为 Slack 和 Bitbucket 创建了拉取请求通知机器人</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</link>
-      <description><![CDATA[  由    /u/RealDaikon7106  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:40:38 GMT</pubDate>
+      <title>谁真正负责内部开发平台？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</link>
+      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</guid>
+      <pubDate>Tue, 07 Jan 2025 23:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:33:37 GMT</pubDate>
+      <title>Linux 即将支持 ASHA 助听器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw2tdc/support_for_asha_hearing_aids_coming_to_linux/</link>
+      <description><![CDATA[  由    /u/arunarunarun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw2tdc/support_for_asha_hearing_aids_coming_to_linux/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>构建开源项目：生活故事、家人和朋友的合作 - AI-Curated</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrbahl/building_an_opensource_project_life_stories/</link>
-      <description><![CDATA[我们正在使用 Next.js、Contentful 和 AI 构建一个开源平台，帮助家人和朋友通过协作内容保存他们所爱之人的生活故事，然后在 AI 的帮助下将其整理成引人入胜的电影和故事。 提问，了解更多信息，请加入我们！ 开源 #AI #y    提交人    /u/dQxTrades   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrbahl/building_an_opensource_project_life_stories/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:10:25 GMT</pubDate>
+      <title>专栏：东北大学对 Khoury 课程的重新设计放弃了计算机科学的基础</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw0z50/oped_northeasterns_redesign_of_the_khoury/</link>
+      <description><![CDATA[  由    /u/WanderingCID  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw0z50/oped_northeasterns_redesign_of_the_khoury/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:22:56 GMT</pubDate>
     </item>
     <item>
-      <title>制作一款像 1993 年的游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr8n10/making_a_game_like_its_1993/</link>
-      <description><![CDATA[  由    /u/nelmaloc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr8n10/making_a_game_like_its_1993/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:14:21 GMT</pubDate>
+      <title>Zig 的 Comptime 非常棒</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw0pxa/zigs_comptime_is_bonkers_good/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw0pxa/zigs_comptime_is_bonkers_good/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>探索现代 Web 开发中的无服务器架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr7sus/exploring_serverless_architecture_in_modern_web/</link>
-      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr7sus/exploring_serverless_architecture_in_modern_web/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:37:39 GMT</pubDate>
+      <title>我在 2025 年每周都会做一个项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw0bph/im_making_one_project_every_week_of_2025/</link>
+      <description><![CDATA[  由    /u/im_the_tea_drinker_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw0bph/im_making_one_project_every_week_of_2025/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Static Hermes 将 JavaScript 编译为支持 WASI 的 WASM</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr7o43/compiling_javascript_to_wasm_with_wasi_support/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr7o43/compiling_javascript_to_wasm_with_wasi_support/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:31:39 GMT</pubDate>
+      <title>工程管理中最重要的部分：背景</title>
+      <link>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</link>
+      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>我、Chatgpt、copilot、gemini 和 google 搜索对四边形进行分类</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr7isl/me_chatgpt_copilot_gemini_and_google_search/</link>
-      <description><![CDATA[  由   提交  /u/Paddy3118   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr7isl/me_chatgpt_copilot_gemini_and_google_search/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:24:58 GMT</pubDate>
+      <title>Zig 风格的泛型并不适合大多数语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</link>
+      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>提升你的 Go 并发技能：揭秘 Channels 和 Select</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr6n5c/level_up_your_go_concurrency_skills_channels_and/</link>
-      <description><![CDATA[  由    /u/StatisticianNo2104  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr6n5c/level_up_your_go_concurrency_skills_channels_and/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:44:40 GMT</pubDate>
+      <title>在非 Rust 服务器中使用 Rust 来提高性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvyl6t/using_rust_in_nonrust_servers_to_improve/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvyl6t/using_rust_in_nonrust_servers_to_improve/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:44:38 GMT</pubDate>
     </item>
     <item>
-      <title>使用 FastAPI 和 WebSockets 构建实时通知系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr6gi6/building_a_real_time_notification_system_with/</link>
-      <description><![CDATA[  由    /u/Organic_Drawing_3339  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr6gi6/building_a_real_time_notification_system_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:35:57 GMT</pubDate>
+      <title>使用游标帮助构建应用程序时要小心</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvyj6k/be_careful_when_using_cursor_to_help_build/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvyj6k/be_careful_when_using_cursor_to_help_build/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:42:12 GMT</pubDate>
     </item>
     <item>
-      <title>圣诞主题的太空侵略者游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr64q9/a_christmas_themed_space_invaders_game/</link>
-      <description><![CDATA[大约在圣诞节前两三天，我决定用 Python 和 Pygame 制作一款圣诞主题的太空侵略者风格游戏。由于非常忙碌，游戏的发展略微超出了我最初的计划，所以我没能在圣诞节前完成。我制作了一个视频，您可以在视频描述中找到 GitHub 链接： https://youtu.be/MfiGlsJxUaw?si=-gzLc0z7YahRZCOU    提交人    /u/AnalysisPopular1860   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr64q9/a_christmas_themed_space_invaders_game/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:20:46 GMT</pubDate>
+      <title>透露得越少越好——如何通过概述经常被忽视的用户枚举漏洞来编写更好的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</link>
+      <description><![CDATA[  由    /u/ssj_aleksa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:35:12 GMT</pubDate>
     </item>
     <item>
-      <title>Postiz——开源社交媒体调度工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr4rpb/postiz_open_source_social_media_scheduling_tool/</link>
-      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr4rpb/postiz_open_source_social_media_scheduling_tool/</guid>
-      <pubDate>Wed, 01 Jan 2025 15:13:03 GMT</pubDate>
+      <title>Go 中基于游标的多列排序分页</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</link>
+      <description><![CDATA[  由    /u/Dan6erbond2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年数据库：年度回顾</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr3xor/databases_in_2024_a_year_in_review/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr3xor/databases_in_2024_a_year_in_review/</guid>
-      <pubDate>Wed, 01 Jan 2025 14:28:07 GMT</pubDate>
+      <title>初学者最佳英雄部分源代码合集 - JV 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建成熟的在线动作角色扮演游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</link>
-      <description><![CDATA[  由    /u/SF_Nick  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hr36sc/how_to_create_a_fullyfledged_online_arpg/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:44:09 GMT</pubDate>
+      <title>法学硕士如何秘密重塑未来代码，以及我们应该如何应对</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</link>
+      <description><![CDATA[  由    /u/nathanpeck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</guid>
+      <pubDate>Tue, 07 Jan 2025 16:45:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
