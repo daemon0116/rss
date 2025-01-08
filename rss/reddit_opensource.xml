@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 17:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:26:29 GMT</lastBuildDate>
+    <item>
+      <title>claude-term 介绍：一款基于终端的增强 Claude AI 交互的工具 🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</link>
+      <description><![CDATA[大家好！我很高兴与大家分享我创建的一个名为 claude-term 的工具 - 一个用于与 Claude AI 交互的基于终端的界面，它为桌面带来了一些独特的功能。 主要特点：  🗂️ 基于项目的上下文管理：将您的对话组织成项目，每个项目都有自己的上下文和系统提示 📄 实时文件同步：文件符号链接到其原始位置，这意味着对文件的任何更改都会立即反映在您的 Claude 对话中 🔄 交互式终端界面：丰富、干净的终端 UI，实现无缝对话 🎯 自定义系统提示：为每个项目设置特定的系统提示以获得定制的响应 💻 易于使用：用于管理项目和开始对话的简单 CLI 命令  这个工具的特别之处在于它处理文件的方式。当您将文件添加到项目时，它会创建指向原始文件位置的符号链接。这意味着：  您对原始文件所做的任何更改都会立即在您的 Claude 对话中可用 无需重复文件或手动同步 非常适合使用实时代码库的开发人员或编辑文档的作者  它是开源的并且易于设置 - 您只需要 Python 3.12+ 和 Anthropic API 密钥。在 GitHub 上查看：https://github.com/rss-holmes/claude-term 我很乐意听到您的想法和反馈！如果您有任何问题或改进建议，请告诉我。    提交人    /u/g11g4m3sh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:58:18 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 VanillaHTML（CSS 文件）| 我很乐意听取对我项目的反馈 :)</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</link>
       <description><![CDATA[  由    /u/Head-Cup-9133  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</guid>
       <pubDate>Wed, 08 Jan 2025 16:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 Instawork 的单体/微服务难题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwopx1/tackling_the_monolithmicroservices_dilemma_at/</link>
-      <description><![CDATA[       由    /u/the1024  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwopx1/tackling_the_monolithmicroservices_dilemma_at/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:50:09 GMT</pubDate>
     </item>
     <item>
       <title>我开源了我的 3D Boomer Shooter 来帮助其他人学习 Godot</title>
@@ -106,7 +106,7 @@
     <item>
       <title>团队任务应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
-      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    提交人    /u/hardiskz   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
       <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
     </item>

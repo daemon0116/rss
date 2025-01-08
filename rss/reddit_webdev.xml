@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 17:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:26:25 GMT</lastBuildDate>
+    <item>
+      <title>自从我开始编程以来，我正确拼写的能力就大大下降了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwr18b/ever_since_i_started_programming_my_ability_to/</link>
+      <description><![CDATA[不，我现在才意识到我从来都不懂拼写。我真的坐在那里就能说“不，那看起来不对，我拼写错了……那该怎么拼写？”） 还有人注意到程序员拼写不好吗？我发现程序员犯的拼写错误比我认识的任何人都多。 你认为这是为什么？ 我猜：也许是因为我们在以一种从未使用过的方式使用我们的大脑，因此使用了以拼写奇怪的单词为启动器的神经网络？程序员一直在编造单词，他们甚至想出一种违背英语发音的方式来发音。    提交人    /u/Proof_Cable_310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwr18b/ever_since_i_started_programming_my_ability_to/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:24:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>但是 iframe 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</link>
+      <description><![CDATA[        提交人    /u/RecklessHeroism   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:09:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Ruby 和 Sinatra 构建安全的 REST API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwq64j/building_a_secure_rest_api_with_ruby_and_sinatra/</link>
+      <description><![CDATA[        提交人    /u/ZuploAdrian   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwq64j/building_a_secure_rest_api_with_ruby_and_sinatra/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:48:36 GMT</pubDate>
+    </item>
     <item>
       <title>我如何才能在此网站上重新创建背景点网格效果？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[.    由    /u/naeemgg 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwl7fr/how_good_it_is_to_give_personal_number_in_resume/</guid>
       <pubDate>Wed, 08 Jan 2025 14:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近一直在探索 Node.JS 数据库工具，并快速回顾了 Prisma 用于编写类型安全原始查询的新 TypedSQL 功能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwl067/ive_been_exploring_nodejs_database_tooling/</link>
-      <description><![CDATA[        提交人    /u/jake_robins   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwl067/ive_been_exploring_nodejs_database_tooling/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序或服务中使用了 / 应该使用多少个 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwkm9o/how_many_apis_is_usedshould_be_in_a_webapp_or/</link>
-      <description><![CDATA[我是 Web 开发新手，尤其是 API 新手，但到目前为止，我了解一些基础知识，似乎可以做我想要或需要的很多事情。然而，我偶然发现，在具有不同定价计划（因此有访问限制）的 Android 应用中，我不能简单地包含 API 密钥，因为它很容易被“破解”版本的 API 共享。我正在尝试实现 Firebase 身份验证，现在甚至不知道在到达端点之前需要多少个 API。 Chat GPT 告诉了我一个例子，但对于一个网站而言：  客户端应用程序 → 向后端服务器发出请求。 后端服务器 → 添加 API 密钥并将请求转发到 API 服务。 API 服务 → 验证密钥并将响应返回到后端。 后端 → 将响应发送到前端。  如果听起来不正确，请原谅，我很乐意听到处理事情的建议、观点和解释。    提交人    /u/CringeCries   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwkm9o/how_many_apis_is_usedshould_be_in_a_webapp_or/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码库文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwk83j/codebase_document/</link>
-      <description><![CDATA[上下文：我们外包了一个移动应用程序开发。应用程序开发完毕，现在我们接管了源代码。但是，没有源代码文档。我将在我的团队中独自接管源代码。我开始学习 Flutter，但他们共享的源代码当然庞大而复杂。现在我个人觉得我需要一份解释源代码的文档。向 gpt 询问了基本结构，它建议询问诸如 api int、项目结构、状态管理、自定义小部件、扩展库以及对它们所做的更改之类的内容。询问这样的细节是正常的吗，还是我必须自己浏览每个文件并理解它。我要通知我的经理并要求提供适当的文档，但我需要对此的意见，因为我是新手。我是否必须自己浏览源代码并理解每一个内容，或者源代码有文档是正常的？因为如果这是正常的，我可以让我的经理让团队准备一份。当然他可能也知道这是否正常，但我需要第三种意见。 谢谢你的帮助。 我确实知道如何阅读新的代码库。我还学习了带有状态管理的 dart 和 flutter，但代码库确实很复杂。当然理解它需要时间。    提交人    /u/Inside-Pass5632   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwk83j/codebase_document/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:27:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
