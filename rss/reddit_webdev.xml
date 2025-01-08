@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 11:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 12:37:44 GMT</lastBuildDate>
+    <item>
+      <title>是否有基于 json 到内容编辑器 cms 的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</link>
+      <description><![CDATA[我想将 excel 文档迁移到 json 格式，以创建一个显示内容的平台。我唯一的问题是我想在此过程中摆脱 excel，这让我需要想出一种方法来允许技术知识很少的内容编辑者能够更新 json。 是否有一些工具可以读取 json 并创建一些 cms 平台，编辑者只需单击文本即可编辑？    提交者    /u/TravelOwn4386   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个分析热门 Reddit 帖子的工具，以帮助你创建更好的内容（免费试用）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwiggt/i_built_a_tool_that_analyses_top_reddit_posts_to/</link>
+      <description><![CDATA[首先 - 这不是增长黑客或“Reddit 自动化”方案。 作为一名独立开发者，我创建它来解决自己的问题，它救了我一命。我认为其他人也会觉得它有用。 **它的作用：** 1. URL 分析：输入任何网页（博客/商店/等）并获取建议的观众常去的 subreddits 2. 帖子优化：根据每个社区的有效方法重写草稿帖子 3. 根据您提供的 URL 生成真实的帖子。 **它的不同之处：** 与 ChatGPT 或其他 AI 工具不同，这实际上会分析目标 subreddits 中热门帖子的真实参与度数据。它不只是生成通用内容 - 它还可以帮助您了解在特定社区中真正引起共鸣的内容。 **重要提示：**目标是帮助创建真实、有价值的内容 - 而不是垃圾邮件或操纵。质量比数量更重要，Reddit 总是胜出。 我完全免费试用，适用于移动设备和桌面设备，并且我正在根据反馈积极添加功能。 很想听听你的想法！还有哪些功能会让它对你更有用？ 如果您有兴趣尝试该工具：atisko.com    提交人    /u/PanicIntelligent1204   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwiggt/i_built_a_tool_that_analyses_top_reddit_posts_to/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:52:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何根据用户是否使用省电模式来确定主题样式（即不透明度、颜色等的强度）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwievx/how_do_you_determine_theme_styling_ie_intensity/</link>
+      <description><![CDATA[考虑到大多数现代设备都具有某种类型的省电功能，由于省电模式会使屏幕变暗，您在设计基线/默认主题时会默认使用哪种功能？    提交人    /u/SmihtJonh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwievx/how_do_you_determine_theme_styling_ie_intensity/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您一直在寻找新的 SVG 图标用于您的项目，本文汇编了我最喜欢的一些库/集合。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwibvs/if_youre_always_looking_for_new_svg_icons_to_use/</link>
+      <description><![CDATA[        提交人    /u/amitmerchant   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwibvs/if_youre_always_looking_for_new_svg_icons_to_use/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>Expr Lang：用于动态配置的中心表达语言</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwhs65/expr_lang_go_centric_expression_language_for/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[看到很多关于在新年之后更改版权年份的帖子......动态编码不是很常见吗？    提交人    /u/Looooong_Man   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwbsou/do_you_not_code_the_copyright_year_to_be_dynamic/</guid>
       <pubDate>Wed, 08 Jan 2025 04:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>行业内平均而言，人们换一个职位的概率是多少？总是四处奔波不是很累吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwbjvg/whats_the_industry_average_of_someone_moving_to_a/</link>
-      <description><![CDATA[似乎人们每隔一两年就会换一个新角色。这是科技界的常态吗？不断更换新角色不是很累吗？似乎科技界总是在人员流动，你能找到一份稳定的工作并保住它而不需要改变你的角色吗？或者这就是科技界的现状？    提交人    /u/swiggyu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwbjvg/whats_the_industry_average_of_someone_moving_to_a/</guid>
-      <pubDate>Wed, 08 Jan 2025 04:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的 CSS 行为</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwbey4/weird_css_behaivor/</link>
-      <description><![CDATA[      所以我在 Firefox 中使用 html 和 css 制作了一个简单的菜单，一切进展顺利.. https://preview.redd.it/08w73rty6pbe1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=4485db02c0777513f76fede56d1c8f7a8e1ccbf9 直到我发现它在 Chrome 上的样子。 https://preview.redd.it/vm220fw27pbe1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=add00735070beecb0933fb927b21b1109a266919 chrome 开发人员绊倒了吗？ 每个项目（div）宽 70px，容器宽度为 300px。70 + 70 + 70 = 210px，这是什么鬼？？？容器有足够的空间来容纳更多的 div。也许这与细滚动条有关？即使是这样，视觉效果也与滚动条占用的空间不匹配，因此，至少在我看来，这是一个错误。 我猜 Firefox 毕竟是更基础的浏览器。 #bottles{ display: flex; flex-direction: column; position: absolute; z-index: 999; background-color: red; display: none; width: 300px; height: 550px; color: white; position: absolute; top: 50%; left: 20px; transform: Translation(0,-50%); } #grid .itens{ width: 70px; height: 170px; margin: 10px; display: inline-block; background-color: orange; cursor: pointer; }     提交人    /u/MechanicAwkward55​​45   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwbey4/weird_css_behaivor/</guid>
-      <pubDate>Wed, 08 Jan 2025 04:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名注册商和 DNS 提供商选项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</link>
-      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现这么大的付费墙。所以我转到了 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</guid>
-      <pubDate>Wed, 08 Jan 2025 03:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用社交媒体和 API 聚合本地事件需要的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwa222/advice_needed_for_aggregating_local_events_using/</link>
-      <description><![CDATA[嗨，Redditors！ 我正在做一个项目，创建一个网站，汇总我所在地区发生的所有本地活动。目标是通过从 API、社交媒体平台和其他在线来源获取数据来构建一个全面的活动日历。我想使用社交聆听工具从以下平台抓取事件：  Facebook 群组 Instagram（帖子或故事） Twitter（主题标签和位置标签） Reddit（本地子版块）  我特别想寻求以下方面的建议：  工具/软件：您推荐哪些工具或 API 来监听社交媒体平台并提取相关事件数据？ 自动化：有没有关于自动化此过程的提示，以便不断用新事件更新我的网站？ 其他：关于构建这样的项目，您还有什么其他建议或经验可以分享吗？  提前感谢您的见解！    由    /u/Dkoops  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwa222/advice_needed_for_aggregating_local_events_using/</guid>
-      <pubDate>Wed, 08 Jan 2025 03:15:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
