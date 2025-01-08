@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:37:50 GMT</lastBuildDate>
-    <item>
-      <title>我开发了一个小应用程序，用于在将图片上传到云服务之前对其进行压缩和转换</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwiuuc/i_built_a_little_app_to_compress_and_convert/</link>
-      <description><![CDATA[  由    /u/EducationalTell9103  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwiuuc/i_built_a_little_app_to_compress_and_convert/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:15:37 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Jan 2025 13:25:04 GMT</lastBuildDate>
     <item>
       <title>当谈到移动设备上的 DAW 时，我们有哪些选择？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[我正在寻找任何可以为我提供音频分析的服务，例如发音分数、语法分数、词汇分数或任何其他英语标准。  我想将其集成到我的系统中，因此需要 API 或自托管系统。     提交人    /u/John-Doe-99   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</guid>
       <pubDate>Tue, 07 Jan 2025 08:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何防止开源项目名称被注册为品牌？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvflae/how_to_prevent_an_opensource_projects_name_from/</link>
+      <description><![CDATA[如果将来开源项目成功，我该如何防止第三方公司对开源项目名称进行品牌注册。确保项目名称可供所有人免费使用，同时防止任何人垄断它（例如，将其注册为商标或限制其他人在生态系统内使用它）非常重要。 我可以创建一个许可证吗： 允许将项目名称自由用于任何目的。 禁止获得名称的专有权（例如，商标）。 要求使用该名称的任何人都不限制其他人使用它。 我的问题是： 这样的许可证在法律上有多可行？ 是否存在具有类似条件的现有许可证？ 这种方法可能出现哪些潜在挑战？ 我将不胜感激任何建议或想法！    提交人    /u/mraksoll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvflae/how_to_prevent_an_opensource_projects_name_from/</guid>
+      <pubDate>Tue, 07 Jan 2025 01:16:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 13:25:00 GMT</lastBuildDate>
+    <item>
+      <title>创建与 AI 集成的跨平台自动化脚本的最佳工具是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</link>
+      <description><![CDATA[我一直在寻找一种工具，它可以允许在不同平台（macOS 和 Windows）上顺利编写和执行脚本，同时还可以实现 AI 集成。支持项目管理、脚本触发器和实时调试的工具会很棒。有人用过这样的工具吗，或者可以推荐一个好的工具吗？    提交人    /u/Dushusir   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</guid>
+      <pubDate>Wed, 08 Jan 2025 13:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高我的费率让 webdev 再次变得有趣</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</link>
+      <description><![CDATA[我是一名自由职业的全栈网页设计师和开发人员，最近因为无聊的工作和不遵守合同的客户而感到有些沮丧，导致沟通不畅和客户不满意。几个月前，我向一位企业家朋友发泄，他建议我大幅提高我的费率。这让我感到害怕，但如果事情出错，我有足够的积蓄，所以最终我决定试一试。 现在，几个月后，一切都变了。我完全惊呆了。我有更多的客户，他们认真对待交易，并提出有趣的大工作。他们对我的工作很满意，并向他们认识的预算相似甚至更高的人推荐我。我也有能力拒绝听起来没有吸引力的工作。 这太疯狂了，我真的不知道创业可以这么轻松。而这一切都是因为我的费率提高了。 是的，我只是想分享我的快乐故事。也许它会激励某些人。 编辑：我应该说明我的位置。我住在荷兰，我的费率提高了约 40%。    提交人    /u/CobaltMazz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</guid>
+      <pubDate>Wed, 08 Jan 2025 12:57:54 GMT</pubDate>
+    </item>
     <item>
       <title>是否有基于 json 到内容编辑器 cms 的应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>制作用于收集优惠券并显示折扣和价格的浏览器扩展程序的技巧</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwg1i3/tips_on_making_a_browser_extension_for_collecting/</link>
-      <description><![CDATA[我现在是大学二年级学生，想做一个可以实现上述功能的浏览器扩展，但问题是，我根本没有这方面的经验，课堂上学到的知识非常基础，不太适用，所以我很想得到一些关于如何做到这一点的提示！ 因此，该项目的要求如下： 从各个网站收集并显示优惠券 使用文本和图像相似性算法查找相似产品（他们建议使用 fashionCLIP） 显示不同网站的价格和折扣 我该如何学习这些内容？我在课堂上学习了基本的 html、css 和 js 非常感谢您阅读到这里并提出任何建议！    提交人    /u/jercule_poirot   [链接] [评论]]]></description>
+      <description><![CDATA[我现在是大学二年级学生，想做一个可以实现上述功能的浏览器扩展，但问题是，我根本没有这方面的经验，课堂上学到的知识非常基础，不太适用，所以我很想得到一些关于如何做到这一点的提示！ 因此，项目的要求如下： 从各个网站收集并显示优惠券 使用文本和图像相似性算法查找相似产品（他们建议使用 fashionCLIP） 显示不同网站的价格和折扣 我该如何学习这些？我在课堂上学习了基本的 html、css 和 js 非常感谢您阅读到这里并提出任何建议！    提交人    /u/jercule_poirot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwg1i3/tips_on_making_a_browser_extension_for_collecting/</guid>
       <pubDate>Wed, 08 Jan 2025 09:18:40 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>如何获得客户</title>
       <link>https://www.reddit.com/r/webdev/comments/1hweu90/how_to_get_clients/</link>
-      <description><![CDATA[您如何获得 Web 开发客户，我的意思是您如何开始为您的职业获得客户。通过冷门推广、Upwork，或者它如何开始为您工作。    提交人    /u/Comfortable_Bite1536   [链接] [评论]]]></description>
+      <description><![CDATA[您如何获得 Web 开发的客户，我的意思是您如何开始为您的职业获得客户。通过冷门推广、Upwork，或者它如何开始为您工作。    提交人    /u/Comfortable_Bite1536   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hweu90/how_to_get_clients/</guid>
       <pubDate>Wed, 08 Jan 2025 07:58:18 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在为餐车制作一个网站，他们想要一个在线订购系统，经过研究，我发现 doordash 和 toast 的费用很低？我应该自己做还是应该告诉他们使用提供商并集成到网站中？询问是否有人做过类似的事情并且对这个主题了解更多。我担心自己努力做永远不会像可以轻松使用的服务那样好或安全    提交人    /u/Kingschool9   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwelxo/should_i_make_an_online_ordering_system_or_using/</guid>
       <pubDate>Wed, 08 Jan 2025 07:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube 的表现似乎比盗版动漫网站差，为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwd42i/youtube_performance_seems_worse_than_pirated/</link>
-      <description><![CDATA[        提交人    /u/GroundbreakingMix607   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwd42i/youtube_performance_seems_worse_than_pirated/</guid>
-      <pubDate>Wed, 08 Jan 2025 06:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>您不将版权年份编码为动态的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwbsou/do_you_not_code_the_copyright_year_to_be_dynamic/</link>
-      <description><![CDATA[看到很多关于在新年之后更改版权年份的帖子......动态编码不是很常见吗？    提交人    /u/Looooong_Man   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwbsou/do_you_not_code_the_copyright_year_to_be_dynamic/</guid>
-      <pubDate>Wed, 08 Jan 2025 04:50:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
