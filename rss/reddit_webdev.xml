@@ -4,13 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 19:15:47 GMT</lastBuildDate>
     <item>
-      <title>自从我开始编程以来，我正确拼写的能力就大大下降了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwr18b/ever_since_i_started_programming_my_ability_to/</link>
-      <description><![CDATA[不，我现在才意识到我从来都不懂拼写。我真的坐在那里就能说“不，那看起来不对，我拼写错了……那该怎么拼写？”） 还有人注意到程序员拼写不好吗？我发现程序员犯的拼写错误比我认识的任何人都多。 你认为这是为什么？ 我猜：也许是因为我们在以一种从未使用过的方式使用我们的大脑，因此使用了以拼写奇怪的单词为启动器的神经网络？程序员一直在编造单词，他们甚至想出一种违背英语发音的方式来发音。    提交人    /u/Proof_Cable_310   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwr18b/ever_since_i_started_programming_my_ability_to/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:24:03 GMT</pubDate>
+      <title>WordPress 插件中发现严重零日漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</link>
+      <description><![CDATA[        提交人    /u/flacao9   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧的 Microsoft Web 平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</link>
+      <description><![CDATA[由于 IT 资源的离岸外包，我正在尝试更新我的简历。有人知道 1990 年代的一些较旧的 Microsoft Web 平台吗？它不是 FrontPage。我这辈子都想不起它是什么了。    提交人    /u/Fair-Statistician189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:52:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让 4 幅图像占据整个宽度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</link>
+      <description><![CDATA[我尝试删除边距和填充，但它们仍然位于中间。即使使用 margin:0，它们也无法填满页面宽度。我是否忽略了一些显而易见的东西？您将如何做？ https://www.suffolkrivertrips.com/    提交人    /u/iViollard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:32:39 GMT</pubDate>
     </item>
     <item>
       <title>但是 iframe 是什么？</title>
@@ -43,7 +57,7 @@
     <item>
       <title>需要帮助 - 当 Firefox 设置为系统默认设置时，TWA 显示 URL 栏</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</link>
-      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题（Chrome 可以工作但 Firefox 不能）类似的内容，除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题类似的内容（Chrome 可以工作但 Firefox 不能），除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</guid>
       <pubDate>Wed, 08 Jan 2025 16:24:23 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 08 Jan 2025 15:40:26 GMT</pubDate>
     </item>
     <item>
-      <title>我希望有一个只供人类使用的网络</title>
+      <title>我希望有一个只属于人类的网络</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwmzjp/i_wish_there_was_a_human_only_web/</link>
       <description><![CDATA[我厌倦了看到 AI 内容，感觉很懒惰。我喜欢网络和一切开发，看看互联网变成了什么样子。  我们生活在虚假信息的时代。 我知道我不是天才，但也许这可以激发其他人解决这个问题的意愿。 我希望有一天互联网上会存在每个人都是人类，如何创造它？我不知道如何确保与我互动的每个人都是人类。    提交人    /u/ripndipp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwmzjp/i_wish_there_was_a_human_only_web/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>我在工作中尝试了 6 种以上的 AI 工具，但几乎没有一个能给我带来出色的表现。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</link>
-      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合试图构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合尝试构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 的工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</guid>
       <pubDate>Wed, 08 Jan 2025 15:33:28 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/rviscomi   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwlwiz/youre_probably_using_metahttpequiv_wrong/</guid>
       <pubDate>Wed, 08 Jan 2025 14:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于 Web 应用程序开发来说，哪个全栈框架最容易学习？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwlsg6/which_fullstack_framework_is_easiest_to_learn_for/</link>
-      <description><![CDATA[全部在标题中，谢谢。    由   提交  /u/InternalVolcano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwlsg6/which_fullstack_framework_is_easiest_to_learn_for/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在简历和作品集网站中提供个人电话号码有多好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwl7fr/how_good_it_is_to_give_personal_number_in_resume/</link>
-      <description><![CDATA[.    由    /u/naeemgg 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwl7fr/how_good_it_is_to_give_personal_number_in_resume/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
