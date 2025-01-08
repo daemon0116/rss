@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 10:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 11:15:50 GMT</lastBuildDate>
+    <item>
+      <title>网格缝合：修复 3D 模型中的缝隙和裂缝的技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</link>
+      <description><![CDATA[  由    /u/innochenti  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</link>
+      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expr Lang：用于动态配置的中心表达语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhrs6/expr_lang_go_centric_expression_language_for/</link>
+      <description><![CDATA[  由    /u/jns111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhrs6/expr_lang_go_centric_expression_language_for/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:11:25 GMT</pubDate>
+    </item>
     <item>
       <title>与 2022 年相比，StackOverflow 失去了 77% 的新问题。这是自 2009 年 5 月以来的最低数字。</title>
       <link>https://www.reddit.com/r/programming/comments/1hwg2px/stackoverflow_has_lost_77_of_new_questions/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/WanderingCID  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hw0z50/oped_northeasterns_redesign_of_the_khoury/</guid>
       <pubDate>Tue, 07 Jan 2025 20:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zig 的 Comptime 非常棒</title>
-      <link>https://www.reddit.com/r/programming/comments/1hw0pxa/zigs_comptime_is_bonkers_good/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hw0pxa/zigs_comptime_is_bonkers_good/</guid>
-      <pubDate>Tue, 07 Jan 2025 20:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 2025 年每周都会做一个项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1hw0bph/im_making_one_project_every_week_of_2025/</link>
-      <description><![CDATA[  由    /u/im_the_tea_drinker_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hw0bph/im_making_one_project_every_week_of_2025/</guid>
-      <pubDate>Tue, 07 Jan 2025 19:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程管理中最重要的部分：背景</title>
-      <link>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</guid>
-      <pubDate>Tue, 07 Jan 2025 19:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

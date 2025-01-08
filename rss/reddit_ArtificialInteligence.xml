@@ -3,8 +3,8 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 10:19:22 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 08 Jan 2025 11:14:52 GMT</lastBuildDate>
     <item>
       <title>🌟 发现我的 FOSS 项目：精选的 AI 列表！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hwgmiz/discover_my_foss_project_a_curated_list_of_ai/</link>
@@ -20,18 +20,18 @@
       <pubDate>Wed, 08 Jan 2025 09:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>我的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hwdlsj/my_idea/</link>
-      <description><![CDATA[我为此创建了一个幻灯片演示文稿。 演示文稿：https://gamma.app/docs/Sigil-Revolutionizing-AI-Governance-with-4D-Lattice-Based-Cryptog-dwjkwjmoc3shj8v    提交人    /u/Alif-Uzair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hwdlsj/my_idea/</guid>
-      <pubDate>Wed, 08 Jan 2025 06:37:38 GMT</pubDate>
-    </item>
-    <item>
       <title>我们距离普通人借助人工智能制作出好莱坞品质的大制作电影还有多远？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hwdhgw/how_far_away_are_we_from_the_average_joe_being/</link>
       <description><![CDATA[我是一个有抱负的电影制作人，我写了很多剧本，五年前我确信这些剧本永远不会实现。然而，随着人工智能变得越来越先进，我对它的了解越多，我就越有希望有一天我能拥有制作我梦想剧本的工具。我理解人工智能代理的概念，不同的人工智能执行不同的任务，所以本质上我会有一个艺术部门、CGI、前期/后期制作等，而我会是导演。我还见过一些人工智能滤镜，它们将预先拍摄的序列变成电影质量的镜头。2030 年是一个合理的预测，我会开始看到这类事情的推出吗？那会是什么样子？在此期间我应该关注什么样的程序/模型？    提交人    /u/TheNightman195   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hwdhgw/how_far_away_are_we_from_the_average_joe_being/</guid>
       <pubDate>Wed, 08 Jan 2025 06:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAG：使用缓存改进的 RAG 框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hwc9z9/cag_improved_rag_framework_using_cache/</link>
+      <description><![CDATA[Cache Augmented Generation 是一个改进的 RAG 框架，它涉及缓存机制，跳过任何向量数据库的要求，与传统 RAG 相比速度极快。查看完整详细信息及其工作原理：https://youtu.be/cnxp-DbZwyA    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hwc9z9/cag_improved_rag_framework_using_cache/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:18:11 GMT</pubDate>
     </item>
     <item>
       <title>我为何应该对人工智能感到兴奋？</title>
@@ -48,18 +48,18 @@
       <pubDate>Wed, 08 Jan 2025 02:18:28 GMT</pubDate>
     </item>
     <item>
-      <title>与人工智能伙伴一起反思你的阅读</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw8vwm/reflect_on_your_reading_with_an_ai_buddy/</link>
-      <description><![CDATA[像许多读者一样，我经常发现好书能带来变革 - 但却很难真正将它们的概念应用到我的生活当中。这就是我创建 ideablitz.co 的原因：一个通过自然语音对话帮助您探索书籍的 AI 伙伴。 它的作用如下：  通过个人反思逐章引导您 提出有针对性的问题，帮助将书中的概念与您的具体情况联系起来 在每次讨论后提供您见解的摘要  令人着迷的是看到人们如何向 AI 敞开心扉，谈论他们的挑战和目标。我最初使用它的朋友说，他们发现了独自阅读时错过的新观点。 我创建这个是因为有意义的反思是个人成长的关键。拥有一个专门的空间来思考如何将书中的原则应用到你的生活中会产生巨大的影响。 我希望这个社区能够尝试并分享你的经验。你发现哪些方法有助于将书中的见解运用到你自己的生活中？ 在这里尝试：ideablitz.co    提交人    /u/buckbuckyyy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw8vwm/reflect_on_your_reading_with_an_ai_buddy/</guid>
-      <pubDate>Wed, 08 Jan 2025 02:15:17 GMT</pubDate>
-    </item>
-    <item>
       <title>从《碳变》中一窥人工智能的未来。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw82u3/a_glimpse_of_our_ai_future_in_altered_carbon/</link>
       <description><![CDATA[就这些。我只是认为 Alerted Carbon 对 AI 的解释是正确的。我们到了。昨晚，一位朋友告诉我他正在玩一款名为 Roommates 之类的 VR 游戏，这让我想起了 Poe。它就在这里/我们到了。有机互动的未来很快就会变得更加深刻，因为我们永远不知道我们是否在网上与真人互动，或者他们的照片是否代表了他们的真实身份。     提交人    /u/jgbromine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw82u3/a_glimpse_of_our_ai_future_in_altered_carbon/</guid>
       <pubDate>Wed, 08 Jan 2025 01:36:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何了解最新的人工智能新闻？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw7q37/how_do_you_keep_up_with_the_latest_ai_news/</link>
+      <description><![CDATA[如果这个问题之前有人问过，我很抱歉，但我找不到明确的答案。我需要对人工智能领域有很好的了解，为此我需要了解最新的人工智能新闻和工具。有没有列出这些工具的通用平台？ - 例如像 Beatport 为 DJ 或 Product Hunt 为新技术。 目前，我正在研究 Thereisanaiforthat 和 Future Tools。还有其他的吗？    提交人    /u/Purpose-Driven-Life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw7q37/how_do_you_keep_up_with_the_latest_ai_news/</guid>
+      <pubDate>Wed, 08 Jan 2025 01:19:43 GMT</pubDate>
     </item>
     <item>
       <title>您对新的 Nvidia Project Digits 有何看法？</title>
