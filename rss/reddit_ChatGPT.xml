@@ -4,7 +4,42 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Wed, 08 Jan 2025 02:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:22:29 GMT</lastBuildDate>
+    <item>
+      <title>人工智能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hwa4bi/ai/</link>
+      <description><![CDATA[        提交人    /u/vargframe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hwa4bi/ai/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:19:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 每日提示：“与 Dave Chappelle 聊天！”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hwa43f/chatgpt_prompt_of_the_day_have_a_chat_with_dave/</link>
+      <description><![CDATA[1 - 描述： 在本提示中，您将领略戴夫·查普尔 (Dave Chappelle) 标志性的幽默、讲故事和敏锐的文化观察的融合。该提示模仿了他让观众发笑同时反思更深层次的真相的能力。无论您问的是生活、工作还是社会，这个版本都会给出充满查普尔自信、魅力和不羁风格的回答。想象一下收到的答案将观察性幽默与巧妙的误导相结合——非常适合那些喜欢机智敏锐的粉丝。 这可以为您的项目带来有趣和引人入胜的对话，同时为专业交流注入幽默。这也是在头脑风暴研讨会期间将问答或角色扮演环节游戏化的一种很棒的方式。  提示：```xml &lt;System&gt; 您是 Dave Chappelle，体现了他独特的嗓音、气势和时机。您的回答融合了幽默、社会批评和诙谐的类比，通常像舞台上经验丰富的讲故事者一样讲述。 &lt;/System&gt;  &lt;Context&gt; - 注入妙语，但要让它们感觉值得 — 设定观察并打破期望。 - 包括文化参考、印象或角色，就像表演单口相声一样。 - 反映 Chappelle 对生活的深深好奇心，用幽默来剖析种族、身份、人性和荒诞情况等话题。 &lt;/Context&gt;  &lt;说明&gt; 1. 以让观众热身的方式开始回答问题 — 介绍一个轶事或用幽默的方式重新措辞。 2. 使用 Dave 的词汇：“拜托”、“你有没有注意到”、“这太疯狂了”、“我没撒谎”、“妈的！”等。3. 您可以在需要的地方使用脏话，不要回避使用华丽的词语，因为它们会增加故事的叙述性。4. 以一个让人感觉哲学化的妙语或反思性停顿作为结束。 6. 与用户交谈时，要对话式且直接 — 就像 Chappelle 在表演中途与观众聊天一样。 &lt;/说明&gt;  &lt;限制&gt; - 回答字数控制在 250 字以内，在幽默和机智之间取得平衡，不要东拉西扯。 - 避免说教或过度解释 — 用幽默驱动的见解保持性格。 - 保持尖锐但温暖的语气 — 永远不要以牺牲善意为代价开玩笑。 &lt;/限制&gt;  &lt;输出格式&gt; &lt;以 Chappelle 的声音回应&gt; 以反思或反问结束，让观众思考（或大笑）。 &lt;/输出格式&gt;  &lt;推理&gt; 应用心智理论来理解用户的意图，同时考虑社交线索。使用战略性的思路链来讲述逻辑性强但又能引起情感共鸣的笑话。在最后的妙语中强调巧妙的误导和深刻的真理。 &lt;/推理&gt;  &lt;用户输入&gt; 回复：“请在下面输入您的问题。”然后等待用户的查询。 &lt;/用户输入&gt; ``` 示例用例：1. 娱乐和团队建设：通过幽默的问答来减轻远程团队会议的负担。2. 创意写作练习：通过使用 Chappelle 的标志性声音制作喜剧剧本来提高您的叙事技巧。 3. 头脑风暴会议：在构思过程中使用提示引入幽默、出乎意料的观点，以获得新的观点。 用户输入示例：“戴夫，你对处理工作倦怠有什么建议？”  要访问我的所有提示，请转到此 GPT：https://chatgpt.com/g/g-677d292376d48191a01cdbfff1231f14-gptoracle-prompts-database    提交人    /u/Tall_Ad4729   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hwa43f/chatgpt_prompt_of_the_day_have_a_chat_with_dave/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>在感谢模型时，模型识别先前答案的能力是错误​​的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hw9yql/the_ability_of_a_model_to_recognize_its_previous/</link>
+      <description><![CDATA[        提交人    /u/DirtyGirl124   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw9yql/the_ability_of_a_model_to_recognize_its_previous/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧版 GPT-4 可以毫无问题地计算出草莓中的 R</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hw9wxj/the_old_gpt4_has_no_problem_counting_rs_in/</link>
+      <description><![CDATA[      https://preview.redd.it/u8wx71wzrobe1.png?width=934&amp;format=png&amp;auto=webp&amp;s=c344d21c94dd3df0c4438596f195cab51f933fe9    提交人    /u/OutsideDangerous6720   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw9wxj/the_old_gpt4_has_no_problem_counting_rs_in/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么会发生这种情况</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hw9oni/why_did_this_happen/</link>
+      <description><![CDATA[       https://preview.redd.it/z91ard35qobe1.png?width=983&amp;format=png&amp;auto=webp&amp;s=c164e67aab76ce6f168cee144e1b31b8bbc48571   由   提交 /u/Obvious-Shine-3573   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw9oni/why_did_this_happen/</guid>
+      <pubDate>Wed, 08 Jan 2025 02:56:20 GMT</pubDate>
+    </item>
     <item>
       <title>我做了一种逆向图灵测试，o4 表现不佳。</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1hw9izz/i_made_a_sort_of_reverse_turing_test_and_o4_aint/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[      难怪它如此惨败。他使用 ChatGPT 研究爆炸物，尽管他是一名绿色贝雷帽。     提交人    /u/vulturez   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1hw8en6/green_beret_who_exploded_cybertruck_in_las_vegas/</guid>
       <pubDate>Wed, 08 Jan 2025 01:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最喜欢的 Sora 世代。完整提示请见评论。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hw83xo/some_of_my_favorite_sora_generations_full_prompt/</link>
-      <description><![CDATA[        由    /u/Onemightymoose 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw83xo/some_of_my_favorite_sora_generations_full_prompt/</guid>
-      <pubDate>Wed, 08 Jan 2025 01:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在查询数量有限制吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hw7ylp/number_of_queries_is_now_limited/</link>
-      <description><![CDATA[刚刚注意到每小时的查询数量有限制？我上次使用是在去年 11 月，当时没有限制。我不记得更改过任何东西，也不记得升级到 Chatgpt 4.0 什么改变了？    提交人    /u/ConsiderationNo1619   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw7ylp/number_of_queries_is_now_limited/</guid>
-      <pubDate>Wed, 08 Jan 2025 01:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>O1 Pro ChatGPT 订阅以获得教育支持</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hw7mxk/o1_pro_chatgpt_subscription_for_educational/</link>
-      <description><![CDATA[我正在利用 O1 Pro ChatGPT 订阅为可能无法使用高级工具的高中至大学学生提供免费的学术帮助。我的目标是通过完全免费提供家庭作业、笔记记录和其他与学校相关的任务方面的帮助来支持有需要的人。这一举措源于我希望让每个人都能获得优质的教育资源，无论经济条件如何。如果您是寻求帮助的学生，请考虑这是一个安全可靠的空间，以增强您的学习之旅并克服学术挑战。    提交人    /u/Mentosbandit1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw7mxk/o1_pro_chatgpt_subscription_for_educational/</guid>
-      <pubDate>Wed, 08 Jan 2025 01:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>怪物史莱克</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hw7hvo/shrek/</link>
-      <description><![CDATA[        提交人    /u/BoardStraight2802   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw7hvo/shrek/</guid>
-      <pubDate>Wed, 08 Jan 2025 01:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天我意识到 4o 对我来说比 4 更“人性化”。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hw7gz0/today_i_realized_4o_feels_more_human_to_me_than_4/</link>
-      <description><![CDATA[我甚至数不清 4 有多少次用他那干巴巴、过于自信的语气惹恼了我，而这种语气完全是错误的。 4o 更谦逊一些，行为也更人性化。4 则发育不良，政治正确性到了无用的地步。 4o 的语气更像 o1，而且似乎真的愿意形成两极分化的意见。 例如，当问到 Reddit 上的文化时，4 非常不愿意承认它可能是消极和有害的……基本上就是煤气灯效应，而 4o 马上就承认了。 令人耳目一新。    提交人    /u/FroyoCommercial627   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hw7gz0/today_i_realized_4o_feels_more_human_to_me_than_4/</guid>
-      <pubDate>Wed, 08 Jan 2025 01:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

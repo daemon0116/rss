@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 02:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:23:30 GMT</lastBuildDate>
+    <item>
+      <title>域名注册商和 DNS 提供商选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</link>
+      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现如此巨大的付费墙。所以我转向 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用社交媒体和 API 聚合本地事件需要的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwa222/advice_needed_for_aggregating_local_events_using/</link>
+      <description><![CDATA[嗨，Redditors！ 我正在做一个项目，创建一个网站，汇总我所在地区发生的所有本地活动。目标是通过从 API、社交媒体平台和其他在线来源获取数据来构建一个全面的活动日历。我想使用社交聆听工具从以下平台抓取事件：  Facebook 群组 Instagram（帖子或故事） Twitter（主题标签和位置标签） Reddit（本地子版块）  我特别想寻求以下方面的建议：  工具/软件：您推荐哪些工具或 API 来监听社交媒体平台并提取相关事件数据？ 自动化：有没有关于自动化此过程的提示，以便不断用新事件更新我的网站？ 其他：关于构建这样的项目，您还有什么其他建议或经验可以分享吗？  提前感谢您的见解！    由    /u/Dkoops  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwa222/advice_needed_for_aggregating_local_events_using/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我正在从事的小项目的意见。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw9yxq/opinion_about_the_little_project_im_working_on/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw9yxq/opinion_about_the_little_project_im_working_on/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你告诉别人你是一名 Web 开发人员时，你听到过的最可笑和/或最有趣的回应是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hw9mck/whats_the_most_ridiculous_andor_funniest_response/</link>
+      <description><![CDATA[我告诉这位老太太我是一名网页开发人员，她一脸困惑地问道：“你做网页？？？”    提交人    /u/L84Werk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hw9mck/whats_the_most_ridiculous_andor_funniest_response/</guid>
+      <pubDate>Wed, 08 Jan 2025 02:53:09 GMT</pubDate>
+    </item>
     <item>
       <title>最好的课程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hw921w/best_courses/</link>
@@ -78,37 +106,9 @@
     <item>
       <title>管理虚拟机调用远程 API 所使用的秘密的最佳实践是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</link>
-      <description><![CDATA[我有一个本地 Ubuntu 虚拟机，它运行一些 Python 和 Javascript 代码并通过 mTLS 与一些 API（AWS、DigitalOcean、Schwab）以及我自己的一些 API 进行交互。 目前，我将 SSL 证书/密钥/密码以及包含环境变量（如 API 机密）的 bash 文件存储在一个仅锁定为 600 权限的文件夹中。 从专业角度来说，我只使用过 Azure Key Vault 和 AWS Secrets Manager 等云解决方案以及 Lambda 之类的东西来获取这些机密。 以“困难的方式”完成，你们这些在裸机或虚拟机上运行应用程序的人如何存储机密？肯定有比仅仅放在虚拟机磁盘上更安全的方法吧？ 谢谢大家！    提交人    /u/AwsWithChanceOfAzure   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个本地 Ubuntu 虚拟机，它运行一些 Python 和 Javascript 代码并通过 mTLS 与一些 API（AWS、DigitalOcean、Schwab）以及我自己的一些 API 进行交互。 目前，我将 SSL 证书/密钥/密码以及包含环境变量（如 API 机密）的 bash 文件存储在一个仅锁定为 600 权限的文件夹中。 从专业角度来说，我只使用过 Azure Key Vault 和 AWS Secrets Manager 等云解决方案以及 Lambda 之类的东西来获取这些机密。 以“困难的方式”完成，你们这些在裸机或虚拟机上运行应用程序的人如何存储机密？除了将其放在虚拟机的磁盘上之外，肯定还有更安全的方法吧？ 谢谢大家！    提交人    /u/AwsWithChanceOfAzure   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</guid>
       <pubDate>Tue, 07 Jan 2025 22:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您下一步应该学习什么技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw3edx/what_tech_should_you_learn_next/</link>
-      <description><![CDATA[我学习了几年 PHP、MySQL、JS 等语言，然后从事了相关工作，从那时起，我一直以自由网页开发人员的身份使用这些语言，大约 13 年了。 浏览任何论坛、Youtube 视频或 Reddit 都会让我意识到自己有点落后于时代。例如，使用 SCSS/HTML 手动构建前端，而不是使用 ReactJS 之类的东西。 问题是存在太多不同的途径。每隔一个月就会出现一些新趋势。 关于我下一步应该学习什么，您有什么建议吗？ 即远离 PHP？学习 React？学习移动应用开发？    提交人    /u/stuart_nz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw3edx/what_tech_should_you_learn_next/</guid>
-      <pubDate>Tue, 07 Jan 2025 22:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>当寻求聘请开发人员时，Upwork 是最佳选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw3a3q/is_upwork_the_best_option_when_looking_to_hire_a/</link>
-      <description><![CDATA[我是一名营销企业家，终于从页面构建器中走出来。目前正在构建一个自定义 Web 应用程序，以便我可以完全控制工作的各个方面。  我聘请了 Upwork 上的一名开发人员为我构建这个应用程序，他做得很好（我认为），但他最近开始了一份新工作，没有时间协助推进。我甚至提出将他的 80 美元/小时费率翻倍，但对他来说不值得…… 这实际上是我第一次在 Upwork 上获得良好的体验，但我担心雇用其他人时，他们不像他那样熟练或了解他迄今为止所做的一切。  是否有更可靠的自由职业网站或类似的东西，以便我可以完成并继续维护？     提交人    /u/Machuka420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw3a3q/is_upwork_the_best_option_when_looking_to_hire_a/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么 UI 风格？还有其他这种风格的网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw2sd9/what_ui_style_is_this_and_are_there_any_more/</link>
-      <description><![CDATA[https://forgottenlanguages-full.forgottenlanguages.org/    由   提交  /u/ledastraybypixies   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw2sd9/what_ui_style_is_this_and_are_there_any_more/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel 和 Django 相比如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw26y5/how_do_laravel_django_compare/</link>
-      <description><![CDATA[对于那些同时使用过这两种语言的人来说，它们在复杂性、速度、功能等方面有何不同？ 您更喜欢哪种语言，为什么？    提交人    /u/thebreadmanrises   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw26y5/how_do_laravel_django_compare/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:13:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
