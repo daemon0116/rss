@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 04:22:41 GMT</lastBuildDate>
+    <item>
+      <title>找工作对我来说太麻烦了，所以我做了这个工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwaklq/job_hunting_was_so_messy_for_me_so_i_made_this/</link>
+      <description><![CDATA[  由    /u/Plus-Bad-1857  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwaklq/job_hunting_was_so_messy_for_me_so_i_made_this/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:42:45 GMT</pubDate>
+    </item>
     <item>
       <title>简单解释一下 HashMap 和 Dictionaries</title>
       <link>https://www.reddit.com/r/programming/comments/1hw8zym/hashmaps_dictionaries_explained_simply/</link>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 07 Jan 2025 18:42:12 GMT</pubDate>
     </item>
     <item>
-      <title>透露得越少越好——如何通过概述经常被忽视的用户枚举漏洞来编写更好的代码</title>
+      <title>透露得越少越好——如何通过经常被忽视的用户枚举漏洞概述来编写更好的代码</title>
       <link>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</link>
       <description><![CDATA[  由    /u/ssj_aleksa  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</guid>
       <pubDate>Tue, 07 Jan 2025 17:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 中基于游标的多列排序分页</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</link>
-      <description><![CDATA[  由    /u/Dan6erbond2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 04:23:04 GMT</lastBuildDate>
+    <item>
+      <title>我已经创建了 levels.fyi 的替代谈判服务，价格便宜 10 倍</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwaiem/i_have_created_an_alternative_to_levelsfyi/</link>
+      <description><![CDATA[多年来，我看到无数的朋友、同事，甚至我自己都在薪资谈判中挣扎。这个过程往往令人生畏且不透明，尤其是在一个薪酬结构（如基本工资、股权、奖金和福利）如此复杂的行业中。 虽然像 levels fyi 这样的平台提供了很高的薪资透明度，但他们的谈判服务价格昂贵，我觉得还有空间提供更易于接受的替代方案。这就是我创建 SalaryScript 的原因——创建一种既可操作又经济实惠的资源，使工程师能够控制自己的财务未来。 SalaryScript 的不同之处  现实世界的策略：SalaryScript 基于成功与 FAANG 和其他顶级科技公司谈判的工程师的真实谈判经验。 易于获取的知识：与高成本服务不同，它旨在成为一本价格合理的指南，为工程师提供他们为自己辩护所需的一切。 循序渐进的方法：从了解薪酬细目到编写完美的还价，SalaryScript 提供了一种结构化的方式来指导谈判过程的每个阶段。  为什么重要 谈判薪水不只是数字问题——它关乎自我价值，并为未来定下基调。你未来的职业生涯。我坚信，只要拥有正确的工具和心态，任何人都可以自信地协商自己的价值。 我很乐意听取您的想法或回答有关该项目的任何问题。如果您曾经协商过薪水或不确定如何处理薪水，您希望早点知道什么？ 干杯， Salaryscript 团队 （附注：如果您有兴趣，可以在此处查看 SalaryScript 或加入候补名单： salaryscript(dot)com ）    提交人    /u/Ok_Pop_7446   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwaiem/i_have_created_an_alternative_to_levelsfyi/</guid>
+      <pubDate>Wed, 08 Jan 2025 03:39:24 GMT</pubDate>
+    </item>
     <item>
       <title>域名注册商和 DNS 提供商选项</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</link>
-      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现如此巨大的付费墙。所以我转向 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
+      <description><![CDATA[这个子版块可能不适合问这个问题，但我认为其他 webdev 人员也必须处理这些情况。我曾经使用 Cloudflare 来处理我的 DNS 和域名注册，但我对他们插手 Cookie 罐子的时间和他们免费提供的东西的数量感到不满，这让我担心有一天会出现这么大的付费墙。所以我转到了 namecheap。总的来说，我对 namecheap 非常满意，但今天我需要 API 访问权限，而他们有这些愚蠢的要求才能获得访问权限，这些要求不必要地昂贵。我很好奇人们与哪些其他注册商和 DNS 提供商有过良好的体验，因为我现在又要购物了。如果这太离题了，我很乐意对任何其他可能更适合这个问题的子版块提供意见。感谢大家的时间和讨论。    提交人    /u/Squanchy2112   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwa6f6/domain_registrar_and_dns_provider_options/</guid>
       <pubDate>Wed, 08 Jan 2025 03:22:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/byxekaka  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hw47bw/looking_for_the_perfect_programming_font/</guid>
       <pubDate>Tue, 07 Jan 2025 22:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理虚拟机调用远程 API 所使用的秘密的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</link>
-      <description><![CDATA[我有一个本地 Ubuntu 虚拟机，它运行一些 Python 和 Javascript 代码并通过 mTLS 与一些 API（AWS、DigitalOcean、Schwab）以及我自己的一些 API 进行交互。 目前，我将 SSL 证书/密钥/密码以及包含环境变量（如 API 机密）的 bash 文件存储在一个仅锁定为 600 权限的文件夹中。 从专业角度来说，我只使用过 Azure Key Vault 和 AWS Secrets Manager 等云解决方案以及 Lambda 之类的东西来获取这些机密。 以“困难的方式”完成，你们这些在裸机或虚拟机上运行应用程序的人如何存储机密？除了将其放在虚拟机的磁盘上之外，肯定还有更安全的方法吧？ 谢谢大家！    提交人    /u/AwsWithChanceOfAzure   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hw3w9a/whats_bestpractice_for_managing_secrets_used_by_a/</guid>
-      <pubDate>Tue, 07 Jan 2025 22:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
