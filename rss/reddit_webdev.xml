@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 21:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 22:18:02 GMT</lastBuildDate>
+    <item>
+      <title>在网络上创建音频很容易——直到导出的时候</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwwn9n/creating_audio_on_the_web_is_easyuntil_its_time/</link>
+      <description><![CDATA[  由    /u/dbartaa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwwn9n/creating_audio_on_the_web_is_easyuntil_its_time/</guid>
+      <pubDate>Wed, 08 Jan 2025 22:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 Nuxt 3 中的累积布局偏移（CLS）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hww7jp/fixing_cumulative_layout_shift_cls_in_nuxt_3/</link>
+      <description><![CDATA[        由    /u/kylevdev 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hww7jp/fixing_cumulative_layout_shift_cls_in_nuxt_3/</guid>
+      <pubDate>Wed, 08 Jan 2025 21:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在如何使用 React 进行开发？Abit 卡住了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwvegd/how_to_progress_now_with_react_abit_stuck/</link>
+      <description><![CDATA[嗨，我需要帮助来提高学习进度。我目前正在学习 React，而且进展顺利——我很容易理解 useEffect 和 useState。现在我正在学习 useReducer，这有点具有挑战性。我知道最好的学习方法是通过构建项目，但对我来说，事情要么相对容易，要么非常困难。 我做过几个项目：一个天气应用、一个待办事项列表、一个带有计时器的看板式应用、添加、编辑、删除和拖放功能（加上本地存储）。我还在每节课后完成了课程中的挑战。 你对要构建哪些项目有什么建议吗？有没有什么事情不太容易，但也不至于难到我中途卡住？ 对我来说，最大的挑战似乎是使用模块——当应用程序变大时，我会迷失方向，而现在，useReducer 对我来说很难。 我很感激任何关于项目的建议。    提交人    /u/Virandell   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwvegd/how_to_progress_now_with_react_abit_stuck/</guid>
+      <pubDate>Wed, 08 Jan 2025 21:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助：摄影网站域名和托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwvckb/help_photography_website_domain_and_hosting/</link>
+      <description><![CDATA[我有一个现有的网站，其中包含 Adob​​e portfolio  rms-photo.myportfolio.com 我希望拥有 rmsphoto.co.uk 和一个稍微更专业的网站，用于我的摄影，但老实说，我对域名、网站构建器和托管的选择感到不知所措，想知道是否有人有什么建议？谢谢，非常感谢您的建议    提交人    /u/RMS_101   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwvckb/help_photography_website_domain_and_hosting/</guid>
+      <pubDate>Wed, 08 Jan 2025 21:22:55 GMT</pubDate>
+    </item>
     <item>
       <title>Temu captchas（过滤人工智能和人类）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwv244/temu_captchas_filter_ai_humans_alike/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>完成了自由职业网站，现在做什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwtrv4/finished_freelance_website_now_what/</link>
-      <description><![CDATA[我 2 个月前开始学习 Web 开发，然后说我可以一边开 Uber 一边为人们创建网站。找到了一个客户，然后说服他们为我支付 5000 美元做一个网站。我利用这个机会学习如何为他们创建一个静态网站。简单的 React+Tailwind+Vite。在此过程中学习了一些 DNS 管理。我目前在 Cloudflare 页面上托管该网站。该项目花费了大约 80 个小时的学习和编码时间。边学边赚，哈哈。现在我该怎么办？我不想再回去拼车了。我该如何充分利用我现在的处境？    提交人    /u/SoftEntertainment227   [链接] [评论]]]></description>
+      <description><![CDATA[我 2 个月前开始学习 Web 开发，然后说我可以在开 Uber 的同时为人们创建网站。找到了一个客户，然后说服他们为我支付 5000 美元做一个网站。我利用这个机会学习如何为他们创建一个静态网站。简单的 React+Tailwind+Vite。在此过程中学习了一些 DNS 管理。我目前在 Cloudflare 页面上托管该网站。该项目花费了大约 80 个小时的学习和编码时间。学习还能拿到钱，哈哈。现在我该怎么办？我不想再回去拼车了。我该如何充分利用我现在的处境？    提交人    /u/SoftEntertainment227   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwtrv4/finished_freelance_website_now_what/</guid>
       <pubDate>Wed, 08 Jan 2025 20:17:06 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[由于 IT 资源的离岸外包，我正在尝试更新我的简历。有人知道 1990 年代的一些较旧的 Microsoft Web 平台吗？它不是 FrontPage。我这辈子都想不起它是什么了。    提交人    /u/Fair-Statistician189   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</guid>
       <pubDate>Wed, 08 Jan 2025 18:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让 4 幅图像占据整个宽度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</link>
-      <description><![CDATA[我尝试删除边距和填充，但它们仍然位于中间。即使使用 margin:0，它们也无法填满页面宽度。我是否忽略了一些显而易见的东西？您将如何做？ https://www.suffolkrivertrips.com/    提交人    /u/iViollard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>但是 iframe 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</link>
-      <description><![CDATA[        提交人    /u/RecklessHeroism   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Ruby 和 Sinatra 构建安全的 REST API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwq64j/building_a_secure_rest_api_with_ruby_and_sinatra/</link>
-      <description><![CDATA[        提交人    /u/ZuploAdrian   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwq64j/building_a_secure_rest_api_with_ruby_and_sinatra/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能在此网站上重新创建背景点网格效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</link>
-      <description><![CDATA[嗨，我一直在访问网站寻找灵感并发现：https://www.angellist.com/2023 我一直在寻找类似的效果 js，但找不到重新创建背景网格效果的方法。这里有人知道我怎样才能创建类似的效果吗？    提交人    /u/jlurosa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwp54b/how_can_i_recreate_the_background_dot_grid_effect/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:06:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

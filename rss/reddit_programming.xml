@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 21:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 22:17:40 GMT</lastBuildDate>
+    <item>
+      <title>面向 LLM 开发人员的生成新闻通讯（每日，2 分钟阅读）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hww233/generative_newsletter_for_llm_devs_daily_2_minute/</link>
+      <description><![CDATA[  由    /u/Time-Ad-8034  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hww233/generative_newsletter_for_llm_devs_daily_2_minute/</guid>
+      <pubDate>Wed, 08 Jan 2025 21:52:44 GMT</pubDate>
+    </item>
     <item>
       <title>我们正在创建比 ayrshare 价格更好的选择</title>
       <link>https://www.reddit.com/r/programming/comments/1hwv7ge/we_are_creating_better_priced_option_to_ayrshare/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</guid>
       <pubDate>Wed, 08 Jan 2025 11:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格缝合：修复 3D 模型中的缝隙和裂缝的技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</link>
-      <description><![CDATA[  由    /u/innochenti  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:12:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

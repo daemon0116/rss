@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 21:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 22:17:35 GMT</lastBuildDate>
+    <item>
+      <title>用于总结考试书籍页码的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hwwgey/software_for_summarizing_books_with_page/</link>
+      <description><![CDATA[大家好， 我正在寻找软件以应对以下挑战： 我们需要在几周内阅读三本书以备考试，并允许将这些书和任何其他（印刷）文件作为文献带入考试。我们被分配了一项任务，必须参考这些书中的参考资料才能完成任务。 这意味着我必须创建带有页码的书籍内容摘要，以便快速找到考试中所需的内容。 当然，我可以简单地使用 Excel 或 Word 文档总结章节并添加页码。但是，由于时间有点紧，我正在寻找可以帮助我完成此任务的软件。 我在考虑使用类似于 MarginNote 的软件，您可以通过突出显示文本部分来创建思维导图。但是，使用此程序，思维导图很快就会变得太大而无法以有意义的方式打印出来。  我只有一本电子版的书和两本模拟版的书。如果您能提供这两种书的创意，我将不胜感激。 非常感谢！ 丹尼斯    提交人    /u/dennis2120   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hwwgey/software_for_summarizing_books_with_page/</guid>
+      <pubDate>Wed, 08 Jan 2025 22:09:17 GMT</pubDate>
+    </item>
     <item>
       <title>让我在打字时可以在摄氏度和华氏度之间进行转换的东西。</title>
       <link>https://www.reddit.com/r/software/comments/1hwsx31/something_that_lets_me_convert_tofrom_celcius_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hw6p9v/i_just_released_notate_opensource_crossplatform/</guid>
       <pubDate>Wed, 08 Jan 2025 00:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bios 循环请帮忙</title>
-      <link>https://www.reddit.com/r/software/comments/1hw60a1/bios_loop_please_help/</link>
-      <description><![CDATA[我已经一年左右没有对我的电脑进行任何硬件更改了。昨天一切都运行良好。今天启动时，它加载到了 BIOS 中。我在 M.2 上安装了 Windows 11，它被选为第一启动优先级。UEFI 已激活。安全启动已打开（关闭时也无法工作）。但每次我离开 BIOS 时，它都会重新启动进入 BIOS…… 主板：Msi B550 Gaming edge Wifi CPU：Ryzen 73800X Gpu：AMD radon 6700 XT 非常感谢您的帮助，请询问更多信息！🙏🙏    提交人    /u/Finneview   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hw60a1/bios_loop_please_help/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:58:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
