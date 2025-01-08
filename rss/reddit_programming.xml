@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 07:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 08:25:08 GMT</lastBuildDate>
+    <item>
+      <title>只想分享我在 32 位操作系统上的进展 正如标题所说，我想分享我从头开始构建 32 位操作系统的历程。到目前为止，我已经完成了一些关键组件，如内核入口、虚拟内存管理、任务切换、中断处理等。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</link>
+      <description><![CDATA[  由    /u/Trick-Education7589  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</guid>
+      <pubDate>Wed, 08 Jan 2025 07:46:20 GMT</pubDate>
+    </item>
     <item>
       <title>如果 GPU 如此优秀，为什么我们还要使用 CPU？</title>
       <link>https://www.reddit.com/r/programming/comments/1hwe444/if_gpus_are_so_good_why_do_we_still_use_cpus_at/</link>
@@ -60,13 +67,6 @@
       <description><![CDATA[  由    /u/Puzzleheaded_Goal617  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hw5azj/mastering_gesturedetector_in_flutter/</guid>
       <pubDate>Tue, 07 Jan 2025 23:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁真正负责内部开发平台？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:04:05 GMT</pubDate>
     </item>
     <item>
       <title>Linux 即将支持 ASHA 助听器</title>

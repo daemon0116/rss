@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 07:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 08:25:43 GMT</lastBuildDate>
+    <item>
+      <title>基于 Rust 构建的开源时间序列数据库，用于可观察性和物联网</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</link>
+      <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
+      <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
+    </item>
     <item>
       <title>有没有以社区为中心的 Gotify 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Milanote 看起来真的很酷，而且它最适合我和我的笔记风格，但它不是免费的，也不是自托管的。我不太关心协作功能，因为我不会使用它们。     提交人    /u/kegma_1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvf39p/is_there_a_os_alternative_for_milanote/</guid>
       <pubDate>Tue, 07 Jan 2025 00:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管表单后端 – Formspree 的 OSS 替代品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</link>
-      <description><![CDATA[       由    /u/OiaOrca  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</guid>
-      <pubDate>Mon, 06 Jan 2025 21:19:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
