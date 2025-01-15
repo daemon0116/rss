@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 08:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 09:19:31 GMT</lastBuildDate>
+    <item>
+      <title>运行时诊断：及时发现错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</link>
+      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:12:58 GMT</pubDate>
+    </item>
     <item>
       <title>我使用蓝牙控制软式水下机器人章鱼</title>
       <link>https://www.reddit.com/r/programming/comments/1i1svxj/me_using_bluetooth_control_of_an_soft_underwater/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/itamarst  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1e8z9/catching_memory_leaks_with_your_test_suite/</guid>
       <pubDate>Tue, 14 Jan 2025 19:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joel Hawksley：Maintainable.fm 上的前端复杂性的隐性成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</guid>
-      <pubDate>Tue, 14 Jan 2025 18:56:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

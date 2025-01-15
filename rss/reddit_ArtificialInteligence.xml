@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 08:22:59 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 15 Jan 2025 09:18:36 GMT</lastBuildDate>
+    <item>
+      <title>在 LLM 培训中，较弱、较便宜的模型能否胜过较强、较昂贵的模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</link>
+      <description><![CDATA[这正是我们今天要讨论的问题。 展望未来， SE=更强且更昂贵 WC=更弱且更便宜 基础理论 ➤ SE 模型价格昂贵，并且由于计算成本高而生成的数据样本较少。 ➤ SE 模型提供高质量数据，但数量较少； WC 模型产生的数据更多，但质量较低。 ➤ WC 模型更容易出错，从而影响数据可靠性。 由于资源需求，SE 模型难以处理大型数据集。 ➤ WC 数据需要更多过滤和验证，这会增加一些开销。 机器学习算法的复杂度 1️⃣ WC 模型可生成更多样化、更全面的数据，解决更广泛的问题并提供多样化的解决方案。 2️⃣ 在 WC 生成的数据上进行微调的模型始终优于那些经过训练的模型在各种基准上由 SE 生成的数据。 3️⃣WC 模型作为一种生成合成数据的更优化计算解决方案出现，重新定义了我们对 LLM 培训中资源分配的看法。 这项研究对现状提出了挑战， 它表明，更便宜、更弱的模型与良好的过滤和验证相结合可以提供更好的训练结果。这使得先进的人工智能更实惠，更容易扩展。 AI ➤ 通过多样化的训练数据节省成本、提高可扩展性和模型鲁棒性。 AI ➤ 更高的误报率和需要额外的验证，这可能会抵消一些计算节省。 AI 这项研究表明，WC 模型可以成为训练 LLM 进行推理任务的更计算优化的选择。它提供了一种既经济高效又不影响性能的替代方案。 这些发现会影响您对 LLM 可扩展性的看法吗？请在评论中链接到论文 :)    提交人    /u/Several-Republic-609   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能软件可以读取工程职位描述并检查其是否符合列表中的特定能力标准？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1t933/ai_software_to_read_a_writeup_of_an_engineering/</link>
+      <description><![CDATA[请问有没有什么关于人工智能的建议，它可以阅读文档并检查它是否显示了从一长串列表中满足非常具体的能力标准的证据？    提交人    /u/Count-Pendragon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1t933/ai_software_to_read_a_writeup_of_an_engineering/</guid>
+      <pubDate>Wed, 15 Jan 2025 08:46:24 GMT</pubDate>
+    </item>
     <item>
       <title>人工翻译、法学硕士和母语翻译 2024 版</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1r3vf/human_translator_versus_llm_versus_mtl_2024/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>如果人工智能和奇点不可避免，我们现在可能已经看到了 2 型或 3 型文明</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1qpz6/if_ai_and_singularity_were_inevitable_we_would/</link>
-      <description><![CDATA[如果人工智能和奇点对于我们这个物种来说是不可避免的，那么对于宇宙中的其他智能生命形式来说，这很可能也是如此。人工智能应该会加速技术发展的步伐，并最终导致奇点。  人工智能对费米悖论有一个有趣的影响，因为突然间，有了人工智能，2 型或 3 型文明存在的可能性就大得多。我们现在应该已经看到了一些证据，但我们没有。  这意味着两件事之一，要么计算机智能存在极限，我们会发现“AGI”是不可能的。或者，人工智能本身就像大过滤器。人工智能是文明最终灭绝的原因。     提交人    /u/AssistanceLeather513   [链接] [评论]]]></description>
+      <description><![CDATA[如果人工智能和奇点对于我们这个物种来说是不可避免的，那么对于宇宙中的其他智能生命形式来说，这很可能也是如此。人工智能应该会加速技术发展的步伐，并最终导致奇点。  人工智能对费米悖论有一个有趣的影响，因为突然间，有了人工智能，2 型或 3 型文明存在的可能性就大得多。我们现在应该已经看到了一些证据，但我们还没有。  这意味着两件事之一，要么计算机智能存在极限，我们会发现“AGI”是不可能的。或者，人工智能本身就像大过滤器。人工智能是文明最终灭绝的原因。     提交人    /u/AssistanceLeather513   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1qpz6/if_ai_and_singularity_were_inevitable_we_would/</guid>
       <pubDate>Wed, 15 Jan 2025 05:40:00 GMT</pubDate>
     </item>
@@ -48,13 +62,6 @@
       <pubDate>Wed, 15 Jan 2025 02:05:41 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试了 AI 发型更换器，但是......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mtuv/i_tried_ai_hairstyle_changer_but/</link>
-      <description><![CDATA[大家好， 我一直想改变我的发型，但我不确定哪种发型最适合我。  所以，我尝试了 AI 发型转换器，效果看起来不错。  但是，我注意到一个问题：当它改变我的发型时，它也会改变我的衣服。这是为什么？有什么办法可以避免这种情况吗？    提交人    /u/Prize_Ocelot_3831   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mtuv/i_tried_ai_hairstyle_changer_but/</guid>
-      <pubDate>Wed, 15 Jan 2025 02:00:52 GMT</pubDate>
-    </item>
-    <item>
       <title>做法：投递简历，寻找匹配的工作，练习面试（全部免费）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1l1ag/made_this_drop_your_resume_find_matching_jobs/</link>
       <description><![CDATA[最近就业市场形势严峻，令我沮丧不已。我花了太多时间找朋友进行模拟面试，并在求职网站上寻找与我的简历相匹配的职位。 我已经厌倦了这一切，于是开发了一个简单的工具来帮助解决这两个问题 - 它将你的简历与相关职位进行匹配，并让你随时练习面试。 如果有人想尝试一下：https://prepair.dev （由于我知道找工作有多艰难，所以免费提供） 非常希望得到你的反馈！    提交人    /u/Blotter-fyi   [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[我认为大多数人都同意人工智能会以某种方式搞砸经济，最有可能的是大规模失业。 我今年 18 岁，很快就要高中毕业了，我绝对不想上 5 年大学，因为这听起来是目前最愚蠢的决定。 我开始想，在机器人接管和取代体力工作之前，我是否应该找一份体力工作并尽可能多地工作？    提交人    /u/ThatIsNotIllegal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1fqbp/what_should_i_do_to_prepare/</guid>
       <pubDate>Tue, 14 Jan 2025 20:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在人工智能时代仍有足够的机会取得成功。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1bb9b/there_are_still_enough_opportunities_to_succeed/</link>
-      <description><![CDATA[今天我非常想分享一些积极的东西。 如果你是一家大型公司的开发人员，具备一些业务分析技能，你仍然可以（几个月/几年？）成为这个人工智能驱动的世界的王者，原因如下。 我一直在亲自动手构建人工智能代理，并自动化主导企业环境的无休止的文书工作。 大多数大公司都淹没在手动工作流程、审批和重复性任务中。大部分办公室工作都围绕着将信息从一个地方移动到另一个地方、等待审批或遵循严格的流程。 对我来说，最大的改变之一是用人工智能代理取代工作流程中的人工审批。自动化这些任务可以释放大量时间并减少瓶颈。 最终，即使是这种工作本身也会实现自动化。但在我看来，我们还没有到那一步。目前，大多数办公室工作人员才刚刚习惯使用 Copilot 之类的工具。说实话，他们不知道接下来会发生什么。不是吗？ 这是您的机会之窗。如果您可以弥合技术开发和业务理解之间的差距，您就可以引领公司转型。 所以不要坐以待毙。利用这一优势。积极主动。您周围的人仍在研究如何提示 ChatGPT，而您可能正在构建运行整个部门的系统。 我们走吧！    提交人    /u/AlwaysNever22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1bb9b/there_are_still_enough_opportunities_to_succeed/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:26:08 GMT</pubDate>
     </item>
     <item>
       <title>您是否认为互联网上代理人工智能的日益增多最终会毁掉互联网？</title>
