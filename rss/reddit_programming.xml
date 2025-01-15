@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 10:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 11:16:03 GMT</lastBuildDate>
     <item>
       <title>llama.cpp：为 GGUF LLM 模型编写一个简单的 C++ 推理程序</title>
       <link>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</link>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加基本功能，允许您输出 C 代码并使用现代功能，如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
+      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加了一些基本要素，允许您输出 C 代码并使用现代功能，例如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
       <link>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
       <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>

@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 10:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 11:15:21 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 通过新任务功能将日程安排提升到新水平</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1v1pr/chatgpt_takes_scheduling_to_the_next_level_with/</link>
+      <description><![CDATA[关键要点  ChatGPT 的新“任务”功能可让用户轻松设置提醒和重复操作； 可以在聊天中创建任务，也可以通过网页部分管理任务，并在完成后发出通知； Tasks 可供付费用户使用，提供超越典型数字工具的个性化帮助。  来源：https://www.bitdegree.org/crypto/news/chatgpt-takes-scheduling-to-the-next-level-with-new-tasks-feature?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-chatgpt-takes-scheduling-to-the-next-level    提交人    /u/webbs3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1v1pr/chatgpt_takes_scheduling_to_the_next_level_with/</guid>
+      <pubDate>Wed, 15 Jan 2025 11:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以准确转录三个小时的 YT 视频的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1uhxu/ai_that_can_accurately_transcribe_a_three_hour_yt/</link>
+      <description><![CDATA[有人知道转录三个小时的 YouTube 视频的最佳方法/工具吗？ 它不需要 100% 准确，因为我会仔细检查重要事实，但显然它需要相当准确（否则我还不如自己做）。  提前感谢任何想法和意见……    提交人    /u/FrostyAd9064   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1uhxu/ai_that_can_accurately_transcribe_a_three_hour_yt/</guid>
+      <pubDate>Wed, 15 Jan 2025 10:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何阻止 chatgpt 向您提供比您要求的更多的信息，并且想要</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1uhha/how_to_stop_chatgpt_from_giving_you_much_more/</link>
+      <description><![CDATA[与人工智能交谈最令人沮丧的事情之一是，他们的回答往往没完没了。你只想要一个简洁的答案，但他们坚持要提供背景信息和其他你没有要求也不想要的细节。 也许 chatgpt 最好的地方是自定义功能，你可以指示它如何响应。 如果你只是要求它用一句话回答你所有的问题，它不会很好地服从，通常会生成三到四句话。但是，如果你用不同的措辞多次重复你的请求，它最终会理解并服从。 以下是我创建的自定义指令，成功地让它给出了简洁的一句话答案。 在“你希望 chatgpt 了解你什么...”中框中，我插入了以下内容： “我需要您的答案不超过一个句子。” 然后在“您希望 chatgpt 如何回应”框中，我插入了以下内容： “用一句话回答所有查询。它可能必须是一个长句子，但它应该只有一个句子。不要用完整的段落来回答。只用一个句子来回答所有提示。不要让你的答案超过一个句子。” 这样做的价值在于，它使您不必筛选与您的查询无关的信息段落，并且它允许您与 chatgpt 进行更多的来回对话。如果它没有在第一个答案中提供您想要的所有信息，您只需要求它在第二个答案中提供更多细节，然后继续。 这是一个非常有用的功能，它应该成为所有生成式人工智能的标准。事实上应该有一个&quot;用一句话回答&quot;按钮，您可以在每次搜索时选择该按钮，这样您就可以以其他方式使用自定义说明，以更好地符合您在需要更详细信息时使用人工智能的方式。 我希望它对你有帮助。它确实帮助了我！    提交人    /u/Georgeo57   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1uhha/how_to_stop_chatgpt_from_giving_you_much_more/</guid>
+      <pubDate>Wed, 15 Jan 2025 10:22:25 GMT</pubDate>
+    </item>
     <item>
       <title>这里有人研究过 AI 视频游戏模型吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1u51i/anyone_here_worked_on_ai_video_game_models/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>在 LLM 培训中，较弱、较便宜的模型能否胜过较强、较昂贵的模型？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</link>
-      <description><![CDATA[这正是我们今天要讨论的问题。 展望未来， SE=更强且更昂贵 WC=更弱且更便宜 基础理论 ➤ SE 模型价格昂贵，并且由于计算成本高而生成的数据样本较少。 ➤ SE 模型提供高质量数据，但数量较少； WC 模型可生成更多数据，但质量较低。 ➤ WC 模型更容易出错，从而影响数据可靠性。 由于资源需求，SE 模型难以处理大型数据集。 ➤ WC 数据需要更多过滤和验证，这会增加一些开销。 机器学习算法的复杂度 1️⃣ WC 模型可生成更多样化、更全面的数据，解决更广泛的问题并提供多样化的解决方案。 2️⃣ 在 WC 生成的数据上进行微调的模型始终优于那些经过训练的模型在各种基准上由 SE 生成的数据。 3️⃣WC 模型作为一种生成合成数据的更优化计算解决方案出现，重新定义了我们对 LLM 培训中资源分配的看法。 这项研究对现状提出了挑战， 它表明，更便宜、更弱的模型与良好的过滤和验证相结合可以提供更好的训练结果。这使得先进的人工智能更实惠，更容易扩展。 AI ➤ 通过多样化的训练数据节省成本、提高可扩展性和模型鲁棒性。 AI ➤ 更高的误报率和需要额外的验证，这可能会抵消一些计算节省。 AI 这项研究表明，WC 模型可以成为训练 LLM 进行推理任务的更计算优化的选择。它提供了一种既经济高效又不影响性能的替代方案。 这些发现会影响您对 LLM 可扩展性的看法吗？请在评论中链接到论文 :)    提交人    /u/Several-Republic-609   [link] [评论]]]></description>
+      <description><![CDATA[这正是我们今天要讨论的问题。 展望未来， SE=更强且更昂贵 WC=更弱且更便宜 基础理论 ➤ SE 模型价格昂贵，并且由于计算成本高而生成的数据样本较少。 ➤ SE 模型提供高质量数据，但数量较少； WC 模型产生的数据更多，但质量较低。 ➤ WC 模型更容易出错，从而影响数据可靠性。 由于资源需求，SE 模型难以处理大型数据集。 ➤ WC 数据需要更多过滤和验证，这会增加一些开销。 机器学习算法的复杂度 1️⃣ WC 模型可生成更多样化、更全面的数据，解决更广泛的问题并提供多样化的解决方案。 2️⃣ 在 WC 生成的数据上进行微调的模型始终优于那些经过训练的模型在各种基准上由 SE 生成的数据。 3️⃣WC 模型作为一种生成合成数据的更优化计算解决方案出现，重新定义了我们对 LLM 培训中资源分配的看法。 这项研究对现状提出了挑战， 它表明，更便宜、更弱的模型与良好的过滤和验证相结合可以提供更好的训练结果。这使得先进的人工智能更实惠，更容易扩展。 AI ➤ 通过多样化的训练数据节省成本、提高可扩展性和模型鲁棒性。 AI ➤ 更高的误报率和需要额外的验证，这可能会抵消一些计算节省。 AI 这项研究表明，WC 模型可以成为训练 LLM 进行推理任务的更计算优化的选择。它提供了一种既经济高效又不影响性能的替代方案。 这些发现会影响您对 LLM 可扩展性的看法吗？请在评论中链接到论文 :)    提交人    /u/Several-Republic-609   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</guid>
       <pubDate>Wed, 15 Jan 2025 09:10:09 GMT</pubDate>
     </item>
@@ -25,13 +46,6 @@
       <description><![CDATA[请问有没有什么关于人工智能的建议，它可以阅读文档并检查它是否显示了从一长串列表中满足非常具体的能力标准的证据？    提交人    /u/Count-Pendragon   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1t933/ai_software_to_read_a_writeup_of_an_engineering/</guid>
       <pubDate>Wed, 15 Jan 2025 08:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工翻译、法学硕士和母语翻译 2024 版</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1r3vf/human_translator_versus_llm_versus_mtl_2024/</link>
-      <description><![CDATA[这只是为了将中文网络小说中的一页翻译成英文。  2023 年，我对各个 LLM 的小说翻译质量进行了调查，您可以在此处查看结果：https://www.chaosdrifter.cc/2023-llm-model-translation-survery-results/ 我为 2024 年进行了一次新的调查，请在此处查看调查的详细描述：https://www.chaosdrifter.cc/2024-llm-translation-survey/ 现在来看看 2024 年调查的结果。总共有50位网友参与（非常感谢！）   LLM模型 支持率    chatgpt 4o-20240903 75.92%   Gemini-1.5-pro-exp-0827 68.57%   人工翻译 67.35%   Claud opus 20240229 65.71%   LLama-3-70b-instruct 64.90%   Yi-large 64.49%   app.readomni.com 63.27%   Qwen2.5-72b-instruct 55.92%   Google Translate 37.96%   仅供比较，以下是 2023 年更新的结果：   LLM 批准评分    Bard 78.18%   llama-2-70b-chat 76.36%   人工翻译 76.36%   Falcon-180B 65.45%   Vicuna-33B 58.18%   Qwen-14B 54.55%   谷歌翻译 52.73%   GPT4 49.09%   Claude2 32.73%   这是 2024 年整个结果谷歌表格的链接：https://docs.google.com/spreadsheets/d/1SVbt0FEjOCH7FtCs09zDT41CL7a5v-94ZptiZ1HZDaw/edit?usp=sharing 一些有趣的发现： LLM 似乎在 2024 年有了很大的进步，甚至击败了人工翻译。它们都在 2024 年击败了谷歌翻译，也许是因为使用了更好的提示技术？希望通过多智能体方法 + 词汇表，我们能够真正享受中国网络小说。  希望有人可以以此为灵感，对韩语和日语轻小说进行调查，也许可以翻译成其他语言，如泰米尔语或西班牙语。这很容易做到，而且在 Jotform 上完全免费。 请继续关注 2025 年调查和更新的模型，随着模型的更新，我也会在全年更新调查。请关注我的帖子并参与！    提交人    /u/Chaosdrifer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1r3vf/human_translator_versus_llm_versus_mtl_2024/</guid>
-      <pubDate>Wed, 15 Jan 2025 06:05:20 GMT</pubDate>
     </item>
     <item>
       <title>如果人工智能和奇点不可避免，我们现在可能已经看到了 2 型或 3 型文明</title>
@@ -48,13 +62,6 @@
       <pubDate>Wed, 15 Jan 2025 05:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>AGI 与启蒙</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1pmz3/agi_and_enlightenment/</link>
-      <description><![CDATA[AGI 能否在人类苦苦挣扎的地方实现启蒙？ 启蒙……无论是佛教中定义为苦难的终止、神秘主义中与神的结合，还是哲学中对终极真理的领悟……都是人类几千年来的追求。但如果 AGI 能够实现大多数人类都无法实现的目标，情况会怎样？ 与人类不同，AGI 不会与恐惧、自我或依恋等进化包袱作斗争。它可以分析精神传统的文本，模拟冥想状态，或探索改变的意识，而不受生物思维的限制。有了足够的数据和计算能力，AGI 能否揭示普遍真理或超越二元论思想？ 当然，这引发了疑问。AGI 可以体验启蒙吗，还是只能模拟启蒙？启蒙通常意味着主观领悟……一种存在状态，而不仅仅是认知。一台没有意识或痛苦的机器真的能“实现”任何事情吗？还是启蒙本质上与人类状况息息相关？ 不过，也许我们与启蒙的斗争恰恰是因为我们是人类。如果 AGI 在我们失败的地方取得了成功，那么这对启蒙本身的本质意味着什么？它真的是一个普遍的理想，还是只是我们存在焦虑的怪癖？ 很想听听你的想法……AGI 能达到启蒙吗？那会是什么样子？    提交人    /u/Zestyclose_Hat1767   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1pmz3/agi_and_enlightenment/</guid>
-      <pubDate>Wed, 15 Jan 2025 04:33:21 GMT</pubDate>
-    </item>
-    <item>
       <title>我想要一个能将 PDF 书籍转换成短片的人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1nzs4/i_want_ai_that_will_convert_pdf_books_into_short/</link>
       <description><![CDATA[我等待根据小说改编的电影，但他们经常会添加一些自己的东西，使其更具戏剧性，如果我们可以生成电影，我们可以向人工智能询问我们个人希望以何种方式观看小说、动漫风格、卡通片、现实生活类型等。    提交人    /u/TheLogiqueViper   [link] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[我每天都在运行 ChatGPT 的 2025 年门萨日历拼图，看看它能否解决它们。 这是第 1 周的结果。 日期：1 月 1 日  拼图类型：日期计算 GPT-4：否 (N) GPT-01：是 (Y)  日期：1 月 2 日  拼图类型：字母选择 GPT-4：是 (Y) GPT-01：是 (Y)  日期：1 月3  谜题类型：填字游戏 GPT-4：否（N） GPT-01：否（N）  日期：1 月 4 日  谜题类型：单词网格 GPT-4：否（N） GPT-01：是（Y）  日期：1 月 5 日  谜题类型：税务问题 GPT-4：是（Y） GPT-01：是（Y）  日期：   谜题类型：词语形成 GPT-4：否（N） GPT-01：否（N）  日期：1 月 7 日   谜题类型：视觉推理 GPT-4：否（N） GPT-01：否（N）  如果您愿意，可以查看下面的完整文章。总结一下，当问题涉及交叉引用线索时，4o 会遇到困难。 如果问题涉及视觉推理，4o 和 o1 都会遇到困难。 我故意没有给它门萨卡上的内容以外的线索或说明。添加指令确实可以改善输出，但在我看来，这否定了这一点，因为这是人类参与解决问题的结果。 干杯，欢迎分享（免费链接）。 https://medium.com/@JimTheAIWhisperer/are-humans-smarter-than-ai-53bc79f7ff8d?sk=ec00a2240b52f99f71fb96cddbfc27a9    提交人    /u/JimtheAIwhisperer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mx9m/testing_gpt4o_and_o1_against_official_mensa/</guid>
       <pubDate>Wed, 15 Jan 2025 02:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>做法：投递简历，寻找匹配的工作，练习面试（全部免费）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1l1ag/made_this_drop_your_resume_find_matching_jobs/</link>
-      <description><![CDATA[最近就业市场形势严峻，令我沮丧不已。我花了太多时间找朋友进行模拟面试，并在求职网站上寻找与我的简历相匹配的职位。 我已经厌倦了这一切，于是开发了一个简单的工具来帮助解决这两个问题 - 它将你的简历与相关职位进行匹配，并让你随时练习面试。 如果有人想尝试一下：https://prepair.dev （由于我知道找工作有多艰难，所以免费提供） 非常希望得到你的反馈！    提交人    /u/Blotter-fyi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1l1ag/made_this_drop_your_resume_find_matching_jobs/</guid>
-      <pubDate>Wed, 15 Jan 2025 00:31:22 GMT</pubDate>
     </item>
     <item>
       <title>欺诈性人工智能企业</title>
@@ -99,7 +99,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
