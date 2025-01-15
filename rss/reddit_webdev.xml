@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 20:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:17:12 GMT</lastBuildDate>
+    <item>
+      <title>我的薪资增长范围，作为高级开发人员，我的薪水是否严重偏低？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i27xvz/my_salary_growth_range_am_i_being_severely/</link>
+      <description><![CDATA[我看到 cscareerquestions 中经常有人讨论他们挣多少钱，甚至很多 0-3 的人都比我挣得多。我知道位置很重要，但即便如此，我觉得多年来我的薪水远低于应有的水平。 我目前的工作是政府承包商，因此它拥有出色的工作生活平衡 + 远程工作，所以我知道薪水会低一点。我在那里的其他公司非常受欢迎，我相信你们大多数人都曾使用过它们。   2016 年 - 最低工资实习生（朋友做了一个小的副业，主要把我当作导师，帮助我获得经验/简历经验） 2017 年 - 50k（FE 现场 LCOL） 2018 年 - 65k（全栈现场芝加哥） 2019 年 - 80k（FE 现场芝加哥） 2020 年 - 85k（全栈远程） 2021 年 - ~92k（全栈远程） 2022 年 - ~98k（全栈远程） 2023 年 - ~103k（全栈远程） 2024 年 - 110k，120k（全栈远程）  同时从事两份工作有多困难？我目前的工作有大量的停机时间。我宁愿找私人工作，但我是一个糟糕的销售员，而 Upwork 上低成本人员的数量太多，根本无法实现。    提交人    /u/qpal123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i27xvz/my_salary_growth_range_am_i_being_severely/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这样的网站是怎样制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</link>
+      <description><![CDATA[我见过很多页面，这些页面的滚动动画非常复杂。如何开始使用这样的动画？还有什么其他软件可以将其导入网站？ 以下是一个例子：https://prometheusfuels.com/     提交人    /u/Pentaxon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</guid>
+      <pubDate>Wed, 15 Jan 2025 20:54:35 GMT</pubDate>
+    </item>
     <item>
       <title>这里有自由职业的 Wordpress/Divi 专家吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>现代 Shopify Plus 开发—它是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i219ez/modern_shopify_plus_developmentwhat_is_it_like/</link>
-      <description><![CDATA[所以我很快就要接手一个使用 Shopify plus 的客户。大约四年来我都没有接触过 Shopify，即便如此，我也只是使用模板，并且该模板提供自定义功能，而无需进行任何额外的开发。  我依稀记得一些关于使用 ruby​​(??) 进行自定义开发的事情，以及一些关于如何确保复制任何代码自定义的内容，因为如果他们推出了平台或模板的新版本，这些更新将覆盖您所做的任何自定义。  我是幻觉吗？这现在仍然正确吗，或者当时甚至是正确的？  基本上，我想从 2025 年实际进行自定义 Shopify 开发的人那里了解生态系统是什么样的。     提交人    /u/stormthulu   [链接] [评论]]]></description>
+      <description><![CDATA[所以我很快就要接手一个使用 Shopify plus 的客户。大约四年来我都没有接触过 Shopify，即便如此，我也只是使用模板，并且该模板提供自定义功能，而无需进行任何额外的开发。  我依稀记得一些关于使用 ruby​​(??) 进行自定义开发的事情，以及一些关于如何确保复制任何代码自定义的内容，因为如果他们推出了平台或模板的新版本，这些更新将覆盖您所做的任何自定义。  我是幻觉吗？这现在仍然正确吗，或者当时是正确的吗？  基本上，我想从 2025 年实际进行自定义 Shopify 开发的人那里了解生态系统是什么样的。     提交人    /u/stormthulu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i219ez/modern_shopify_plus_developmentwhat_is_it_like/</guid>
       <pubDate>Wed, 15 Jan 2025 16:28:26 GMT</pubDate>
     </item>
@@ -85,30 +99,16 @@
     <item>
       <title>您目前能利用人工智能工具将多少工作自动化？哪些？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i200yv/how_much_can_you_currently_automate_of_your/</link>
-      <description><![CDATA[您目前可以使用 AI 工具实现当前工作中的多大程度的自动化？ 您使用哪种工具以及原因是什么？    提交人    /u/pantyjob3   [link] [comments]]]></description>
+      <description><![CDATA[您目前可以使用 AI 工具实现当前工作自动化的程度如何？ 您使用哪种工具？为什么？    提交人    /u/pantyjob3   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i200yv/how_much_can_you_currently_automate_of_your/</guid>
       <pubDate>Wed, 15 Jan 2025 15:34:22 GMT</pubDate>
     </item>
     <item>
       <title>设置我的第一个网络服务器</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1y8nc/setting_up_my_first_webserver/</link>
-      <description><![CDATA[我是一名电气工程专业的学生，​​上周我在想如何以最佳和最简单的方式记录我的铁人三项训练。我有个想法，我应该为此做一个网络服务器。 但事实证明，这并不那么容易。几天来，我一直在学习 Java、php 和 sql。我上了 1.5 年的编程课，所以我对 C 语言有一些经验。事实证明这是值得的，因为我用这种语言阅读的每一个代码看起来都很合逻辑，也很容易理解。 我所在地区有很多小企业，我在想，如果我学点这样的东西，我可能会赚点外快。我知道我的知识有限，但对于 html 和 css，我可以使用人工智能来提高效率。当然不是在不久的将来，但也许是在我完成学位之后。 把我看作一个刚刚起步的人。我有很多问题，但让我问几个。 EE 在 webdevelopment 方面有可能找到工作吗？ 我有一台 HP ProDesk 600 G4 SFF，配备 i7-8700、8gb DDR4、1T m.2、256gb sata ssd，我可以将其用作服务器。 它能同时运行几个网站和云存储吗？ 用于学习目的。    提交人    /u/Busy_Needleworker114   [link] [评论]]]></description>
+      <description><![CDATA[我是一名电气工程专业的学生，​​上周我在想如何以最佳和最简单的方式记录我的铁人三项训练。我有个想法，我应该为此做一个网络服务器。 但事实证明，这并不那么容易。几天来，我一直在学习 Java、php 和 sql。我上了 1.5 年的编程课，所以我对 C 语言有一些经验。事实证明这是值得的，因为我用这种语言阅读的每一个代码看起来都很合乎逻辑，也很容易理解。 我所在地区有很多小企业，我在想，如果我学点这样的东西，我可能会赚点外快。我知道我的知识有限，但对于 html 和 css，我可以使用人工智能来提高效率。当然不是在不久的将来，但也许是在我完成学位之后。 把我看作一个刚刚起步的人。我有很多问题，但让我问几个。 EE 在 webdevelopment 方面有可能找到工作吗？ 我有一台 HP ProDesk 600 G4 SFF，配备 i7-8700、8gb DDR4、1T m.2、256gb sata ssd，我可以将其用作服务器。 它能同时运行几个网站和云存储吗？ 用于学习目的。    提交人    /u/Busy_Needleworker114   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1y8nc/setting_up_my_first_webserver/</guid>
       <pubDate>Wed, 15 Jan 2025 14:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 Twitter Lite：Twitter 1.0 Web 体验案例研究</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1y7uz/building_twitter_lite_a_case_study_on_the_twitter/</link>
-      <description><![CDATA[        由    /u/iqen93  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1y7uz/building_twitter_lite_a_case_study_on_the_twitter/</guid>
-      <pubDate>Wed, 15 Jan 2025 14:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneUptime 的反馈：开源监控和可观察性平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1xc0w/feedback_for_oneuptime_open_source_monitoring_and/</link>
-      <description><![CDATA[我们正在构建一个开源可观察性平台 - OneUptime (https://oneuptime.com)。将其视为 Datadog、NewRelic、PagerDuty 和 Incident.io 的开源替代品 - 100% FOSS 和 Apache 许可。 已经在使用 OneUptime 了吗？非常感谢！我们很乐意听到您的反馈。 尚未加入？我们很好奇原因，并渴望知道如何更好地满足您的需求。您希望实现哪些功能？我们非常认真地倾听这个社区的意见，并将为你们所有人提供更新。 期待听到您的想法和反馈！    提交人    /u/OuPeaNut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1xc0w/feedback_for_oneuptime_open_source_monitoring_and/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:26:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

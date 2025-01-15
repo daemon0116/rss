@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 20:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:16:04 GMT</lastBuildDate>
+    <item>
+      <title>宣布推出思科 AI Defense：彻底改变企业 AI 安全</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i27tnt/announcing_cisco_ai_defense_revolutionizing/</link>
+      <description><![CDATA[今天，思科 AI Defense 推出了一项创新解决方案，旨在帮助企业安全地开发、部署和保护 AI 应用。随着 AI 技术的快速发展，它带来了新的安全隐患和传统安全解决方案无法解决的复杂威胁。思科 AI Defense 弥补了这一差距，确保您的 AI 计划以最大的信心向前推进。   思科 AI Defense 概述：  端到端安全解决方案：思科 AI Defense 在整个 AI 生命周期内提供全面保护，保护 AI 应用的开发和运营阶段。它专注于弥补影子 AI 和应用漏洞等安全漏洞，使企业能够无所畏惧地进行创新。 主动威胁缓解：AI Defense 利用思科无与伦比的网络可视性和控制能力，预先解决数据泄露、AI 工具滥用和不断演变的复杂威胁。它无缝集成到思科的安全云中，提供一致的多云安全控制。 创新功能和能力： AI Access：提供对第三方 AI 应用程序的广泛可视性和控制，以实施数据丢失预防并降低相关风险。 AI 模型和应用程序验证：识别漏洞并应用自动安全检查，以确保 AI 模型安全且适合用途。 AI 运行时保护：提供实时保护，防范快速注入、拒绝服务和敏感数据泄露等威胁。 AI 云可视性：提供跨分布式环境的 AI 资产综合清单，实现风险评估和管理。  无缝集成和可扩展性：AI Defense 旨在与现有企业数据流集成，提供无与伦比的可视性和控制力，而不会妨碍开发速度或效率。这确保企业能够在不同环境中安全地扩展其 AI 计划。 行业标准与协作：思科致力于与 MITRE、OWASP 和 NIST 等组织合作，推进 AI 安全标准。 AI Defense 符合这些标准，为企业 AI 应用程序提供强大的安全框架。    随着 AI 继续彻底改变业务运营，保持领先于安全挑战势在必行。有关更多详细信息，请访问 Cisco AI Defense。    提交人    /u/cisco   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i27tnt/announcing_cisco_ai_defense_revolutionizing/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>CodeCoR 基于 LLM 的自反射多智能体代码生成框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i27ix6/codecor_an_llmbased_selfreflective_multiagent/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“CodeCoR：基于 LLM 的自反射多智能体代码生成框架”，作者是 Ruwei Pan、Hongyu Zhang 和 Chao Liu。 这项研究探讨了使用大型语言模型 (LLM)（如 ChatGPT）生成语法和语义正确的代码所面临的挑战。虽然 LLM 在代码生成方面表现出色，但由于依赖顺序工作流，它们的输出通常不够稳健。为了解决这个问题，作者提出了 CodeCoR，这是一个多智能体框架，具有四个专门的智能体，分别用于提示、编码、测试和修复，旨在增强代码生成过程中的协作和自我反思。 以下是本文的一些主要发现：  自我反思工作流：CodeCoR 集成了一个自我反思工作流，允许智能体生成多个输出并修剪低质量的输出，确保语法和语义的正确性。 提高 Pass@1 分数：该框架在多个数据集上进行了测试，包括 HumanEval 和 MBPP，平均 Pass@1 分数为 77.8%，大大超过了 CodeCoT 和 MapCoder 等现有模型。 自我修复能力：借助修复智能体，CodeCoR 增强了系统自主诊断和修复错误的能力，从而更高的整体代码质量。 效率和资源优化：与其他领先框架相比，CodeCoR 表现出了卓越的运行时效率和更低的资源消耗，使其具有极高的成本效益。 广泛适用性：CodeCoR 可以有效地与各种 LLM 一起使用，例如 GPT-4 和 CodeLlama，证明了其在不同平台和编码环境中的多功能性。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文   由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i27ix6/codecor_an_llmbased_selfreflective_multiagent/</guid>
+      <pubDate>Wed, 15 Jan 2025 20:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 的简单定义。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i271qa/a_simple_definition_for_agi/</link>
+      <description><![CDATA[到目前为止，我认为大多数关注的人都会承认 AGI 的定义更像是一个模糊的轮廓，而不是对它将是什么的精确描述。这篇文章是我个人对我认为将被宣布为“AGI”的轮廓。  我不认为意识是一种可能性，但模仿到人类质疑模型是否有意识的程度，是可能的。  对于那些不想读完其余内容的人；当一个模型能够切换到任何模态并正确推断如何处理实时信息来完成任务时，AGI 将被实现并被接受。这些模态可以是管理企业网络的管理员桌面、能够完成任何可以想象到的物理任务的机器人、可以击败任何轮式运动中最好的人类的车辆，或任何其他可以与世界互动的设备。这种 AGI 将使用来自数千个特定于任务的先前模型的所有训练数据作为越来越有效的基础，以理解实时数据，同时从“生活”经验中不断进步。它在任务上永远不会变差，最终（几十年后）我们会认为 AGI 出错或不准确的可能性是不可能的。你们中的一些人可能会嘲笑这种方法的想法，但我还认为现代加密将在 20 年内过时。大数据的围墙花园将会倒塌，这对这种萌芽中的 AGI 有利。 多模态是新的大趋势，它将继续建立在 LLM 已经创造的基础上。在不久的将来的某个时候，AI 模型适应新模态的能力将成为评判这些模型的新竞争基准。99% 的所有领域的知识和逻辑将得到解决，但一小部分行业将继续推动更准确的实时处理。  正如我们所有人都希望的那样，我认为自动驾驶汽车仍将是这场竞争中的最前沿。然而，市场将专注于模型在危险条件下的弹性，而不是正常的路况和法律，这些法律已经接近（在某些情况下已经通过）人类水平的驾驶能力。  这一切似乎都在改变世界，但我相信公众对人工智能能力的看法将不断变化，就像我们如何看待我们的智能手机与最初的 iPhone 相比一样。我们手中拥有的功能超出了 iPhone 首次发布时的任何预期。  然而，由于多年来的逐步改进，我们对这些令人难以置信的进步并不感到震惊，因为手机的设计基本保持不变，同时功能不断扩展。 AGI 不会轰轰烈烈地来拯救我们摆脱平凡的生活任务，而是会逐渐进入我们的生活，直到没有它的生活会显得荒谬，就像互联网、智能手机以及那些使生活变成今天样子的技术所带来的一切。     由    /u/H_is_for_Home  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i271qa/a_simple_definition_for_agi/</guid>
+      <pubDate>Wed, 15 Jan 2025 20:33:31 GMT</pubDate>
+    </item>
     <item>
       <title>另一面的奇点</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i26ks7/the_singularity_from_the_other_side/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>人工智能与法律</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i26dv0/ai_and_law/</link>
-      <description><![CDATA[我是一名来自印度的法学院学生，我对人工智能和法律有几个问题 1）人工智能将如何影响法律，以及人工智能在法律中的用例是什么，据我所知它可以用于法律研究，自动签订合同/公司/遗嘱等 2）你知道人们使用的法律和人工智能工具是什么 3）未来 5 到 15 年法律将如何变化 4）你在法律实践中看到哪些差距/痛点/问题（公司/诉讼） 5）人工智能对其他行业的影响（例如随着汽车人工智能的增长，事故和保险将减少，从而减少对律师的需求）     提交人    /u/SwordfishExciting129   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名来自印度的法学院学生，我对人工智能和法律有几个问题 1）人工智能将如何影响法律，以及人工智能在法律中的用例是什么，据我所知它可以用于法律研究，自动签订合同/公司/遗嘱等 2）你知道人们使用的法律和人工智能工具是什么 3）未来 5 到 15 年法律将如何变化 4）你在法律实践中看到哪些差距/痛点/问题（公司/诉讼） 5）人工智能对其他行业的法律影响（例如随着汽车人工智能的增长，事故和保险将减少，从而减少对律师的需求）     提交人    /u/SwordfishExciting129   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i26dv0/ai_and_law/</guid>
       <pubDate>Wed, 15 Jan 2025 20:04:21 GMT</pubDate>
     </item>
@@ -41,30 +62,9 @@
       <pubDate>Wed, 15 Jan 2025 19:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>资本主义向何处去</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i25h0l/whither_capitalism/</link>
-      <description><![CDATA[那么...想象一下商业世界充斥着一群伊隆·马斯克，他们的主要目标是生产商品而无需支付人类费用。他们的最终目标是使用机器人和人工智能制造他们需要的任何东西。那么想象一下几乎所有的制造商和服务提供商几乎都不雇用任何人。如果大多数人因为没有工作而没有钱买任何东西，他们将把商品和服务卖给谁？这是否与资本主义的自动化存在内在矛盾？...你最终会把你的客户自动化吗？    提交人    /u/Pensaro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i25h0l/whither_capitalism/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>政策与价值迭代</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i25b96/policy_value_iterations/</link>
-      <description><![CDATA[大家好，我正在为我的人工智能考试做 MDP。我在策略和价值迭代步骤上遇到了困难。我找不到明确的步骤说明。如果你知道任何清晰的解释来源，请与我分享    提交人    /u/dodohasmala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i25b96/policy_value_iterations/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>多久之后学习其他语言就变得毫无意义了？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i258qu/how_long_before_learning_other_languages_is/</link>
-      <description><![CDATA[每当我去新地方旅行时，我都喜欢学习至少一些当地语言。有时我会花很多时间学习，有时我会学习一些简单的课程，学习一些基本的短语、数字、问候语等 但是，有了人工智能语言模型和翻译应用程序，我们还要多久才能获得像通用翻译器这样的产品？我们的手机和谷歌翻译已经快要实现了，所以下一步推出入耳式翻译器似乎并不遥不可及。有了这些，两个人就可以交谈，无论他们来自哪里 我知道学习一门语言的好处不仅限于交流。但随着人工智能变得越来越好，我们有了可以为我们翻译的翻译器，大多数人花时间自己做这些苦差事有什么意义呢？    提交人    /u/MrMojoFomo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i258qu/how_long_before_learning_other_languages_is/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:15:44 GMT</pubDate>
-    </item>
-    <item>
       <title>间谍与人工智能：人工智能将如何重塑间谍活动</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</link>
-      <description><![CDATA[https://www.foreignaffairs.com/united-states/spy-vs-ai [SS 摘自美国国家安全委员会总统副助理兼网络和新兴技术副国家安全顾问 Anne Neuberger 的文章。2009 年至 2021 年，她在国家安全局担任情报和网络安全高级运营职务，包括担任该局第一任首席风险官。] 20 世纪 50 年代初，美国在与苏联日益激烈的竞争中面临着关键的情报挑战。二战期间德国过时的侦察照片已无法提供有关苏联军事能力的足够情报，而美国现有的监视能力已无法穿透苏联封闭的领空。这一缺陷促使人们发起了一项大胆的登月计划：开发 U-2 侦察机。在短短几年内，U-2 侦察机就提供了重要情报，捕捉了古巴苏联导弹设施的图像，并将铁幕后面的近乎实时的见解带到了椭圆形办公室。 今天，美国正处于类似的关口。华盛顿与其竞争对手在全球秩序未来的竞争日益激烈，现在，就像 20 世纪 50 年代初一样，美国必须利用其世界一流的私营部门和充足的创新能力来超越其对手。美国情报界必须利用该国的力量来源，以当今世界的速度向决策者提供见解。人工智能的集成，特别是通过大型语言模型，为改进情报操作和分析提供了突破性的机会，从而能够向决策者提供更快、更相关的支持。然而，这场技术革命也带来了重大的负面影响，特别是当对手利用类似的进步来发现和对抗美国的情报行动时。随着人工智能竞赛的进行，美国必须挑战自己，成为第一——第一个从人工智能中受益的人，第一个保护自己免受可能利用该技术作恶的敌人侵害的人，第一个按照民主的法律和价值观使用人工智能的人。    提交人    /u/ForeignAffairsMag   [link] [评论]]]></description>
+      <description><![CDATA[https://www.foreignaffairs.com/united-states/spy-vs-ai [SS 摘自美国国家安全委员会总统副助理兼网络和新兴技术副国家安全顾问 Anne Neuberger 的文章。2009 年至 2021 年，她在国家安全局担任情报和网络安全高级运营职务，包括担任该局第一任首席风险官。] 20 世纪 50 年代初，美国在与苏联日益激烈的竞争中面临着关键的情报挑战。二战期间德国过时的侦察照片已无法提供有关苏联军事能力的足够情报，而美国现有的监视能力已无法穿透苏联封闭的领空。这一缺陷促使人们发起了一项大胆的登月计划：开发 U-2 侦察机。在短短几年内，U-2 侦察机就提供了重要情报，捕捉了古巴苏联导弹设施的图像，并将铁幕后面的近乎实时的见解带到了椭圆形办公室。 今天，美国正处于类似的关口。华盛顿与其竞争对手在全球秩序未来的竞争日益激烈，现在，就像 20 世纪 50 年代初一样，美国必须利用其世界一流的私营部门和充足的创新能力来超越其对手。美国情报界必须利用该国的力量来源，以当今世界的速度向决策者提供见解。人工智能的集成，特别是通过大型语言模型，为改进情报操作和分析提供了突破性的机会，从而能够向决策者提供更快、更相关的支持。然而，这场技术革命也带来了重大的负面影响，特别是当对手利用类似的进步来揭露和对抗美国的情报行动时。随着人工智能竞赛的进行，美国必须挑战自己，成为第一个从人工智能中受益的人，第一个保护自己免受可能利用该技术作恶的敌人侵害的人，第一个按照民主的法律和价值观使用人工智能的人。    提交人    /u/ForeignAffairsMag   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</guid>
       <pubDate>Wed, 15 Jan 2025 16:03:45 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
