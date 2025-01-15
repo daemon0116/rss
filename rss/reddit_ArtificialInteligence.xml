@@ -3,17 +3,24 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 09:18:36 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 15 Jan 2025 10:18:32 GMT</lastBuildDate>
+    <item>
+      <title>这里有人研究过 AI 视频游戏模型吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1u51i/anyone_here_worked_on_ai_video_game_models/</link>
+      <description><![CDATA[大家好！ 我刚刚看到这篇关于 Decart&#39;s Oasis 的文章，这是一款完全由变形金刚模型实时生成的游戏。 它处理一切：游戏玩法、物理、规则和图形，所有这些都不需要传统的游戏引擎。 这是一个很酷的概念，我很好奇这里是否有人有使用人工智能驱动的视频游戏模型或类似模型的经验。很想听听你的项目、技巧或资源。    提交人    /u/antonscap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1u51i/anyone_here_worked_on_ai_video_game_models/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:56:33 GMT</pubDate>
+    </item>
     <item>
       <title>在 LLM 培训中，较弱、较便宜的模型能否胜过较强、较昂贵的模型？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</link>
-      <description><![CDATA[这正是我们今天要讨论的问题。 展望未来， SE=更强且更昂贵 WC=更弱且更便宜 基础理论 ➤ SE 模型价格昂贵，并且由于计算成本高而生成的数据样本较少。 ➤ SE 模型提供高质量数据，但数量较少； WC 模型产生的数据更多，但质量较低。 ➤ WC 模型更容易出错，从而影响数据可靠性。 由于资源需求，SE 模型难以处理大型数据集。 ➤ WC 数据需要更多过滤和验证，这会增加一些开销。 机器学习算法的复杂度 1️⃣ WC 模型可生成更多样化、更全面的数据，解决更广泛的问题并提供多样化的解决方案。 2️⃣ 在 WC 生成的数据上进行微调的模型始终优于那些经过训练的模型在各种基准上由 SE 生成的数据。 3️⃣WC 模型作为一种生成合成数据的更优化计算解决方案出现，重新定义了我们对 LLM 培训中资源分配的看法。 这项研究对现状提出了挑战， 它表明，更便宜、更弱的模型与良好的过滤和验证相结合可以提供更好的训练结果。这使得先进的人工智能更实惠，更容易扩展。 AI ➤ 通过多样化的训练数据节省成本、提高可扩展性和模型鲁棒性。 AI ➤ 更高的误报率和需要额外的验证，这可能会抵消一些计算节省。 AI 这项研究表明，WC 模型可以成为训练 LLM 进行推理任务的更计算优化的选择。它提供了一种既经济高效又不影响性能的替代方案。 这些发现会影响您对 LLM 可扩展性的看法吗？请在评论中链接到论文 :)    提交人    /u/Several-Republic-609   [link] [评论]]]></description>
+      <description><![CDATA[这正是我们今天要讨论的问题。 展望未来， SE=更强且更昂贵 WC=更弱且更便宜 基础理论 ➤ SE 模型价格昂贵，并且由于计算成本高而生成的数据样本较少。 ➤ SE 模型提供高质量数据，但数量较少； WC 模型可生成更多数据，但质量较低。 ➤ WC 模型更容易出错，从而影响数据可靠性。 由于资源需求，SE 模型难以处理大型数据集。 ➤ WC 数据需要更多过滤和验证，这会增加一些开销。 机器学习算法的复杂度 1️⃣ WC 模型可生成更多样化、更全面的数据，解决更广泛的问题并提供多样化的解决方案。 2️⃣ 在 WC 生成的数据上进行微调的模型始终优于那些经过训练的模型在各种基准上由 SE 生成的数据。 3️⃣WC 模型作为一种生成合成数据的更优化计算解决方案出现，重新定义了我们对 LLM 培训中资源分配的看法。 这项研究对现状提出了挑战， 它表明，更便宜、更弱的模型与良好的过滤和验证相结合可以提供更好的训练结果。这使得先进的人工智能更实惠，更容易扩展。 AI ➤ 通过多样化的训练数据节省成本、提高可扩展性和模型鲁棒性。 AI ➤ 更高的误报率和需要额外的验证，这可能会抵消一些计算节省。 AI 这项研究表明，WC 模型可以成为训练 LLM 进行推理任务的更计算优化的选择。它提供了一种既经济高效又不影响性能的替代方案。 这些发现会影响您对 LLM 可扩展性的看法吗？请在评论中链接到论文 :)    提交人    /u/Several-Republic-609   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1tju9/can_weaker_cheaper_models_outperform_stronger/</guid>
       <pubDate>Wed, 15 Jan 2025 09:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能软件可以读取工程职位描述并检查其是否符合列表中的特定能力标准？</title>
+      <title>人工智能软件可以读取工程职位的描述并检查其是否符合列表中的特定能力标准？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1t933/ai_software_to_read_a_writeup_of_an_engineering/</link>
       <description><![CDATA[请问有没有什么关于人工智能的建议，它可以阅读文档并检查它是否显示了从一长串列表中满足非常具体的能力标准的证据？    提交人    /u/Count-Pendragon   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1t933/ai_software_to_read_a_writeup_of_an_engineering/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>如果人工智能和奇点不可避免，我们现在可能已经看到了 2 型或 3 型文明</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1qpz6/if_ai_and_singularity_were_inevitable_we_would/</link>
-      <description><![CDATA[如果人工智能和奇点对于我们这个物种来说是不可避免的，那么对于宇宙中的其他智能生命形式来说，这很可能也是如此。人工智能应该会加速技术发展的步伐，并最终导致奇点。  人工智能对费米悖论有一个有趣的影响，因为突然间，有了人工智能，2 型或 3 型文明存在的可能性就大得多。我们现在应该已经看到了一些证据，但我们还没有。  这意味着两件事之一，要么计算机智能存在极限，我们会发现“AGI”是不可能的。或者，人工智能本身就像大过滤器。人工智能是文明最终灭绝的原因。     提交人    /u/AssistanceLeather513   [链接] [评论]]]></description>
+      <description><![CDATA[如果人工智能和奇点对于我们这个物种来说是不可避免的，那么对于宇宙中的其他智能生命形式来说，这很可能也是如此。人工智能应该会加速技术发展的步伐，并最终导致奇点。  人工智能对费米悖论有一个有趣的影响，因为突然间，有了人工智能，2 型或 3 型文明存在的可能性就大得多。我们现在应该已经看到了一些证据，但我们没有。  这意味着两件事之一，要么计算机智能存在极限，我们会发现“AGI”是不可能的。或者，人工智能本身就像大过滤器。人工智能是文明最终灭绝的原因。     提交人    /u/AssistanceLeather513   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1qpz6/if_ai_and_singularity_were_inevitable_we_would/</guid>
       <pubDate>Wed, 15 Jan 2025 05:40:00 GMT</pubDate>
     </item>
@@ -90,16 +97,9 @@
       <pubDate>Tue, 14 Jan 2025 13:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>普通人如何在人工智能领域取得领先？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0wjrq/how_does_the_average_joejane_get_ahead_on_ai/</link>
-      <description><![CDATA[每当出现新事物时，普通人通常都有办法利用。在人工智能的情况下，似乎你需要开发或大量投资该领域。 我原本以为熟练掌握提示会对我长期有帮助，但老实说，我认为这只在短期内有效，很快就会成为一种多余的技能。 那么，除了购买 Nvidia 和其他股票外，普通人可以做些什么来尽早参与并从人工智能革命中获利？    提交人    /u/gowithflow192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0wjrq/how_does_the_average_joejane_get_ahead_on_ai/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:09:49 GMT</pubDate>
-    </item>
-    <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
