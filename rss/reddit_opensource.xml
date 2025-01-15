@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 14:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 17:16:49 GMT</lastBuildDate>
+    <item>
+      <title>TrailBase 0.4 🚀：现在具有“实时”更改通知和 1.2k GitHub ⭐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i221mk/trailbase_04_now_with_realtime_change/</link>
+      <description><![CDATA[使用更少的移动部件简化您的堆栈 - TrailBase 是一个易于自托管、单文件、可扩展的后端，适用于您的移动、Web 或桌面应用程序，提供 API、通知、身份验证、上传、JS 运行时......。亚毫秒级的延迟消除了对专用缓存的需求，不再有陈旧或不一致的数据。 刚刚发布的 v0.4.0，它添加了“实时”/通知 API，让您和您的用户可以监听记录更改：插入、更新、删除。 在网站上查看管理 UI 的现场演示：trailbase.io。很高兴听到你的想法🙏    提交人    /u/trailbaseio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i221mk/trailbase_04_now_with_realtime_change/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能求职者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i21zb2/ai_job_hunter/</link>
+      <description><![CDATA[我正在尝试自动化我的求职过程，并遇到了一个机器人。问题是它只响应预先配置的数据。然后，我发现了这个存储库，它看起来很有前途，但星数相对较少。对它有什么想法或反馈吗？ https://github.com/srikar-kodakandla/linkedin-easyapply-using-AI    提交人    /u/Fabulous-Addition-14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i21zb2/ai_job_hunter/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEOnaut 开源 SEO 审计工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i211q3/seonaut_opensource_seo_audit_tool/</link>
+      <description><![CDATA[过去几年，我一直在开发自己的开源 SEO 审核工具。该工具基于 Web，侧重于 SEO 的技术方面。它在后端使用 Go 构建，在前端使用纯 HTML + CSS 构建。图表和 websocket 只使用了少量 JS。 您可以在 https://github.com/StJudeWasHere/seonaut 查看。非常欢迎提交请求和反馈。    提交人    /u/tt_256   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i211q3/seonaut_opensource_seo_audit_tool/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:19:00 GMT</pubDate>
+    </item>
     <item>
       <title>FluentAssertions 取代 Apache 2.0 许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1xb56/fluentassertions_replaces_apache_20_license/</link>
@@ -29,16 +50,9 @@
     <item>
       <title>开源新手</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1x9nn/newbie_to_open_source/</link>
-      <description><![CDATA[嘿，我正在尝试熟悉贡献的过程。 根据我的理解，我需要查看我想要贡献的项目的远程存储库，然后将存储库分叉到我自己的帐户中，在我的本地存储库上克隆该分叉存储库，为我的问题创建一个分支，然后在代码编辑器中进行更改，添加..提交并将这些更改推送到分叉存储库的问题分支，然后转到拉取请求并创建一个新的拉取请求 我想知道的是，我是否要合并我的问题分支和分叉存储库的主分支，然后为我的主分支（分叉存储库）创建到原始项目主分支的拉取请求，或者 为我的问题分支和原始项目的主分支创建一个拉取请求。 如果有人可以一步一步地告诉我整个过程应该如何更好地进行，请这样做。谢谢    由   提交  /u/SoulMachine999   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在尝试熟悉贡献过程。 据我所知，我需要查看我想要贡献的项目的远程存储库，然后将存储库分叉到我自己的帐户中，在我的本地系统上克隆该分叉存储库，为我的问题创建一个分支，在代码编辑器中进行更改，然后添加、提交并将这些更改推送到我分叉存储库的问题分支。之后，我转到“拉取请求”并创建一个新的拉取请求。 我想知道的是：  我是否将我的问题分支合并到我分叉存储库的主分支中，然后从我分叉存储库的主分支创建到原始项目主分支的拉取请求？或者 我是否直接从我的issue分支向原始项目的主分支创建拉取请求？  如果有人可以提供关于如何更好地完成整个过程的分步指南，请提供。谢谢！    提交人    /u/SoulMachine999   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1x9nn/newbie_to_open_source/</guid>
       <pubDate>Wed, 15 Jan 2025 13:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的学习资料库包含许多 ML 方法和概念的实现</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1w708/my_learning_repository_with_implementations_of/</link>
-      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。希望它对其他人也有用！如果您觉得这有用，请点赞！ https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1w708/my_learning_repository_with_implementations_of/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:21:19 GMT</pubDate>
     </item>
     <item>
       <title>易于使用的项目管理建议</title>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 15 Jan 2025 05:52:59 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚推出了一个开源软件 - chooat-chat-ai</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1qnrs/i_just_launch_an_open_source_chooatchatai/</link>
-      <description><![CDATA[        提交人    /u/owys128   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1qnrs/i_just_launch_an_open_source_chooatchatai/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:35:56 GMT</pubDate>
-    </item>
-    <item>
       <title>C++ 中更漂亮的错误包</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</link>
       <description><![CDATA[您好。我正在尝试扩展 LSP 以显示更漂亮的错误消息，就像在 Rust 中一样，并且正在查看这个和这个，但似乎都不能充分满足我的需求。我很好奇是否有人知道其他现有的解决方案，或者是否有其他人尝试将类似的东西纳入他们的项目的经验。也许只需查看这两个存储库并亲自尝试一下。     提交人    /u/danaeatl   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[非常感谢您的反馈！ 你们中的许多人都说初始屏幕让人不知所措，所以我对其进行了简化： - 从欢迎说明开始，而不是复杂的示例 - 从仅注释选项卡开始，而不是所有内容（注释、任务、习惯） - 从打开菜单开始，而不是搜索、过滤、排序 OpenHabitTracker 现在也可以在 Flathub 上使用（它应该很快就会在 Flathub 网站上可见） OpenHabitTracker 是一个开源 Blazor 应用程序，用于管理任务、笔记和习惯。它可以在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请访问 https://openhabittracker.net 我很想听听您对未来更新的想法或意见！   由    /u/Jinjinov  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</guid>
       <pubDate>Tue, 14 Jan 2025 19:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Litecuda - 用 C++ 编写的轻量级 GPU 虚拟化框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</link>
-      <description><![CDATA[大家好，我正在启动一个新的开源项目，部分是为了更好地学习 C++，部分是为了向人们提供一些有用的东西。 受到另一个开源项目 (scuda) 的启发，我决定构建 Litecuda 一个用于 GPU 虚拟化的轻量级 C++ 框架，旨在在单个物理 GPU 上模拟多个独立的虚拟 GPU 实例。 它旨在实现跨多个虚拟 GPU 高效共享 GPU 资源（如内存和计算）。我才刚刚开始这个项目，正在寻找其他贡献者和扩展它的想法。    提交人    /u/_twelvechess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:05:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

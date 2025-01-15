@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 15 Jan 2025 13:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 17:16:06 GMT</lastBuildDate>
+    <item>
+      <title>如何从硬盘中隔离大型项目</title>
+      <link>https://www.reddit.com/r/editors/comments/1i21fl8/how_to_isolate_a_large_project_from_hard_drive/</link>
+      <description><![CDATA[我有一个超大的 Premiere Pro 项目，其中包含所有原始文件、AE 文件和外部 LaCie 硬盘上的所有内容。问题是，我不会将驱动器上的所有内容用于该项目。由于驱动器中还有其他项目，因此我只想保留这个特定的 Premiere 项目文件（这是我过去一年制作的一系列文件）以及与之链接的所有相关原始文件。这样，我就可以抽出未用于其他相关内容的其余库。有没有一种方法可以更安全、更轻松地辨别出我想要传输的那些额外文件，而不会危及项目及其所有相关链接？我尝试过相反的方法，即手动传输 Premiere Pro 项目文件箱（预览、自动保存、模板等），在新的稳定驱动器上打开它，然后进入重新链接窗口，将 LaCie 驱动器上的文件传输到我的 PC 驱动器上并链接起来，但你可以想象，这会非常耗时，尤其是当我的项目包含超过 3,000 个文件时。 你有没有试过隔离这么大的项目？你是怎么做到的？ 任何建议都非常感谢。也许我错过了一些更简单的事情，我可以做，而不会感觉像是大海捞针。    提交人    /u/OneMilo2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i21fl8/how_to_isolate_a_large_project_from_hard_drive/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 到 Resolve - 带上轨道遮罩</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1zfsv/premiere_to_resolve_bringing_over_track_mattes/</link>
+      <description><![CDATA[所以我有一部复杂的短片，里面有很多分屏和形状。在 Premiere 中，我使用白色图像形成正方形，然后在素材上使用轨道遮罩来匹配该图像的形状 - 我的问题是 - 有没有办法在 Resolution 中重复此操作。我试过合成，但似乎无法实现？在我煞费苦心地重做一切之前有什么想法吗？我正在使用 Resolve 18 和 Premiere 24.3.0    提交人    /u/bennybenbenben500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1zfsv/premiere_to_resolve_bringing_over_track_mattes/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买入门级 PC</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1za78/buying_a_starting_pc/</link>
+      <description><![CDATA[-我想创建一个家庭编辑套件，但在 CPU 方面我是新手。任何意见都会有所帮助。  -我正在看一台翻新的 Z440（我在工作中使用的工作站），但它有很多处理器选项。  -Xeon E5-2687WV3 是否足以开始？它有 10 个内核，运行速度为 3.10GHz。这个版本在 pcserverandparts.com 上的售价在 200-300 美元之间。如果有人以前使用过它们，我也很乐意听取您对体验的反馈。  -有关更多信息，它将具有 32GB 的 Ram，运行 Premiere Pro，并处理一些 4k（我知道这会减慢一些进程），但主要是编辑高清序列。  -Premiere 的推荐规格如下：英特尔第 7 代或更新版本，高清 16GB 内存，4k 32GB 内存。  -经过一番研究，我得到了关于此 CPU 是第 5 代还是第 6 代的混合信息。E5 会让我认为它是第 5 代，并且不适用于 Premiere，但我还看到 4 位数字中的第 2 个数字是代数，这让我认为这实际上是第 6 代处理器。    提交人    /u/bigdrewrocks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1za78/buying_a_starting_pc/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>.mp4 视频出现故障（不是延迟问题）</title>
       <link>https://www.reddit.com/r/editors/comments/1i1ug41/glitchy_mp4_video_not_a_lagging_issue/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Frame.io V4 最新版本是什么？大家喜欢它吗</title>
       <link>https://www.reddit.com/r/editors/comments/1i1kn5u/frameio_v4_whats_the_latest_are_people_liking_it/</link>
-      <description><![CDATA[Frame 一直要求我更新，我有一个安静的 Jan，所以可能是做这件事的时候，而不是在很多工作进行到一半的时候 前一段时间没有人喜欢这个新更新，想知道观点是否已经改变。我猜如果最终会强制更新，我是否应该这样做    提交人    /u/Cautious-Fix204   [link] [评论]]]></description>
+      <description><![CDATA[Frame 一直要求我更新，我有一个安静的 Jan，所以可能是在很多工作完成一半时才更新。 前段时间没有人喜欢这个新更新，想知道观点是否已经改变。我猜如果最终会强制更新，我是否应该这样做     提交人    /u/Cautious-Fix204   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1kn5u/frameio_v4_whats_the_latest_are_people_liking_it/</guid>
       <pubDate>Wed, 15 Jan 2025 00:12:52 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我需要为我的客户做一个类似于这个 TikTok 中看到的视频效果：https://vt.tiktok.com/ZS6QaEuT7/请帮我识别这个效果    提交人    /u/vidithenpc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i160qb/which_effect_is_it/</guid>
       <pubDate>Tue, 14 Jan 2025 13:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSD 故障终于发生了</title>
-      <link>https://www.reddit.com/r/editors/comments/1i108vh/ssd_failure_finally_happened/</link>
-      <description><![CDATA[我从事视频制作和编辑已有 3 年了，刚刚经历了第一次 SSD 故障。具体来说是 Sandisk Extreme Pro 4TB。这也是我最重要的项目，幸运的是，我对原始素材进行了备份，所以世界还没有完蛋。 编辑，尤其是对于在旅途中工作的编辑，您对外部 SSD 的最佳建议是什么？我以前只使用三星 T5，但后来改用 Sandisk，因为它们正在打折，需要批量订购。我想我应该做些研究，因为看起来 Extreme Pro 4TB 上的硬件故障很常见 :( 还想指出，我滥用过 T5、意外拔下电源等，从来没有遇到过故障或驱动器损坏的问题。我拥有 Extreme Pro 不到一年的时间，一直小心翼翼地使用它，结果它就卸载了，在我的办公桌上坏了    提交人    /u/leanrapper   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i108vh/ssd_failure_finally_happened/</guid>
-      <pubDate>Tue, 14 Jan 2025 06:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WD Blue 驱动器无法安装</title>
-      <link>https://www.reddit.com/r/editors/comments/1i0vkcz/wd_blue_drive_will_not_mount/</link>
-      <description><![CDATA[嗨，我也在 Mac sub 上发布了此信息。我的一个 6TB WD Blue 备份驱动器无法安装。格式化的 OS 扩展日志。我尝试切换端口、电缆、底座，甚至在另一台 Mac 上尝试过。它在磁盘实用程序中显示为灰色。mount 命令没有任何作用。我还尝试通过终端强制安装 - 按照对其他人有帮助的 YouTube 教程进行操作（https://www.youtube.com/watch?v=QMvYHgQOEvA）。 磁盘急救失败。有人建议使用 Disk Warrior，但当我看到评论说它并不比 OS 修复更强大时，我不愿意花 100 多美元。任何建议都非常感谢。谢谢。    提交人    /u/Lucysquirrel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i0vkcz/wd_blue_drive_will_not_mount/</guid>
-      <pubDate>Tue, 14 Jan 2025 02:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国高级助理编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1i0r31s/senior_assistant_editor_in_the_uk/</link>
-      <description><![CDATA[大家好！我对这里的语义有点困惑。高级助理编辑和普通助理编辑有什么区别？“高级”是指您正在协助高级编辑，还是意味着助理编辑团队中的资历？助理编辑角色中是否存在“高级”这样的职位？我有点困惑，需要一些澄清。  谢谢！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i0r31s/senior_assistant_editor_in_the_uk/</guid>
-      <pubDate>Mon, 13 Jan 2025 22:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

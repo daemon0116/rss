@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 14:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 17:16:19 GMT</lastBuildDate>
     <item>
-      <title>我有一个问题。关于固件</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1xl7d/i_have_a_question_in_regards_to_firmware/</link>
-      <description><![CDATA[我是一名创客。我使用不同的 3D 打印机。我需要能够增加我的一台 Saturn 3 Eleegoo 树脂打印机的 z 轴。我联系了 Eleegoo，他们试图询问研发部门是否愿意帮我更改。不幸的是，他们说不行。所以我要看看我是否可以付钱请人做或者自己做。我甚至怀疑自己是否能想象到自己尝试去做这件事。所以我向你们这些可爱的人求助。我只需要将 z 轴增加 25 毫米。我重建了我的 3D 打印机，以便能够做到这一点。它移动得很完美。然而，固件将它停在设定的高度。所以它不起作用。任何帮助建议或任何东西都会很棒。对我来说，编码就是试图将一个正方形放入一个圆形孔中。这对我来说太高级了。但如果必须的话，我会学习如何更改那一个设置。再次感谢您阅读这篇文章。希望您度过美好的一天！请您善待我，我陷入了困境。我花了一个星期的时间重建打印机并重新加工。我没想到这会是个问题。好吧，我错了。     由    /u/munificentmike 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1xl7d/i_have_a_question_in_regards_to_firmware/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:39:45 GMT</pubDate>
+      <title>本机 Windows 桌面应用程序，可用作与 OpenAI 兼容的 LLM（C# / WinUI3 / WebView2 / RxUI）的 UI</title>
+      <link>https://www.reddit.com/r/programming/comments/1i21x91/native_windows_desktop_app_that_serves_as_ui_for/</link>
+      <description><![CDATA[  由    /u/sassyhusky  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i21x91/native_windows_desktop_app_that_serves_as_ui_for/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开发人员设计也意味着为法学硕士设计</title>
+      <link>https://www.reddit.com/r/programming/comments/1i21dob/designing_for_developers_means_designing_for_llms/</link>
+      <description><![CDATA[  由    /u/machete127  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i21dob/designing_for_developers_means_designing_for_llms/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我注意到 Google foobar 已被关闭；以下是我 2021 年的 Python 2 解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1i20rxj/i_noticed_google_foobar_has_been_taken_down_here/</link>
+      <description><![CDATA[  由    /u/MohamedAbdelnour  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i20rxj/i_noticed_google_foobar_has_been_taken_down_here/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理爱丽丝：隐藏通信的预测信息</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2091n/proxy_alice_predictive_messages_for_concealed/</link>
+      <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2091n/proxy_alice_predictive_messages_for_concealed/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始构建机器学习模型——模型架构、评估、数据准备等</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</link>
+      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:18:54 GMT</pubDate>
     </item>
     <item>
       <title>首先检查你自己的 Pull 请求！</title>
@@ -34,7 +62,7 @@
       <pubDate>Wed, 15 Jan 2025 12:56:19 GMT</pubDate>
     </item>
     <item>
-      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，非常详细的视频，适合任何想要提升自己 C 编程技能的人</title>
+      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，视频非常详细，适合任何想要提升自己 C 编程技能的人</title>
       <link>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</link>
       <description><![CDATA[  由    /u/Patient_Hat4564  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</guid>
@@ -62,13 +90,6 @@
       <pubDate>Wed, 15 Jan 2025 10:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助编译 C/C++ oRTP 以用于最终的 ios-simulator 目标（如何针对 rust 中使用的 aarch-apple-ios-sim 架构？）</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1u38r/need_help_compiling_cc_ortp_to_for_eventual/</link>
-      <description><![CDATA[  由    /u/Insatiation  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1u38r/need_help_compiling_cc_ortp_to_for_eventual/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:52:41 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 Kokoro-82M 将电子书制作成有声读物</title>
       <link>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</link>
       <description><![CDATA[  由    /u/inkompatible  提交  [链接] [评论]]]></description>
@@ -76,7 +97,7 @@
       <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加了一些基本要素，允许您输出 C 代码并使用现代功能，例如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
+      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加基本功能，允许您输出 C 代码并使用现代功能，如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
       <link>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
       <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</guid>
       <pubDate>Wed, 15 Jan 2025 09:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用蓝牙控制软式水下机器人章鱼</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1svxj/me_using_bluetooth_control_of_an_soft_underwater/</link>
-      <description><![CDATA[  由    /u/Important-Extension6  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1svxj/me_using_bluetooth_control_of_an_soft_underwater/</guid>
-      <pubDate>Wed, 15 Jan 2025 08:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库系统学习之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1sldv/a_database_system_learning_journey/</link>
-      <description><![CDATA[  由    /u/vladmihalceacom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1sldv/a_database_system_learning_journey/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>除文本文件之外的替代源代码格式——有什么有趣的项目吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1sizo/alternative_source_code_format_other_than_text/</link>
-      <description><![CDATA[  由    /u/8loop8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1sizo/alternative_source_code_format_other_than_text/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:48:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

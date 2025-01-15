@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 14:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 17:16:43 GMT</lastBuildDate>
+    <item>
+      <title>我购买域名一个月​​后，Godaddy 就“收回”了我的域名并且锁定了我的账户，没有任何通知。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2204s/godaddy_repossessed_my_domain_one_month_after/</link>
+      <description><![CDATA[多年来，我创建了许多消费者信息网站，针对某些经常欺骗公众的企业和行业。这些网站是非盈利性的，提供一般信息和建议，并遵守当地法律和服务条款。我一直使用 GoDaddy 注册域名并自行处理托管。这个帐户在我拥有它的十多年里一直保持良好状态。自去年年底以来，我一直没有登录过该帐户，昨天看到一条消息说该帐户被“锁定”，我很惊讶。在与客户支持部门通话 30 分钟后，代表认为没有问题，并建议更改密码并等待 12 小时可以解决问题。但今天早上，同样的问题出现了，这次我与客户服务部门通话了近一个小时，其中一半时间都在等待，因为他们正在与同事沟通以解决这个未知的阻塞。然后他们只是告诉我帐户现在已解锁并且一切正常。我询问了锁定的原因，代表奇怪地结结巴巴地说，它因登录尝试失败而被锁定。但是我昨天特别询问了这个问题，当时另一位代表也对锁定感到困惑，那位代表告诉我他们看不到任何登录尝试失败。  我的帐户现在确实已解锁，但有一个明显的差异。我 10 月份注册的最后一个域名不见了。查看我的账单历史记录显示，该购买金额已退还。  WHOIS 显示该域名已被“Godaddy 收回”：https://www.whois.com/whois/suzisantiagoscam.com 我尚未就此事联系 Godaddy，因为我首先研究这个问题，希望找回我客户的域名。由于没有消息或通知，我还不知道是什么引发了这种情况。如果该网站以某种方式被合法地确定违反了 TOS，为什么没有通知，而且客户服务提供的信息奇怪地相互矛盾......一切都很神秘。  那么，最近有没有人遇到过类似的被 Godaddy 或其他美国注册商收回域名的经历？你是如何进行的，结果如何？谢谢。我会每天回来这里阅读/回复。    提交人    /u/kiarga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2204s/godaddy_repossessed_my_domain_one_month_after/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>最愚蠢的浏览器扩展和一些想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i21lcq/the_most_silly_browser_extension_and_some_thoughts/</link>
+      <description><![CDATA[        提交人    /u/HeresFoT   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i21lcq/the_most_silly_browser_extension_and_some_thoughts/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代 Shopify Plus 开发—它是什么样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i219ez/modern_shopify_plus_developmentwhat_is_it_like/</link>
+      <description><![CDATA[所以我很快就要接手一个使用 Shopify plus 的客户。大约四年来我都没有接触过 Shopify，即便如此，我也只是使用模板，并且该模板提供自定义功能，而无需进行任何额外的开发。  我依稀记得一些关于使用 ruby​​(??) 进行自定义开发的事情，以及一些关于如何确保复制任何代码自定义的内容，因为如果他们推出了平台或模板的新版本，这些更新将覆盖您所做的任何自定义。  我是幻觉吗？这现在仍然正确吗，或者当时甚至是正确的？  基本上，我想从 2025 年实际进行自定义 Shopify 开发的人那里了解生态系统是什么样的。     提交人    /u/stormthulu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i219ez/modern_shopify_plus_developmentwhat_is_it_like/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:28:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有 AI 工具都可以用于后端吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i214wj/what_all_ai_tools_can_be_used_for_backend/</link>
+      <description><![CDATA[是否有任何用于后端管理和使用 SQL 数据库的 AI 工具？或者可以为我们提供 API 的东西？    提交者    /u/Good-At-SQL   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i214wj/what_all_ai_tools_can_be_used_for_backend/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您目前能利用人工智能工具将多少工作自动化？哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i200yv/how_much_can_you_currently_automate_of_your/</link>
+      <description><![CDATA[您目前可以使用 AI 工具实现当前工作中的多大程度的自动化？ 您使用哪种工具以及原因是什么？    提交人    /u/pantyjob3   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i200yv/how_much_can_you_currently_automate_of_your/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:34:22 GMT</pubDate>
+    </item>
     <item>
       <title>设置我的第一个网络服务器</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1y8nc/setting_up_my_first_webserver/</link>
-      <description><![CDATA[我是一名电气工程专业的学生，​​上周我在想如何以最佳和最简单的方式记录我的铁人三项训练。我有个想法，我应该为此做一个网络服务器。 但事实证明，这并不那么容易。几天来，我一直在学习 Java、php 和 sql。我上了 1.5 年的编程课，所以我对 C 语言有一些经验。事实证明这是值得的，因为我用这种语言阅读的每一个代码看起来都很合乎逻辑，也很容易理解。 我所在地区有很多小企业，我在想，如果我学点这样的东西，我可能会赚点外快。我知道我的知识有限，但对于 html 和 css，我可以使用人工智能来提高效率。当然不是在不久的将来，但也许是在我完成学位之后。 把我看作一个刚刚起步的人。我有很多问题，但让我问几个。 EE 在 webdevelopment 方面有可能找到工作吗？ 我有一台 HP ProDesk 600 G4 SFF，配备 i7-8700、8gb DDR4、1T m.2、256gb sata ssd，我可以将其用作服务器。 它能同时运行几个网站和云存储吗？ 用于学习目的。    提交人    /u/Busy_Needleworker114   [link] [评论]]]></description>
+      <description><![CDATA[我是一名电气工程专业的学生，​​上周我在想如何以最佳和最简单的方式记录我的铁人三项训练。我有个想法，我应该为此做一个网络服务器。 但事实证明，这并不那么容易。几天来，我一直在学习 Java、php 和 sql。我上了 1.5 年的编程课，所以我对 C 语言有一些经验。事实证明这是值得的，因为我用这种语言阅读的每一个代码看起来都很合逻辑，也很容易理解。 我所在地区有很多小企业，我在想，如果我学点这样的东西，我可能会赚点外快。我知道我的知识有限，但对于 html 和 css，我可以使用人工智能来提高效率。当然不是在不久的将来，但也许是在我完成学位之后。 把我看作一个刚刚起步的人。我有很多问题，但让我问几个。 EE 在 webdevelopment 方面有可能找到工作吗？ 我有一台 HP ProDesk 600 G4 SFF，配备 i7-8700、8gb DDR4、1T m.2、256gb sata ssd，我可以将其用作服务器。 它能同时运行几个网站和云存储吗？ 用于学习目的。    提交人    /u/Busy_Needleworker114   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1y8nc/setting_up_my_first_webserver/</guid>
       <pubDate>Wed, 15 Jan 2025 14:12:31 GMT</pubDate>
     </item>
@@ -48,9 +83,9 @@
       <pubDate>Wed, 15 Jan 2025 12:44:09 GMT</pubDate>
     </item>
     <item>
-      <title>我如何防止除我之外的任何人访问我的 aws cdn？</title>
+      <title>我如何阻止除我之外的任何人访问我的 aws cdn？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</link>
-      <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况发生。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</guid>
       <pubDate>Wed, 15 Jan 2025 12:20:35 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好， 我正在建立一个网站，需要添加具有以下优先级的二维码：  第一优先级：如果应用程序已安装，则应直接打开应用程序。 第二优先级：如果未安装应用程序，则应根据用户的设备将用户重定向到适当的商店（Android 的 Play Store 或 iOS 的 App Store）。  我该如何实现？如能提供帮助，我将不胜感激。 提前致谢！    提交人    /u/CoreTech111   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1vmid/how_to_create_a_qr_code_to_open_app_or_redirect/</guid>
       <pubDate>Wed, 15 Jan 2025 11:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过 React App 将图片和 URL 分享到 Instagram 故事？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vklp/how_to_share_image_url_to_instagram_stories_from/</link>
-      <description><![CDATA[大家好， 我正在用 React 构建一个博客网站，在社交分享组件中，我需要实现 Instagram 分享。 当用户点击 Instagram 按钮时，它应该将他们重定向到 Instagram Stories，其中博客图片和 URL 已预先填写。 有人知道如何实现这一点吗？ 任何指导或代码示例都将不胜感激！ 提前谢谢！    提交人    /u/CoreTech111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vklp/how_to_share_image_url_to_instagram_stories_from/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的开发流程是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u4ud/what_does_your_development_process_look_like/</link>
-      <description><![CDATA[        提交人    /u/KnotGunna   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u4ud/what_does_your_development_process_look_like/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bootstrap 电子邮件线程布局？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</link>
-      <description><![CDATA[有人能推荐一个 HTML 主题或入门模板吗？我可以用它发布电子邮件对话的内容吗？不一定非要 Bootstrap，任何现代框架都可以，比如 Tailwind。 我的想法是快速启动它，所以我没有太多时间自己设计它。我知道我在管理仪表板模板中看到过这个功能，但现在我真正需要它时显然找不到它了。    提交人    /u/0x4542   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用 RaspberryPI 来托管我的 Web 应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u0a5/should_i_get_raspberrypi_to_host_my_web/</link>
-      <description><![CDATA[我已经失业一年多了，需要将我的项目放在我的投资组合中，其中一些项目需要数据库和服务器。这对我来说真的很昂贵。想知道在 raspberrypi 上托管它们是否理想？（也是一个不错的学习曲线）    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u0a5/should_i_get_raspberrypi_to_host_my_web/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wave v3（Laravel）侧边栏链接在 PROD 网站上不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1toqo/wave_v3_laravel_sidebar_link_wont_work_on_prod/</link>
-      <description><![CDATA[大家好， 我刚刚在 digitalocean 上使用 PLOI 上的 Wave V3 部署了我的 Saas。本地一切正常，但在生产站点上，由于某种原因，我的两个侧边栏链接无法打开页面。一个显示 404，另一个没有任何反应。有什么建议吗？    提交人    /u/jaksatomovic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1toqo/wave_v3_laravel_sidebar_link_wont_work_on_prod/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:20:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
