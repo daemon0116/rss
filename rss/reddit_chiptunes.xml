@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:24:47 GMT</lastBuildDate>
+    <item>
+      <title>请愿增加一条禁止人工智能生成音乐的规则。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1i22uwp/petition_to_add_a_rule_banning_ai_generated_music/</link>
+      <description><![CDATA[我来这里是为了听有才华的创意人士制作的 chiptune 音乐，而不是听那些在网站上输入提示然后就喜欢上他们所听到的内容的人的歌。    提交人    /u/MouseWorksStudios   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1i22uwp/petition_to_add_a_rule_banning_ai_generated_music/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>Gunstar Heroes - Dancing Smash Hero（Orange 主题曲）- 8 位 Famitracker [VRC6]</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1i228w4/gunstar_heroes_dancing_smash_hero_oranges_theme/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        由    /u/Acceptable6  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1i0peb6/remix_of_the_swamps_from_the_smurfs_nes/</guid>
       <pubDate>Mon, 13 Jan 2025 21:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>PAC-MAN A2600 Live 手册 [4K]</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1i0ltz2/pacman_a2600_live_manual_4k/</link>
-      <description><![CDATA[       由    /u/SelfPromotionisgood  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1i0ltz2/pacman_a2600_live_manual_4k/</guid>
-      <pubDate>Mon, 13 Jan 2025 19:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

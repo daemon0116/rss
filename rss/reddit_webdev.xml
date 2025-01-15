@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:24:57 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何 AI 工具可以复制/克隆现有网站并使其在 WordPress 或 Elementor 中可编辑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i23lbz/are_there_any_tools_ai_or_not_that_can_copyclone/</link>
+      <description><![CDATA[*我不会用这个来复制我不允许复制的网站*。就像标题说的，有没有什么工具可以克隆网站并用 Wordpress 编辑它？10Web 据说可以完成这项工作，但还有其他的吗？    提交人    /u/shitcoin_pumper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i23lbz/are_there_any_tools_ai_or_not_that_can_copyclone/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Web 应用程序中的网格菜单上的悬停效果是迷你贪吃蛇游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i23959/hover_effect_on_grid_menu_in_my_webapp_is_mini/</link>
+      <description><![CDATA[        提交人    /u/sandacz_91   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i23959/hover_effect_on_grid_menu_in_my_webapp_is_mini/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:52:16 GMT</pubDate>
+    </item>
     <item>
       <title>我购买域名一个月​​后，Godaddy 就“收回”了我的域名并且锁定了我的账户，没有任何通知。</title>
       <link>https://www.reddit.com/r/webdev/comments/1i2204s/godaddy_repossessed_my_domain_one_month_after/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，希望有人能让我走上正确的轨道！ 我有一个 MySQL 数据库、一个使用 Prisma ORM 的 Express 后端和一个 Next.js 前端。我正在尝试实现一个工作流，其中对后端数据库表的更新调用应该向前端触发一个 SSE，前端有一个“监听”这些事件的组件。 当这些事件到达时，前端不应该改变——我有一个组件准备好在后端到达时在屏幕上呈现每个事件。 我无法找出实现这一目标的最佳方法。数据库是否需要一个触发器来通知后端，然后将其传递给前端？前端的“监听”组件是否需要 EventSource？ Google/stackoverflow 尚未能够提供太多帮助，因此我希望得到一些指点。  提前致谢！！    由    /u/DaigCravid 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1w4h7/quick_question_regarding_database_triggers_and_sse/</guid>
       <pubDate>Wed, 15 Jan 2025 12:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人制作了一个诈骗页面，重定向到我工作地点的 WhatsApp</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vppf/someone_made_a_scam_page_redirecting_to_my_work/</link>
-      <description><![CDATA[正如标题所说，有人制作了一个诈骗页面，将人们重定向到我的工作地点号码，到目前为止，我知道这是在 Facebook 广告上运行的，人们点击该广告并转到重定向到 WhatsApp 的页面 我认为这个页面正在对网站进行网页抓取并获取他们的号码或 wa[.].me whatsapp 链接，有什么办法可以阻止这种情况吗？还是只是让他们更难？ 很难联系 Facebook 关闭广告，因为通过虚假广告与我们联系的人从未发送广告链接或屏幕截图，他们只是发送了虚假网站并说在 Facebook 上看到了 我考虑过将我们的 wa[.]me 更改为重定向页面，但我认为这对 SEO 不利，否则 Google Analytics 会拒绝转换。我的网站 CMS 是 Wordpress    提交人    /u/Dandy_kyun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vppf/someone_made_a_scam_page_redirecting_to_my_work/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建二维码来打开应用程序或重定向到 Play Store/App Store？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vmid/how_to_create_a_qr_code_to_open_app_or_redirect/</link>
-      <description><![CDATA[大家好， 我正在建立一个网站，需要添加具有以下优先级的二维码：  第一优先级：如果应用程序已安装，则应直接打开应用程序。 第二优先级：如果未安装应用程序，则应根据用户的设备将用户重定向到适当的商店（Android 的 Play Store 或 iOS 的 App Store）。  我该如何实现？如能提供帮助，我将不胜感激。 提前致谢！    提交人    /u/CoreTech111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vmid/how_to_create_a_qr_code_to_open_app_or_redirect/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:44:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:25:02 GMT</lastBuildDate>
     <item>
       <title>TrailBase 0.4 🚀：现在具有“实时”更改通知和 1.2k GitHub ⭐</title>
       <link>https://www.reddit.com/r/opensource/comments/1i221mk/trailbase_04_now_with_realtime_change/</link>
       <description><![CDATA[使用更少的移动部件简化您的堆栈 - TrailBase 是一个易于自托管、单文件、可扩展的后端，适用于您的移动、Web 或桌面应用程序，提供 API、通知、身份验证、上传、JS 运行时......。亚毫秒级的延迟消除了对专用缓存的需求，不再有陈旧或不一致的数据。 刚刚发布的 v0.4.0，它添加了“实时”/通知 API，让您和您的用户可以监听记录更改：插入、更新、删除。 在网站上查看管理 UI 的现场演示：trailbase.io。很高兴听到你的想法🙏    提交人    /u/trailbaseio   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i221mk/trailbase_04_now_with_realtime_change/</guid>
       <pubDate>Wed, 15 Jan 2025 17:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能求职者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i21zb2/ai_job_hunter/</link>
-      <description><![CDATA[我正在尝试自动化我的求职过程，并遇到了一个机器人。问题是它只响应预先配置的数据。然后，我发现了这个存储库，它看起来很有前途，但星数相对较少。对它有什么想法或反馈吗？ https://github.com/srikar-kodakandla/linkedin-easyapply-using-AI    提交人    /u/Fabulous-Addition-14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i21zb2/ai_job_hunter/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:59:19 GMT</pubDate>
     </item>
     <item>
       <title>SEOnaut 开源 SEO 审计工具</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[非常感谢您的反馈！ 你们中的许多人都说初始屏幕让人不知所措，所以我对其进行了简化： - 从欢迎说明开始，而不是复杂的示例 - 从仅注释选项卡开始，而不是所有内容（注释、任务、习惯） - 从打开菜单开始，而不是搜索、过滤、排序 OpenHabitTracker 现在也可以在 Flathub 上使用（它应该很快就会在 Flathub 网站上可见） OpenHabitTracker 是一个开源 Blazor 应用程序，用于管理任务、笔记和习惯。它可以在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请访问 https://openhabittracker.net 我很想听听您对未来更新的想法或意见！   由    /u/Jinjinov  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</guid>
       <pubDate>Tue, 14 Jan 2025 19:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Litecuda - 用 C++ 编写的轻量级 GPU 虚拟化框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</link>
+      <description><![CDATA[大家好，我正在启动一个新的开源项目，部分是为了更好地学习 C++，部分是为了向人们提供一些有用的东西。 受到另一个开源项目 (scuda) 的启发，我决定构建 Litecuda 一个用于 GPU 虚拟化的轻量级 C++ 框架，旨在在单个物理 GPU 上模拟多个独立的虚拟 GPU 实例。 它旨在实现跨多个虚拟 GPU 高效共享 GPU 资源（如内存和计算）。我才刚刚开始这个项目，正在寻找其他贡献者和扩展它的想法。    提交人    /u/_twelvechess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:05:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

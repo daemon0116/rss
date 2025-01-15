@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:24:33 GMT</lastBuildDate>
+    <item>
+      <title>视频与幻灯片无缝切换的演示解决方案</title>
+      <link>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</link>
+      <description><![CDATA[我负责为颁奖典礼设置技术，其中的材料以计算机本地视频文件和 Google 幻灯片演示文稿的形式共享。 我有一个远程点击器，可以让我在幻灯片演示文稿中前进和后退，并且可以通过点击器激活 Google 幻灯片中的任何嵌入视频或音频。我的挑战是我想设置一个播放列表或队列，以便在 Google 幻灯片演示文稿之后可以播放本地视频，然后单击即可返回 Google 幻灯片演示文稿。 我正在寻找一种软件解决方案，让我能够在视频和演示文稿之间无缝切换，而无需走到连接的笔记本电脑前切换屏幕或更改程序。 （我知道您可以在 Google 幻灯片中嵌入视频，但我以前遇到过问题，我希望能够流式传输保存在我的计算机上的全高清视频，而无需将它们上传到 YouTube 进行嵌入） 我曾考虑重新映射点击器的输入以运行处理屏幕切换的宏，但我很想找到一种方法来设置它，以便我可以返回以在需要时重新启动视频而不会破坏顺序。我考虑过将幻灯片保存为 pdf 或 png 文件，但许多幻灯片包含无法保留的动画。 请告诉我是否有办法使用 OBS、自定义工具或付费软件来做到这一点——我的目标是仅使用遥控器按照预定的顺序浏览幻灯片和视频，并且在格式之间中断有限（理想情况下为零）。    提交人    /u/SeanCSimon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:48 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有热键功能的计时器</title>
       <link>https://www.reddit.com/r/software/comments/1i20gyb/looking_for_a_timer_that_has_a_hotkey_feature/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[没有办法将我在家中桌面上使用的 PC 上的 Outlook 中的草稿文件夹同步到 Android 上的 Gmail 应用吗？大多数其他 Android 客户端都可以轻松完成此操作。有人知道，这在 Gmail Android 应用中是否无法实现？    提交人    /u/tinpanalleypics   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i1po8v/email_client_sync_problem/</guid>
       <pubDate>Wed, 15 Jan 2025 04:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决 Goggle Colab 中的这个错误</title>
-      <link>https://www.reddit.com/r/software/comments/1i1plrz/how_to_solve_this_error_in_goggle_colab/</link>
-      <description><![CDATA[如果我将其发布到了错误的社区，请原谅我  无法连接到 gpu 后端由于 colab 中的使用限制，您当前无法连接到 gpu。了解更多信息以获得更多 gpu 访问权限，请考虑购买按使用量付费的 colab 计算单元。 有人可以帮助我吗     提交人    /u/itzAbhishek2134   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1plrz/how_to_solve_this_error_in_goggle_colab/</guid>
-      <pubDate>Wed, 15 Jan 2025 04:31:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

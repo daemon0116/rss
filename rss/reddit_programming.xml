@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:24:38 GMT</lastBuildDate>
+    <item>
+      <title>C 不再是一种编程语言 - Faultlore</title>
+      <link>https://www.reddit.com/r/programming/comments/1i22evu/c_isnt_a_programming_language_anymore_faultlore/</link>
+      <description><![CDATA[  由    /u/Worth_Trust_3825  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i22evu/c_isnt_a_programming_language_anymore_faultlore/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:16:55 GMT</pubDate>
+    </item>
     <item>
       <title>本机 Windows 桌面应用程序，可用作与 OpenAI 兼容的 LLM（C# / WinUI3 / WebView2 / RxUI）的 UI</title>
       <link>https://www.reddit.com/r/programming/comments/1i21x91/native_windows_desktop_app_that_serves_as_ui_for/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
       <pubDate>Wed, 15 Jan 2025 09:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行时诊断：及时发现错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</link>
-      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:12:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
