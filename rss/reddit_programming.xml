@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 22:16:59 GMT</lastBuildDate>
+    <item>
+      <title>Replit 首席执行官谈人工智能突破：“我们不再关心专业程序员了”</title>
+      <link>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</link>
+      <description><![CDATA[  由    /u/creaturefeature16  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:39:35 GMT</pubDate>
+    </item>
     <item>
       <title>Zig comptime：有什么能接近吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1i274xq/zig_comptime_does_anything_come_close/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</guid>
       <pubDate>Wed, 15 Jan 2025 11:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>llama.cpp：为 GGUF LLM 模型编写一个简单的 C++ 推理程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</link>
-      <description><![CDATA[  由    /u/shubham0204_dev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</guid>
-      <pubDate>Wed, 15 Jan 2025 10:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
