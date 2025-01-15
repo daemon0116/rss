@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 12:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 13:23:32 GMT</lastBuildDate>
+    <item>
+      <title>开源新手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1x9nn/newbie_to_open_source/</link>
+      <description><![CDATA[嘿，我正在尝试熟悉贡献的过程。 根据我的理解，我需要查看我想要贡献的项目的远程存储库，然后将存储库分叉到我自己的帐户中，在我的本地存储库上克隆该分叉存储库，为我的问题创建一个分支，然后在代码编辑器中进行更改，添加..提交并将这些更改推送到分叉存储库的问题分支，然后转到拉取请求并创建一个新的拉取请求 我想知道的是，我是否合并我的问题分支和分叉存储库的主分支，然后为我的主分支（分叉存储库）创建到原始项目主分支的拉取请求，或者 为我的问题分支和原始项目的主分支创建一个拉取请求。 如果有人可以一步一步地告诉我整个过程应该如何进行，请这样做。谢谢    由   提交  /u/SoulMachine999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1x9nn/newbie_to_open_source/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:22:54 GMT</pubDate>
+    </item>
     <item>
       <title>我的学习资料库包含许多 ML 方法和概念的实现</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1w708/my_learning_repository_with_implementations_of/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</guid>
       <pubDate>Tue, 14 Jan 2025 17:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kutt v3 - 免费开源 URL 缩短器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</link>
-      <description><![CDATA[        提交人    /u/poeti8   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

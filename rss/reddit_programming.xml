@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 12:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 13:23:10 GMT</lastBuildDate>
+    <item>
+      <title>面向 Delphi 和 C++ 开发人员的 TMS Academic 计划更新</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</link>
+      <description><![CDATA[  由    /u/Famous_Pitch_7483  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准化授权、非人类身份和委托访问、用于审计日志分析的 AI 以及我们在 2025 年看到的其他 AuthZ 趋势</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</link>
+      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，非常详细的视频，适合任何想要提升自己 C 编程技能的人</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</link>
+      <description><![CDATA[  由    /u/Patient_Hat4564  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们要使用 LLM 作为计算器？</title>
       <link>https://www.reddit.com/r/programming/comments/1i1w91t/why_are_we_using_llms_as_calculators/</link>
@@ -41,7 +62,7 @@
       <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加基本功能，允许您输出 C 代码并使用现代功能，如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
+      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加了一些基本要素，允许您输出 C 代码并使用现代功能，例如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
       <link>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
       <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Permit_io  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1r3ks/policy_as_code_from_infrastructure_to_finegrained/</guid>
       <pubDate>Wed, 15 Jan 2025 06:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需单击一下即可生成数千个安全的模拟 JSON 对象 🚀</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1qnce/generate_thousands_of_secure_mock_json_objects_in/</link>
-      <description><![CDATA[  由    /u/No_Substance_2689  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1qnce/generate_thousands_of_secure_mock_json_objects_in/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美测试覆盖率的神话：更多的测试实际上会拖慢你的速度</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1p85b/the_myth_of_perfect_test_coverage_when_more_tests/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1p85b/the_myth_of_perfect_test_coverage_when_more_tests/</guid>
-      <pubDate>Wed, 15 Jan 2025 04:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elixir 中运算符 |> 的力量：优雅和可读性</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1nza3/el_poder_del_operador_en_elixir_elegancia_y/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1nza3/el_poder_del_operador_en_elixir_elegancia_y/</guid>
-      <pubDate>Wed, 15 Jan 2025 03:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

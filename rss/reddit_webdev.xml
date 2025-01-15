@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 12:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 13:23:28 GMT</lastBuildDate>
     <item>
-      <title>我如何阻止除我之外的任何人访问我的 aws cdn？</title>
+      <title>重构从网站构建器导出的网站的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1x7kh/best_way_to_refactor_a_website_exported_from_a/</link>
+      <description><![CDATA[大家好，提前谢谢大家。 我公司刚刚解除了与承包商的合同，该承包商在 Multiscreensite Builder 服务上为我们构建了一个简单的单页网站。根据解除合同条款，他们将所有代码和资产移交给我们。 但是，我们收到的是从构建器自动导出的网站，这意味着它是一堆无用的 JQuery 调用、自动生成的模糊 CSS 类等等。它就像是一本以网站形式呈现的自选冒险书。“如果你想知道这个类的作用，请翻到第 98 页。” 有没有自动的方法将网站清理成可用的代码？或者我们必须手动重构整个过程？ 谢谢！    提交人    /u/busdriverbuddha2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1x7kh/best_way_to_refactor_a_website_exported_from_a/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>极客游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1wxuy/geekspill/</link>
+      <description><![CDATA[大家好！ 我刚刚启动了 GeekSpill，这是我为了跟上最新科技新闻而不断在大量网站之间跳转而感到沮丧而创建的一个小项目。如果您像我一样厌倦了无休止的标签和滚动，GeekSpill 可能会让您的生活更轻松一些！ 我对开发还很陌生，所以这个项目对我来说是一个很大的学习步骤。这就是为什么我很乐意听到您的想法和建议 - 这对我来说意味着整个世界，因为我将继续改进 GeekSpill！ 请随时在这里查看： GitHub：http://github.com/TusharAbhinav/GeekSpill 提前非常感谢 - 我迫不及待地想听听您的想法！    提交人    /u/whymynameisabhinav   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1wxuy/geekspill/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目中的复活节彩蛋仍然很酷还是只是令人讨厌？🥚🤔</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1wtub/are_easter_eggs_in_projects_still_cool_or_just/</link>
+      <description><![CDATA[嗨，Reddit， 向各位开发人员、设计人员和用户快速提问：在项目中添加复活节彩蛋是否仍然很时髦或有趣，或者我们已经超越了这一步？ 您知道我在说什么 - 隐藏消息、秘密功能或古怪的小惊喜，只有当有人做了意想不到的事情时才会出现。想想：Konami Code 级别的东西，甚至是隐藏在众目睽睽之下的对流行文化的微妙致敬。 我现在正在做一个项目，我想添加一些好玩的复活节彩蛋 - 也许是一个可以解锁的秘密主题、一个隐藏的双关语，甚至是一个有趣的错误消息。但问题是：  人们是否仍然喜欢寻找这些小宝石，还是这显得太过努力？ 它们是否是一种不错的点缀，还是会分散应用程序/工具的主要功能？ 您是否曾被感觉不必要或不合适的复活节彩蛋所困扰？  我很想听听您的想法（如果您遇到任何好的复活节彩蛋，也许甚至是您最喜欢的复活节彩蛋）。我应该继续在项目中偷偷添加一点乐趣，还是保持干净和专注？ 期待听到大家的想法！    提交人    /u/Blechkelle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1wtub/are_easter_eggs_in_projects_still_cool_or_just/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Laravel 中实现基于角色的访问控制 (RBAC)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1wkc5/how_to_implement_rolebased_access_control_rbac_in/</link>
+      <description><![CDATA[        由    /u/Permit_io  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1wkc5/how_to_implement_rolebased_access_control_rbac_in/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何防止除我之外的任何人访问我的 aws cdn？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</link>
-      <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况发生。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</guid>
       <pubDate>Wed, 15 Jan 2025 12:20:35 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>Bootstrap 电子邮件线程布局？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</link>
-      <description><![CDATA[有人能推荐一个 HTML 主题或入门模板吗？我可以用它发布电子邮件对话的内容吗？不一定非要 Bootstrap，任何现代框架都可以，比如 Tailwind。 我的想法是快速启动它，所以我没有太多时间自己设计它。我知道我在管理仪表板模板中看到过这个功能，但现在我显然找不到它了，因为我实际上需要它。    提交人    /u/0x4542   [链接] [评论]]]></description>
+      <description><![CDATA[有人能推荐一个 HTML 主题或入门模板吗？我可以用它发布电子邮件对话的内容吗？不一定非要 Bootstrap，任何现代框架都可以，比如 Tailwind。 我的想法是快速启动它，所以我没有太多时间自己设计它。我知道我在管理仪表板模板中看到过这个功能，但现在我真正需要它时显然找不到它了。    提交人    /u/0x4542   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</guid>
       <pubDate>Wed, 15 Jan 2025 09:48:38 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[        提交者    /u/EarlyIsland   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1sxj3/hows_this_design_feedback_appreciated/</guid>
       <pubDate>Wed, 15 Jan 2025 08:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些不错的 Google Analytics 替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1stbv/what_is_a_good_google_analytics_alternative/</link>
-      <description><![CDATA[我发现 Google Analytics UI&amp;UX 令人沮丧，我不是数据分析师，我想轻松查看我的网站统计信息。您使用哪些 Google Analytics 替代品？免费且能完成工作的东西。    提交人    /u/Trick-Mulberry-4572   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1stbv/what_is_a_good_google_analytics_alternative/</guid>
-      <pubDate>Wed, 15 Jan 2025 08:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iPhone Safari 中，随机不同的 API 一直卡在加载状态，但在 Chrome 中却运行正常。为什么会发生这种情况？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1smvs/in_iphone_safari_the_randomly_different_api_keeps/</link>
-      <description><![CDATA[在 iPhone Safari 中，随机不同的 API 一直卡在加载状态，但在 Chrome 中却可以正常工作。为什么会这样？    提交人    /u/Actual_Benefit5685   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1smvs/in_iphone_safari_the_randomly_different_api_keeps/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress、Matomo 和 Powerpress - 如何计算 RSS 驱动的播客流</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1s8e4/wordpress_matomo_and_powerpress_how_to_count/</link>
-      <description><![CDATA[Hello World， 我正在使用 Wordpress、Matomo 和 Powerpress 发布播客系列。我的主持人是 Strato。 有没有一种方便但免费的方式来统计/分析使用 Antenna-Pod 或其他应用程序的 RSS 提要的受众？ 互联网服务提供商 (Strato) 仅提供非常有限的分析，没有方便的方法来导出数据。 我通过 perplexity 和谷歌进行的研究没有找到解决方案。    提交人    /u/Ok_Basis6535   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1s8e4/wordpress_matomo_and_powerpress_how_to_count/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入视频且无广告，大家有什么推荐的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1rajk/video_embedding_without_ads_what_do_you_guys/</link>
-      <description><![CDATA[大家好， 因此，我为我的艺术项目建立了一个网站，其中一个是迷你系列，由 8 个（目前，它将在 20 个左右结束）&lt;5 分钟的视频组成。  现在这些视频都以 4K 呈现，因此服务能够可靠地管理这一点非常重要。 我希望它不会向任何访问者显示广告。它们上传到 YouTube 的免费帐户，但我也有一个可以将它们上传到的高级帐户，但我似乎找不到明确的答案，即上传的高级帐户是否可以免费禁用广告，或者访问者根本没有登录，并且嵌入后会发生变化吗？    提交人    /u/Beginning-Pace-1426   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1rajk/video_embedding_without_ads_what_do_you_guys/</guid>
-      <pubDate>Wed, 15 Jan 2025 06:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
