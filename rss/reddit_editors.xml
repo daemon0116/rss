@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 15 Jan 2025 19:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 20:19:47 GMT</lastBuildDate>
+    <item>
+      <title>客户认为 Frame IO 链接可疑，其 IT 团队也持同样看法</title>
+      <link>https://www.reddit.com/r/editors/comments/1i25j86/client_thinks_frame_io_link_is_suspicious_and_so/</link>
+      <description><![CDATA[我可能反应过度，心情不好。 星期五给客户发了两个评论链接 - Premiere Pro 生成的链接 - [f.io/xxxxx] 种类。星期一发送了后续信息，星期三就到了，客户说他还没有打开链接，因为 IT 部门对该链接感到厌烦，他的 IT 经理打算就此事与我联系。 拜托。我曾与市政府、学区、公共组织合作使用过 Frame IO……而 IT 部门不能通过快速测试来验证链接吗？他们必须等待几天？ 还有其他人有这种反应吗？    提交人    /u/gospeljohn001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i25j86/client_thinks_frame_io_link_is_suspicious_and_so/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:27:53 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere 真的有那么痛苦吗，还是我只是被宠坏了？</title>
       <link>https://www.reddit.com/r/editors/comments/1i232ay/is_premiere_really_that_painful_or_am_i_just/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/busquince  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1alfi/pls_help_im_looking_for_someone_with_fcp7_still/</guid>
       <pubDate>Tue, 14 Jan 2025 16:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>声音设计师遇到的 AAF 问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</link>
-      <description><![CDATA[*已解决* 现在可以正常工作了。我不知道为什么我没有早点这样做，但设置中显示“将音频文件转换为”，然后出现一个框，您可以在其中选择 PCM、Aiff 和 Wave，这应该是在 PCM 上设置的。不知道它是否被放在了别的地方。尽管如此。现在可以正常工作了，我的声音编辑器也很高兴。谢谢大家的时间。 大家好 我会尽量简短地说。 我正在使用 Avid Media 作曲家 当我将 AAF 发送给我的声音设计师时，他无法将其重新链接到原始声音文件。它只是说找不到任何东西。他说缺少元数据。 我们尝试过合并。 我们尝试过链接 我们尝试过进行 protools 导出。 他不想要嵌入式，因为这样他就无法链接到原始文件本身，也无法访问其他麦克风音轨，他说。 我通常不会遇到任何错误，而且通常运行顺畅。话虽如此，我并没有设置项目。我问一位同事我是否监督过某件事。他说这不应该那么麻烦。错误可能是他们摄取它时发生的，也可能是声音设计师自己做错了什么。 现在我问你，如果你对我可以做什么有什么建议，或者我是否必须将硬盘送回设置项目的人。 - 我很幸运能够通过 Davinci 解析将 AAF 重新链接到原件。尽管它在某些地方重新链接到不同的音频文件。但是。我想这总比没有好。仍在等待我的声音设计师的更新。 提前致谢。    提交人    /u/Guilty_Biscotti4069   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

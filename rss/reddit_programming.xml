@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 19:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 20:20:00 GMT</lastBuildDate>
+    <item>
+      <title>2025 年科技工作迁移</title>
+      <link>https://www.reddit.com/r/programming/comments/1i25vt3/relocating_for_tech_jobs_in_2025/</link>
+      <description><![CDATA[  由    /u/AndrewStetsenko  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i25vt3/relocating_for_tech_jobs_in_2025/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:43:02 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 NodeJS 中使用 Selenium</title>
       <link>https://www.reddit.com/r/programming/comments/1i249dz/how_to_use_selenium_in_nodejs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/shubham0204_dev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</guid>
       <pubDate>Wed, 15 Jan 2025 10:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Kokoro-82M 将电子书制作成有声读物</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</link>
-      <description><![CDATA[  由    /u/inkompatible  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

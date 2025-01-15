@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 19:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 20:20:28 GMT</lastBuildDate>
+    <item>
+      <title>这里有自由职业的 Wordpress/Divi 专家吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</link>
+      <description><![CDATA[有人认为 Divi 很烂吗？ 或者它是一种现代选择？ 多年前我被一个 webdev 强迫使用它，现在仍然可以访问。    提交人    /u/Interesting_Button60   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找基于浏览器的可靠视频编辑器 – React Video Editor 的替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i25gns/looking_for_a_solid_browserbased_video_editor/</link>
+      <description><![CDATA[我一直在寻找一款简洁的基于浏览器的视频编辑器，然后偶然发现了 https://www.reactvideoeditor.com/。它看起来很棒，但 70 美元的价格有点高，尤其是免费版本几乎没有任何功能。 到目前为止我能找到的最佳免费替代方案：https://github.com/Pablituuu/react-video-editor 我已经搜索了好几天，真的需要一些建议！有没有可靠、实惠（或免费）的替代品？如果它对开发人员友好或开源，可以加分。提前致谢！    提交人    /u/holypix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i25gns/looking_for_a_solid_browserbased_video_editor/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:24:51 GMT</pubDate>
+    </item>
     <item>
       <title>有关当前工作机会的帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1i253k6/help_regarding_a_current_job_offer/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我们正在构建一个开源可观察性平台 - OneUptime (https://oneuptime.com)。将其视为 Datadog、NewRelic、PagerDuty 和 Incident.io 的开源替代品 - 100% FOSS 和 Apache 许可。 已经在使用 OneUptime 了吗？非常感谢！我们很乐意听到您的反馈。 尚未加入？我们很好奇原因，并渴望知道如何更好地满足您的需求。您希望实现哪些功能？我们非常认真地倾听这个社区的意见，并将为你们所有人提供更新。 期待听到您的想法和反馈！    提交人    /u/OuPeaNut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1xc0w/feedback_for_oneuptime_open_source_monitoring_and/</guid>
       <pubDate>Wed, 15 Jan 2025 13:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>重构从网站构建器导出的网站的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1x7kh/best_way_to_refactor_a_website_exported_from_a/</link>
-      <description><![CDATA[大家好，提前谢谢大家。 我公司刚刚解除了与承包商的合同，该承包商在 Multiscreensite Builder 服务上为我们构建了一个简单的单页网站。根据解除合同条款，他们将所有代码和资产移交给我们。 但是，我们收到的是从构建器自动导出的网站，这意味着它是一堆无用的 JQuery 调用、自动生成的模糊 CSS 类等等。它就像是一本以网站形式呈现的自选冒险书。“如果你想知道这个类的作用，请翻到第 98 页。” 有没有自动的方法将网站清理成可用的代码？或者我们必须手动重构整个过程？ 谢谢！    提交人    /u/busdriverbuddha2   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1x7kh/best_way_to_refactor_a_website_exported_from_a/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目中的复活节彩蛋仍然很酷还是只是令人讨厌？🥚🤔</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1wtub/are_easter_eggs_in_projects_still_cool_or_just/</link>
-      <description><![CDATA[嗨，Reddit， 向各位开发人员、设计人员和用户快速提问：在项目中添加复活节彩蛋是否仍然很时髦或有趣，或者我们已经超越了这一步？ 您知道我在说什么 - 隐藏消息、秘密功能或古怪的小惊喜，只有当有人做了意想不到的事情时才会出现。想想：Konami Code 级别的东西，甚至是隐藏在众目睽睽之下的对流行文化的微妙致敬。 我现在正在做一个项目，我想添加一些好玩的复活节彩蛋 - 也许是一个可以解锁的秘密主题、一个隐藏的双关语，甚至是一个有趣的错误消息。但问题是：  人们是否仍然喜欢寻找这些小宝石，还是这显得太过努力？ 它们是否是一种不错的点缀，还是会分散应用程序/工具的主要功能？ 您是否曾被感觉不必要或不合适的复活节彩蛋所困扰？  我很想听听您的想法（如果您遇到任何好的复活节彩蛋，也许甚至是您最喜欢的复活节彩蛋）。我应该继续在项目中偷偷添加一点乐趣，还是保持干净和专注？ 期待听到大家的想法！    提交人    /u/Blechkelle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1wtub/are_easter_eggs_in_projects_still_cool_or_just/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
