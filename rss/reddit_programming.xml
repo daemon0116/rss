@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 04:21:47 GMT</lastBuildDate>
+    <item>
+      <title>完美测试覆盖率的神话：更多的测试实际上会拖慢你的速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1p85b/the_myth_of_perfect_test_coverage_when_more_tests/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1p85b/the_myth_of_perfect_test_coverage_when_more_tests/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:09:14 GMT</pubDate>
+    </item>
     <item>
       <title>Elixir 中运算符 |> 的强大功能：优雅且易读</title>
       <link>https://www.reddit.com/r/programming/comments/1i1nza3/el_poder_del_operador_en_elixir_elegancia_y/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/divyanshub024  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i18fn2/introducing_mirai_a_serverdriven_ui_for_flutter/</guid>
       <pubDate>Tue, 14 Jan 2025 15:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成 OpenAPI Webhook 定义</title>
-      <link>https://www.reddit.com/r/programming/comments/1i17g69/generating_openapi_webhook_definitions/</link>
-      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i17g69/generating_openapi_webhook_definitions/</guid>
-      <pubDate>Tue, 14 Jan 2025 14:37:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

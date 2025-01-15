@@ -3,8 +3,8 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:18:58 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 15 Jan 2025 04:20:53 GMT</lastBuildDate>
     <item>
       <title>我想要一个能将 PDF 书籍转换成短片的人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1nzs4/i_want_ai_that_will_convert_pdf_books_into_short/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>人工智能可以将风格（例如声音、音乐、音调、速度等）复制到新内容中吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</link>
-      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格，并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
+      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</guid>
       <pubDate>Wed, 15 Jan 2025 00:13:09 GMT</pubDate>
     </item>

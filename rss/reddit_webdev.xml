@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 04:22:07 GMT</lastBuildDate>
+    <item>
+      <title>如何建立一个像 wattpad 一样但规模较小的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1ocmy/how_to_build_a_web_like_wattpad_but_smallscaled/</link>
+      <description><![CDATA[您好，我正在尝试构建一个网站，让用户可以阅读一些故事或文章，例如 wattpad、ao3、wordpress。每个故事都有几个章节。我不确定如何存储章节内容和可能的一些图像。我使用 reactjs 和 nodejs 进行 FE 和 BE。请帮忙。如果这不是正确的子版块，请重定向我。TIA    提交人    /u/nothingtothinkabout   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1ocmy/how_to_build_a_web_like_wattpad_but_smallscaled/</guid>
+      <pubDate>Wed, 15 Jan 2025 03:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>副业项目激发雇主兴趣：如何最大程度地发挥其作用？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1nxxa/side_project_raising_employers_interest_how_to/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[        由    /u/maverick594  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1iu1f/a_beautiful_application_of_bézier_curves_to/</guid>
       <pubDate>Tue, 14 Jan 2025 22:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件地址规范化，最佳做法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1i84x/email_address_normalization_what_is_the_best/</link>
-      <description><![CDATA[对于 Web 应用注册的电子邮件地址规范化，最佳做法是什么？ 你们有人在注册时规范电子邮件地址吗？ 我偶然发现了这一点，并试图弄清楚我是否应该这样做。基本上，用户使用 [user.example@gmail.com](mailto:user.example@gmail.com) 注册，但随后也可以使用 [userexample@gmail.com](mailto:userexample@gmail.com) 注册。由于 gmail 地址中的句号在技术上会被忽略，因此它们都是相同的电子邮件地址。 我们在应用程序中使用 google 登录，并使用标准电子邮件注册。我注意到一些用户使用 gmail 注册，他们的电子邮件地址中有句号，然后他们也使用没有句号的完全相同的电子邮件地址注册。我研究过规范化电子邮件地址（例如，删除所有句点 + 将所有字母变为小写），但在测试了一些不同的流行应用程序（Linear、Resend 等）后，他们只是创建单独的帐户，而不是规范化电子邮件地址并将所有实例合并到一个帐户中（例如，如果您使用 [user.example@gmail.com](mailto:user.example@gmail.com) 注册，然后尝试使用 [userexample@gmail.com](mailto:userexample@gmail.com) 注册，它会说该电子邮件已被使用）。 那么这里的标准或最佳实践是什么？只是让某人使用带有句点和不带有句点的相同电子邮件地址进行注册，并每次都为其创建一个新帐户吗？    提交人    /u/usedigest   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1i84x/email_address_normalization_what_is_the_best/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:22:15 GMT</pubDate>
     </item>
     <item>
       <title>CSS 关键帧动画及其对用户体验的影响</title>
