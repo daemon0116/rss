@@ -3,8 +3,15 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 02:43:39 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 15 Jan 2025 03:18:58 GMT</lastBuildDate>
+    <item>
+      <title>我想要一个能将 PDF 书籍转换成短片的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1nzs4/i_want_ai_that_will_convert_pdf_books_into_short/</link>
+      <description><![CDATA[我等待根据小说改编的电影，但他们经常会添加一些自己的东西，使其更具戏剧性，如果我们可以生成电影，我们可以向人工智能询问我们个人希望以何种方式观看小说、动漫风格、卡通片、现实生活类型等。    提交人    /u/TheLogiqueViper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1nzs4/i_want_ai_that_will_convert_pdf_books_into_short/</guid>
+      <pubDate>Wed, 15 Jan 2025 03:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>测试 GPT-4o 和 o1 与门萨官方谜题的匹配情况</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mx9m/testing_gpt4o_and_o1_against_official_mensa/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>人工智能可以将风格（例如声音、音乐、音调、速度等）复制到新内容中吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</link>
-      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
+      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格，并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</guid>
       <pubDate>Wed, 15 Jan 2025 00:13:09 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[我有很多视频都没有音频。有没有什么技术可以告诉你发生了什么？    提交人    /u/Jake_Bluuse   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1jer3/are_there_technologies_to_explain_whats_happening/</guid>
       <pubDate>Tue, 14 Jan 2025 23:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI ChatGPT 将放射图像解析为 GPT-4，充当医生进行快速体检</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1hgxg/openai_chatgpt_interprets_radiological_images/</link>
-      <description><![CDATA[标题：OpenAI ChatGPT 解释放射图像：GPT-4 充当医生进行快速检查 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“OpenAI ChatGPT 解释放射图像：GPT-4 充当医生进行快速检查”，作者是 Ömer Aydin 和 Enis Karaarslan。 本文探讨了 GPT-4 模型的有趣功能，特别是它在像医疗专业人员一样解释放射图像方面的应用。随着 AI 在医疗保健领域的蓬勃发展，本文深入探讨了 GPT-4 作为独立诊断工具或人类临床医生的支持性决策系统的潜力。以下是几个关键点和发现：  AI 能力扩展：论文重点介绍了 GPT-4 的新功能集，其中包括图像处理——这是对其前代产品的升级，标志着 AI 能力的重大飞跃，尤其是在医疗诊断方面。 诊断评估：通过一系列分析胸部 X 光图像的测试，GPT-4 展示了其给出诊断解释的能力。令人印象深刻的是，它可以识别肺炎等疾病，尽管在辨别细菌和病毒感染时的准确度各不相同。 准确性和挑战：人工智能在诊断一系列疾病时产生了好坏参半的结果；虽然它在识别 COVID-19 肺炎方面表现出能力，但其区分细菌和病毒感染的能力不太可靠，说明需要进一步改进。 临床应用潜力：尽管目前存在局限性，但该论文认为 GPT-4 可以作为医学诊断的有用补充工具，特别是在资源受限且无法进行专家放射学分析的环境中。 道德和安全问题：强调了围绕医疗保健领域 AI 的持续担忧，作者强调了解决数据隐私和偏见的重要性，并强调需要强有力的监管才能将 GPT-4 等 AI 工具安全地集成到临床环境中。  您可以在此处查看完整细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1hgxg/openai_chatgpt_interprets_radiological_images/</guid>
-      <pubDate>Tue, 14 Jan 2025 21:50:00 GMT</pubDate>
     </item>
     <item>
       <title>欺诈性人工智能企业</title>

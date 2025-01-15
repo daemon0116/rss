@@ -4,9 +4,16 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 02:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 03:19:39 GMT</lastBuildDate>
     <item>
-      <title>运营商？？和 C# 中的 ??=</title>
+      <title>Elixir 中运算符 |> 的强大功能：优雅且易读</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1nza3/el_poder_del_operador_en_elixir_elegancia_y/</link>
+      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1nza3/el_poder_del_operador_en_elixir_elegancia_y/</guid>
+      <pubDate>Wed, 15 Jan 2025 03:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>操作员??和 C# 中的 ??=</title>
       <link>https://www.reddit.com/r/programming/comments/1i1mzxl/el_operador_y_en_c/</link>
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1mzxl/el_operador_y_en_c/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i17g69/generating_openapi_webhook_definitions/</guid>
       <pubDate>Tue, 14 Jan 2025 14:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么应该使用紧凑的表格列</title>
-      <link>https://www.reddit.com/r/programming/comments/1i16yp3/why_you_should_use_compact_table_columns/</link>
-      <description><![CDATA[  由    /u/vladmihalceacom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i16yp3/why_you_should_use_compact_table_columns/</guid>
-      <pubDate>Tue, 14 Jan 2025 14:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
