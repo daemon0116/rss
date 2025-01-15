@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 19:14:31 GMT</lastBuildDate>
     <item>
       <title>Premiere 真的有那么痛苦吗，还是我只是被宠坏了？</title>
       <link>https://www.reddit.com/r/editors/comments/1i232ay/is_premiere_really_that_painful_or_am_i_just/</link>
@@ -32,13 +32,6 @@
       <description><![CDATA[所以我有一部复杂的短片，里面有很多分屏和形状。在 Premiere 中，我使用白色图像形成正方形，然后在素材上使用轨道遮罩来匹配该图像的形状 - 我的问题是 - 有没有办法在 Resolution 中重复此操作。我试过合成，但似乎无法实现？在我煞费苦心地重做一切之前有什么想法吗？我正在使用 Resolve 18 和 Premiere 24.3.0    提交人    /u/bennybenbenben500   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1zfsv/premiere_to_resolve_bringing_over_track_mattes/</guid>
       <pubDate>Wed, 15 Jan 2025 15:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买入门级 PC</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1za78/buying_a_starting_pc/</link>
-      <description><![CDATA[-我想创建一个家庭编辑套件，但在 CPU 方面我是新手。任何意见都会有所帮助。  -我正在看一台翻新的 Z440（我在工作中使用的工作站），但它有很多处理器选项。  -Xeon E5-2687WV3 是否足以开始？它有 10 个内核，运行速度为 3.10GHz。这个版本在 pcserverandparts.com 上的售价在 200-300 美元之间。如果有人以前使用过它们，我也很乐意听取您对体验的反馈。  -有关更多信息，它将具有 32GB 的 Ram，运行 Premiere Pro，并处理一些 4k（我知道这会减慢一些进程），但主要是编辑高清序列。  -Premiere 的推荐规格如下：英特尔第 7 代或更新版本，高清 16GB 内存，4k 32GB 内存。  -经过一番研究，我得到了关于此 CPU 是第 5 代还是第 6 代的混合信息。E5 会让我认为它是第 5 代，并且不适用于 Premiere，但我还看到 4 位数字中的第 2 个数字是代数，这让我认为这实际上是第 6 代处理器。    提交人    /u/bigdrewrocks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1za78/buying_a_starting_pc/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:01:43 GMT</pubDate>
     </item>
     <item>
       <title>.mp4 视频出现故障（不是延迟问题）</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/busquince  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1alfi/pls_help_im_looking_for_someone_with_fcp7_still/</guid>
       <pubDate>Tue, 14 Jan 2025 16:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>声音设计师遇到的 AAF 问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</link>
+      <description><![CDATA[*已解决* 现在可以正常工作了。我不知道为什么我没有早点这样做，但设置中显示“将音频文件转换为”，然后出现一个框，您可以在其中选择 PCM、Aiff 和 Wave，这应该是在 PCM 上设置的。不知道它是否被放在了别的地方。尽管如此。现在可以正常工作了，我的声音编辑器也很高兴。谢谢大家的时间。 大家好 我会尽量简短地说。 我正在使用 Avid Media 作曲家 当我将 AAF 发送给我的声音设计师时，他无法将其重新链接到原始声音文件。它只是说找不到任何东西。他说缺少元数据。 我们尝试过合并。 我们尝试过链接 我们尝试过进行 protools 导出。 他不想要嵌入式，因为这样他就无法链接到原始文件本身，也无法访问其他麦克风音轨，他说。 我通常不会遇到任何错误，而且通常运行顺畅。话虽如此，我并没有设置项目。我问一位同事我是否监督过某件事。他说这不应该那么麻烦。错误可能是他们摄取它时发生的，也可能是声音设计师自己做错了什么。 现在我问你，如果你对我可以做什么有什么建议，或者我是否必须将硬盘送回设置项目的人。 - 我很幸运能够通过 Davinci 解析将 AAF 重新链接到原件。尽管它在某些地方重新链接到不同的音频文件。但是。我想这总比没有好。仍在等待我的声音设计师的更新。 提前致谢。    提交人    /u/Guilty_Biscotti4069   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

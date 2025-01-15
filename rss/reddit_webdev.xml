@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 19:15:01 GMT</lastBuildDate>
+    <item>
+      <title>有关当前工作机会的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i253k6/help_regarding_a_current_job_offer/</link>
+      <description><![CDATA[我目前在一家初创公司担任 sde 实习生，6 个月以来我一直在寻找全职机会，我没有在简历中披露我当时正在担任实习生，我收到了一家金融科技公司的报价，我担心它会通过背景验证，救命！！    提交人    /u/anshulaaa_s   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i253k6/help_regarding_a_current_job_offer/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TypeScript 在 Express 中进行 Body、Params、Query 验证的最佳工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i24pg9/best_tools_for_body_params_query_validation_in/</link>
+      <description><![CDATA[大家好！我想试探一下你们今天在 Express 中使用哪些工具来验证请求正文、参数和查询字符串值，让你们以类型安全的方式使用 TypeScript 访问它们。 在我的调查中，这里似乎有很多选择，我对一些第一手资料很感兴趣，看看你们喜欢或不喜欢它们的地方。干杯！    提交人    /u/jake_robins   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i24pg9/best_tools_for_body_params_query_validation_in/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>向小型企业出售网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i240yu/selling_websites_to_small_businesses/</link>
+      <description><![CDATA[大家好，我正在寻找可以在家做的副业。我看到了一个主意。基本上就是寻找没有网站或网站过时的小型企业，并为他们提供创建一个新网站的机会。  我不会编写网站代码，而是更多地使用 WordPress 模板和页面构建器 + chatgpt 来制作内容。我确实对 HTML 和 css 有一些基础知识。  我会收取网站费用 + 每月托管费 + 维护费。我还可以提供其他服务。  有人这样做过吗？有用吗？你怎么看？谢谢！     提交人    /u/Fabulous-Designer626   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i240yu/selling_websites_to_small_businesses/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:24:51 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何 AI 工具可以复制/克隆现有网站并使其在 WordPress 或 Elementor 中可编辑？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i23lbz/are_there_any_tools_ai_or_not_that_can_copyclone/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨，Reddit， 向各位开发人员、设计人员和用户快速提问：在项目中添加复活节彩蛋是否仍然很时髦或有趣，或者我们已经超越了这一步？ 您知道我在说什么 - 隐藏消息、秘密功能或古怪的小惊喜，只有当有人做了意想不到的事情时才会出现。想想：Konami Code 级别的东西，甚至是隐藏在众目睽睽之下的对流行文化的微妙致敬。 我现在正在做一个项目，我想添加一些好玩的复活节彩蛋 - 也许是一个可以解锁的秘密主题、一个隐藏的双关语，甚至是一个有趣的错误消息。但问题是：  人们是否仍然喜欢寻找这些小宝石，还是这显得太过努力？ 它们是否是一种不错的点缀，还是会分散应用程序/工具的主要功能？ 您是否曾被感觉不必要或不合适的复活节彩蛋所困扰？  我很想听听您的想法（如果您遇到任何好的复活节彩蛋，也许甚至是您最喜欢的复活节彩蛋）。我应该继续在项目中偷偷添加一点乐趣，还是保持干净和专注？ 期待听到大家的想法！    提交人    /u/Blechkelle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1wtub/are_easter_eggs_in_projects_still_cool_or_just/</guid>
       <pubDate>Wed, 15 Jan 2025 12:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Laravel 中实现基于角色的访问控制 (RBAC)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1wkc5/how_to_implement_rolebased_access_control_rbac_in/</link>
-      <description><![CDATA[        由    /u/Permit_io  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1wkc5/how_to_implement_rolebased_access_control_rbac_in/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何阻止除我之外的任何人访问我的 aws cdn？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</link>
-      <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于数据库触发器和 SSE 的快速问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1w4h7/quick_question_regarding_database_triggers_and_sse/</link>
-      <description><![CDATA[大家好，希望有人能让我走上正确的轨道！ 我有一个 MySQL 数据库、一个使用 Prisma ORM 的 Express 后端和一个 Next.js 前端。我正在尝试实现一个工作流，其中对后端数据库表的更新调用应该向前端触发一个 SSE，前端有一个“监听”这些事件的组件。 当这些事件到达时，前端不应该改变——我有一个组件准备好在后端到达时在屏幕上呈现每个事件。 我无法找出实现这一目标的最佳方法。数据库是否需要一个触发器来通知后端，然后将其传递给前端？前端的“监听”组件是否需要 EventSource？ Google/stackoverflow 尚未能够提供太多帮助，因此我希望得到一些指点。  提前致谢！！    由    /u/DaigCravid 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1w4h7/quick_question_regarding_database_triggers_and_sse/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:16:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
