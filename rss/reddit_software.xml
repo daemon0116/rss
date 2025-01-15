@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 04:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 05:18:20 GMT</lastBuildDate>
+    <item>
+      <title>电子邮件客户端同步问题</title>
+      <link>https://www.reddit.com/r/software/comments/1i1po8v/email_client_sync_problem/</link>
+      <description><![CDATA[没有办法将我在家中桌面上使用的 PC 上的 Outlook 中的草稿文件夹同步到 Android 上的 Gmail 应用吗？大多数其他 Android 客户端都可以轻松完成此操作。有人知道，这在 Gmail Android 应用中是否无法实现？    提交人    /u/tinpanalleypics   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1po8v/email_client_sync_problem/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决 Goggle Colab 中的这个错误</title>
+      <link>https://www.reddit.com/r/software/comments/1i1plrz/how_to_solve_this_error_in_goggle_colab/</link>
+      <description><![CDATA[如果我将其发布到了错误的社区，请原谅我  无法连接到 gpu 后端由于 colab 中的使用限制，您当前无法连接到 gpu。了解更多信息以获得更多 gpu 访问权限，请考虑购买按使用量付费的 colab 计算单元。 有人可以帮助我吗     提交人    /u/itzAbhishek2134   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1plrz/how_to_solve_this_error_in_goggle_colab/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>我正在为我的雇主寻找一款聊天软件。</title>
       <link>https://www.reddit.com/r/software/comments/1i1nvr6/im_looking_for_a_chat_software_for_my_employer/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！最近，我一直在玩时间限制游戏，玩家需要在特定期限内完成某些任务。我想知道是否有一个时间跟踪应用程序可以：  显示当前时间和当天的可视日历。 清楚地显示我错过了什么以及接下来会发生什么。  您对可能有用的工具或应用程序有什么建议或建议吗？提前谢谢！    提交人    /u/giocos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i138vb/managing_deadlines_timetracking_software/</guid>
       <pubDate>Tue, 14 Jan 2025 10:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>带标记和共享功能的参考图像管理器</title>
-      <link>https://www.reddit.com/r/software/comments/1i11b99/reference_image_organizer_w_tagging_and_sharing/</link>
-      <description><![CDATA[您好！我最近开始对不同活动、音乐视频等中的初音未来进行不同设计的存档。我想分享我的所有发现，但我不知道应该把它们放在哪里才能完整。我想要一个带有某种标记系统的软件/网站，这样就可以根据艺术家的绘画或主题轻松找到图像。我还希望这个存档可以共享，因为我希望其他人能够使用这些图像来绘制艺术作品。最好是免费软件，但如果价格低于 30 美元，我可以考虑。    提交人    /u/filthsama   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i11b99/reference_image_organizer_w_tagging_and_sharing/</guid>
-      <pubDate>Tue, 14 Jan 2025 08:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在学校 Chromebook 上安装 Minecraft</title>
-      <link>https://www.reddit.com/r/software/comments/1i0r0hy/install_minecraft_on_school_chromebook/</link>
-      <description><![CDATA[标题总结了一切。学校很无聊，所以我想找到一种方法在学校笔记本电脑 (Chromebook) 上安装 Minecraft。我已经使用装有安装程序的 USB 驱动器在计算机实验室的一台学校 Windows 计算机上安装了 Minecraft，但我只能在白天进入那个房间一段时间。Minecraft 最近为 Chromebook 发布了，但由于学校 Chromebook 受到限制和监控，在学校 Chromebook 上做有趣的事情要困难得多。无法通过设置安装 Linux，并且安装除 Chrome 之外的任何浏览器都很麻烦，据我所知，对我来说不起作用。如何使用 USB 驱动器作为资源在学校 Chromebook 上安装 Minecraft？    提交人    /u/Standard_Necessary61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0r0hy/install_minecraft_on_school_chromebook/</guid>
-      <pubDate>Mon, 13 Jan 2025 22:46:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

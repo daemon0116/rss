@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 04:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 05:18:47 GMT</lastBuildDate>
+    <item>
+      <title>如何实现这一转变？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1pplp/how_to_create_this_transition/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1pplp/how_to_create_this_transition/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态网站的 WP 和 Foursquare 替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1pnbw/alternatives_to_wp_and_foursquare_for_static_sites/</link>
+      <description><![CDATA[我是一名后端软件工程师。我在 Bluehost 上有几个 Wordpress 网站，我很想将它们改编为静态 HTML。我很少更新它们，而且当我更新它们时，我可以轻松地编辑 HTML，因此我不需要 CMS 来管理内容。拥有整个数据库、大量漏洞以及自动更新的主题和插件真的是一种浪费。我还希望保留偶尔添加自己的功能（例如自定义日志记录）的能力，因此 Foursquare 等服务也显得繁琐且有限制。 在后端工作这么多年，我感觉自己被排除在外了。是否有任何静态网站生成工具和模板可以将 Foursquare 等一些功能带入静态 HTML 环境？我很想看到具有 Foursquare 的所见即所得功能的东西，但在本地环境中。我可以使用带有图库页面、联系人、新闻等非常简单的东西。当然，我并不害怕代码，我只是不想让维护这些简单的网站开始像我的日常工作一样。    提交人    /u/cougaranddark   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1pnbw/alternatives_to_wp_and_foursquare_for_static_sites/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里是获取适用于小型 Ghost（软件）博客（浏览量很少）和 discord 机器人的 VPS 最便宜的地方？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1pm20/what_is_the_cheapest_place_to_get_a_vps_for_a/</link>
+      <description><![CDATA[我现在与 hostinger 共享主机，但他们的 VPS 极其昂贵（至少对我而言）。我的计划还剩下几乎整整 4 年，所以我打算将其用于我的投资组合。 我有这个博客（不分享链接，因为我并不想自我推销），虽然它是在 Notion 上运行（借助一个名为 NoteHost 的软件），但我想切换到幽灵博客。 我会使用 WordPress，但它对我的需求来说太笨重了。我只想要一些非常简单的东西。我想从 Notion 切换，因为我希望能够拥有评论功能，并且加载时间比我在 Notion 上想要的要长。WordPress 加载也需要一点时间。 我不需要来自服务器的电子邮件。我曾经有一台 1GB 的服务器，但是每当我用 pm2 运行 discord 机器人时，它都会占用所有内存，所以我认为机器人至少需要 2GB。我认为 ghost 根本不需要太多内存，它可能在 1GB 上就能正常运行。所以，2GB 的服务器应该没问题，虽然我从未使用过 ghost，所以我不知道。 或者，是否有其他可以在共享主机上运行的可以运行博客的软件？可能有一个我可以连接到 Obsidian 的软件，这样我就可以通过插件编写和发布？（虽然我怀疑是否存在谁知道呢） 任何建议都值得赞赏！    提交人    /u/DudeThatsErin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1pm20/what_is_the_cheapest_place_to_get_a_vps_for_a/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:31:46 GMT</pubDate>
+    </item>
     <item>
       <title>如何建立一个像 wattpad 一样但规模较小的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1ocmy/how_to_build_a_web_like_wattpad_but_smallscaled/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我的 Web 应用程序开发老师刚刚给我们布置了一项作业，我完全不知道从哪里开始。我真的不知道如何在不复制粘贴的情况下传达作业。 &quot;您需要注册一个域名 将您的域名指向他们的 Web 服务器。 确保您的 Web 服务器提供 PHP、Javascript 和 MySQL（或类似的数据库）。 您不会使用它们来创建网页或 Web 应用程序 - 您将学习如何自己做这件事。 在您的服务器上创建一个 index.html 文件。它应该说“我的名字是 xxxxxx” 包括一些适合 A 的图片。其中一张应该是你的脸部照片。“ 我们甚至还没有在课堂上见过面，除了我粘贴的内容之外没有其他指导。我不想在家庭作业上花钱选错东西。我想我能够弄清楚所有的开发部分，但我不知道该选择哪个提供商或如何判断哪些是好是坏。 编辑：我的主要问题是选择正确的提供商，我不想花 30 美元买一些我不能用于这项作业的东西。我不知道如何正确审查提供商。 更新：我决定购买一个域名并使用 GitHub Page 功能免费启动和运行一个网站，这样我就可以提交作业了。我稍后会向我的老师询问更多细节。 Web 开发很可怕    提交人    /u/ChungusGinger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1jd9p/web_app_class_assignment/</guid>
       <pubDate>Tue, 14 Jan 2025 23:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝塞尔曲线的一个漂亮应用，用于模拟网站中自然的鼠标移动。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1iu1f/a_beautiful_application_of_bézier_curves_to/</link>
-      <description><![CDATA[        由    /u/maverick594  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1iu1f/a_beautiful_application_of_bézier_curves_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 关键帧动画及其对用户体验的影响</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1c2ij/css_keyframes_animation_and_impact_on_ux/</link>
-      <description><![CDATA[我想知道大家使用关键帧动画的经验以及它对浏览器的影响？我一直在摆弄类似霓虹灯的阴影，它似乎真的在 Chrome 中拖累了页面。 * 完全透明，我是一名 UX 人员，而不是开发人员。 这是我的代码供参考： neonText-green { animation: flicker_green 1.5s infinite alternative; color: #fff;文字阴影：0 0 7px #fff，0 0 10px #fff，0 0 21px #fff，0 0 42px var(--success)，0 0 82px var(--success)，0 0 92px var(--success)，0 0 102px var(--success)，0 0 151px var(--success); 边框：0.2rem solid #fff; 边框半径：1rem; 填充：0.4em;盒子阴影：0 0 .2rem #fff，0 0 .2rem #fff，0 0 2rem var（--success），0 0 0.8rem var（--success），0 0 2.8rem var（--success），插入 0 0 1.3rem var（--success）；背景颜色：var（--success）； } /* 闪烁动画 */ 关键帧 flicker_green { 0%, 18%, 22%, 25%, 53%, 57%, 100% { text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 19px #fff, 0 0 40px var(--success), 0 0 80px var(--success), 0 0 90px var(--success), 0 0 100px var(--success), 0 0 150px var(--success); } 20%, 24%, 55% { text-shadow: none; } }     提交人    /u/AnthemWild   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1c2ij/css_keyframes_animation_and_impact_on_ux/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:58:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有没有人真的使用过 ThemeForest 的 React 模板来开发生产/公共 Web 应用？你的体验如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i19qlg/has_anyone_here_ever_actually_used_a_react/</link>
-      <description><![CDATA[我目前正在构建一个具有两个主要功能的应用程序：浏览器扩展和实际的 Web 应用程序，它将显示大量数字信息（即图表和数据表等）。大约 12 年前，当我刚开始涉足 Web 开发时，我经常使用 ThemeForest 的 WordPress 主题，它们非常适合此目的。现在，我想知道将 ThemeForest 中的“React Admin”模板用于我的新应用程序是否可行。据记录，我过去曾将一些 React Admin 模板用于个人项目，但从未将其用于最终可能拥有大量流量并面向公众的项目。 有人曾将 ThemeForest 中的模板用于类似目的吗？我特别好奇，这是否会让您在未来的工作中过多地使用主题的开发团队，或者您是否觉得代码质量不够好，等等。我希望我的项目能在早期开始创收，但我不知道这是否足以雇用一个或多个 FE 开发人员（我是一名 FE 开发人员，但最终需要帮助，因为时间至关重要），因此能够节省 FE 开发工作上的资金对我提议的公司来说可能是一个巨大的福音。 我非常想听听你们的想法。我知道找到一个符合您项目特定需求的主题可能很困难（例如 TypeScript 与 JS、Remix 与 Next 与 SPA、Bootstrap 与 ShadCN 等）。但有些主题似乎评价很高（例如 Isomorphic、Skote 等）。让我知道你们的想法。 编辑：我也想知道哪条路更好，以防我们以后想进行设计更改。像 ShadCN 这样的组件非常可定制，但理论上 React 管理仪表板模板中一个不错的组件库也将非常可定制（并提供更多现成的功能）    提交人    /u/Murky-Science9030   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i19qlg/has_anyone_here_ever_actually_used_a_react/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:20:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
