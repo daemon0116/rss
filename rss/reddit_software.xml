@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 11:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:35:54 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找适用于 Windows 11 的简约、用户体验友好且免费的电子邮件应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1i1vysv/looking_for_a_minimalistic_uxfriendly_free_email/</link>
+      <description><![CDATA[我需要的功能：  分组收件箱 多个帐户 回复、转发、抄送等基本功能。没什么特别的 用户体验友好  有一些电子邮件应用程序符合这种描述。但我尝试过的所有应用程序要么功能过多，要么不免费。 我尝试过但不喜欢的应用程序：  Thunderbird（太多） Mailspring（是我迄今为止尝试过的最好的） 来自 Windows 的邮件（迫使我使用其他应用程序） Spark（在我的 PC 上运行非常慢，但最简约）     提交人    /u/cocouz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1vysv/looking_for_a_minimalistic_uxfriendly_free_email/</guid>
+      <pubDate>Wed, 15 Jan 2025 12:06:32 GMT</pubDate>
+    </item>
     <item>
       <title>我的小企业的网站托管</title>
       <link>https://www.reddit.com/r/software/comments/1i1u321/web_hosting_for_my_small_business/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如何使用 nomacs 从 GIF、APNG 以及动画 WEBP 和 AVIF 文件中提取帧？目前可以使用该工具执行此操作吗？    提交人    /u/Low-Finance-2275   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i17vay/nomacs_extract_from_animated_images/</guid>
       <pubDate>Tue, 14 Jan 2025 14:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP PSC 1210：如何在 Windows 11 上为旧打印机扫描仪安装驱动程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1i17b2v/hp_psc_1210_how_to_install_drivers_for_an_old/</link>
-      <description><![CDATA[嗨。我有一台带扫描仪的旧 HP PSC 1210 打印机，我很难找到适用于 Windows 11 笔记本电脑的驱动程序。我尝试从 HP 网站下载，但只有 Windows XP 驱动程序可用，无法使用。设备管理确实检测到打印机，但我不知道 Windows 驱动程序是否正确。此外，安装软件时，程序无法检测到已插入的打印机，即使我已经将其插入。我不需要笔记本电脑进行打印，只需要扫描。希望有人能帮助我。注意：忽略打印机和安装程序上的不同语言，我来自菲律宾。 https://preview.redd.it/0i2zyb1dzyce1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=44e819543cbb0fe64d36249612592a22b6a16046 https://preview.redd.it/e29gca1dzyce1.jpg?width=1537&amp;format=pjpg&amp;auto=webp&amp;s=edeb9debd57cf5660496a7686785f2e2efb61b13 https://preview.redd.it/9qzoy81dzyce1.png?width=646&amp;format=png&amp;auto=webp&amp;s=8603d47c1f10531eb00f9b938c24481789c9addc    提交人    /u/m0ym0y   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i17b2v/hp_psc_1210_how_to_install_drivers_for_an_old/</guid>
-      <pubDate>Tue, 14 Jan 2025 14:31:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
