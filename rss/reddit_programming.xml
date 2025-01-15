@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 13:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 14:16:57 GMT</lastBuildDate>
+    <item>
+      <title>我有一个问题。关于固件</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1xl7d/i_have_a_question_in_regards_to_firmware/</link>
+      <description><![CDATA[我是一名创客。我使用不同的 3D 打印机。我需要能够增加我的一台 Saturn 3 Eleegoo 树脂打印机的 z 轴。我联系了 Eleegoo，他们试图询问研发部门是否愿意帮我更改。不幸的是，他们说不行。所以我要看看我是否可以付钱请人做或者自己做。我甚至怀疑自己是否能想象到自己尝试去做这件事。所以我向你们这些可爱的人求助。我只需要将 z 轴增加 25 毫米。我重建了我的 3D 打印机，以便能够做到这一点。它移动得很完美。然而，固件将它停在设定的高度。所以它不起作用。任何帮助建议或任何东西都会很棒。对我来说，编码就是试图将一个正方形放入一个圆形孔中。这对我来说太高级了。但如果必须的话，我会学习如何更改那一个设置。再次感谢您阅读这篇文章。希望您度过美好的一天！请您善待我，我陷入了困境。我花了一个星期的时间重建打印机并重新加工。我没想到这会是个问题。好吧，我错了。     由    /u/munificentmike 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1xl7d/i_have_a_question_in_regards_to_firmware/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:39:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>首先检查你自己的 Pull 请求！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</link>
+      <description><![CDATA[  由    /u/ashwin2125  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</guid>
+      <pubDate>Wed, 15 Jan 2025 13:26:04 GMT</pubDate>
+    </item>
     <item>
       <title>面向 Delphi 和 C++ 开发人员的 TMS Academic 计划更新</title>
       <link>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/8loop8  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1sizo/alternative_source_code_format_other_than_text/</guid>
       <pubDate>Wed, 15 Jan 2025 07:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何引领技术转型 • Hannah Foxwell 和 Charles Humble</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1sasa/how_to_lead_through_transformation_in_tech_hannah/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1sasa/how_to_lead_through_transformation_in_tech_hannah/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>政策即代码 | 从基础设施到细粒度授权</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1r3ks/policy_as_code_from_infrastructure_to_finegrained/</link>
-      <description><![CDATA[  由    /u/Permit_io  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1r3ks/policy_as_code_from_infrastructure_to_finegrained/</guid>
-      <pubDate>Wed, 15 Jan 2025 06:04:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
