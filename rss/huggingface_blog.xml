@@ -4,7 +4,28 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 01 Jan 2025 01:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:20:08 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理已然存在。接下来该怎么办？</title>
+      <link>https://huggingface.co/blog/ethics-soc-7</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ethics-soc-7</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>视觉文档检索实现多语言化</title>
+      <link>https://huggingface.co/blog/vdr-2b-multilingual</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/vdr-2b-multilingual</guid>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>二氧化碳排放和模型表现：来自开放法学硕士排行榜的见解</title>
+      <link>https://huggingface.co/blog/leaderboard-emissions-analysis</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-emissions-analysis</guid>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 smolagents：用代码编写动作的简单代理。</title>
       <link>https://huggingface.co/blog/smolagents</link>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>🤗 社区开放文本转图像偏好数据集</title>
-      <link>https://huggingface.co/blog/image-preferences</link>
+      <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>
+      <link>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</link>
       <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/image-preferences</guid>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎使用 PaliGemma 2 – Google 的全新视觉语言模型</title>
-      <link>https://huggingface.co/blog/paligemma2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/paligemma2</guid>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“法学硕士在纠正错误方面有多好？使用 Keras 和 TPU 进行聊天机器人竞技场实验</title>
-      <link>https://huggingface.co/blog/keras-chatbot-arena</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/keras-chatbot-arena</guid>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 3C3H 重新思考 LLM 评估：AraGen 基准和排行榜</title>
-      <link>https://huggingface.co/blog/leaderboard-3c3h-aragen</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboard-3c3h-aragen</guid>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</guid>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

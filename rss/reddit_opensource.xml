@@ -4,111 +4,111 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 22:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:21:20 GMT</lastBuildDate>
     <item>
-      <title>我创建了这个开源 Python 包：🤖 AWS Lambda 中的 Slack Bot w/OpenAI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwwf5n/i_created_this_opensource_python_package_slack/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwwf5n/i_created_this_opensource_python_package_slack/</guid>
-      <pubDate>Wed, 08 Jan 2025 22:07:50 GMT</pubDate>
+      <title>将手机用作网络摄像头的应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1kluq/app_for_using_your_phone_as_a_webcam/</link>
+      <description><![CDATA[有开源选项吗？    提交人    /u/Slight_Gap_8519   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1kluq/app_for_using_your_phone_as_a_webcam/</guid>
+      <pubDate>Wed, 15 Jan 2025 00:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>Valyent：开发人员优先的云平台。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</link>
-      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</guid>
-      <pubDate>Wed, 08 Jan 2025 20:41:41 GMT</pubDate>
+      <title>Git 意见</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</link>
+      <description><![CDATA[如果您认为 git 很复杂，那么您个人最喜欢的版本控制工具是什么？    提交人    /u/emonshr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</guid>
+      <pubDate>Tue, 14 Jan 2025 23:38:42 GMT</pubDate>
     </item>
     <item>
-      <title>React 中有没有什么小游戏？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
-      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
-      <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
+      <title>OpenHabitTracker 1.1.0 现已推出，并带有简化的初始屏幕</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</link>
+      <description><![CDATA[非常感谢您的反馈！ 你们中的许多人都说初始屏幕让人不知所措，所以我对其进行了简化： - 从欢迎说明开始，而不是复杂的示例 - 从仅注释选项卡开始，而不是所有内容（注释、任务、习惯） - 从打开菜单开始，而不是搜索、过滤、排序 OpenHabitTracker 现在也可以在 Flathub 上使用（它应该很快就会在 Flathub 网站上可见） OpenHabitTracker 是一个开源 Blazor 应用程序，用于管理任务、笔记和习惯。它可以在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请访问 https://openhabittracker.net 我很想听听您对未来更新的想法或意见！   由    /u/Jinjinov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 CLI，可以在一分钟内优化你的 AI 提示</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</link>
-      <description><![CDATA[       由    /u/jsonathan  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:55:48 GMT</pubDate>
+      <title>Litecuda - 用 C++ 编写的轻量级 GPU 虚拟化框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</link>
+      <description><![CDATA[大家好，我正在启动一个新的开源项目，部分是为了更好地学习 C++，部分是为了向人们提供一些有用的东西。 受到另一个开源项目 (scuda) 的启发，我决定构建 Litecuda 一个用于 GPU 虚拟化的轻量级 C++ 框架，旨在在单个物理 GPU 上模拟多个独立的虚拟 GPU 实例。 它旨在实现跨多个虚拟 GPU 高效共享 GPU 资源（如内存和计算）。我才刚刚开始这个项目，正在寻找其他贡献者和扩展它的想法。    提交人    /u/_twelvechess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>自托管 Strava 统计 v0.3.0 已发布🚀。支持所有类型的活动，并带来大量生活质量改进</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</link>
-      <description><![CDATA[嗨 r/opensource ! 我很高兴地宣布，我们刚刚发布了 v0.3.0！ Strava 统计数据允许您自行托管使用 Strava 数据生成的统计数据  示例：https://strava-statistics.robiningelbrecht.be 安装说明：https://github.com/robiningelbrecht/strava-statistics  v0.3.0 引入了对所有活动类型的支持 🚀 ⚠️ 此版本引入了重大变化，升级前请阅读https://github.com/robiningelbrecht/strava-statistics/wiki/Migrate-from-v0.2.x-to-v0.3.x 路线图上的变化和改进：https://github.com/robiningelbrecht/strava-statistics/issues    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:32:42 GMT</pubDate>
+      <title>RAG 的 5 大开源数据抓取工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dbjv/top_5_open_source_data_scraping_tools_for_rag/</link>
+      <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dbjv/top_5_open_source_data_scraping_tools_for_rag/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:51:16 GMT</pubDate>
     </item>
     <item>
-      <title>claude-term 介绍：一款基于终端的增强 Claude AI 交互的工具 🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</link>
-      <description><![CDATA[大家好！我很高兴与大家分享我创建的一个名为 claude-term 的工具 - 一个用于与 Claude AI 交互的基于终端的界面，它为桌面带来了一些独特的功能。 主要特点：  🗂️ 基于项目的上下文管理：将您的对话组织成项目，每个项目都有自己的上下文和系统提示 📄 实时文件同步：文件符号链接到其原始位置，这意味着对文件的任何更改都会立即反映在您的 Claude 对话中 🔄 交互式终端界面：丰富、干净的终端 UI，实现无缝对话 🎯 自定义系统提示：为每个项目设置特定的系统提示以获得定制的响应 💻 易于使用：用于管理项目和开始对话的简单 CLI 命令  这个工具的特别之处在于它处理文件的方式。当您将文件添加到项目时，它会创建指向原始文件位置的符号链接。这意味着：  您对原始文件所做的任何更改都会立即在您的 Claude 对话中可用 无需重复文件或手动同步 非常适合使用实时代码库的开发人员或编辑文档的作者  它是开源的并且易于设置 - 您只需要 Python 3.12+ 和 Anthropic API 密钥。在 GitHub 上查看：https://github.com/rss-holmes/claude-term 我很乐意听到您的想法和反馈！如果您有任何问题或改进建议，请告诉我。    提交人    /u/g11g4m3sh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:58:18 GMT</pubDate>
+      <title>最好的 AI Agent 框架是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</link>
+      <description><![CDATA[提前致谢！    由    /u/omnisvosscio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</guid>
+      <pubDate>Tue, 14 Jan 2025 17:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 VanillaHTML（CSS 文件）| 我很乐意听取对我项目的反馈 :)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</link>
-      <description><![CDATA[  由    /u/Head-Cup-9133  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:55:03 GMT</pubDate>
+      <title>在 #TiDB 播客中听 OSI 执行董事 Stefano Maffulli 与 Ray Paik 和 Daniel van Eeden 讨论为什么我们需要对 #OpenSourceAI 进行单独的定义。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</guid>
+      <pubDate>Tue, 14 Jan 2025 17:29:02 GMT</pubDate>
     </item>
     <item>
-      <title>我开源了我的 3D Boomer Shooter 来帮助其他人学习 Godot</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwoncp/i_open_sourced_my_3d_boomer_shooter_to_help/</link>
-      <description><![CDATA[       由    /u/m4rx  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwoncp/i_open_sourced_my_3d_boomer_shooter_to_help/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:47:15 GMT</pubDate>
+      <title>Kutt v3 - 免费开源 URL 缩短器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</link>
+      <description><![CDATA[        提交人    /u/poeti8   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>Foss Fest 黑客马拉松</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwo32h/foss_fest_hackathon/</link>
-      <description><![CDATA[2 月 21 日至 22 日，我们将组织一场免费的在线开源 Hackathon。 https://os-sci.com/event/foss-fest-2025-international-hackathon-14/register    提交人    /u/todaynaz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwo32h/foss_fest_hackathon/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:24:53 GMT</pubDate>
+      <title>希望能为开源新手提供一些建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i18vay/hoping_for_some_advice_for_an_open_source_novice/</link>
+      <description><![CDATA[我以网页形式为自己创建了一个工具。我认为它的功能细节与我的问题无关。我经常使用它，我想公开这个工具，并提供源代码。我开发软件已有一段时间了，但是我对各种许可证的了解有限，而且我不知道是否存在需要注意的陷阱。 以下是我在许可证中寻找的几件事：  我希望我的作品可以免费使用，并且任何人都可以以任何理由使用它的任何部分，但有一些限制。 我想确保如果有人托管他们自己的工具版本，他们不会以相同的名称托管，以便可以轻松找到原始版本并且可以轻松找到源代码。 我不想因其他人使用该软件或其源代码而承担任何责任。  我的作品仅使用根据 MIT 和 BSD 许可证发布的几个依赖项。  一些研究表明，LGPL v3 许可证可能满足我的大部分需求，但我认为它不会满足我的所有需求，而且我不知道修改它的含义是什么。 来自这个社区的任何建议都将不胜感激。    提交人    /u/Cataclysm666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i18vay/hoping_for_some_advice_for_an_open_source_novice/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>世界街机：使用世界模型玩扩散生成的游戏！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwms4n/world_arcade_play_diffusion_generated_games_using/</link>
-      <description><![CDATA[嘿 r/opensource 👋 我一直在深入研究交互式视频模型（世界模型）以及它们未来可能为游戏带来的体验。现在，您可以在基于游戏数据训练的扩散模型上模拟整个游戏 - 使用基于前几帧 + 用户输入的转换器预测下一帧，而无需游戏引擎。  Decart 的 AI Minecraft 和 Genie 2 展示了一些很酷的演示/体验，并且有几款使用这些开源模型模拟的游戏。但是没有办法轻松找到这些游戏或在本地玩它们。这就是我和朋友在假期里建造的东西！ 游戏包括：  CS:GO Mario Kart 64 Yume Nikki Minecraft 各种 Atari 街机游戏  它们都是开源的（上面的游戏也是开源的，应用程序中有它们的链接）。我们的 Github 中有适用于 Linux 的安装程序，以及一个 Windows exe，便于安装。遗憾的是，Minecraft 游戏目前仅适用于 Linux。这些游戏相当简陋，你需要一个不错的 NVIDIA GPU，但很高兴看到即使是这个早期版本的技术也能做到。 很想知道大家对它的看法！如果您认为有趣，请在下面留下您的想法的评论并在 Github 上加星。 Github：https://github.com/dweam-team/world-arcade/ 网站：https://worldarcade.gg/    提交人    /u/dweamweaver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwms4n/world_arcade_play_diffusion_generated_games_using/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:29:46 GMT</pubDate>
+      <title>Photoshop 免费 Alt 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1817p/photoshop_free_alt/</link>
+      <description><![CDATA[好吧，我知道大多数人会立即回答 Gimp。我需要强调 - Gimp 不是我要找的。 我正在寻找的是 Photoshop 的开源替代品，以同样的方式支持文本层。我试过使用 Gimp，也许我完全不知道，但文本编辑系统似乎并没有随着每次更新而变得更易于使用。 如果这在最近的更新中有所改变，也许我只是不擅长使用 Gimp，请告诉我。 如果没有，我正在寻找一个像 Photoshop 这样的图层编辑系统，用于文本和文本效果光栅化而不是矢量化。 提前谢谢！ 编辑：感谢大家的建议！我会研究提到的软件。    提交人    /u/Runningman2319   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1817p/photoshop_free_alt/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>复活一个已经找到的丢失的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</link>
-      <description><![CDATA[大家好，开源 Redditors！我有点道德上的困惑。 早在 2008 年，有人编写并发布了一个名为 southatlantic 的 Java 游戏引擎和库（托管在 southatlantic-games.com）。很久以前，我玩过这个库，这是一个非常有趣的学习体验，使用起来很愉快（至少主观上）。但就我个人而言，在过去的 10-15 年里，生活阻碍了我，现在我又开始做更多的开源工作。但遗憾的是，在互联网档案馆进行了一些简单的挖掘后，该网站显然在 2019 年或 2020 年初的某个时候下线了——连同作者的所有示例、文档和代码。 现在，我一直有点“囤积癖”。最近，我在我的一个 NAS 设备中翻找东西，然后，我使用某种抓取工具存档了整个网站，同时存储了所有的 .jar、代码、Javadocs、实用程序、源代码 - 我的意思是所有内容。您可以从 Internet Archive 获取其中的一些内容，但它并没有获取所有内容 - 我做到了。 显然，它是由其作者根据知识共享许可（署名-非商业-相同方式共享 2.0 通用（CC BY-NC-SA 2.0））发布的，该许可似乎允许修改和重新分发用于非商业目的，我想使所有这些可用并以新名称对其进行改进，使其恢复生机，添加新功能。许可证似乎允许这样做。 但我犹豫着是否将其放回去。为什么？因为该网站及其所有作品都已消失，可能是作者出于某种原因将其删除。我想联系作者，看他们是否同意将其重新发布，但我所知道的只是一个来源名称，到目前为止，我无法发现他们的任何踪迹。 因此，尽管原作者是在允许我这样做的许可证下发布的，但我无法核实该网站及其作品的删除是故意的还是随着时间的流逝而消失。 我的问题是：如果一个开源项目拥有宽松的许可证，但可能因为某些神秘原因被作者故意破坏，那么恢复该项目的活力可以吗？  （是的，无论如何我都可以这样做，而且感觉没有跨越真正的道德界限，但我仍然想检查一下自己，因为我对此仍然有一点疑虑） 在此先谢谢大家的指导。    提交人    /u/trifleneurotic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:25:39 GMT</pubDate>
+      <title>如何为维基百科（网站）发展做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i16a7v/how_to_contribute_to_wikipedia_website_development/</link>
+      <description><![CDATA[是的，我想为网站开发做出贡献，比如用户界面，使其更加现代化，我不知道这是否可能，否则他们会拒绝你的要求。 我在 reddit 上看到了一篇关于 wikimedia、mediawiki 的旧帖子，我不明白，我只看到与 WIKIPEDIA 网站无关的项目，比如 kiwix、scribe 等。    提交人    /u/Antique-Question2460   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i16a7v/how_to_contribute_to_wikipedia_website_development/</guid>
+      <pubDate>Tue, 14 Jan 2025 13:40:59 GMT</pubDate>
     </item>
     <item>
-      <title>Laravel Sports Direct 爬虫和产品 CRM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwlg6q/laravel_sports_direct_crawler_and_products_crm/</link>
-      <description><![CDATA[只想分享一个免费的 Sport Direct 爬虫和用于管理产品的仪表板  https://github.com/EntroSolutions/sports-direct-crawler 它是开源的并且完全免费    提交人    /u/mbtonev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwlg6q/laravel_sports_direct_crawler_and_products_crm/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:28:23 GMT</pubDate>
+      <title>开源项目：社区救济协调应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1566p/open_source_project_community_relief_coordination/</link>
+      <description><![CDATA[大家好， 我想分享一个我最近几天构建的项目，该项目现在是开源的。这是一个简单的 Web 应用程序，旨在帮助协调救援工作，以应对最近的洛杉矶火灾。 这个想法很简单：  人们可以发布求助请求，指定他们需要什么、地点以及需要多少志愿者。 志愿者可以按类别（例如住房、医疗、交通）和位置搜索这些请求，以找到他们可以做出贡献的方式。  虽然它是为特定事件而创建的，但它的设计非常灵活，可以轻松用于世界任何地方的其他事业。 它以Replyke为后端，以 React 为前端，并包含位置过滤和分类请求等功能。代码是开源的。 您可以在此处找到 repo：https://github.com/Tsabary/Aid 此处的实时项目（将您的位置设置为 Malibu/HollyWood 附近的某个地方，以查看强制位置过滤的帖子）：https://aid.replyke.com    提交人    /u/YanTsab   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1566p/open_source_project_community_relief_coordination/</guid>
+      <pubDate>Tue, 14 Jan 2025 12:41:01 GMT</pubDate>
     </item>
     <item>
-      <title>当谈到移动设备上的 DAW 时，我们有哪些选择？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</link>
-      <description><![CDATA[对于专业工作，桌面版本显然是首选，但移动版本仍可用于随时随地起草一些东西，等等。 即使在 Linux 桌面上，我认为我们仍然在一些生产性应用程序方面迎头赶上（使用 Gimp 及其替代品专业地编辑图片，KdenLive 仍在完善中，等等），数字音乐制作就是其中之一。但对于一些较轻的工作负载，桌面上仍然存在一些选项，这些工作负载不需要专有替代方案提供的功能，例如 LMMS 或 Zrythm。 现在，当谈到移动设备上的 DAW 时，我们有哪些选择，类似于 IOS 和 Android 上的 FL Studio Mobile 应用程序？🤔 是否有任何正在开发的活跃项目以实现这一目标？    提交人    /u/Empty-can-of-food-1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</guid>
-      <pubDate>Wed, 08 Jan 2025 08:25:59 GMT</pubDate>
+      <title>OnlyOffice，有什么问题？AGPL3 带有非标准序言。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i14d5j/onlyoffice_whats_the_catch_agpl3_with_nonstandard/</link>
+      <description><![CDATA[5 分钟前在另一个 subreddit 上从未听说过它。立即去检查它的来源，有两件事引起了我的怀疑：非标准的序言，而乍一看却是标准的 Affero GPL 3，贡献者数量非常少，只有 13 人。我不是法律专家。它检查过了吗？ 这是许可证 https://github.com/ONLYOFFICE/DesktopEditors/blob/master/LICENSE     提交人    /u/moxyte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i14d5j/onlyoffice_whats_the_catch_agpl3_with_nonstandard/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>基于 Rust 构建的开源时间序列数据库，用于可观察性和物联网</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</link>
-      <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
-      <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
+      <title>巴黎开源人工智能峰会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i13149/paris_open_source_ai_summit/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i13149/paris_open_source_ai_summit/</guid>
+      <pubDate>Tue, 14 Jan 2025 10:18:00 GMT</pubDate>
     </item>
     <item>
-      <title>有没有以社区为中心的 Gotify 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
-      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
+      <title>Inkscape：一个爱情故事</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</link>
+      <description><![CDATA[我记得几年前运行过 Inkscape，当时想着“这太令人困惑了……回到 Adob​​e Illustrator。” 我不知道主要的 GUI 大修是什么时候发生的，或者我现在是否恰好更聪明了（怀疑），但昨天再次尝试后，我必须说我印象非常深刻。 昨天，我设法从头开始创建了一份看起来不错的简历，比我之前在 Adob​​e Illustrator 中的尝试更省力。我实际上认为 Inkscape 提供了更直观的工作流程。 我以前的工作流程包括运行带有 Windows 的虚拟机（我知道……我觉得很肮脏。），然后从那里运行 Photoshop、Illustrator 和 Acrobat。这当然会影响性能。 我只使用 Acrobat 来向使用 Illustrator 创建的 PDF 添加超链接。Inkscape 能够导出带有有效链接的 PDF。 这意味着我现在终于可以摆脱虚拟机了。我将使用 Gimp 而不是 Photoshop :P    提交人    /u/TajinToucan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</guid>
+      <pubDate>Tue, 14 Jan 2025 08:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

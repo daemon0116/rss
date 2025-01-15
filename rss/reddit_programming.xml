@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 22:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 01:20:56 GMT</lastBuildDate>
     <item>
-      <title>面向 LLM 开发人员的生成新闻通讯（每日，2 分钟阅读）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hww233/generative_newsletter_for_llm_devs_daily_2_minute/</link>
-      <description><![CDATA[  由    /u/Time-Ad-8034  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hww233/generative_newsletter_for_llm_devs_daily_2_minute/</guid>
-      <pubDate>Wed, 08 Jan 2025 21:52:44 GMT</pubDate>
+      <title>介绍 Venator 1.0 - 日志和跟踪查看器</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1lzbm/introducing_venator_10_log_and_trace_viewer/</link>
+      <description><![CDATA[  由    /u/kmdreko  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1lzbm/introducing_venator_10_log_and_trace_viewer/</guid>
+      <pubDate>Wed, 15 Jan 2025 01:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在创建比 ayrshare 价格更好的选择</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwv7ge/we_are_creating_better_priced_option_to_ayrshare/</link>
-      <description><![CDATA[  由    /u/bundlesocial  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwv7ge/we_are_creating_better_priced_option_to_ayrshare/</guid>
-      <pubDate>Wed, 08 Jan 2025 21:16:51 GMT</pubDate>
+      <title>ASCII 绘图库</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1lqve/ascii_drawing_library/</link>
+      <description><![CDATA[  由    /u/Danii_222222  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1lqve/ascii_drawing_library/</guid>
+      <pubDate>Wed, 15 Jan 2025 01:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>超越无服务器基础知识：探索 Cloudflare Workers、Deno Deploy 和 WASM 解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwqc1z/beyond_the_basics_of_serverless_exploring/</link>
-      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwqc1z/beyond_the_basics_of_serverless_exploring/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:55:17 GMT</pubDate>
+      <title>Downtown Doug Brown » 为什么我的 CPU 使用率总是 100%？</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1hrds/downtown_doug_brown_why_is_my_cpu_usage_always_100/</link>
+      <description><![CDATA[  由    /u/Pandalicious  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1hrds/downtown_doug_brown_why_is_my_cpu_usage_always_100/</guid>
+      <pubDate>Tue, 14 Jan 2025 22:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>HipScript：使用 WebGPU 运行 HIP 和 CUDA 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwpk6d/hipscript_run_hip_and_cuda_code_with_webgpu/</link>
-      <description><![CDATA[  由    /u/dewmal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwpk6d/hipscript_run_hip_and_cuda_code_with_webgpu/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:24:01 GMT</pubDate>
+      <title>解析 C64 气泡波风流</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1f1jl/parsing_the_c64_bubble_bobble_wind_currents/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1f1jl/parsing_the_c64_bubble_bobble_wind_currents/</guid>
+      <pubDate>Tue, 14 Jan 2025 20:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>解决 Instawork 的单体/微服务难题</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwooy6/tackling_the_monolithmicroservices_dilemma_at/</link>
-      <description><![CDATA[  由    /u/the1024  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwooy6/tackling_the_monolithmicroservices_dilemma_at/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:49:05 GMT</pubDate>
+      <title>使用测试套件捕获内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1e8z9/catching_memory_leaks_with_your_test_suite/</link>
+      <description><![CDATA[  由    /u/itamarst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1e8z9/catching_memory_leaks_with_your_test_suite/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>Elliptic 简介：我的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwmf9c/intro_to_elliptic_my_programming_language/</link>
-      <description><![CDATA[  由    /u/drag0nabysm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwmf9c/intro_to_elliptic_my_programming_language/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:14:06 GMT</pubDate>
+      <title>Joel Hawksley：Maintainable.fm 上的前端复杂性的隐性成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</link>
+      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>带有 Github Copilot 和 Visual Studio 2022 的网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwm2gg/website_with_github_copilot_and_visual_studio_2022/</link>
-      <description><![CDATA[  由    /u/monsterboz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwm2gg/website_with_github_copilot_and_visual_studio_2022/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:58:02 GMT</pubDate>
+      <title>使用 Node.js + Apryse 在服务器上将 DOCX 转换为 Web 适用的 PDF</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1avy6/using_nodejs_apryse_to_convert_docx_to_webready/</link>
+      <description><![CDATA[  由    /u/9millionrainydays_91  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1avy6/using_nodejs_apryse_to_convert_docx_to_webready/</guid>
+      <pubDate>Tue, 14 Jan 2025 17:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>历史上最大的科技骗局</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwlm7p/the_greatest_tech_scam_in_history/</link>
-      <description><![CDATA[看来我对 Devin AI 的印象是正确的。     提交人    /u/AssociateOk4965   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwlm7p/the_greatest_tech_scam_in_history/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:36:33 GMT</pubDate>
+      <title>pgDog：PostgreSQL 的负载均衡器</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1a39e/pgdog_load_balancer_for_postgresql/</link>
+      <description><![CDATA[  由    /u/levkk1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1a39e/pgdog_load_balancer_for_postgresql/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:35:30 GMT</pubDate>
     </item>
     <item>
-      <title>先整理？实证设计的日常练习 • 肯特·贝克</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwky5l/tidy_first_a_daily_exercise_in_empirical_design/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwky5l/tidy_first_a_daily_exercise_in_empirical_design/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:04:19 GMT</pubDate>
+      <title>使用真实地理数据和几行代码创建玩具地球</title>
+      <link>https://www.reddit.com/r/programming/comments/1i19odf/creating_a_toy_earth_with_real_geographical_data/</link>
+      <description><![CDATA[  由    /u/Inst2f  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i19odf/creating_a_toy_earth_with_real_geographical_data/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:17:56 GMT</pubDate>
     </item>
     <item>
-      <title>亲力亲为的工程经理的缓慢消亡</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwkugi/the_slow_death_of_the_handson_engineering_manager/</link>
-      <description><![CDATA[  由    /u/zaidesanton  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwkugi/the_slow_death_of_the_handson_engineering_manager/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:59:25 GMT</pubDate>
+      <title>Fluent 断言偷偷地从 Apache 2.0 更改为 Source-Available（付费商业使用），而没有为过去的提交提供开源许可证</title>
+      <link>https://www.reddit.com/r/programming/comments/1i19l11/fluent_assertion_sneakily_changed_from_apache_20/</link>
+      <description><![CDATA[  由    /u/Muchaszewski  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i19l11/fluent_assertion_sneakily_changed_from_apache_20/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>工程师在大型已建立的代码库中犯的错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwkrhk/mistakes_engineers_make_in_large_established/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwkrhk/mistakes_engineers_make_in_large_established/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:55:10 GMT</pubDate>
+      <title>缓冲数据网格，最多包含 500 万个单元</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1928p/buffered_data_grid_with_up_to_5_million_cells/</link>
+      <description><![CDATA[  由    /u/TobiasUhlig  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1928p/buffered_data_grid_with_up_to_5_million_cells/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>Apple AirTags 如何工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwkcyf/how_do_apple_airtags_work/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwkcyf/how_do_apple_airtags_work/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:34:43 GMT</pubDate>
+      <title>🚀 介绍 Mirai：Flutter 的服务器驱动 UI</title>
+      <link>https://www.reddit.com/r/programming/comments/1i18fn2/introducing_mirai_a_serverdriven_ui_for_flutter/</link>
+      <description><![CDATA[  由    /u/divyanshub024  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i18fn2/introducing_mirai_a_serverdriven_ui_for_flutter/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>曼哈顿旅游问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwj44n/the_manhattan_tourist_problem/</link>
-      <description><![CDATA[  由    /u/lautarolobo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwj44n/the_manhattan_tourist_problem/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:29:45 GMT</pubDate>
+      <title>[修订版语法] C 的 TypeScript。Cp1、C+1 或 C plus 1 是一种输出 C 代码的编程语言，可让您使用现代功能，如命名空间、模块、枚举和结构上的方法、自动变量推断等！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i17w1x/revamped_synax_a_typescript_for_c_cp1_or_c1_or_c/</link>
+      <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i17w1x/revamped_synax_a_typescript_for_c_cp1_or_c1_or_c/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>一周后被 Meta 解雇：Prolog 工程师</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwj0sq/fired_from_meta_after_1_week_prolog_engineer/</link>
-      <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwj0sq/fired_from_meta_after_1_week_prolog_engineer/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:24:39 GMT</pubDate>
+      <title>生成 OpenAPI Webhook 定义</title>
+      <link>https://www.reddit.com/r/programming/comments/1i17g69/generating_openapi_webhook_definitions/</link>
+      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i17g69/generating_openapi_webhook_definitions/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>🔍 使用人工智能开发软件的 4 个陷阱</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</link>
-      <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:41:46 GMT</pubDate>
+      <title>为什么应该使用紧凑的表格列</title>
+      <link>https://www.reddit.com/r/programming/comments/1i16yp3/why_you_should_use_compact_table_columns/</link>
+      <description><![CDATA[  由    /u/vladmihalceacom  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i16yp3/why_you_should_use_compact_table_columns/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
