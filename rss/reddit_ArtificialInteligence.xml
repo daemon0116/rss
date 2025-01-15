@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 01:20:13 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 15 Jan 2025 02:43:39 GMT</lastBuildDate>
+    <item>
+      <title>测试 GPT-4o 和 o1 与门萨官方谜题的匹配情况</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mx9m/testing_gpt4o_and_o1_against_official_mensa/</link>
+      <description><![CDATA[我每天都在运行 ChatGPT 的 2025 年门萨日历拼图，看看它能否解决它们。 这是第 1 周的结果。 日期：1 月 1 日  拼图类型：日期计算 GPT-4：否 (N) GPT-01：是 (Y)  日期：1 月 2 日  拼图类型：字母选择 GPT-4：是 (Y) GPT-01：是 (Y)  日期：1 月3  谜题类型：填字游戏 GPT-4：否（N） GPT-01：否（N）  日期：1 月 4 日  谜题类型：单词网格 GPT-4：否（N） GPT-01：是（Y）  日期：1 月 5 日  谜题类型：税务问题 GPT-4：是（Y） GPT-01：是（Y）  日期：   谜题类型：词语形成 GPT-4：否（N） GPT-01：否（N）  日期：1 月 7 日   谜题类型：视觉推理 GPT-4：否（N） GPT-01：否（N）  如果您愿意，可以查看下面的完整文章。总结一下，当问题涉及交叉引用线索时，4o 会遇到困难。 如果问题涉及视觉推理，4o 和 o1 都会遇到困难。 我故意没有给它门萨卡上的内容以外的线索或说明。添加指令确实可以改善输出，但在我看来，这否定了这一点，因为这是人类参与解决问题的结果。 干杯，欢迎分享（免费链接）。 https://medium.com/@JimTheAIWhisperer/are-humans-smarter-than-ai-53bc79f7ff8d?sk=ec00a2240b52f99f71fb96cddbfc27a9    提交人    /u/JimtheAIwhisperer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mx9m/testing_gpt4o_and_o1_against_official_mensa/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试了 AI 发型更换器，但是......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mtuv/i_tried_ai_hairstyle_changer_but/</link>
+      <description><![CDATA[大家好， 我一直想改变我的发型，但我不确定哪种发型最适合我。  所以，我尝试了 AI 发型转换器，效果看起来不错。  但是，我注意到一个问题：当它改变我的发型时，它也会改变我的衣服。这是为什么？有什么办法可以避免这种情况吗？    提交人    /u/Prize_Ocelot_3831   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1mtuv/i_tried_ai_hairstyle_changer_but/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>做法：投递简历，寻找匹配的工作，练习面试（全部免费）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1l1ag/made_this_drop_your_resume_find_matching_jobs/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>人工智能可以将风格（例如声音、音乐、音调、速度等）复制到新内容中吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</link>
-      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格，并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
+      <description><![CDATA[所以我有这 2 个旧播客的创作者，并将他们全部放入 MP3 文件中。有没有办法让我通过机器学习来精确复制他们和风格并为他们提供新内容？  我们有 NotebookLM，它可以做得很好，也有新内容，但我们需要复制其他播客    提交人    /u/EmergencyAd7130   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1knd4/ai_for_copying_style_eg_voices_music_tone_speed/</guid>
       <pubDate>Wed, 15 Jan 2025 00:13:09 GMT</pubDate>
     </item>
@@ -41,13 +55,6 @@
       <pubDate>Tue, 14 Jan 2025 21:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>我应该做哪些准备？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1g0ct/what_should_i_do_to_prepare/</link>
-      <description><![CDATA[我认为大多数人都同意人工智能会以某种方式搞砸经济，最有可能的是大规模失业。 我今年 18 岁，很快就要高中毕业了，我绝对不想上 5 年大学，因为这听起来是目前最愚蠢的决定。 我开始想，在机器人接管和取代体力工作之前，我是否应该找一份体力工作并尽可能多地工作？    提交人    /u/ThatIsNotIllegal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1g0ct/what_should_i_do_to_prepare/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:45:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我到底在做什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1fz4d/what_am_i_even_working/</link>
       <description><![CDATA[Sam Altman 最近的声明明确表示，凭借我的白领工作（交易律师），我将无法在未来 1-3 年内与 AI 竞争。那有什么意义呢？这真的很令人沮丧。     提交人    /u/Spartanville1975   [link] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1ddv8/top_5_open_source_data_scraping_tools_for_rag/</guid>
       <pubDate>Tue, 14 Jan 2025 18:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能与知识管理：研究</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i1bdpp/generative_ai_and_knowledge_management_research/</link>
-      <description><![CDATA[你好。 我目前正在撰写一篇关于生成式人工智能对组织内知识管理流程影响的论文。我仍在学习和思考研究空白，以及我如何为该领域的创新做出贡献。我的想法是从信息和知识管理的角度来看待这项技术的影响。由于工人需要处理结构化和非结构化任务，采用 GenAI 工具看起来是一个有希望的未来，可以自动化重复性任务并增强工人的认知技能以改善决策。此外，当前的工业革命转变侧重于人类福祉，这让我感到受到启发，去研究这项技术如何增强他们的技能，而不是造成困扰。不是自动化他们的工作，而是增强他们的工作。 有了这个，我想听听你对 GenAI 和知识管理之间联系的看法。如果你在这个行业工作并使用 GenAI 工具 - 它们如何改善你的日常工作和任务？它们有用吗？您将 GenAI 用于哪些面向知识的任务？您的公司是否在其知识管理系统中部署了 GenAI？您是否从这些工具中获得了预期的结果并做出了更好、更快的业务决策？此外，如果您是该领域的专家，那么现在研究哪些研究差距是重要的，可以作为创造更多创新的方式？ 如果您有关于这个主题的有趣且重要的资源，我将不胜感激。 感谢您的时间 :)    提交人    /u/sugarbutterflour95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i1bdpp/generative_ai_and_knowledge_management_research/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:28:57 GMT</pubDate>
     </item>
     <item>
       <title>在人工智能时代仍有足够的机会取得成功。</title>
