@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 04:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 05:17:58 GMT</lastBuildDate>
+    <item>
+      <title>开源：通过 Transformers、Llama cpp、Ollama 部署或与 XAI、OpenAI、Anthropic、Open Router 或自定义端点集成！本地或 OpenAI 嵌入。支持 CPU/MPS/CUDA。Mac/Win/Linux</title>
+      <link>https://www.reddit.com/r/software/comments/1i72wng/open_source_deploy_via_transformers_llama_cpp/</link>
+      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i72wng/open_source_deploy_via_transformers_llama_cpp/</guid>
+      <pubDate>Wed, 22 Jan 2025 04:23:58 GMT</pubDate>
+    </item>
     <item>
       <title>对我来说唯一有用的免费磁盘管理器</title>
       <link>https://www.reddit.com/r/software/comments/1i723r2/the_only_free_disk_manager_that_seemed_to_work/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>寻找一款可以手动放置批量水印图像的 Windows 软件</title>
       <link>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</link>
-      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩部上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩膀上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</guid>
       <pubDate>Tue, 21 Jan 2025 21:51:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/hsjejddbdjdndbcbcn  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6j71b/program_like_pulseaudio_for_windows/</guid>
       <pubDate>Tue, 21 Jan 2025 14:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的电脑网速虽然很快但是很慢？</title>
-      <link>https://www.reddit.com/r/software/comments/1i6gmlj/why_is_my_internet_slow_on_my_pc_despite_high/</link>
-      <description><![CDATA[speedtest 上的下载速度似乎为 170-200 Mbps，但使用网络的实际下载速度感觉非常慢，甚至 youtube 视频在正常质量下也会滞后，仅主页就需要 15 秒才能加载（我在 Windows 上使用以太网）    提交人    /u/meowed_at   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i6gmlj/why_is_my_internet_slow_on_my_pc_despite_high/</guid>
-      <pubDate>Tue, 21 Jan 2025 11:35:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

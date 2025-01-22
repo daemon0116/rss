@@ -4,13 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 04:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 05:18:21 GMT</lastBuildDate>
     <item>
-      <title>看看我做的这个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i72scb/check_out_this_website_i_made/</link>
-      <description><![CDATA[这是我的第一个网站，请查看。这个项目只是为了好玩，不需要认真对待。我想我们现在都可以开怀大笑了。    由   提交  /u/InfinixVizor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i72scb/check_out_this_website_i_made/</guid>
-      <pubDate>Wed, 22 Jan 2025 04:17:25 GMT</pubDate>
+      <title>使用 API 从我的应用程序关注社交媒体上的用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i73i9l/using_apis_to_follow_users_on_social_media_from/</link>
+      <description><![CDATA[大家好！ 我有一个关于我正在开发的应用程序的快速问题。 我希望用户能够直接从我的应用程序内在不同平台上互相关注。理想情况下，只需单击一个按钮，我希望自己（作为用户 Y）在 Instagram 或 Facebook（或任何其他平台）上关注用户 X。 是否有人知道元图 API 是否允许在不退出我的应用程序的情况下进行 API 调用来关注某人帐户上的用户？我在网上找到的所有答案都是三/四年前的，我也尝试阅读文档，但它没有明确提到缺乏这种能力。  是否有人知道其他社交媒体平台提供此类功能的 API（例如 Twitter/X、Youtube 等）？ 如能得到任何帮助或指导，我们将不胜感激，谢谢！    提交人    /u/dam1rak   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i73i9l/using_apis_to_follow_users_on_social_media_from/</guid>
+      <pubDate>Wed, 22 Jan 2025 04:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几分钟内使用 Python 构建 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i733uu/build_apis_with_python_in_minutes/</link>
+      <description><![CDATA[Hello Pythonistas， 过去 5 年我一直在使用 Python，我认为自己非常精通它。主要是，我一直在企业级和个人级（业余项目等）构建数据管道和 API，所以我看到自己一遍又一遍地重复相同的设置到我的代码库中。我问了一些 subreddits 和朋友，他们是否会从我构建的代码库中受益（我将在下面描述），我得到了如此多的支持，我很震惊这对人们来说是有价值的。但在第一天分享这个项目后，我有数十个用户使用它并给了我建设性的反馈。但它到底是什么呢？ 它是一个您可以访问的 FastAPI 代码库，具有以下内容： - 使用 Supabase 的自动身份验证端点（注册和登录） - 完全异步端点 + ORM（SQLAlchemy）和使用 Alembic 的迁移，使用 supabase postgres - 使用可以部署到 Render 的简单 Dockerfile 准备好部署。 （GCP、AWS、Azure 即将推出） - 按功能分类的结构，以便您可以快速扩展 + 版本控制结构即将推出！ - 文档和演练（目前为基础，但每天更新） - 使用 stripe 接受付款（webhook 就绪） - 完全异步测试套件（即将推出） - 用于依赖项管理的 uv + 集成的所有 linting/类型检查规则（mypy、black、isort 和 flake8） - 集成到 BigQuery 等分析平台（即将推出） - 异步后台任务（即将推出） 该代码库将快速发展，您可以在supa-fast.com上获得终身访问权限&gt; 由于还处于早期阶段，我附上了早期的促销代码以获得 50% 的折扣，确保不要错过！ 谢谢大家，并祝大家构建一些很棒的后端 API！   由    /u/fraisey99  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i733uu/build_apis_with_python_in_minutes/</guid>
+      <pubDate>Wed, 22 Jan 2025 04:35:10 GMT</pubDate>
     </item>
     <item>
       <title>如果你有兴趣向 Google Dev + Hackathons 提问</title>
@@ -43,7 +50,7 @@
     <item>
       <title>大公司经历</title>
       <link>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</link>
-      <description><![CDATA[我是一名全栈 Web 开发人员，在小型公司有 4 年的工作经验。我非常希望以拥有 FFANG 公司的工作经验作为职业目标。但是，入门级职位（lv1、lv2）基本上总是由必须返回学校的在校学生保留，而更高级别的职位很难获得。我发现，如果没有大公司的经验，我的简历 99% 的时间都会被机器过滤。通过在小公司积累经验，我和大公司员工之间的技能差距越来越大。您推荐哪些中型或大型公司？我该如何实现我的目标？    提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名全栈 Web 开发人员，在小型公司有 4 年的工作经验。我非常希望以拥有 FFANG 公司的工作经验作为职业目标。但是，入门级职位（lv1、lv2）基本上总是由必须返回学校的在校学生保留，而更高级别的职位很难获得。我发现，如果没有大公司的经验，我的简历 99% 的时间都会被机器过滤。通过在小公司积累经验，我与大公司员工之间的技能差距越来越大。您推荐哪些中型或大型公司？我该如何实现我的目标？    提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</guid>
       <pubDate>Wed, 22 Jan 2025 03:05:29 GMT</pubDate>
     </item>
@@ -92,16 +99,9 @@
     <item>
       <title>我厌倦了在简历上谎报自己的身份以获得面试机会。我该怎么办？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i6yfgs/tired_of_lying_about_who_i_am_on_my_resume_to_get/</link>
-      <description><![CDATA[大家好！我需要一些建议！ 我是一个混血儿，但出于所有目的，我都认为自己是黑人，因为这就是我的成长方式，也是社会对我的看法。 我在这个领域已经工作了大约 5 年，在此期间，我一直在简历上使用我的中间名，因为它听起来很“白人”，我们叫它 Chad。我的名字听起来很像黑人……Tyrone。 我一直在使用中间名，但我真的很想使用我的出生名字，但我担心由于简历名称偏见，我会失去机会。 我该怎么办？    提交人    /u/AZXCIV   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我需要一些建议！ 我是一个混血儿，但出于所有目的，我都认为自己是黑人，因为我就是这样长大的，而且社会上也是这样看待我的。 我在这个领域已经工作了大约 5 年，在此期间，我一直在简历上使用我的中间名，因为它听起来很“白人”，我们叫它 Chad。我的名字听起来很像黑人……Tyrone。 我一直在使用中间名，但我真的很想使用我的出生名字，但我担心由于简历名称偏见，我会失去机会。 我该怎么办？    提交人    /u/AZXCIV   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i6yfgs/tired_of_lying_about_who_i_am_on_my_resume_to_get/</guid>
       <pubDate>Wed, 22 Jan 2025 00:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>whitehouse.gov 现在是一个带有免费插件的 WordPress 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i6ycmn/whitehousegov_is_now_a_wordpress_app_with_free/</link>
-      <description><![CDATA[        提交人    /u/chicametipo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i6ycmn/whitehousegov_is_now_a_wordpress_app_with_free/</guid>
-      <pubDate>Wed, 22 Jan 2025 00:44:54 GMT</pubDate>
     </item>
     <item>
       <title>我要求 85,000 美元的薪水是不是让我错失了获得这份工作的机会？</title>
