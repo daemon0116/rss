@@ -4,111 +4,111 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 22:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 01:22:03 GMT</lastBuildDate>
     <item>
-      <title>音频处理</title>
-      <link>https://www.reddit.com/r/software/comments/1i28zux/audio_processing/</link>
-      <description><![CDATA[大家好！ 我需要一个 Windows 软件来将过滤器应用于 Windows 声音输出。 类似于 Mac 的音频劫持。 我想要做的：使用我的 PC 作为可调整的低通/高通/延迟滤波器，应用于正常音频输出。 示例：使用声卡上的两个输出分离，比如说，正在播放的所有内容 &lt;200hz 到一个输出，而所有内容 &gt;200hz 转到另一个输出。 我不需要一个成熟的 DAW。一个简单的 EQ/LP/HP 等就足够了。    提交人    /u/DangerouslySilly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i28zux/audio_processing/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:58:29 GMT</pubDate>
+      <title>将 Spotify 等精简版应用程序作为单独程序运行更好还是仅在浏览器中运行它们更好？</title>
+      <link>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</link>
+      <description><![CDATA[我想知道，以安装软件或仅在浏览器上运行不太占用 CPU 的应用程序（如 Sporify 或 ChatGpt、YouTube 等）的更好或最佳方式是什么？它们运行得更好吗？或者它们只是占用空间并且它们消耗的 CPU 功率更多还是更少？    由   提交  /u/TheThotality   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</guid>
+      <pubDate>Tue, 21 Jan 2025 22:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>要求：会计软件</title>
-      <link>https://www.reddit.com/r/software/comments/1i283cn/request_accounting_software/</link>
-      <description><![CDATA[我的女儿有点创业精神，她开始创作艺术品，制作海报和钥匙链，并在各种在线平台上销售。我一直提醒她要保持准确的记录，这样她才能知道自己在支付费用、生产、运输等方面的支出。到目前为止，这一切都是在 Excel 中。有没有免费/便宜的更强大的工具？我希望她能够生成报告，这样她就可以确定哪些产品卖得好，她的定价与利润相比如何，等等。谢谢！    提交人    /u/BuckshotPA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i283cn/request_accounting_software/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:18:58 GMT</pubDate>
+      <title>寻找一款可以手动放置批量水印图像的 Windows 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</link>
+      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩膀上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</guid>
+      <pubDate>Tue, 21 Jan 2025 21:51:00 GMT</pubDate>
     </item>
     <item>
-      <title>LF 是一款远程访问桌面软件，它允许我在一台显示器上使用两台设备，即主机设备和受控设备（即我的主 PC），同时能够在两台设备上独立运行应用程序，并且不会干扰彼此的输入。有免费选项吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1i24299/lf_a_remote_access_desktop_software_that_allows/</link>
-      <description><![CDATA[  由    /u/RealReon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i24299/lf_a_remote_access_desktop_software_that_allows/</guid>
-      <pubDate>Wed, 15 Jan 2025 18:26:22 GMT</pubDate>
+      <title>真正有效的自动按键模拟</title>
+      <link>https://www.reddit.com/r/software/comments/1i6t3c9/auto_keypressing_simulation_that_actually_works/</link>
+      <description><![CDATA[我曾经使用过 murgee.com 的自动键盘，但是我的试用期已过。我尝试过用 Python 编写自己的程序，但是由于某种原因，它的效果不如 murgee&quot;s。murgee 可以在大多数游戏中运行，而我不需要它在管理上运行。也许是另一种语言(?)。有谁知道还有什么替代品能同样好用吗？    提交人    /u/Zacelol   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6t3c9/auto_keypressing_simulation_that_actually_works/</guid>
+      <pubDate>Tue, 21 Jan 2025 20:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>视频与幻灯片无缝切换的演示解决方案</title>
-      <link>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</link>
-      <description><![CDATA[我负责为颁奖典礼设置技术，其中的材料以计算机本地视频文件和 Google 幻灯片演示文稿的形式共享。 我有一个远程点击器，可以让我在幻灯片演示文稿中前进和后退，并且可以通过点击器激活 Google 幻灯片中的任何嵌入视频或音频。我的挑战是我想设置一个播放列表或队列，以便在 Google 幻灯片演示文稿之后可以播放本地视频，然后单击即可返回 Google 幻灯片演示文稿。 我正在寻找一种软件解决方案，让我能够在视频和演示文稿之间无缝切换，而无需走到连接的笔记本电脑前切换屏幕或更改程序。 （我知道您可以在 Google 幻灯片中嵌入视频，但我以前遇到过问题，我希望能够流式传输保存在我的计算机上的全高清视频，而无需将它们上传到 YouTube 进行嵌入） 我曾考虑重新映射点击器的输入以运行处理屏幕切换的宏，但我很想找到一种方法来设置它，以便我可以返回以在需要时重新启动视频而不会破坏顺序。我考虑过将幻灯片保存为 pdf 或 png 文件，但许多幻灯片包含无法保留的动画。 请告诉我是否有办法使用 OBS、自定义工具或付费软件来做到这一点——我的目标是仅使用遥控器按照预定的顺序浏览幻灯片和视频，并且在格式之间中断有限（理想情况下为零）。    提交人    /u/SeanCSimon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</guid>
-      <pubDate>Wed, 15 Jan 2025 18:11:48 GMT</pubDate>
+      <title>需要多张图片翻译程序</title>
+      <link>https://www.reddit.com/r/software/comments/1i6sz6f/multipicture_translation_program_needed/</link>
+      <description><![CDATA[大家好。 我玩的游戏缺乏足够的本地语言支持。因此，我使用 Greenshot 截取屏幕截图，然后将它们逐张拖放到 Google 翻译中进行翻译。 有没有可以同时翻译多张图片的程序？我欢迎您的建议。    提交人    /u/Obvious_Chair_8300   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6sz6f/multipicture_translation_program_needed/</guid>
+      <pubDate>Tue, 21 Jan 2025 20:52:31 GMT</pubDate>
     </item>
     <item>
-      <title>寻找具有热键功能的计时器</title>
-      <link>https://www.reddit.com/r/software/comments/1i20gyb/looking_for_a_timer_that_has_a_hotkey_feature/</link>
-      <description><![CDATA[所以我在玩游戏，并且想在游戏中使用与在 Windows 中启动计时器相同的热键。 我看到 autohotkey 有这个功能，但我发现我玩的游戏（maplestory）禁止这样的程序以避免机器人。 因此严格寻找具有此功能的任何计时器，并且可以在热键工作的背景下运行，即使我没有专注于该窗口。    提交人    /u/A_Mild_Abra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i20gyb/looking_for_a_timer_that_has_a_hotkey_feature/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:53:59 GMT</pubDate>
+      <title>AI 文件排序器：智能整理文件的免费工具</title>
+      <link>https://www.reddit.com/r/software/comments/1i6r7wg/ai_file_sorter_a_free_tool_to_organize_files/</link>
+      <description><![CDATA[大家好， 我最近发布了一款名为 AI File Sorter 的工具，我想在这里与社区分享。这是一款轻量级、快速且免费的程序，旨在使用 LLM 智能地对文件和目录进行分类和组织。 如果您曾经为保持下载或桌面文件夹整洁而苦恼（或者您可能只是像我一样的文件囤积者 😅），那么此工具可能会派上用场。它会分析文件名和扩展名，将文件分类为文档、图像、音乐、视频等类别。它甚至允许您针对特定用例自定义排序规则。 功能：  对文件和目录进行分类和排序。 使用类别和可选的子类别。 由 LLM 提供支持的智能分类。 用 C++ 编写，速度快、可靠。 易于设置并可在 Windows 上运行（即将发布适用于 macOS 和 Linux 的版本）。  我很乐意听到您的想法、反馈或改进想法！如果您想尝试一下，可以在这里查看：https://filesorter.app 感谢您的关注，希望它对你们中的一些人有用！ https://preview.redd.it/qdf8l5nugeee1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=19ac9deb68590036202c292f8420ebe5e01a5ecc    提交人    /u/ph0tone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6r7wg/ai_file_sorter_a_free_tool_to_organize_files/</guid>
+      <pubDate>Tue, 21 Jan 2025 19:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找一个可以为驱动器上的列表或档案创建列表的软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1i206ct/looking_for_a_software_who_creates_a_list_for_a/</link>
-      <description><![CDATA[我至少有 300 张 DVD，里面有很多媒体文件，我需要某种应用程序来生成一个包含层次结构和文件的列表，从磁盘到 excel 或 pdf。我知道 Windows 中有一个 cmd 行可以执行此操作，然后将其导出为 txt 文档。我正在寻找 Mac 替代品或 Windows 程序。     提交人    /u/Zealousideal_Set7459   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i206ct/looking_for_a_software_who_creates_a_list_for_a/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:40:58 GMT</pubDate>
+      <title>文件分类和管理</title>
+      <link>https://www.reddit.com/r/software/comments/1i6muo6/file_sorting_and_management/</link>
+      <description><![CDATA[我有一个乱糟糟的文件夹，里面放着大学和家人的个人数据。我想要一个软件，可以根据数据的类型或其他方式显示所有数据，然后允许我将它们分类到不同的文件夹中。我主要使用 Windows，但 Linux 也没问题。 有什么帮助吗？    提交人    /u/Xeon_AR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6muo6/file_sorting_and_management/</guid>
+      <pubDate>Tue, 21 Jan 2025 16:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一款免费的应用程序，让我可以轻松地将所有内容通过不同的设备发送给自己</title>
-      <link>https://www.reddit.com/r/software/comments/1i1yr78/looking_for_a_free_app_where_i_can_simply_send/</link>
-      <description><![CDATA[目前，我使用 slack，但需要两次点击才能进入正确的频道，然后他们就开始删除较旧的内容。您还有其他想法吗？ 非常适合 Mac 和 Android。    提交人    /u/Upset-Interview1576   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1yr78/looking_for_a_free_app_where_i_can_simply_send/</guid>
-      <pubDate>Wed, 15 Jan 2025 14:37:28 GMT</pubDate>
+      <title>Toast Titanium 是否要退出使用外部驱动器？</title>
+      <link>https://www.reddit.com/r/software/comments/1i6ltty/toast_titanium_quitting_with_external_drive/</link>
+      <description><![CDATA[我刚刚购买了 Toast Titanium 20，并成功安装。我的 OSX 是 Monterey 12.7.6（见屏幕截图）。Toast 可以正常打开，但只要我插入 Verbatim 外部磁盘驱动器，它就会崩溃（见屏幕截图）。在此寻求帮助。如果有帮助的话，可以在评论中发布冗长的错误日志。 https://preview.redd.it/zqm433ytddee1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=fdc9ff3c9657923883508311064ada6fd71cf063 https://preview.redd.it/a9f8ccguddee1.png?width=972&amp;format=png&amp;auto=webp&amp;s=09282aa54bc8ce6e06df1f867bb187513655e72b    提交人    /u/starlightskater   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6ltty/toast_titanium_quitting_with_external_drive/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>寻找软件来管理我的项目工作单的 CSV 数据</title>
-      <link>https://www.reddit.com/r/software/comments/1i1ygc3/looking_for_software_to_manage_csv_data_of_my/</link>
-      <description><![CDATA[您好，我目前使用 FastField Forms 软件收集服务业务的数据（照片、地址、评论、工作详情、零件等）。每项工作都会生成一份报告，我目前每周将这些数据导出到 CSV 并将其放入 excel 文档中，该文档将这些数据解释为各种用途，例如根据工作数量和为每项工作完成的特定子任务生成发票。 使用 excel 感觉很笨重，数据很容易被意外修改，因为它只是放在每周添加的表中。它也不方便用户使用，所以我不太愿意让我的其他员工使用它。 有没有一种软件可以导入这些数据，并且还具有允许我设置类似于 excel 的条件计算但用户体验更好的功能？    提交人    /u/Civil_Builder3885   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1ygc3/looking_for_software_to_manage_csv_data_of_my/</guid>
-      <pubDate>Wed, 15 Jan 2025 14:23:07 GMT</pubDate>
+      <title>Toast Titanium 退出外部驱动器</title>
+      <link>https://www.reddit.com/r/software/comments/1i6lte1/toast_titanium_quitting_with_external_drive/</link>
+      <description><![CDATA[  由    /u/starlightskater  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6lte1/toast_titanium_quitting_with_external_drive/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:59:15 GMT</pubDate>
     </item>
     <item>
-      <title>🔥 免费无广告的桌面版 YouTube 下载器 – 快速、简单且 100% 免费！🎥</title>
-      <link>https://www.reddit.com/r/software/comments/1i1xjgr/free_adfree_youtube_downloader_for_desktop_fast/</link>
-      <description><![CDATA[🎉 使用我们的免费 YouTube 下载器轻松下载视频！ 🎥 厌倦了广告和杂乱的工具拖慢您的速度？向无广告的 YouTube 下载器桌面应用问好！🚀 ✅ 100% 免费 ✅ 没有烦人的广告 ✅ 易于使用 ✅ 快速下载 只需点击几下，即可将您喜爱的视频和播放列表直接下载到您的设备。非常适合离线观看！ 💻立即开始：下载 不要等待 - 今天就开始下载并按照您的条件享受 YouTube 内容！🎶📺    提交人    /u/mindgamesstudios   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1xjgr/free_adfree_youtube_downloader_for_desktop_fast/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:37:13 GMT</pubDate>
+      <title>无法验证 Apple ID，因为 iTunes 的弹出窗口不再显示。我点击了页面上的某个地方，我的注册码消失了。现在，帐户已被锁定。</title>
+      <link>https://www.reddit.com/r/software/comments/1i6lrqp/cannot_verify_apple_id_because_the_pop_up_from/</link>
+      <description><![CDATA[我只是想在浏览器上的苹果 iTunes 中收听播客。它说我必须创建一个帐户，所以我这样做了，但当我点击页面上的任何地方时，它就消失了。所以当它来验证我的电子邮件时，他们发送了一个代码。我没有可以输入它的页面。我也无法登录并输入验证码。该帐户已被锁定。我无法解锁，因为它未经验证。 这太愚蠢了。 我甚至没有另一个 Apple Id 帐户，现在我担心如果我尝试创建另一个帐户，我会被标记为垃圾邮件，并且永远无法创建另一个帐户。 感谢 Apple，甚至不知道如何创建网页。干得好。    提交人    /u/ggRavingGamer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6lrqp/cannot_verify_apple_id_because_the_pop_up_from/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:57:20 GMT</pubDate>
     </item>
     <item>
-      <title>PDF 文件管理器可以在 pdf 内搜索并允许我移动文件。</title>
-      <link>https://www.reddit.com/r/software/comments/1i1x6xz/pdf_file_manager_that_can_search_within_pdf_and/</link>
-      <description><![CDATA[我需要一个 PDF 查看器，让我可以用一个关键词选择并删除所有文件。我试过 DocFetcher，但它不让我移动文件。    提交人    /u/Moeta_Kaoruko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1x6xz/pdf_file_manager_that_can_search_within_pdf_and/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:18:55 GMT</pubDate>
+      <title>Animately GIF 压缩器</title>
+      <link>https://www.reddit.com/r/software/comments/1i6lr26/animately_gif_compressor/</link>
+      <description><![CDATA[有人知道 Animately 用什么来压缩 gif 吗？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6lr26/animately_gif_compressor/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:56:27 GMT</pubDate>
     </item>
     <item>
-      <title>文字处理器选项</title>
-      <link>https://www.reddit.com/r/software/comments/1i1wovk/word_processor_options/</link>
-      <description><![CDATA[我正在寻求有关文字处理软件解决方案的建议。我已经完全放弃了 O365。我正在寻找具有一些简单要求的最佳替代文字处理器：  它不是订阅模式。我愿意购买该解决方案（一年免费更新，然后付费升级主要版本是可以的） 它的重点不是 AI 或云优先（没有 google docs、OnlyOffice 等） 除了 libre、openoffice 等之外的选项。  似乎选择很少。有人在那里找到什么吗？    提交人    /u/bobtheman11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1wovk/word_processor_options/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:51:38 GMT</pubDate>
+      <title>GOM Player 1/20 更新（已成为 SH!T-WARE）</title>
+      <link>https://www.reddit.com/r/software/comments/1i6kpsr/gom_player_120_update_has_become_shtware/</link>
+      <description><![CDATA[由于微更新，GOM 1/21 现在强制重新安装。我一直忽略更新。我自定义安装，但仍然出现 AliExpress 图标和右下角实际的窗口弹出窗口。盗版它。    提交人    /u/SongZealousideal8194   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6kpsr/gom_player_120_update_has_become_shtware/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:11:11 GMT</pubDate>
     </item>
     <item>
-      <title>通过 LAN 在笔记本电脑和功能强大的 PC 之间以 60hz 和低延迟进行 RDP</title>
-      <link>https://www.reddit.com/r/software/comments/1i1whzw/rdp_between_a_laptop_and_powerful_pc_over_lan/</link>
-      <description><![CDATA[我想通过 LAN 从我的笔记本电脑（Win 10 家庭版）访问我的计算机（Win 11 PRO），但当我通过 RDP 连接时，我只能获得 32hz 并且有些延迟。我会用它来编辑视频和玩一些游戏，因此低延迟和 60hz 会很好。RDP 可以吗？有没有其他方法可以更好地适用于我的设置？提前谢谢 👍    提交人    /u/panPienionzek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1whzw/rdp_between_a_laptop_and_powerful_pc_over_lan/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:40:10 GMT</pubDate>
+      <title>用于查找我在 Twitter 上关注的帐户/在 Instagram 上“X”（不是 Threads）的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1i6jln3/software_for_finding_accounts_i_follow_on/</link>
+      <description><![CDATA[所以我想离开 Twitter，但我关注了很多艺术家的账户，想看看他们的作品。基本上所有有在线活动的艺术家都在 Instagram 上，而且通常使用类似的名字，比如 Twitter 上的 @/johnsmithart 可能是 Instagram 上的 @/artistjohnsmith。有没有一款软件可以浏览我的 Twitter 关注列表，搜索并关注具有相似名称和可比关注者数量的 Instagram 帐户？显然，我知道它不可能一直正确/会错过一些，但可以大大加快平台之间的转换速度。 非常感谢！:)    提交人    /u/alffye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6jln3/software_for_finding_accounts_i_follow_on/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:20:08 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找适用于 Windows 11 的简约、用户体验友好且免费的电子邮件应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1i1vysv/looking_for_a_minimalistic_uxfriendly_free_email/</link>
-      <description><![CDATA[我需要的功能：  分组收件箱 多个帐户 回复、转发、抄送等基本功能。没什么特别的 用户体验友好  有一些电子邮件应用程序符合这种描述。但我尝试过的所有应用程序要么功能过多，要么不免费。 我尝试过但不喜欢的应用程序：  Thunderbird（太多） Mailspring（是我迄今为止尝试过的最好的） 来自 Windows 的邮件（迫使我使用其他应用程序） Spark（在我的 PC 上运行非常慢，但最简约）     提交人    /u/cocouz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1vysv/looking_for_a_minimalistic_uxfriendly_free_email/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:06:32 GMT</pubDate>
+      <title>类似 PulseAudio 的 Windows 程序</title>
+      <link>https://www.reddit.com/r/software/comments/1i6j71b/program_like_pulseaudio_for_windows/</link>
+      <description><![CDATA[  由    /u/hsjejddbdjdndbcbcn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6j71b/program_like_pulseaudio_for_windows/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>我的小企业的网站托管</title>
-      <link>https://www.reddit.com/r/software/comments/1i1u321/web_hosting_for_my_small_business/</link>
-      <description><![CDATA[我正在创办自己的小公司，不知道该选择哪种网站托管服务。我做了一些研究，但选择太多了，我有点不知所措。我很想听听有经验的人的意见——哪种方式对你有用？ 我计划托管一个小型网站（5-10 页）。主要提供信息，以后会提供一些电子商务功能。我更喜欢易于使用的网站，因为我对技术不是很精通。如果费用不高，那就更好了——启动成本已经很高了。 有趣的是——昨晚，我决定深入研究一些托管评论，但我太累了，在办公桌上睡着了。我的猫一定是觉得我睡觉时间太长了，因为它用爪子合上了我的笔记本电脑，而我直到今天早上才注意到。我想我不是唯一一个需要休息的人！😂 目前，我正在考虑 Bluehost、SiteGround 和 Hostinger，但我愿意听取建议。此外，如果有人对某些主机有任何恐怖故事，请随时分享——从别人的错误中吸取教训比从我自己的错误中吸取教训更好！    提交人    /u/pureIska   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1u321/web_hosting_for_my_small_business/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:52:17 GMT</pubDate>
+      <title>为什么我的电脑网速虽然很快但是很慢？</title>
+      <link>https://www.reddit.com/r/software/comments/1i6gmlj/why_is_my_internet_slow_on_my_pc_despite_high/</link>
+      <description><![CDATA[speedtest 上的下载速度似乎为 170-200 Mbps，但使用网络的实际下载速度感觉非常慢，甚至 youtube 视频在正常质量下也会滞后，仅主页就需要 15 秒才能加载（我在 Windows 上使用以太网）    提交人    /u/meowed_at   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6gmlj/why_is_my_internet_slow_on_my_pc_despite_high/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:35:17 GMT</pubDate>
     </item>
     <item>
-      <title>最好的经销商托管？</title>
-      <link>https://www.reddit.com/r/software/comments/1i1srbl/best_reseller_hosting/</link>
-      <description><![CDATA[我主要寻找静态托管，但也需要一些支持 .NET 8 的 Windows 托管。 目前，我使用的是 20i，但他们的 Windows 托管仅支持最高 .NET Framework 4.5（如果我没记错的话）。对于 .NET Core 或 .NET 8，他们要求您升级到 VPS，而我不需要。 Fasthosts 确实提供无需 VPS 即可支持 .NET 8 的 Windows 托管，但我看到对其性能和支持的评价褒贬不一，这是一个令人担忧的问题。 理想情况下，我正在寻找支持 .NET 8（无需 VPS）的 Windows 托管，并希望得到任何建议或对其他提供商的见解。你有什么建议？    提交人    /u/EySebi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1srbl/best_reseller_hosting/</guid>
-      <pubDate>Wed, 15 Jan 2025 08:06:39 GMT</pubDate>
+      <title>帮助我们为 1001TVs 挑选新年横幅！🎉</title>
+      <link>https://www.reddit.com/r/software/comments/1i6f40k/help_us_pick_our_new_year_banner_for_1001tvs/</link>
+      <description><![CDATA[大家好！ 我们正在更新我们的网站（1001tvs.com），用新的横幅迎接新年，我们需要您的意见！以下是我们正在考虑的两种设计： 图片 1：（左） 图片 2（右） 需要选择 2 个选项 现在我们的网站看起来像，  https://www.1001tvs.com/ 请告诉我您认为哪一个更能体现新年精神！您的反馈将帮助我们做出最佳选择。 提前谢谢大家，祝大家新年有个美好的开始！🎊 附言：哪一个让您感觉更有节日气氛？ 查看投票    提交人    /u/mialululu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6f40k/help_us_pick_our_new_year_banner_for_1001tvs/</guid>
+      <pubDate>Tue, 21 Jan 2025 09:46:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

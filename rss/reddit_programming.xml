@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 22:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 01:22:07 GMT</lastBuildDate>
     <item>
-      <title>Replit 首席执行官谈人工智能突破：“我们不再关心专业程序员了”</title>
-      <link>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</link>
-      <description><![CDATA[  由    /u/creaturefeature16  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:39:35 GMT</pubDate>
+      <title>BrainFlood：通过 .NET 中的反射生成运行时代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6vlmh/brainflood_runtime_code_generation_via_reflection/</link>
+      <description><![CDATA[  由    /u/birdbrainswagtrain  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6vlmh/brainflood_runtime_code_generation_via_reflection/</guid>
+      <pubDate>Tue, 21 Jan 2025 22:41:18 GMT</pubDate>
     </item>
     <item>
-      <title>Zig comptime：有什么能接近吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i274xq/zig_comptime_does_anything_come_close/</link>
-      <description><![CDATA[  由    /u/renatoathaydes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i274xq/zig_comptime_does_anything_come_close/</guid>
-      <pubDate>Wed, 15 Jan 2025 20:37:23 GMT</pubDate>
+      <title>构建更高性能的 UI 渲染引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</link>
+      <description><![CDATA[  由    /u/random728373  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</guid>
+      <pubDate>Tue, 21 Jan 2025 21:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 NodeJS 中使用 Selenium</title>
-      <link>https://www.reddit.com/r/programming/comments/1i249dz/how_to_use_selenium_in_nodejs/</link>
-      <description><![CDATA[  由    /u/yakult2450  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i249dz/how_to_use_selenium_in_nodejs/</guid>
-      <pubDate>Wed, 15 Jan 2025 18:34:53 GMT</pubDate>
+      <title>利用模式和领域知识解决技术债务 | Maintenanceable.fm</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6qgc8/tackling_technical_debt_with_patterns_and_domain/</link>
+      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6qgc8/tackling_technical_debt_with_patterns_and_domain/</guid>
+      <pubDate>Tue, 21 Jan 2025 19:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>C 不再是一种编程语言 - Faultlore</title>
-      <link>https://www.reddit.com/r/programming/comments/1i22evu/c_isnt_a_programming_language_anymore_faultlore/</link>
-      <description><![CDATA[  由    /u/Worth_Trust_3825  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i22evu/c_isnt_a_programming_language_anymore_faultlore/</guid>
-      <pubDate>Wed, 15 Jan 2025 17:16:55 GMT</pubDate>
+      <title>通过 Dropbox 中的消息系统模型改进我们的基础架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6pcov/evolving_our_infrastructure_through_the_messaging/</link>
+      <description><![CDATA[  由    /u/piscesff  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6pcov/evolving_our_infrastructure_through_the_messaging/</guid>
+      <pubDate>Tue, 21 Jan 2025 18:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>本机 Windows 桌面应用程序，可用作与 OpenAI 兼容的 LLM（C# / WinUI3 / WebView2 / RxUI）的 UI</title>
-      <link>https://www.reddit.com/r/programming/comments/1i21x91/native_windows_desktop_app_that_serves_as_ui_for/</link>
-      <description><![CDATA[  由    /u/sassyhusky  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i21x91/native_windows_desktop_app_that_serves_as_ui_for/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:56:50 GMT</pubDate>
+      <title>Nevalang v0.30.1 - NextGen 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6p4qt/nevalang_v0301_nextgen_programming_language/</link>
+      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6p4qt/nevalang_v0301_nextgen_programming_language/</guid>
+      <pubDate>Tue, 21 Jan 2025 18:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>为开发人员设计也意味着为法学硕士设计</title>
-      <link>https://www.reddit.com/r/programming/comments/1i21dob/designing_for_developers_means_designing_for_llms/</link>
-      <description><![CDATA[  由    /u/machete127  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i21dob/designing_for_developers_means_designing_for_llms/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:33:22 GMT</pubDate>
+      <title>没有让我得到这份工作的 FizzBu​​zz</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6ooib/the_fizzbuzz_that_did_not_get_me_the_job/</link>
+      <description><![CDATA[  由    /u/Kran6a  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6ooib/the_fizzbuzz_that_did_not_get_me_the_job/</guid>
+      <pubDate>Tue, 21 Jan 2025 17:58:04 GMT</pubDate>
     </item>
     <item>
-      <title>我注意到 Google foobar 已被关闭；以下是我 2021 年的 Python 2 解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1i20rxj/i_noticed_google_foobar_has_been_taken_down_here/</link>
-      <description><![CDATA[  由    /u/MohamedAbdelnour  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i20rxj/i_noticed_google_foobar_has_been_taken_down_here/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:07:17 GMT</pubDate>
+      <title>开发商针对公司的阴谋</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6nf9b/the_developers_conspiracy_against_corporations/</link>
+      <description><![CDATA[  由    /u/dumch  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6nf9b/the_developers_conspiracy_against_corporations/</guid>
+      <pubDate>Tue, 21 Jan 2025 17:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>代理爱丽丝：隐藏通信的预测信息</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2091n/proxy_alice_predictive_messages_for_concealed/</link>
-      <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2091n/proxy_alice_predictive_messages_for_concealed/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:44:12 GMT</pubDate>
+      <title>2025 年人工智能驱动的代码开发的未来之路</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6meno/the_path_forward_for_gen_aipowered_code/</link>
+      <description><![CDATA[  由    /u/thumbsdrivesmecrazy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6meno/the_path_forward_for_gen_aipowered_code/</guid>
+      <pubDate>Tue, 21 Jan 2025 16:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>从头开始构建机器学习模型——模型架构、评估、数据准备等</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</link>
-      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:18:54 GMT</pubDate>
+      <title>五行代码即可实现快速排序算法！ - Computerphile</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6m2kr/quicksort_algorithm_in_five_lines_of_code/</link>
+      <description><![CDATA[  由    /u/fredoverflow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6m2kr/quicksort_algorithm_in_five_lines_of_code/</guid>
+      <pubDate>Tue, 21 Jan 2025 16:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>首先检查你自己的 Pull 请求！</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</link>
-      <description><![CDATA[  由    /u/ashwin2125  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:26:04 GMT</pubDate>
+      <title>从头开始构建像 Kafka 这样的分布式消息代理的速成课程（第一部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6kd0r/a_crash_course_on_building_a_distributed_message/</link>
+      <description><![CDATA[  由    /u/underdog_002  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6kd0r/a_crash_course_on_building_a_distributed_message/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>面向 Delphi 和 C++ 开发人员的 TMS Academic 计划更新</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</link>
-      <description><![CDATA[  由    /u/Famous_Pitch_7483  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:19:46 GMT</pubDate>
+      <title>利用多人游戏更好地设计和开发分布式软件 • Tom Johnson 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6jnhs/design_develop_distributed_software_better_w/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6jnhs/design_develop_distributed_software_better_w/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:22:33 GMT</pubDate>
     </item>
     <item>
-      <title>标准化授权、非人类身份和委托访问、用于审计日志分析的 AI 以及我们在 2025 年看到的其他 AuthZ 趋势</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</link>
-      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:56:19 GMT</pubDate>
+      <title>陷阱！Atari 2600 游戏 Web 端口源代码发布 [TS]</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6jd1z/pitfall_atari_2600_game_web_port_source_code/</link>
+      <description><![CDATA[  由    /u/zeroone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6jd1z/pitfall_atari_2600_game_web_port_source_code/</guid>
+      <pubDate>Tue, 21 Jan 2025 14:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，非常详细的视频，适合任何想要提升自己 C 编程技能的人</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</link>
-      <description><![CDATA[  由    /u/Patient_Hat4564  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:42:33 GMT</pubDate>
+      <title>心流状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gut8/the_flow_state/</link>
+      <description><![CDATA[  由    /u/ValenceTheHuman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gut8/the_flow_state/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们要使用 LLM 作为计算器？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1w91t/why_are_we_using_llms_as_calculators/</link>
+      <title>仅使用 HTML 和 CSS 技巧，无需 JavaScript 即可构建 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gt1i/building_web_apps_without_javascript_using_only/</link>
+      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gt1i/building_web_apps_without_javascript_using_only/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何用 Go 编写更好的测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gpip/how_to_write_better_tests_in_go/</link>
       <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1w91t/why_are_we_using_llms_as_calculators/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码是资产还是负债？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:54:58 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gpip/how_to_write_better_tests_in_go/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:40:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
