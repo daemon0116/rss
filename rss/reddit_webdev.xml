@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 16:24:28 GMT</lastBuildDate>
+    <item>
+      <title>Godaddy 甚至保留了 geeksforgeeks.com!!! 骗子!!!</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7esfz/godaddy_even_have_geeksforgeekscom_reserved/</link>
+      <description><![CDATA[      我刚刚在 google 上随机搜索域名，但我只输入了 geeksforgeeks.com 而不是 .org，它就出现在 godaddy 登陆页面，它说这个域名正在出售，我以为是真的，在 godaddy 上查了一下，它的价格很高，骗子！！！如果它是不常见的长名称域名，为什么它是高级域名，他们保留它是因为它的 geeksforgeeks 的受欢迎程度    提交人    /u/Invincible-Bug   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7esfz/godaddy_even_have_geeksforgeekscom_reserved/</guid>
+      <pubDate>Wed, 22 Jan 2025 16:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术副业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7dw8z/tech_side_hustles/</link>
+      <description><![CDATA[大家好，我正在寻找一些可以赚点外快的想法。我在多个技术领域有十多年的经验。我想利用我的知识和经验创造一些平行的收入来源。这里有人有自己使用过的想法吗？我在迪拜，以防万一。没有错误的答案，但我希望你能按照你的建议去做，自己赚到一些钱     提交人    /u/LivingRelationship87   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7dw8z/tech_side_hustles/</guid>
+      <pubDate>Wed, 22 Jan 2025 15:38:41 GMT</pubDate>
+    </item>
     <item>
       <title>为什么数据过滤对数据库授权很重要</title>
       <link>https://www.reddit.com/r/webdev/comments/1i7dcfo/why_data_filtering_matters_for_database/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>寻求有关免费工具的反馈 - 具有额外功能的 ngrok 替代品</title>
       <link>https://www.reddit.com/r/webdev/comments/1i7byhe/looking_for_feedback_on_a_free_tool_ngrok/</link>
-      <description><![CDATA[嗨，开发人员， 我正在开发一款名为 CodoBee 的工具，我很乐意听取您的反馈。我们的想法是让您能够非常轻松地与他人共享本地机器上运行的服务。如果您使用过 ngrok，它有点像那样，但带有 GUI 和一些附加功能。 例如，如果您正在开发一个网站并需要有人查看，您可以启动它，只需单击几下，您就会获得一个公共 URL。它不仅适用于网站，您还可以共享 API、数据库、游戏服务器或几乎任何东西。 我们还将其与 Docker 集成，因此如果您在容器中运行某些东西，您也可以共享它而无需费尽周折。 我很好奇这听起来像您会使用的东西吗？它现在是免费的（我们只是在寻求反馈），所以如果你有时间查看一下，我很乐意听听你的想法。 我们正在考虑的一个想法是添加远程协助工具。比如，想象一个初级开发人员陷入困境，他们可以安全地共享他们的本地设置，你可以远程帮助他们，即使他们不在身边。我们还在考虑为那些不希望他们的数据通过我们的服务器的人添加一个在私人基础设施上运行整个系统的选项。 你觉得怎么样？有用吗？毫无意义？遗漏了什么？很想听听任何反馈或想法。你甚至可以现在就尝试一下，只需前往https://codobee.com。    提交人    /u/MariuszT   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开发人员， 我正在开发一款名为 CodoBee 的工具，我很乐意听取您的反馈。我们的想法是让您能够非常轻松地与他人共享本地机器上运行的服务。如果您使用过 ngrok，它有点像那样，但带有 GUI 和一些附加功能。 例如，如果您正在开发一个网站并需要有人查看，您可以启动它，只需单击几下，您就会获得一个公共 URL。它不仅适用于网站，您还可以共享 API、数据库、游戏服务器或几乎任何东西。 我们还将其与 Docker 集成，因此如果您在容器中运行某些东西，您也可以共享它而无需费尽周折。 我很好奇这听起来像您会使用的东西吗？目前它是免费的（我们只是在寻求反馈），所以如果你有时间查看一下，我很乐意听听你的想法。 我们正在考虑的一个想法是添加远程协助工具。比如，想象一个初级开发人员陷入困境，他们可以安全地共享他们的本地设置，你可以远程帮助他们，即使他们不在身边。我们还在考虑为那些不希望他们的数据通过我们的服务器的人添加一个在私人基础设施上运行整个系统的选项。 你觉得怎么样？有用吗？毫无意义？遗漏了什么？很想听听任何反馈或想法。你甚至可以现在就尝试一下，只需前往https://codobee.com。    提交人    /u/MariuszT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i7byhe/looking_for_feedback_on_a_free_tool_ngrok/</guid>
       <pubDate>Wed, 22 Jan 2025 14:11:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在为刚接触 Web 开发和开源的人开发一个项目。 它被称为代码贡献。用户将完成一个教程，添加一个 HTML 文件并向 GitHub 上的同一个存储库提交拉取请求。 我对这个项目有两个自我限制。  用户不应该安装任何东西或设置工具 他们的更改应该是单独的 HTML 文件  (1) 背后的原因是使项目更易于访问。我假设用户的机器上已经安装了 Web 浏览器、文本编辑器和终端仿真器。我希望他们能够完成本教程而无需安装任何语言的工具（运行时、编译器等）。我希望用户在他们的浏览器中打开 index.html 并查看他们的更改。 (2) 背后的原因是为了避免 HTML 文件过大和合并冲突 为了实现片段，我尝试了 vanilla js、Unpoly 等。我的实现最终需要在本地运行服务器（这与 (1) 相悖） 我最终找到了一个使用 iframe 的解决方案。现在所有片段 HTML 文件都在 iframe 中加载。但我不喜欢这个解决方案。理想情况下，我喜欢与子片段共享父片段的范围、样式等。 如果您对启用 HTML 片段有任何建议，请告诉我。 此外，我很乐意听取您对这个项目的反馈。它仍处于 alpha 阶段，我很乐意改进。   由    /u/sudo__bangbang  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i7bbmy/looking_for_suggestions_on_html_fragments/</guid>
       <pubDate>Wed, 22 Jan 2025 13:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>10,000 个用户观看流媒体电影需要多少带宽？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7aykc/how_much_bandwidth_needed_for_10000_users_for/</link>
-      <description><![CDATA[您好，经验丰富的开发人员， 正在寻找一种低成本但质量上乘的流媒体视频带宽托管，可以同时处理 10,000 名用户。正在考虑构建流媒体应用程序。我需要多少 Gbps？不寻找昂贵的托管公司等。谢谢大家！也愿意合作 :)     提交人    /u/georgegeo1321   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7aykc/how_much_bandwidth_needed_for_10000_users_for/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React Nodejs 的离线模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7ay5t/offline_mode_with_react_nodejs/</link>
-      <description><![CDATA[我正在构建一个 React + Node.js + PostgreSQL 应用程序，它具有以下要求，可以使用一些建议：  选择性下载：用户可以下载特定项目数据（例如，发现、检查）以供离线使用。我正在使用 Node Worker (pg-boss) 进行下载。这是正确的方法吗，还是我应该使用其他方法？ 离线模式：用户可以在离线时更新检查、发现和认证。如何确保离线功能顺畅和数据处理正确？ 同步更改：当用户重新连接时，将离线更新同步回服务器的最佳方法是什么？我应该使用基于队列的方法还是其他方法？ 冲突处理：当相同的数据在不同的地方更新时，我该如何处理冲突？您推荐什么工具或策略吗？  目前，我正在使用 Workbox 进行离线模式并缓存静态资产，使用 Node Workers 管理项目数据下载并将其存储在 IndexedDB 中，并在用户离线时将数据更新到 contextApi。  很想听听您的经验和最佳实践    提交人    /u/No_Reality3337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7ay5t/offline_mode_with_react_nodejs/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:20:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

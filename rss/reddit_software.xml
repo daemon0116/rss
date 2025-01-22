@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 16:23:59 GMT</lastBuildDate>
+    <item>
+      <title>如何一次下载整个 YouTube 播放列表视频和已保存的 Instagram 内容？</title>
+      <link>https://www.reddit.com/r/software/comments/1i7dp8h/how_to_download_entire_youtube_playlist_video_and/</link>
+      <description><![CDATA[Windows 10，需要免费。 我尝试了大多数下载器，但没有一个网站或程序是免费的，如果没有“激活”，它们不会下载整个播放列表，即使它们支持这样的功能。 我按照帖子（https://www.reddit.com/r/software/comments/9lxktm/how\_to\_download\_entire\_youtube\_playlist/）操作，但我从这里获得的有效版本直接将视频转换为 MP3。我需要它们在视频中。  背景：我正在彻底改造我的社交媒体，所以我需要重新利用一些旧内容。 请帮忙 :(     提交人    /u/Mostlytame   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i7dp8h/how_to_download_entire_youtube_playlist_video_and/</guid>
+      <pubDate>Wed, 22 Jan 2025 15:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>Whastapp API 发送消息</title>
       <link>https://www.reddit.com/r/software/comments/1i7bi5s/whastapp_api_to_send_messages/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想知道，以安装软件或仅在浏览器上运行不太占用 CPU 的应用程序（如 Sporify 或 ChatGpt、YouTube 等）的更好或最佳方式是什么？它们运行得更好吗？或者它们只是占用空间并且它们消耗的 CPU 功率更多还是更少？    由   提交  /u/TheThotality   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</guid>
       <pubDate>Tue, 21 Jan 2025 22:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款可以手动放置批量水印图像的 Windows 软件</title>
-      <link>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</link>
-      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩膀上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</guid>
-      <pubDate>Tue, 21 Jan 2025 21:51:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

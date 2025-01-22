@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:19:00 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 22 Jan 2025 16:23:03 GMT</lastBuildDate>
+    <item>
+      <title>随着人工智能的迅速崛起，您认为我们的未来会更像《黑客帝国》、《终结者》，还是完全不同的东西？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future/</link>
+      <description><![CDATA[随着人工智能的快速发展，你认为我们的未来会像《黑客帝国》《终结者》一样，还是会完全不同？人工智能会成为人类的有用工具还是潜在威胁？    提交人    /u/Curious_Suchit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future/</guid>
+      <pubDate>Wed, 22 Jan 2025 16:19:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解神经网络中的顺序技能习得：一种受物理启发的建模方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dpqv/understanding_sequential_skill_acquisition_in/</link>
+      <description><![CDATA[这项工作引入了三个基于物理的技能习得建模框架：几何（学习作为通过可能性空间的路径）、物理（学习作为粒子动力学）和竞争（学习策略作为交互系统）。关键贡献是将学习​​过程映射到已​​建立的物理模型，以更好地理解和预测技能发展。 技术亮点： - 将技能表示为具有测地线学习轨迹的高维流形中的点 - 使用统计力学原理对学习动态进行建模 - 识别类似于物理状态变化的技能获取中的相变 - 通过自动发现推导出支配技能进步的符号定律 - 根据人类和机器学习数据验证模型 主要结果： - 学习轨迹遵循与物理系统类似的可预测模式 - 技能突破与相变相对应 - 不同的学习策略以类似于化学反应的方式竞争 - 模型通过可能性空间预测最佳学习路径 - 框架适用于多个领域（体育、音乐、语言） 我认为这种基于物理的方法可以显著改善我们设计学习算法和训练方法的方式。预测学习轨迹和确定最佳路径的能力有助于创建更有效的教学策略。相变模型尤其有助于解释为什么学习经常发生在突然的突破而不是平稳的进展中。 我认为在实际应用之前，需要解决衡量现实世界学习轨迹和验证模型的局限性。然而，数学框架为未来人类和机器学习优化的研究奠定了坚实的基础。 TLDR：新的基于物理的模型将技能学习表示为几何路径、粒子动力学和竞争策略，为理解和优化学习过程提供了数学框架。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dpqv/understanding_sequential_skill_acquisition_in/</guid>
+      <pubDate>Wed, 22 Jan 2025 15:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postman 在其 API 平台上推出了 AI 代理构建器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/</link>
+      <description><![CDATA[因此，Postman 推出了自己的 AI Agent Builder。 它们在 API 领域已经非常成熟，这次发布在我看来是对 Genai 的自然升级。 你对此有何看法？    提交人    /u/eternviking   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/</guid>
+      <pubDate>Wed, 22 Jan 2025 15:28:33 GMT</pubDate>
+    </item>
     <item>
       <title>对 agi 时间表持怀疑态度的 OpenAI（或其他实验室研究人员）是谁？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher/</link>
@@ -50,16 +71,9 @@
     <item>
       <title>思考了 47 秒后，Deepseek R1 在 Strawberry 中找到了 3 个 R</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</link>
-      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母弄混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 位于位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 位于位置 3，然后是末尾的 RR，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
+      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母搞混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 位于位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 位于位置 3，然后是末尾的 RR，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</guid>
       <pubDate>Wed, 22 Jan 2025 05:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek AI 帮助我解决了 Spotify API 错误。还有谁喜欢 DeepSeek？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deepseek_ai_helped_me_solve_spotify_api_errors/</link>
-      <description><![CDATA[大家好， 我最近在使用 Spotify 的 API 时遇到了一些错误，尤其是在发现某些输出已被弃用之后。我尝试了 ChatGPT、Anthropic、Perplexity AI 和 Gemini，但都没有找到解决方案。 经过大量研究，DeepSeek AI 终于取得突破并解决了这个问题。我差点就想雇人帮忙了，但 DeepSeek 拯救了我。它现在是我的首选工具，不过我希望它在长时间使用后不会达到上限。开始新的聊天是可行的，但最好在过程中跟踪你的进度。 还有人成功使用 DeepSeek 吗？让我们听听你的想法！    提交人    /u/TurquoizeWarrior   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deepseek_ai_helped_me_solve_spotify_api_errors/</guid>
-      <pubDate>Wed, 22 Jan 2025 05:09:41 GMT</pubDate>
     </item>
     <item>
       <title>Google Gemini 2 Flash 思维实验 01-21 出炉，LMsys 排名第一</title>
@@ -67,20 +81,6 @@
       <description><![CDATA[因此，谷歌发布了另一个实验性推理模型，即 Flash Thinking 的变体 01-21，该模型在 LMsys 领域首次亮相并排名第一：https://youtu.be/ir_rxbBNIMU?si=ZtYMhU7FQ-tumrU-    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i733tz/google_gemini_2_flash_thinking_experimental_0121/</guid>
       <pubDate>Wed, 22 Jan 2025 04:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否应该打造开源的“AI操作系统”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system/</link>
-      <description><![CDATA[我是 Puter 的创建者，Puter 是一个基于 Web 的开源操作系统，也是过去一年增长最快的开源项目之一。越来越多的人要求我将 Puter 变成一个“AI 操作系统”，这样您就可以使用语言而不是“点击”与计算机进行交互。作为 AI 前沿的 subreddit，您怎么看？我们应该这样做吗？如果是，您希望在“未来的 AI 计算机”中看到什么？ 我认为 o1 是一个转折点，因此 AI 的可靠性已经接近甚至已经存在。此外，我们有很多出色的贡献者，因此如果有足够多的支持，我可以在社区的帮助下在相对较短的时间内实现这个想法！    提交人    /u/mitousa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system/</guid>
-      <pubDate>Wed, 22 Jan 2025 01:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>孙正义谈论超级人工智能（ASI）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i6wneq/masayoshi_son_talks_about_artificial_super/</link>
-      <description><![CDATA[有人看过 Masa 谈论实现 ASI 的新闻发布会吗？我认为秘密已经暴露了。他们将如何利用当前的数据中心基础设施实现 ASI？他们必须做出哪些改进？https://youtu.be/E3HS_LwNKps?feature=shared    提交人    /u/Succulent_Rain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i6wneq/masayoshi_son_talks_about_artificial_super/</guid>
-      <pubDate>Tue, 21 Jan 2025 23:26:58 GMT</pubDate>
     </item>
     <item>
       <title>特朗普将宣布由甲骨文、OpenAI 和软银支持的人工智能基础设施投资</title>
