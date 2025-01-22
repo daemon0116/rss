@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 22:17:31 GMT</lastBuildDate>
     <item>
-      <title>迫切需要视频增强！</title>
-      <link>https://www.reddit.com/r/editors/comments/1i7gdne/desperate_need_for_video_enhancement/</link>
-      <description><![CDATA[我有一个视频，视频中一个人偷走了我的狗，并把它塞进了他的车里。有谁可以增强这段视频的效果，并得到它的前车牌？？即使是车牌上的几个字母也会有帮助！！拜托了。没有他，我过得不好，任何事情都有帮助。     提交人    /u/Sheliah77   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i7gdne/desperate_need_for_video_enhancement/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:20:29 GMT</pubDate>
+      <title>作为 AE，如何要求加薪？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</link>
+      <description><![CDATA[在一家后期制作公司担任助理编辑，按小时计酬（但全职），我很快就要满 1 年了……有没有关于如何最好地协商工资的建议？AE 真的会加薪吗？    提交人    /u/axp955   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</guid>
+      <pubDate>Wed, 22 Jan 2025 22:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Avid Media Composer 中管理填充内容</title>
+      <link>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</link>
+      <description><![CDATA[各位编辑，大家好， 我遇到了一个工作流程问题，需要一些帮助。在 Premiere 中，时间轴中的空白区域（我认为类似于 Avid 所称的“填充”）无法修改，我通常使用调整层进行更改而不影响这些空间。 但是，在 Avid 中，每当我执行剪切时，填充区域也会被剪切，当我导航到下一个或上一个编辑时，它会包含这些填充区域，从而影响我的编辑流程。 有没有办法在 Avid 中更好地管理这个问题？我更喜欢在时间轴上使用调整层之类的功能，而不会在剪切时影响这些填充区域。如果您能提供任何关于如何处理此问题或调整设置的提示或建议，我们将不胜感激！ https://imgur.com/a/pmwXzLX PS：我知道如果您选择目标只是正确的轨道它不会这样做，但有时我正在执行字符串输出并且我想选择所有轨道，提升，提取，剪切等，那么有没有更好的工作流程？ 谢谢！！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:26:12 GMT</pubDate>
     </item>
     <item>
       <title>嗯，它发生了。</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人用过 Promise R12 吗？我听说过一些很棒的事情，但想看看这里的人们是否已经将其实现到他们的编辑工作流程中。提前致谢。     提交人    /u/lowbudgetfilms   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i6nt6x/pegasus_promise_r12/</guid>
       <pubDate>Tue, 21 Jan 2025 17:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能帮助编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1i6nker/using_ai_to_help_with_editorial/</link>
-      <description><![CDATA[大家好 你们中有人使用过 AI 来帮助进行纪录片编辑吗？ 所以不是 AI 编辑工具，而是帮助讲故事。你会和它聊天来提供想法等吗？ 我向 Chat GPT 提供了转录，然后要求“给我关于 xxx 的引述”，效果很好，但我想知道你是否发现了其他用途     提交人    /u/Silver_Ad2691   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i6nker/using_ai_to_help_with_editorial/</guid>
-      <pubDate>Tue, 21 Jan 2025 17:12:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
