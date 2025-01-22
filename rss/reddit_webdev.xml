@@ -4,13 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 16:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 17:18:03 GMT</lastBuildDate>
     <item>
-      <title>Godaddy 甚至保留了 geeksforgeeks.com!!! 骗子!!!</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7esfz/godaddy_even_have_geeksforgeekscom_reserved/</link>
-      <description><![CDATA[      我刚刚在 google 上随机搜索域名，但我只输入了 geeksforgeeks.com 而不是 .org，它就出现在 godaddy 登陆页面，它说这个域名正在出售，我以为是真的，在 godaddy 上查了一下，它的价格很高，骗子！！！如果它是不常见的长名称域名，为什么它是高级域名，他们保留它是因为它的 geeksforgeeks 的受欢迎程度    提交人    /u/Invincible-Bug   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7esfz/godaddy_even_have_geeksforgeekscom_reserved/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:16:01 GMT</pubDate>
+      <title>字体存在 CORS 问题，但定义字体的 CSS 文件没有问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7fpnm/cors_issues_for_fonts_but_not_the_css_file_theyre/</link>
+      <description><![CDATA[我有一个网站，我从外部域中提取 CSS 文件。这样可以正常工作，并且 CSS 中引用的 SVG 图像也可以正常工作。但是，它还在同一个外部域上定义了许多 font-face url(...) 定义，而这些定义被 Firefox 阻止了。 我猜想，这个 url() 调用与常规 CSS/HTML 引用相比有什么区别？    提交人    /u/ShankSpencer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7fpnm/cors_issues_for_fonts_but_not_the_css_file_theyre/</guid>
+      <pubDate>Wed, 22 Jan 2025 16:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我测试了最热门的 AI 网络应用程序构建器，看看它是否真的值得大肆宣传。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7fht0/i_tested_the_hottest_ai_web_app_builder_to_see_if/</link>
+      <description><![CDATA[      好的，Lovable 在 Twitter 上很活跃。  他们声称可以在几分钟内构建全栈 Web 应用程序，这听起来有点不切实际。但是，作为一个对闪亮物品情有独钟的人，我不能错过。 我并不是想构建一些花哨或超级复杂的东西。我只是想发挥一点创造力。所以这就是我构建的：  1）您可以无缘无故弹出五彩纸屑的应用程序。 https://preview.redd.it/oi5h0ir9pkee1.png?width=2619&amp;format=png&amp;auto=webp&amp;s=60dcebfc6a82b1f1740ac9d266135db9eb5e7c49 2）50度灰。确实如此。 https://preview.redd.it/f0xve0yepkee1.png?width=1466&amp;format=png&amp;auto=webp&amp;s=50427380f08c757b3c8d034b38e9d8bc576a8d76 3) 一个 Twitter 克隆。 https://preview.redd.it/8j6qzs2ipkee1.png?width=2678&amp;format=png&amp;auto=webp&amp;s=3473bb332b457ae8a0ae6807e7d9c011b6a82faa 总之，这些应用运行良好，但也许像这样简单的东西应该可以完美地开箱即用。 总体而言，Lovable 看起来很有前途。我会给它 8/10 分。最适合那些优先考虑设计和速度的人。我现在使用的是免费计划，有限制，但也许我会考虑切换到付费计划一个月来检查其功能。    提交人    /u/Pixel_Pirate_Moren   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7fht0/i_tested_the_hottest_ai_web_app_builder_to_see_if/</guid>
+      <pubDate>Wed, 22 Jan 2025 16:45:07 GMT</pubDate>
     </item>
     <item>
       <title>技术副业？</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[因此，基本上，我正在尝试构建一个统一的平台，引入来自不同供应商的几种不同解决方案。我希望客户能够通过单点登录，让他们能够在单个仪表板上访问来自各种服务的简单指标，或者通过单点登录点击进入相应的服务。我不是特别精通技术，我正在边学边做，但实现这一目标的最简单方法是什么     提交人    /u/Whole_Ad_9002   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i7cg7k/best_way_to_build_a_unified_dashboard/</guid>
       <pubDate>Wed, 22 Jan 2025 14:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关免费工具的反馈 - 具有额外功能的 ngrok 替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7byhe/looking_for_feedback_on_a_free_tool_ngrok/</link>
-      <description><![CDATA[嗨，开发人员， 我正在开发一款名为 CodoBee 的工具，我很乐意听取您的反馈。我们的想法是让您能够非常轻松地与他人共享本地机器上运行的服务。如果您使用过 ngrok，它有点像那样，但带有 GUI 和一些附加功能。 例如，如果您正在开发一个网站并需要有人查看，您可以启动它，只需单击几下，您就会获得一个公共 URL。它不仅适用于网站，您还可以共享 API、数据库、游戏服务器或几乎任何东西。 我们还将其与 Docker 集成，因此如果您在容器中运行某些东西，您也可以共享它而无需费尽周折。 我很好奇这听起来像您会使用的东西吗？目前它是免费的（我们只是在寻求反馈），所以如果你有时间查看一下，我很乐意听听你的想法。 我们正在考虑的一个想法是添加远程协助工具。比如，想象一个初级开发人员陷入困境，他们可以安全地共享他们的本地设置，你可以远程帮助他们，即使他们不在身边。我们还在考虑为那些不希望他们的数据通过我们的服务器的人添加一个在私人基础设施上运行整个系统的选项。 你觉得怎么样？有用吗？毫无意义？遗漏了什么？很想听听任何反馈或想法。你甚至可以现在就尝试一下，只需前往https://codobee.com。    提交人    /u/MariuszT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7byhe/looking_for_feedback_on_a_free_tool_ngrok/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:11:46 GMT</pubDate>
     </item>
     <item>
       <title>你们是如何处理聋盲用户的验证码的？</title>
