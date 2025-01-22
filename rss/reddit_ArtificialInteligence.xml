@@ -3,21 +3,28 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 17:17:03 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 22 Jan 2025 18:25:22 GMT</lastBuildDate>
     <item>
-      <title>ComfyUI 即服务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7g3p2/comfyui_as_a_service/</link>
-      <description><![CDATA[我需要有关 ComfyUI 即服务的指导。有没有尝试过的在线付费服务推荐？有没有已经内置许多图像生成模型的服务？提前致谢。    提交人    /u/tommy737   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7g3p2/comfyui_as_a_service/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:09:23 GMT</pubDate>
+      <title>确定大型语言模型对自动感知分析的有效性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7hgcq/determining_the_validity_of_large_language_models/</link>
+      <description><![CDATA[我一直在想，像 ChatGPT 这样的大型语言模型 (LLM) 是否真的可以模拟人类的决策。人类做出的选择受到逻辑、情感、偏见和直觉的影响——而 LLM 实际上并没有“感觉”或体验到这些。相反，它们会根据数据中的模式生成响应。我发现研究专门针对这一领域的研究。  这引发了一些问题：  法学硕士 (LLM) 能否在决策过程中复制情感或直觉？ 那么不可预测性（违背过去的模式）呢？ 它们能否解决没有个人价值观的道德困境（例如，电车难题）？ 它们是否受到训练数据中偏见的限制？  即使缺乏“人为因素”，法学硕士 (LLM) 是否可用于在心理学研究中建模决策？让我知道您的想法！    提交人    /u/Nervous-Midnight-175   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7hgcq/determining_the_validity_of_large_language_models/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>Deep Seek r1 和审查制度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7fqbh/deep_seek_r1_and_censorship/</link>
-      <description><![CDATA[关于此模型的审查，值得注意的一件非常有趣的事情  https://x.com/Yuchenj_UW/status/1881903117270466609 哇，DeepSeek-R1-Zero 是我用过的审查最少的 LLM。  为什么？  它纯粹用 RL 进行训练，没有监督微调。所以即使你问关于中国的敏感问题，它也会直接回答！  我们 Hyperbolic Labs 目前提供 DeepSeek-R1 和 DeepSeek-R1-Zero，两种型号都是每 100 万个代币 2 美元。  Hyperbolic 会继续支持开源 AI，不管是中国 LLM 还是美国 LLM！    submitted by    /u/Rude-Bad-6579   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7fqbh/deep_seek_r1_and_censorship/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:55:02 GMT</pubDate>
+      <title>通用人工智能的曙光？ 文本链接。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/the_dawn_of_artificial_general_intelligence_link/</link>
+      <description><![CDATA[如果有人对 AGI 的用途和风险的讨论和辩论感兴趣，请听取世界经济论坛上最近的讨论。并在评论中告诉我们您的想法。  我个人认为执行通用智能任务的人工智能是有可能的。但我不认为它会有道德或谨慎不伤害人类。因此，有必要研究如何控制这样的人工智能系统并创建故障安全机制。你们怎么看？ https://www.youtube.com/watch?v=w5iuHJh3_Gk    提交人    /u/markyty04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/the_dawn_of_artificial_general_intelligence_link/</guid>
+      <pubDate>Wed, 22 Jan 2025 17:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>《星际之门》——天网前奏？剧本再好不过了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7gi94/stargate_prelude_to_skynet_couldnt_have_scripted/</link>
+      <description><![CDATA[看到总统关于星际之门的声明，并了解了它的含义。将此与撤销人工智能安全法规的行政命令相结合，在我看来，这是未来天网（终结者电影）类型情况前奏的完美剧本。  这相当于一种“先建设，后思考”的心态。这是否完美地说明了社会如何专注于短期利益（利润、工作）而不认真考虑长期风险，这可能是比流星、流行病或核战争等更合理的世界灾难情景？ 我承认保持领先地位对国家安全有影响，但这显然是一种短视和鲁莽的行为，主要是为了政治和企业利益。    提交人    /u/BeingBalanced   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7gi94/stargate_prelude_to_skynet_couldnt_have_scripted/</guid>
+      <pubDate>Wed, 22 Jan 2025 17:25:41 GMT</pubDate>
     </item>
     <item>
       <title>新型量子计算机能否使比特币或区块链变得无关紧要？</title>
@@ -43,16 +50,9 @@
     <item>
       <title>Postman 在其 API 平台上推出了 AI 代理构建器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/</link>
-      <description><![CDATA[因此，Postman 推出了自己的 AI Agent Builder。 它们在 API 领域已经非常成熟，这次发布在我看来是 Genai 的自然升级。 你对此有何看法？    提交人    /u/eternviking   [link] [评论]]]></description>
+      <description><![CDATA[因此，Postman 推出了自己的 AI Agent Builder。 它们在 API 领域已经非常成熟，这次发布在我看来是对 Genai 的自然升级。 你对此有何看法？    提交人    /u/eternviking   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/</guid>
       <pubDate>Wed, 22 Jan 2025 15:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 agi 时间表持怀疑态度的 OpenAI（或其他实验室研究人员）是谁？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher/</link>
-      <description><![CDATA[我依稀记得在 12 月至 1 月初的炒作节期间，奇点上有人发布了一条 OpenAI（至少我认为）研究人员推文的链接，该研究人员说了一些类似的话，他不同意同事对 AGI 的预测，并表示这取决于定义。 我想再次研究它，但我找不到那条推文。    提交人    /u/Tricky_Elderberry278   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:56:54 GMT</pubDate>
     </item>
     <item>
       <title>驱动人工智能的挑战</title>
@@ -78,7 +78,7 @@
     <item>
       <title>思考了 47 秒后，Deepseek R1 在 Strawberry 中找到了 3 个 R</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</link>
-      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母弄混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 位于位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 位于位置 3，然后是末尾的 RR，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
+      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母搞混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 位于位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 位于位置 3，然后是末尾的 RR，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</guid>
       <pubDate>Wed, 22 Jan 2025 05:25:34 GMT</pubDate>
     </item>
