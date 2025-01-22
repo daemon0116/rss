@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 22 Jan 2025 14:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:19:44 GMT</lastBuildDate>
+    <item>
+      <title>Bryan Cantrill（和朋友们）谈技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7c5cn/bryan_cantrill_and_friends_on_technical_blogging/</link>
+      <description><![CDATA[  由    /u/swdevtest  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7c5cn/bryan_cantrill_and_friends_on_technical_blogging/</guid>
+      <pubDate>Wed, 22 Jan 2025 14:20:42 GMT</pubDate>
+    </item>
     <item>
       <title>微处理器的未来 • Sophie Wilson</title>
       <link>https://www.reddit.com/r/programming/comments/1i7bt81/the_future_of_microprocessors_sophie_wilson/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>大多数程序员盲目相信的神话</title>
       <link>https://www.reddit.com/r/programming/comments/1i76smg/myths_that_most_programmers_blindly_believe/</link>
-      <description><![CDATA[  由   提交  /u/delvin0   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i76smg/myths_that_most_programmers_blindly_believe/</guid>
       <pubDate>Wed, 22 Jan 2025 08:44:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/birdbrainswagtrain  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i6vlmh/brainflood_runtime_code_generation_via_reflection/</guid>
       <pubDate>Tue, 21 Jan 2025 22:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建更高性能的 UI 渲染引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</link>
-      <description><![CDATA[  由    /u/random728373  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</guid>
-      <pubDate>Tue, 21 Jan 2025 21:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
