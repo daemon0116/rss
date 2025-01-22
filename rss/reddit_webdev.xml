@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 05:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 06:26:41 GMT</lastBuildDate>
+    <item>
+      <title>我的投资组合网站的规范标签</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i73x2l/canonical_tags_for_my_portfolio_site/</link>
+      <description><![CDATA[我认为这会非常简单直接，但谷歌对我的规范标签不满意。有什么想法吗？ 代码： &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt; &lt;meta name=&quot;description&quot; content=&quot;发现 Derek Dreblow 的最新博客文章，重点关注工程、软件开发和项目见解。&quot;&gt; &lt;meta name=&quot;author&quot; content=&quot;Derek Dreblow&quot;&gt; &lt;meta name=&quot;keywords&quot; content=&quot;Derek Dreblow，Dreblow 设计，作品集，工程，软件开发，LabVIEW，计量学&gt; &lt;link rel=&quot;canonical&quot; href=&quot;https://dreblowdesigns.com&quot;&gt; &lt;!-- Open Graph Metadata --&gt; &lt;meta property=&quot;og:title&quot; content=&quot;Dreblow 设计作品集&gt; &lt;meta property=&quot;og:description&quot; content=&quot;探索 Derek Dreblow 的专业作品集，展示工程和软件开发项目。&quot;&gt; &lt;meta property=&quot;og:image&quot; content=&quot;https://dreblowdesigns.com/resources/images/profile_DerekDreblow.jpeg&quot;&gt; &lt;meta property=&quot;og:url&quot; content=&quot;https://dreblowdesigns.com&quot;&gt; &lt;meta property=&quot;og:type&quot; content=&quot;website&quot;&gt; &lt;!-- Twitter Card Metadata --&gt; &lt;meta name=&quot;twitter:card&quot; content=&quot;summary_large_image&quot;&gt; &lt;meta name=&quot;twitter:title&quot; content=&quot;Dreblow Designs Portfolio&gt; &lt;meta name=&quot;twitter:description&quot; content=&quot;探索 Derek Dreblow 的专业作品集，展示工程和软件开发项目。&quot;&gt; &lt;meta name=&quot;twitter:image&quot; content=&quot;https://dreblowdesigns.com/resources/images/profile_DerekDreblow.jpeg&quot;&gt; &lt;!-- 默认图标 --&gt; &lt;link rel=&quot;icon&quot; type=&quot;image/svg+xml&quot; href=&quot;https://dreblowdesigns.com/resources/images/favicon_io/favicon.svg&quot; /&gt; &lt;link rel=&quot;快捷方式图标&quot; href=&quot;https://dreblowdesigns.com/resources/images/favicon_io/favicon.ico&quot; /&gt; &lt;!-- 用于高分辨率显示器的 PNG 图标 --&gt; &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;https://dreblowdesigns.com/resources/images/favicon_io/favicon-96x96.png&quot; sizes=&quot;96x96&quot; /&gt; &lt;!-- Apple Touch 图标 --&gt; &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;180x180&quot; href=&quot;https://dreblowdesigns.com/resources/images/favicon_io/apple-touch-icon.png&quot; /&gt; &lt;meta name=&quot;apple-mobile-web-app-title&quot; content=&quot;Dreblow Designs&quot;&gt; &lt;!-- 网站清单--&gt; &lt;link rel=&quot;manifest&quot; href=&quot;https://dreblowdesigns.com/resources/images/favicon_io/site.webmanifest&quot; /&gt; &lt;!-- Google 标签 (gtag.js) -&gt; &lt;script async src=&quot;https://www.googletagmanager.com/gtag/js?id=G-9RT1T06DM1&quot;&gt;&lt;/script&gt; &lt;script&gt; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag(&#39;js&#39;, new Date()); gtag(&#39;config&#39;, &#39;G-9RT1T06DM1&#39;); &lt;/script&gt; &lt;title&gt;Dreblow 设计作品集&lt;/title&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;resources/css/styles.css&quot;&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css&quot;&gt;  正在处理图片 64ysz8ruchee1...    提交人    /u/ZoolanderBOT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i73x2l/canonical_tags_for_my_portfolio_site/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>askds,使用 DeepSeek R1 调试你的测试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i73vxx/github_mohsen1askds_ask_deepseek_r1_to_debug_your/</link>
+      <description><![CDATA[        由    /u/mehyay76 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i73vxx/github_mohsen1askds_ask_deepseek_r1_to_debug_your/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:20:15 GMT</pubDate>
+    </item>
     <item>
       <title>使用 API 从我的应用程序关注社交媒体上的用户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i73i9l/using_apis_to_follow_users_on_social_media_from/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>大公司经历</title>
       <link>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</link>
-      <description><![CDATA[我是一名全栈 Web 开发人员，在小型公司有 4 年的工作经验。我非常希望以拥有 FFANG 公司的工作经验作为职业目标。但是，入门级职位（lv1、lv2）基本上总是由必须返回学校的在校学生保留，而更高级别的职位很难获得。我发现，如果没有大公司的经验，我的简历 99% 的时间都会被机器过滤。通过在小公司积累经验，我与大公司员工之间的技能差距越来越大。您推荐哪些中型或大型公司？我该如何实现我的目标？    提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名全栈 Web 开发人员，在小型公司有 4 年的工作经验。我非常希望以拥有 FFANG 公司的工作经验作为职业目标。但是，入门级职位（lv1、lv2）基本上总是由必须返回学校的在校学生保留，而更高级别的职位很难获得。我发现，如果没有大公司的经验，我的简历 99% 的时间都会被机器过滤。通过在小公司积累经验，我和大公司员工之间的技能差距越来越大。您推荐哪些中型或大型公司？我该如何实现我的目标？    提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</guid>
       <pubDate>Wed, 22 Jan 2025 03:05:29 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想使用 html，因为与 wordpress 或 drupal 相比，它速度快且占用的资源最少。我想使用 astro js，但您不能在共享主机上使用它。我更愿意准备好模板，而不是从头开始构建。我需要： 响应式网站 响应式菜单 使用 js 和视觉效果出色的现代设计 等等    提交人    /u/maomao19   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i6ygx6/hi_guys_i_need_to_build_fast_and_modern_website/</guid>
       <pubDate>Wed, 22 Jan 2025 00:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了在简历上谎报自己的身份以获得面试机会。我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i6yfgs/tired_of_lying_about_who_i_am_on_my_resume_to_get/</link>
-      <description><![CDATA[大家好！我需要一些建议！ 我是一个混血儿，但出于所有目的，我都认为自己是黑人，因为我就是这样长大的，而且社会上也是这样看待我的。 我在这个领域已经工作了大约 5 年，在此期间，我一直在简历上使用我的中间名，因为它听起来很“白人”，我们叫它 Chad。我的名字听起来很像黑人……Tyrone。 我一直在使用中间名，但我真的很想使用我的出生名字，但我担心由于简历名称偏见，我会失去机会。 我该怎么办？    提交人    /u/AZXCIV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i6yfgs/tired_of_lying_about_who_i_am_on_my_resume_to_get/</guid>
-      <pubDate>Wed, 22 Jan 2025 00:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我要求 85,000 美元的薪水是不是让我错失了获得这份工作的机会？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i6xvb7/did_i_blow_my_chance_at_the_job_by_asking_for_85k/</link>
-      <description><![CDATA[我有 2 年工作经验，刚刚参加了西雅图一家小型营销机构的面试。我参加了两轮面试，当他们问到薪酬时，我说我在 Google 上搜索了该地区，初级 WordPress 开发人员的平均工资是 85k，所以这就是我所要求的。他们今天回复说，他们正在寻找初级职位的人，而我的薪资要求超出了他们的范围。他们没有提出反要约，基本上就像……没有。我要的钱是不是太多了？ 我确实给他们回了邮件，说我愿意谈判，我很乐意就薪资达成协议。他们回复说，他们会在接下来的几天内考虑。我担心我要求太多而把事情搞砸了。这家公司完全是远程办公，而且工作底薪真的很好，所以我愿意接受更少的工资来换取这些福利。有没有其他人因为要求超出预算的薪水而毫无还手之力地失去了一份工作？ 说实话，我只是有点沮丧，从来没有想过我会因为要求太多钱而被拒绝。这个市场非常艰难，所以每次失败的面试都会对精神造成伤害。谢谢你们    提交人    /u/FearlessChair   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i6xvb7/did_i_blow_my_chance_at_the_job_by_asking_for_85k/</guid>
-      <pubDate>Wed, 22 Jan 2025 00:22:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
