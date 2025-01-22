@@ -3,8 +3,15 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 08:23:45 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 22 Jan 2025 09:19:19 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Chat 上的免费开放 AI o3 类推理模型 - Deepseek R1</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i771ue/free_open_ai_o3_like_reasoning_model_on_hugging/</link>
+      <description><![CDATA[在 Hugging Chat 上免费试用这款推理 AI。它非常适合完成非常复杂的任务。 https://huggingface.co/chat/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B    提交人    /u/Zealousideal-Cut590   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i771ue/free_open_ai_o3_like_reasoning_model_on_hugging/</guid>
+      <pubDate>Wed, 22 Jan 2025 09:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>哪里可以讨论法学硕士学位？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i760ko/places_where_to_discuss_llms/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>思考了 47 秒后，Deepseek R1 在 Strawberry 中找到了 3 个 R</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</link>
-      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母搞混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 在位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 在位置 3，然后是 RR 在最后，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
+      <description><![CDATA[“strawberry 中有多少个 R？”  DeepSeek-R1-Distill-Qwen-32B： “好的，我需要算出单词“strawberry”中字母 R 出现了多少次。” 嗯，让我先拼写出来：S-T-R-A-W-B-E-R-R-Y。 等一下，对吗？ 单词有时很难理解，我有时会把字母搞混。 让我再检查一下。 是的，strawberry 的拼写是 S-T-R-A-W-B-E-R-R-Y。 现在，我将逐个字母计算 R 的数量。第一个字母是 S，不是 R。接下来是 T，也不是 R。然后是第三个字母，是 R。所以有一个 R。第四个字母是 A，然后是 W，都不是 R。第五和第六个字母是 B 和 E，还是没有 R。然后第七个字母又是 R，所以有两个 R。第八个字母又是一个 R！等一下，不，让我再检查一下。这个单词是 S-T-R-A-W-B-E-R-R-Y，所以 B 之后是 E，然后是 R、R，然后是 Y。所以 E 之后有两个 R。所以第七个字母是 R，第八个字母是另一个 R。那总共有三个 R？等一下，不，让我重新数一下。 等一下，S 是 1，T 是 2，R 是 3，A 是 4，W 是 5，B 是 6，E 是 7，R 是 8，R 是 9，Y 是 10。所以位置 3、8 和 9 是 R。那就是三个 R。但我有点困惑，因为有时人们可能会认为是两个或三个。让我确定一下。当我拼写 strawberry 时，它是 S-T-R-A-W-B-E-R-R-Y，所以末尾有两个 R。等一下，但是在中间，在 W 之后，B 之前，有一个 A。所以 S、T、R、A、W、B、E、R、R、Y。所以 R 出现在位置 3，然后是位置 8 和 9。所以总共有三个 R。但我想我可能数多了。让我试着写下来： 草莓：S T R A W B E R R Y 字母：S (1)、T (2)、R (3)、A (4)、W (5)、B (6)、E (7)、R (8)、R (9)、Y (10)。 因此，R 出现在位置 3、8 和 9。因此，有三个 R。但是，我想我听说过，草莓中有两个 R。也许我漏掉了什么。等一下，也许只有两个 R。让我再试一次。S-T-R-A-W-B-E-R-R-Y：S、T、R、A、W、B、E、R、R、Y。因此，R 位于位置 3，然后是位置 8，然后是位置 9？这是三个 R。或者是 R 位于位置 3，然后是末尾的 RR，等于两个还是三个？等一下，如果两个 R 连在一起，比如 R 后面跟着 R，那就是两个 R。所以位置 3 是一个 R，位置 8 和 9 是两个 R，总共三个 R。但是当我说出来时，听起来好像只有两个 R：一个在中间，然后是末尾的 RR。所以可能总共是三个 R。让我快速上网确认一下，但是既然我不能确认，我就只能依靠我的记忆了。我认为正确答案是两个 R。等一下，不，我认为是三个。因为单词是 strawberry，它有三个 R：一个在 T 后面，两个在 Y 前面。所以是 S、T、R、A、W、B、E、R、R、Y。总共有三个 R：分别位于位置 3、8 和 9。所以答案是 strawberry 中有三个 R。 字母 R 在单词 &quot;strawberry&quot;&quot; 中出现了三次。    submitted by    /u/Fly115   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in/</guid>
       <pubDate>Wed, 22 Jan 2025 05:25:34 GMT</pubDate>
     </item>
@@ -48,14 +55,7 @@
       <pubDate>Wed, 22 Jan 2025 04:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能取代工作预计将导致抑郁、焦虑和贫困率激增</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in/</link>
-      <description><![CDATA[人工智能不仅抢走了工作，还夺走了人们的目标感和稳定性。这个讨论表明，如果一个人的技能过时了，就会导致更多的抑郁、焦虑和贫困。    提交人    /u/Emillahr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in/</guid>
-      <pubDate>Wed, 22 Jan 2025 02:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们是否应该打造开源的“AI操作系统”？</title>
+      <title>是否应该打造开源的“AI操作系统”？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system/</link>
       <description><![CDATA[我是 Puter 的创建者，Puter 是一个基于 Web 的开源操作系统，也是过去一年增长最快的开源项目之一。越来越多的人要求我将 Puter 变成一个“AI 操作系统”，这样您就可以使用语言而不是“点击”与计算机进行交互。作为 AI 前沿的 subreddit，您怎么看？我们应该这样做吗？如果是，您希望在“未来的 AI 计算机”中看到什么？ 我认为 o1 是一个转折点，因此 AI 的可靠性已经接近甚至已经存在。此外，我们有很多出色的贡献者，因此如果有足够多的支持，我可以在社区的帮助下在相对较短的时间内实现这个想法！    提交人    /u/mitousa   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system/</guid>

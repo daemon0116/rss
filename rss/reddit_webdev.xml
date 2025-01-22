@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 08:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:20:36 GMT</lastBuildDate>
+    <item>
+      <title>适合美国市场的完美简历。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7713u/perfect_cv_for_us_market/</link>
+      <description><![CDATA[大家能分享一下他们认为适合网页开发者角色的完美简历吗？我没有收到招聘人员的回复。谢谢    提交人    /u/OddExplanation883   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7713u/perfect_cv_for_us_market/</guid>
+      <pubDate>Wed, 22 Jan 2025 09:01:47 GMT</pubDate>
+    </item>
     <item>
       <title>吐槽一下我的简历。大约 4 年前，我从职业转行到 Web 开发。</title>
       <link>https://www.reddit.com/r/webdev/comments/1i76cig/roast_my_cv_i_have_transitioned_from_careering_to/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>应该学习哪种 Web 开发技术栈？我是数据科学专业的学生</title>
       <link>https://www.reddit.com/r/webdev/comments/1i75ryi/which_web_dev_stack_to_learn_im_data_science/</link>
-      <description><![CDATA[大家好。 我知道 Web 开发与数据科学任务没有直接联系。我仍然喜欢这个，因为我想展示我的业余项目，并且我的技能组合中还有另一个领域，用于自由职业等。 所以，大约一个学期前，我想到了一个创建类似于 Google Drive 的存储系统的想法，我还有一台单独的 PC，我想用作服务器。你们能帮我选择在前端使用什么吗？因为有大量的框架可用，我感到很困惑。 对于后端，我对 python 很满意。但我无法在 django 和 flask 之间做出决定？ 请提供一些信息并帮助我做出决定。我可能会使用这些技能来从事自由职业。 谢谢    提交人    /u/Suspicious-Wing-4772   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 我知道 Web 开发与数据科学任务没有直接联系。我仍然喜欢这个，因为我想展示我的业余项目，并且我的技能组合中还有另一个领域，可以从事自由职业等。 所以，大约一个学期前，我想到了一个创建类似于 Google Drive 的存储系统的想法，我还有一台单独的 PC，我想用作服务器。你们能帮我选择在前端使用什么吗？因为有大量的框架可用，我感到很困惑。 对于后端，我对 python 很满意。但我无法在 django 和 flask 之间做出决定？ 请提供一些信息并帮助我做出决定。我可能会使用这些技能来从事自由职业。 谢谢    提交人    /u/Suspicious-Wing-4772   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i75ryi/which_web_dev_stack_to_learn_im_data_science/</guid>
       <pubDate>Wed, 22 Jan 2025 07:26:21 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>帮助我将我的网页连接到扫描仪！</title>
       <link>https://www.reddit.com/r/webdev/comments/1i7548x/help_me_connect_my_webpage_to_my_scanner/</link>
-      <description><![CDATA[我正在尝试将扫描仪集成添加到我的网站。我基本上想要网页上的扫描按钮，可以直接从打印机/扫描仪进行扫描。我不想要本地服务器，也不想将问题传递到后端。 我尝试过使用 WebUSB，它甚至允许我在网页上选择扫描仪，但之后它会抛出“无法声明接口”错误。我尝试过一些基本的修复方法，比如检查其他服务是否没有使用我的扫描仪，但仍然不起作用。 我知道这是一种非常复杂的方法来执行任务，但我特别希望浏览器访问扫描仪，而不是本地服务器。如果您有任何修复或任何其他方法，请告诉我。我已经为此绞尽脑汁两天了。    提交人    /u/memeboiiii7059   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试将扫描仪集成添加到我的网站。我基本上想要网页上的扫描按钮，可以直接从打印机/扫描仪进行扫描。我不想要本地服务器，也不想将问题传递到后端。 我尝试过使用 WebUSB，它甚至允许我在网页上选择扫描仪，但之后它会抛出“无法声明接口”错误。我尝试过基本的修复方法，例如检查其他服务是否未使用我的扫描仪，但仍然不起作用。 我知道这是一种非常复杂的执行任务的方法，但我特别希望浏览器访问扫描仪，而不是本地服务器。如果您有任何修复或任何其他方法，请告诉我。我已经为此绞尽脑汁两天了。    提交人    /u/memeboiiii7059   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i7548x/help_me_connect_my_webpage_to_my_scanner/</guid>
       <pubDate>Wed, 22 Jan 2025 06:39:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找能够处理所有事务的团队，从设计、开发、UI、架构到我正在构建的全新平台之间的一切。  有什么建议吗？    提交人    /u/Activeshadough   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i71th5/who_are_the_top_companies_for_creating_amazing/</guid>
       <pubDate>Wed, 22 Jan 2025 03:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>大公司经历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</link>
-      <description><![CDATA[我是一名全栈 Web 开发人员，在小型公司有 4 年的工作经验。我非常希望以拥有 FFANG 公司的工作经验作为职业目标。但是，入门级职位（lv1、lv2）基本上总是由必须返回学校的在校学生保留，而更高级别的职位很难获得。我发现，如果没有大公司的经验，我的简历 99% 的时间都会被机器过滤。通过在小公司积累经验，我和大公司员工之间的技能差距越来越大。您推荐哪些中型或大型公司？我该如何实现我的目标？    提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i71alw/big_company_experience/</guid>
-      <pubDate>Wed, 22 Jan 2025 03:05:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

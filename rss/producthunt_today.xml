@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 08:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:20:46 GMT</lastBuildDate>
     <item>
       <title>指尖</title>
       <link>https://www.producthunt.com/posts/fingertip</link>
@@ -37,7 +37,7 @@
       <title>星光合作伙伴计划</title>
       <link>https://www.producthunt.com/posts/starlight-partner-program</link>
       <description><![CDATA[
-运营电动汽车充电网络并产生被动收入。
+运营电动汽车充电网络并产生被动收入
 
 
 讨论
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/starlight-partner-program</guid>
       <pubDate>Tue, 21 Jan 2025 13:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>中心冥想计时器</title>
-      <link>https://www.producthunt.com/posts/center-meditation-timer</link>
-      <description><![CDATA[
-无干扰的正念
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/center-meditation-timer</guid>
-      <pubDate>Tue, 21 Jan 2025 00:22:37 GMT</pubDate>
     </item>
     <item>
       <title>捏</title>
@@ -104,10 +90,10 @@
       <pubDate>Mon, 20 Jan 2025 05:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>美好的</title>
+      <title>芬巴尔</title>
       <link>https://www.producthunt.com/posts/finbar-2</link>
       <description><![CDATA[
-人工智能驱动的财务分析
+您的 AI 金融数据分析师
 
 
 讨论
@@ -132,18 +118,18 @@
       <pubDate>Sat, 18 Jan 2025 00:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>Every.io</title>
-      <link>https://www.producthunt.com/posts/every-io</link>
+      <title>新闻快讯</title>
+      <link>https://www.producthunt.com/posts/newsbang</link>
       <description><![CDATA[
-以 0 美元的价格成立您的科技初创公司
+您的第一个 AI 新闻和见解应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/every-io</guid>
-      <pubDate>Fri, 17 Jan 2025 20:22:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/newsbang</guid>
+      <pubDate>Wed, 15 Jan 2025 08:48:05 GMT</pubDate>
     </item>
     <item>
       <title>swiftnotes.ai</title>
@@ -160,20 +146,6 @@
       <pubDate>Tue, 14 Jan 2025 18:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>重新配置</title>
-      <link>https://www.producthunt.com/posts/reconfigured</link>
-      <description><![CDATA[
-分析师记录调查结果的日志
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/reconfigured</guid>
-      <pubDate>Tue, 14 Jan 2025 10:08:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Launchy</title>
       <link>https://www.producthunt.com/posts/launchy-2</link>
       <description><![CDATA[
@@ -186,6 +158,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/launchy-2</guid>
       <pubDate>Tue, 14 Jan 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>融洽工作室</title>
+      <link>https://www.producthunt.com/posts/rapport-studio</link>
+      <description><![CDATA[
+通过您自己独特的品牌，让您的 AI 头像栩栩如生
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rapport-studio</guid>
+      <pubDate>Wed, 08 Jan 2025 14:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>JoggAI 2.0：AI头像生成器</title>
+      <link>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</link>
+      <description><![CDATA[
+根据文本提示创建逼真、个性化的 AI 头像
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/joggai-2-0-ai-avatar-generator</guid>
+      <pubDate>Mon, 06 Jan 2025 14:54:52 GMT</pubDate>
     </item>
     <item>
       <title>屏幕空间</title>
@@ -202,18 +202,18 @@
       <pubDate>Mon, 06 Jan 2025 05:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 已保存帖子管理器</title>
-      <link>https://www.producthunt.com/posts/linkedin-saved-posts-manager</link>
+      <title>我的朋友</title>
+      <link>https://www.producthunt.com/posts/kawara</link>
       <description><![CDATA[
-使用标签和主题保存和组织帖子
+为您的视频提供个性化搜索引擎
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/linkedin-saved-posts-manager</guid>
-      <pubDate>Tue, 10 Dec 2024 08:41:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kawara</guid>
+      <pubDate>Wed, 01 Jan 2025 17:09:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
