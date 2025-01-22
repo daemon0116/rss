@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:36:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 13:23:50 GMT</lastBuildDate>
+    <item>
+      <title>如果您像我一样喜欢 DeepSeek 和 Cursor，请查看此项目：https://github.com/danilofalcao/cursor-deepseek 它使得可以在 Cursor 的 Composer 中使用 DeepSeek 模型作为“gpt-4o” P.S.：它并不完美，但这是一个开始😊非常欢迎做出贡献！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7ay47/if_you_dig_deepseek_and_cursor_as_much_as_i_do/</link>
+      <description><![CDATA[  由    /u/th3w0rld1sy0urs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7ay47/if_you_dig_deepseek_and_cursor_as_much_as_i_do/</guid>
+      <pubDate>Wed, 22 Jan 2025 13:20:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7axs4/how_bluesky_works/</link>
+      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7axs4/how_bluesky_works/</guid>
+      <pubDate>Wed, 22 Jan 2025 13:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我把 JS 变成了编译语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7ar2t/i_turned_js_into_a_compiled_language/</link>
+      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7ar2t/i_turned_js_into_a_compiled_language/</guid>
+      <pubDate>Wed, 22 Jan 2025 13:10:17 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Datalog 饮酒 (2021)</title>
       <link>https://www.reddit.com/r/programming/comments/1i790ln/drinking_with_datalog_2021/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>大多数程序员盲目相信的神话</title>
       <link>https://www.reddit.com/r/programming/comments/1i76smg/myths_that_most_programmers_blindly_believe/</link>
-      <description><![CDATA[  由   提交  /u/delvin0   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i76smg/myths_that_most_programmers_blindly_believe/</guid>
       <pubDate>Wed, 22 Jan 2025 08:44:02 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/random728373  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</guid>
       <pubDate>Tue, 21 Jan 2025 21:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用模式和领域知识解决技术债务 | Maintenanceable.fm</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6qgc8/tackling_technical_debt_with_patterns_and_domain/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6qgc8/tackling_technical_debt_with_patterns_and_domain/</guid>
-      <pubDate>Tue, 21 Jan 2025 19:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Dropbox 中的消息系统模型改进我们的基础架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6pcov/evolving_our_infrastructure_through_the_messaging/</link>
-      <description><![CDATA[  由    /u/piscesff  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6pcov/evolving_our_infrastructure_through_the_messaging/</guid>
-      <pubDate>Tue, 21 Jan 2025 18:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nevalang v0.30.1 - NextGen 编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6p4qt/nevalang_v0301_nextgen_programming_language/</link>
-      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6p4qt/nevalang_v0301_nextgen_programming_language/</guid>
-      <pubDate>Tue, 21 Jan 2025 18:15:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
