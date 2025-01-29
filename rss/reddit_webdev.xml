@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 11:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:35:44 GMT</lastBuildDate>
+    <item>
+      <title>Web 可访问性备忘单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icshds/web_accessibility_cheat_sheet/</link>
+      <description><![CDATA[      我想与任何可能对 Web 可访问性感兴趣的人分享。我还看到了一个可访问开发人员角色的 FB 群组。 https://www.facebook.com/share/g/19vxDge1Gn/?mibextid=wwXIfr    由   提交  /u/Nice-Factor-8894   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icshds/web_accessibility_cheat_sheet/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>提交表单后，哪种服务最适合发送电子邮件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icse5t/which_service_is_the_best_for_sending_an_email/</link>
+      <description><![CDATA[我正在做一些基于表单的项目，我想获得一些关于我应该使用哪种服务的建议。 我的目的是在用户填写表单后向他们发送电子邮件？ 我见过像 formsend.io 和 formspree 这样的网站，但我想知道是否有更好的网站，或者我是否正在使用最常见的网站    提交人    /u/bluhze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icse5t/which_service_is_the_best_for_sending_an_email/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:13:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一个客户发来的 POS 项目提案，需要在 45 天内完成。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ics24k/i_have_a_pos_project_proposal_from_my_client/</link>
+      <description><![CDATA[大家好。我有一个餐厅管理系统的项目提案。但问题是时间框架，即 45 天。所以有人知道任何可以在这个时间框架内完成工作的机构吗？还有 10 个项目正在进行中，所以如果你们认识任何团队，请留言。如果您认为自己无法完成，请不要直接发信息。    提交人    /u/iamprv17   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ics24k/i_have_a_pos_project_proposal_from_my_client/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于主流 AI 抓取工具大多不渲染 JS，那么 JavaScript 渲染能否对它们有用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icru6c/can_javascript_rendering_be_of_use_against_major/</link>
+      <description><![CDATA[我不是 JavaScript 专家，也许有人可以说一下这是否站得住脚： 在阅读了一些文章之后，我一直在思考网站上的 JavaScript 渲染（图像/视频）可能是阻碍 AI 抓取工具的一种有趣方式。 定义： “Javascript 渲染是指使用 JavaScript 动态更新网页内容的过程。此过程也称为客户端渲染，意味着它在用户的 Web 浏览器上动态生成 Html 内容。” “如果使用 javascript 动态生成内容，则 Web 爬虫可能会或可能不会看到完全渲染的内容。因此它会妨碍我们的网页索引。” https://www.geeksforgeeks.org/what-is-javascript-rendering/ Vercel 的最新分析 Vercel 最近发表了一篇关于大多数 AI 爬虫如何避免渲染 JavaScript（Gemini 除外）的文章 “结果一致表明，目前所有主要的 AI 爬虫都不会渲染 JavaScript。 其中包括：OpenAI（OAI-SearchBot、ChatGPT-User、GPTBot）Anthropic（ClaudeBot）Meta（Meta-ExternalAgent）ByteDance（Bytespider）Perplexity（PerplexityBot）” https://vercel.com/blog/the-rise-of-the-ai-crawler 命题 / 问题 他们避免渲染 JavaScript 可能是因为技术问题，也许是因为成本问题，也可能两者兼而有之 —— 这些公司试图以尽可能便宜的方式抓取数据，但仍然损失惨重。 开发人员是否可以利用这一点，通过选择将图像 / 视频隐藏在“JavaScript 渲染幕”后面（使它们对抓取工具不太明显，同时保持对用户的可见性相同？ 我想这会影响加载效率。 Ps. 在有人说这不能完全解决问题之前，这是否会使主要抓取工具更加困难（在时间、资源、成本方面）？它可能无法解决问题，但使其不那么容易已经会产生影响。 Ps2。我完全赞成了解为什么这行不通，但我保留将任何简短的答案解释为“不可避免”、“没有办法把它放回盒子里”或“人工智能是未来”的权利，因为这只不过是低努力的人工智能支持。    提交人    /u/bowiemustforgiveme   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icru6c/can_javascript_rendering_be_of_use_against_major/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:38:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么法学硕士 (LLM) 和人工智能代理不会消除对软件工程师的需求。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icrndw/why_llms_and_ai_agents_wont_remove_the_need_for/</link>
+      <description><![CDATA[https://substack.com/home/post/p-155679397    由   提交  /u/gbro3n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icrndw/why_llms_and_ai_agents_wont_remove_the_need_for/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:25:27 GMT</pubDate>
+    </item>
     <item>
       <title>说实话，我感觉我在 webdev 方面很差劲。</title>
       <link>https://www.reddit.com/r/webdev/comments/1icqx4q/honestly_feel_like_i_suck_at_webdev/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/LSkeptic   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</guid>
       <pubDate>Wed, 29 Jan 2025 04:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站加载时，图片和视频似乎只部分/暂时加载，然后闪烁/闪烁/闪烁并再次重新加载</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</link>
-      <description><![CDATA[第一个错误显然是我叔叔雇来做网站的人，他们都是在 Wix 上建的。当试图让网站加载速度更快时，我愚蠢地尝试了几个“网站助推器” Wix 应用商店中的应用程序（Page Booster - Instant Results &amp; Website Speedy - load faster）在他们“优化”网站后，我注意到一个问题，即图像和视频似乎先加载，然后闪烁/闪光/闪烁，然后再次加载。任何帮助都将不胜感激。我已将主页和 /pool-design 登陆页面上发生的问题的视频上传到此处。网站是www.miragelandscape.com。 问题的屏幕录制 我尝试删除应用程序、将网站恢复到较早的日期等，但均未成功。任何帮助或见解都将不胜感激。    提交人    /u/wsekandar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的意见可以吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</link>
-      <description><![CDATA[        提交人    /u/somethingdeido   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来不值得的 10 万美元以上的项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</link>
-      <description><![CDATA[我从事开发工作已经 40 多年了，做过几个 6 位数的项目 - ERP 或其他类型的复杂工作流引擎 - 并且我认为我很清楚一个独立开发者或小团队 (&lt;= 4) 用 10 万美元能完成什么。 最近，我网络中的一个人告诉我，他们签了一份 12 万美元的合同来开发一个网站。我问是什么类型的。他们说“哦，一个大约有一百种产品的 Shopify 店面，带有一些视频的营销渠道网站，以及大约十几个特定产品系列的登录页面。”客户提供了他们的库存照片，他们有一名内部设计师负责大部分设计工作和视频。承包商为他们自己的设计需求预留了大约 1 万美元。 所以这基本上是一个单人开发团队，外包一些有限的设计工作，创建一个 Shopify 模板、一个 200 美元样板的漏斗网站和十几个独立页面。他们认为这大约需要 3 个月。他们得到 120,000 美元的报酬。然后是每月的聘金（金额未知，但他们预计至少会运行 2 年）。 我哪里做错了？我找错地方了吗？我在哪里可以找到 10 万美元的营销网络项目（或任何需要比 ERP 系统更少理智的东西）？这似乎是一个大幅虚高的价格，而且极为罕见。我认为我会为同一个项目投入大约 2 万美元，将所有设计成本直接转嫁给客户，并且在 3 个月内仍有足够的时间来完成其他几个合同。 所以一半是咆哮，一半是恳求 :) 感谢您的聆听！    提交人    /u/Rusty_Raven_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何根据 CSS 进行基本的 HTML 创建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icjq6r/how_to_go_about_basic_html_creation_in_regards_to/</link>
-      <description><![CDATA[大家好，我有一个问题一直困扰着我，也是我理解使用 HTML 和 CSS 制作基本网站的一大障碍。如何知道何时为元素创建一个类或一组类？例如，假设您进行了一个简单的设计并开始创建结构（HTML）；您怎么知道何时开始为每个元素（div 或其他）赋予卡片或卡片/大卡片类？当我看到深入介绍许多附加到类的元素的 HTML 文档时，我总是感到困惑。任何关于如何更好地分解或理解它的帮助都将不胜感激。    提交人    /u/LivingParticular915   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icjq6r/how_to_go_about_basic_html_creation_in_regards_to/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在是 2025 年，从企业背景来看，现在构建全栈应用程序的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</link>
-      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像 React + Spring/Flask/ASP.NET ... 数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:14:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
