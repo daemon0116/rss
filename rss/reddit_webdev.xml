@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 04:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 05:17:59 GMT</lastBuildDate>
+    <item>
+      <title>我该如何做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icmhq9/how_do_i_do_this/</link>
+      <description><![CDATA[我正在研究制作一个 html 网站。但我想在页面上包含一个可见的计数器。 假设有一个按钮。我如何跟踪和显示曾经点击过该按钮的每个人的次数？    提交人    /u/Animedingo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icmhq9/how_do_i_do_this/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</link>
+      <description><![CDATA[上下文： 我写了一本关于 flex 和 grid 的电子书，但对它的名字感到困惑。 正如其他人在之前的投票中所建议的那样，我使用了价值驱动的标题。 这本书是一本 110 页的指南，用简单的术语解释了关于 flex 和 grid 的所有内容，主要是视觉效果和示例。并且没有不必要的复杂细节。 提前谢谢您：) ​ 查看投票    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:59:10 GMT</pubDate>
+    </item>
     <item>
       <title>Porkbun 删除了 Cloudflare DNSSEC 并添加了自己的。</title>
       <link>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[您好，我计划为牙医做一个网站，我可以使用（自制）软件来编辑网页上的某些内容。比如价格表、招聘职位等。 这样的事情怎么可能实现？最佳实践是什么？您会推荐哪种堆栈？ 我对这个想法很陌生，所以我甚至不知道具体要问什么，但我很乐意学习。 谢谢大家    提交人    /u/DasWildeMaus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icfnou/how_to_make_software_program_and_webpage/</guid>
       <pubDate>Tue, 28 Jan 2025 23:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自 Shadcn 的 10 个顺风技巧 - 简化指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icfkxb/10_tailwind_tricks_from_shadcn_simplified_guide/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icfkxb/10_tailwind_tricks_from_shadcn_simplified_guide/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:24:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's Encrypt 将终止对证书到期通知电子邮件的支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icfegd/lets_encrypt_is_ending_support_for_notification/</link>
-      <description><![CDATA[       由    /u/BehindTheMath  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icfegd/lets_encrypt_is_ending_support_for_notification/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:16:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

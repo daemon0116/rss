@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 04:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 05:17:42 GMT</lastBuildDate>
+    <item>
+      <title>哈希函数：弥合理论与实践之间的差距 - Mikkel Thorup - Google 算法研讨会</title>
+      <link>https://www.reddit.com/r/programming/comments/1icm986/hash_functions_bridging_the_gap_from_theory_to/</link>
+      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icm986/hash_functions_bridging_the_gap_from_theory_to/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么分类比看起来更难</title>
+      <link>https://www.reddit.com/r/programming/comments/1icm1si/why_sorting_is_harder_than_it_seems/</link>
+      <description><![CDATA[  由    /u/dsagal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icm1si/why_sorting_is_harder_than_it_seems/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:47:49 GMT</pubDate>
+    </item>
     <item>
       <title>数据结构简单解释</title>
       <link>https://www.reddit.com/r/programming/comments/1icktls/data_structures_explained_simply/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</guid>
       <pubDate>Tue, 28 Jan 2025 16:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tilted 0.4.0 – 轻量级 TS 库，用于以现代 2.5D 方式显示地图和其他类似内容。向光标滑动时可平滑缩放，轻松实现多维视觉效果、拖动等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</link>
-      <description><![CDATA[  由    /u/Anbeeld  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用团队拓扑和平台工程实现快速流动 • Manuel Pais 和 Julian Wood</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:15:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
