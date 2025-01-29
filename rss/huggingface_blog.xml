@@ -4,7 +4,42 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:19:31 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到 Hub 上的推理提供商🔥</title>
+      <link>https://huggingface.co/blog/inference-providers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-providers</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open-R1：DeepSeek-R1 的完全开放复制版</title>
+      <link>https://huggingface.co/blog/open-r1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/open-r1</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩散器中开放视频生成模型的状态</title>
+      <link>https://huggingface.co/blog/video_gen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/video_gen</guid>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们现在支持 smolagents 中的 VLM！</title>
+      <link>https://huggingface.co/blog/smolagents-can-see</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolagents-can-see</guid>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SmolVLM 变得更小 – 推出 250M 和 500M 型号！</title>
+      <link>https://huggingface.co/blog/smolervlm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolervlm</guid>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hugging Face 与 FriendliAI 合作，增强 Hub 上的模型部署</title>
       <link>https://huggingface.co/blog/friendliai-partnership</link>
@@ -67,41 +102,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/train_memory</guid>
       <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NVIDIA 的 LogitsProcessorZoo 控制语言模型生成</title>
-      <link>https://huggingface.co/blog/logits-processor-zoo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/logits-processor-zoo</guid>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Big Bench Audio 评估音频推理</title>
-      <link>https://huggingface.co/blog/big-bench-audio-release</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/big-bench-audio-release</guid>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于，BERT 的替代品出现了：ModernBERT 介绍</title>
-      <link>https://huggingface.co/blog/modernbert</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/modernbert</guid>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bamba：推理高效的混合 Mamba2 模型</title>
-      <link>https://huggingface.co/blog/bamba</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/bamba</guid>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎加入 Falcon 3 系列开放机型！</title>
-      <link>https://huggingface.co/blog/falcon3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/falcon3</guid>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>

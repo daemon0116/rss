@@ -4,7 +4,70 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 22 Jan 2025 23:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:20:15 GMT</lastBuildDate>
+    <item>
+      <title>首次在 Product Hunt 上发布：ArchFormation 加速云基础设施开发！</title>
+      <link>https://feed.indiehackers.world/post/48a6139cfb</link>
+      <description><![CDATA[我们在 Product Hunt 上直播了！ArchFormation 加速了云基础设施的开发，为您节省了时间、金钱和精力，因此您可以专注于构建出色的产品。如果这引起了您的共鸣，我们将非常希望您能支持我们！点赞并分享您的想法！谢谢！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/48a6139cfb</guid>
+      <pubDate>Tue, 28 Jan 2025 11:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 esProc 对文件执行 SQL 非常方便，与 duckDB 相当</title>
+      <link>https://feed.indiehackers.world/post/eaf6a8e857</link>
+      <description><![CDATA[$select * from {json(httpfile(&quot;http://127.0.0.1:6868/api/getData&quot;).read())}
+where Amount&gt;=100
+
+如果 SQL 可以处理，请使用 SQL。如果 SQL 无法处理或您无法解决，请使用 SPL。两者完全无缝结合，比依赖 Python 进行复杂计算的 DuckDB 更胜一筹。
+esProc 是开源的，其源代码可在此处获取：esProcSPL(https://github.com/SPLWare/esProc)
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/eaf6a8e857</guid>
+      <pubDate>Mon, 27 Jan 2025 02:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发布了这个新产品，需要反馈！#承诺</title>
+      <link>https://feed.indiehackers.world/post/c4de10d9e2</link>
+      <description><![CDATA[
+我们将向您的帐户添加积分，以便您可以立即开始使用 Committed
+
+
+我们将在本周与您联系
+
+🚀 Committed 的工作原理：
+
+定义您要实现的目标、如何实现以及为什么重要
+设置您自己的提醒时间表 - 每日、每周或每月
+通过定期签到保持责任感并跟踪您的进度
+
+谢谢大家！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c4de10d9e2</guid>
+      <pubDate>Fri, 24 Jan 2025 18:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有智能标准的望远镜今日在 Product Hunt 上线！🤩</title>
+      <link>https://feed.indiehackers.world/post/acb46cc754</link>
+      <description><![CDATA[Telescope 是您自己的潜在客户研究代理，可使用完全自定义的标准搜索潜在客户，并按您想要的任何内容进行过滤，无论其多么小众。 
+例如，
+❌ 而不是“员工人数：50-100” 
+✅ 搜索“公司必须至少有 5 名产品经理，并且没有人从事 QA 工作” 
+请查看并在 PH 上显示您的支持 → https://www.producthunt.com/posts/telescope-2-0-2 
+谢谢！ ♥️
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/acb46cc754</guid>
+      <pubDate>Fri, 24 Jan 2025 12:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会转换到完全可定制的无代码 CRM 吗？</title>
+      <link>https://feed.indiehackers.world/post/9ac307c72b</link>
+      <description><![CDATA[我正在 Fuzen.io 上构建完全可定制的无代码 CRM 模板，我很乐意听取您的反馈！这些 CRM 旨在适应您的业务需求，无需任何编码技能。无论您是管理潜在客户、客户、任务还是销售渠道，您都可以调整设置以完美适应您的工作流程。
+您会考虑切换到这样的无代码 CRM 吗？或者您希望首先解决哪些特定功能或问题？
+您的意见将帮助我将这些模板塑造成真正有价值的东西。请在下方告诉我您的想法！
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9ac307c72b</guid>
+      <pubDate>Fri, 24 Jan 2025 03:58:47 GMT</pubDate>
+    </item>
     <item>
       <title>金融 AI 副驾驶（您的想法？）</title>
       <link>https://feed.indiehackers.world/post/55bd3b175d</link>
@@ -26,6 +89,18 @@ Zeno 可以做什么：
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/55bd3b175d</guid>
       <pubDate>Tue, 21 Jan 2025 23:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的开源开发工具的 GitHub 星数从 0 到 1000</title>
+      <link>https://feed.indiehackers.world/post/db2efb62f1</link>
+      <description><![CDATA[ 
+
+总结
+使用您的 GitHub Stars 作为货币形式来购买可以帮助您赚钱的东西 - 无论是合法出售托管，还是参加推介比赛，还是交叉营销您的其他产品。我自己正在试图找出最适合我的方法。 
+祝您黑客愉快！
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/db2efb62f1</guid>
+      <pubDate>Tue, 21 Jan 2025 22:07:07 GMT</pubDate>
     </item>
     <item>
       <title>我从 56 家价值 25 万美元以上的企业中学到的东西</title>
@@ -66,13 +141,38 @@ Discord Indiehackers 聊天广告这里]]></description>
       <pubDate>Tue, 21 Jan 2025 08:43:51 GMT</pubDate>
     </item>
     <item>
-      <title>为什么一边工作一边购买副业是最好的出路</title>
+      <title>为什么一边工作一边购买副业是最好的途径</title>
       <link>https://feed.indiehackers.world/post/44cbd93796</link>
       <description><![CDATA[结论
 不要在没有看清全局的情况下被大数字所左右。如果你买下一家公司，然后朝九晚五地工作，那么你更有可能拥有一家成功的公司。一旦你的项目开始产生巨大的收益，你就应该考虑辞职。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/44cbd93796</guid>
       <pubDate>Tue, 21 Jan 2025 04:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络安全初创公司的 5 个精益营销秘诀：如何以独立预算超越巨头</title>
+      <link>https://feed.indiehackers.world/post/0b2a65f2c6</link>
+      <description><![CDATA[想要更多？在我们的网站上探索完整的低预算数字营销清单，获得全面、循序渐进的方法。
+轮到你了 
+
+有自己的黑客技术吗？
+在网络安全营销中意外获胜？
+建立一个创造奇迹的超精益漏斗？
+
+在下面分享；因为在 IndieHackers，我们都是靠互相帮助才能成长起来的。
+在 LinkedIn/X 上与我联系，或者在 IndieHackers 上给我留言。我们很乐意聊聊增长黑客、域名热身或城里最好的印度奶茶。
+Discord Indiehackers 聊天广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0b2a65f2c6</guid>
+      <pubDate>Mon, 20 Jan 2025 11:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一名设计师（能够使用 HTML 和 CSS）</title>
+      <link>https://feed.indiehackers.world/post/46d6b52847</link>
+      <description><![CDATA[你好，我可能正在寻找一些与平常略有不同的东西。我已经上线了一些网站，但它们看起来都像是后端工程师设计的。因为它们就是我。您可以在https://adamghill.com上看到其中一些。
+我正在寻找一位设计师/用户体验师，他可以使用 HTML 和 CSS 为我的网站增添光彩。不需要 JavaScript 技能（除非您也想这样做！）。也愿意为我觉得有趣的想法构建后端实现。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/46d6b52847</guid>
+      <pubDate>Sat, 18 Jan 2025 01:06:05 GMT</pubDate>
     </item>
     <item>
       <title>我用来推广我的创业公司的 300 个网站</title>
@@ -103,6 +203,20 @@ Discord Indiehackers 聊天广告这里]]></description>
       <pubDate>Fri, 17 Jan 2025 03:19:39 GMT</pubDate>
     </item>
     <item>
+      <title>寻找业务/营销合作伙伴</title>
+      <link>https://feed.indiehackers.world/post/87b018763b</link>
+      <description><![CDATA[大家好，
+我是 Stanley，我目前正在建立一个机构，专门使用 FilamentPHP 创建自定义内部工具、仪表板和第三方集成。
+您可以在这里探索我构建的一些产品 - https://filamentapps.dev
+我目前的产品重点最初是工作场所工具和自动化，但也向其他行业或领域开放。
+我目前正在寻找与产品营销人员/增长人员合作，同时我负责构建/微调产品的技术方面并负责客户的项目。
+理想的候选人应具有 B2B 营销策略方面的丰富背景，并在推动潜在客户生成和客户获取方面拥有良好的业绩记录。 
+如果您对此感兴趣并希望参与此旅程，请随时联系我们。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/87b018763b</guid>
+      <pubDate>Thu, 16 Jan 2025 13:33:17 GMT</pubDate>
+    </item>
+    <item>
       <title>我使用人工智能编码的经验</title>
       <link>https://feed.indiehackers.world/post/2a1713b8cd</link>
       <description><![CDATA[此外，还有产品和 MVP 机构可以从头开始为您构建项目。虽然工作质量通常很好，但成本可能很高。
@@ -114,111 +228,6 @@ Atlas:Labs
 Discord Indiehackers 聊天广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/2a1713b8cd</guid>
       <pubDate>Wed, 15 Jan 2025 20:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reactable AI - 刚刚发布</title>
-      <link>https://feed.indiehackers.world/post/573f9b3caa</link>
-      <description><![CDATA[https://reactable.ai
-迫不及待想看看你创作的作品！✨
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/573f9b3caa</guid>
-      <pubDate>Wed, 15 Jan 2025 17:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 SaaS 应用程序的情感过山车——以及它为什么值得</title>
-      <link>https://feed.indiehackers.world/post/be5f4c4136</link>
-      <description><![CDATA[每次我收到用户发来的消息说“这个应用让我的工作更轻松了”，我就会想起自己开始做这件事的原因。那些时刻让所有的深夜和艰难的日子都变得值得。
-最后的想法
-如果您正在考虑构建 SaaS 应用，请记住：这并不容易，但值得。从小事做起，保持专注，不要害怕分享您的旅程。您将在此过程中学习、成长，甚至可能激励他人。
-您是否曾经构建过 SaaS 应用或考虑过启动一个？我很想听听你的故事——在下面的评论中分享吧！
-LinkedIn - https://www.linkedin.com/in/girishgilda/
-X- https://x.com/GirishGilda99
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/be5f4c4136</guid>
-      <pubDate>Wed, 15 Jan 2025 07:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用编程技能赚取被动收入：近十年独立黑客生涯中我学到的一切</title>
-      <link>https://feed.indiehackers.world/post/6633cd7123</link>
-      <description><![CDATA[我最近在 PyCon 南非大会上发表了闭幕主题演讲。
-在其中，我介绍了从程序员到独立黑客所学到的一切，有两个目标：
-
-让人们相信这是一条可行的职业道路。
-帮助他们做到这一点。
-
-希望这对你们中的一些人有所帮助！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/6633cd7123</guid>
-      <pubDate>Tue, 14 Jan 2025 13:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何在 15 天内开发出一款 Instagram 工具——并且拒绝了 85,000 美元的报价</title>
-      <link>https://feed.indiehackers.world/post/8f172e0325</link>
-      <description><![CDATA[2️⃣ 联盟计划，30% 收益分成：我们推出了一个慷慨的联盟计划，营销人员迅速向他们的受众推广了该工具。
-3️⃣ SEO 定位：我们专注于“亲密朋友自动化”和“提升 Instagram 故事浏览量”等关键词。这带来了自然流量，使我们成为该领域的领导者。
-4️⃣ 大量 Instagram DM：我们定位了具有链接个人简介设置的帐户（例如 Linktree），以查找使用 Instagram 进行商业活动的创作者。这些用户立即看到了 Gramlab 的价值。
-Gramlab.io 的下一步是什么？
-我们才刚刚开始🚀
-
-你会接受 85,000 美元吗？如果你处于我们的位置，你会接受这个提议吗？或者你会像我们一样押注长期潜力？
-请在评论中告诉我🔥
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8f172e0325</guid>
-      <pubDate>Mon, 13 Jan 2025 19:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何帮助移民服务机构简化其业务流程。</title>
-      <link>https://feed.indiehackers.world/post/a50ac91661</link>
-      <description><![CDATA[最后的想法
-构建此 CRM 让我看到了无代码工具的强大功能。我无需编写一行代码，但我交付了一个简化操作并改善客户关系的系统。
-如果您正在考虑构建类似的东西，请从一个简单的版本开始，并专注于一次解决一个问题。工具就在那里 - 您只需使用它们即可。
-您是否曾经构建 CRM 或为您的企业定制工具？我很想听听您的经历。在下面的评论中写下你的故事！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a50ac91661</guid>
-      <pubDate>Mon, 13 Jan 2025 05:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的编码效率：独立黑客的简单技巧</title>
-      <link>https://feed.indiehackers.world/post/00d8f78af5</link>
-      <description><![CDATA[通过实施这些策略，您不仅可以更快地解决问题，还可以为您未来的项目和持续学习创造宝贵的资源。 
-我逐渐意识到这样做的两个主要好处是更好的可维护性和更好的学习能力，这使我成为一名更好的黑客。 
-您有哪些技巧可以充分利用您的 AI 编辑器？请在评论中告诉我！ 
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/00d8f78af5</guid>
-      <pubDate>Sun, 12 Jan 2025 17:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crypto Casino 正在寻找 Nodejs/Web3 开发人员</title>
-      <link>https://feed.indiehackers.world/post/555ead4653</link>
-      <description><![CDATA[这是一家自力更生的创业公司，所有合伙人都投入了大量个人投资（金钱和时间），我们正在寻找第四位与我们分享激情和愿景的人。我们的目标是扩大平台规模，吸引更多玩家，并共同将这个项目提升到一个新的水平。我们即将起步，但需要帮助！
-对于合适的人选，我们愿意提供股权或适度的薪水，但请记住，我们目前没有外部资金，我们自己也不拿任何薪水。
-如果这听起来像你适合并且喜欢你想探索的机会，我很乐意听到你的消息。
-谢谢，我期待着你的回音！😊
-发表评论或发送电子邮件至：indiehackerscontact@gmail.com
-Discord Indiehackers 聊天广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/555ead4653</guid>
-      <pubDate>Fri, 10 Jan 2025 20:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>在早期，创始人比公司更重要</title>
-      <link>https://feed.indiehackers.world/post/989ad408e7</link>
-      <description><![CDATA[
-Jotform 因为我的成长而成长。
-然后，我因为 Jotform 的成长而成长。
-
-除非创始人也能成功，否则任何产品都无法成功。
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/989ad408e7</guid>
-      <pubDate>Fri, 10 Jan 2025 16:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找你的起点？在 2025 年构建最佳的类似 TikTok 的应用程序</title>
-      <link>https://feed.indiehackers.world/post/210ddfcd86</link>
-      <description><![CDATA[为什么要开发类似 TikTok 的应用？让我们面对现实吧，TikTok 改变了一切。从分享食谱到生活窍门，甚至购物，它把内容变成了一种生活方式。它为创作者提供了一个大放异彩的平台，并帮助普通人将他们的才华转化为成功的故事。视频分享应用不仅仅是关于趋势，它还在于构建一个让创造力蓬勃发展、人们相互联系、梦想变成现实的空间。
-因此，在我们的 Appkodes Fundoo 的帮助下，迈出第一步，打造一个出色的 TikTok 克隆。谁知道呢？下一个大克隆可能就是你的。旅程现在开始！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/210ddfcd86</guid>
-      <pubDate>Fri, 10 Jan 2025 13:04:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
