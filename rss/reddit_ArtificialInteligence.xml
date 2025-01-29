@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 07:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 08:23:10 GMT</lastBuildDate>
     <item>
       <title>每个应用程序都强制使用人工智能很糟糕</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/</link>
@@ -39,6 +39,20 @@
       <description><![CDATA[大家好，我正在做一个关于人工智能陪伴后果的项目，希望采访一个目前处于人工智能关系中的人。我的视频不是为了取笑或不尊重任何人，而是为了了解什么样的经历和情况会让人寻求与人工智能的关系。你可以完全匿名，我很乐意提前提供一份问题清单。我更愿意通过 discord 电话与某人交谈，但同样，你的声音可能会被改变以保持匿名。  提前谢谢您！     提交人    /u/Relevant_Oil_935   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icjcao/looking_to_interview_someone/</guid>
       <pubDate>Wed, 29 Jan 2025 02:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI如何离线运行？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</link>
+      <description><![CDATA[我不是在谈论电源要求。我想知道，如果您处于离线状态，它从哪里获取信息来回答您的问题？或者它就像一个数学计算器，其中内置了一些逻辑，但它实际上不能告诉您诸如匹克球规则之类的事情（除非它内置在模型中）？    提交人    /u/bpoil912   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</guid>
+      <pubDate>Wed, 29 Jan 2025 02:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业中的人工智能代理之间可以无缝切换吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ichq8i/is_seamlessly_shifting_between_ai_agents_in/</link>
+      <description><![CDATA[问题：agentic ai 是否可以标准化，以便从一个代理开始的业务可以无缝转移到由不同公司开发的新代理？    提交人    /u/Georgeo57   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ichq8i/is_seamlessly_shifting_between_ai_agents_in/</guid>
+      <pubDate>Wed, 29 Jan 2025 01:02:26 GMT</pubDate>
     </item>
     <item>
       <title>您如何看待人工智能生成的内容？</title>
@@ -83,25 +97,11 @@
       <pubDate>Tue, 28 Jan 2025 17:19:59 GMT</pubDate>
     </item>
     <item>
-      <title>我是 70 岁，所以才第一次接触 AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ic0s5e/new_to_ai_likely_because_i_am_70/</link>
-      <description><![CDATA[我正在看一个 TickTock 视频，这个家伙正在直播。他在问问题，它正在回答，你可以听她的声音。我尝试了一些免费试用版，但你必须输入问题并阅读回复。我希望能够提出我的问题并听取答案。请告知哪些应用程序提供这些功能。    提交人    /u/Reasonable_Visual_10   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ic0s5e/new_to_ai_likely_because_i_am_70/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:48:23 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek 大型讨论区</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibzsfd/deepseek_megathread/</link>
       <description><![CDATA[由于有关此主题的新帖子数量众多，此线程用于所有与 DeepSeek 相关的讨论。任何超出此线程的帖子都将被删除。    由   提交  /u/ILikeBubblyWater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibzsfd/deepseek_megathread/</guid>
       <pubDate>Tue, 28 Jan 2025 11:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一旦恐慌消退，Nvidia 就会反弹……原因如下</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibo5dd/nvidia_will_bounce_back_once_the_panic_cools_off/</link>
-      <description><![CDATA[Nvidia 的股价最近下跌了 17%（约 5000 亿美元）。人们都惊慌失措了，但我们是不是看错了方向？ DeepSeek 引起了热议，该模型的训练成本仅为 550 万美元，但仍能提供令人难以置信的结果。有人说：“如果我们能以低廉的价格训练出一个很棒的模型，我们就不需要那么多 GPU。”但这种逻辑站得住脚吗？ 想想看：如果我们能以 500 万美元训练出如此出色的模型，那么当我们投入 5 亿美元或 500 亿美元时会发生什么？认为存在某个固定的“最佳模型”的想法似乎已经过时了。 对 AGI（通用人工智能）的真正威胁一直是成本。扩展变得异常昂贵。但现在，随着成本下降和智能变得越来越容易获得，我们难道不只是想要更多吗？如果智能既有用又便宜，那么需求就会猛增。 DeepSeek 还证明了强化学习 (RL) 可以大规模使用。这并不是什么新鲜事（想想 DeepMind 的 AlphaGo），但这感觉像是朝着更便宜、更智能的模型迈出了又一步。 我不是股市专家，但我的直觉告诉我，一旦恐慌消退，Nvidia 就会反弹。毕竟，每美元更便宜的智能可能会带来更多需求，而不是更少。 你怎么看？？？    提交人    /u/BIG-BRO-100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibo5dd/nvidia_will_bounce_back_once_the_panic_cools_off/</guid>
-      <pubDate>Mon, 27 Jan 2025 23:57:41 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>

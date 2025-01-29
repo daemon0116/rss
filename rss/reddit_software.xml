@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 07:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 08:23:47 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么软件可以在 slack 上“询问同事”？</title>
+      <link>https://www.reddit.com/r/software/comments/1icoz4g/is_there_any_software_to_ask_a_colleague_on_slack/</link>
+      <description><![CDATA[我希望有一个软件可以“询问（缺席的）同事”。本质上是该同事的聊天机器人克隆，该聊天机器人将根据该人的上下文“尽力而为”。  回答诸如“XYZ 的状态如何”、“我在哪里可以找到这个……”“我还可以向谁寻求帮助”之类的问题会很酷  这既是因为我想问她/他一些事情，也是因为我希望机器人能代替我回答。 你知道这样的软件吗？有兴趣一起构建它吗？    提交人    /u/Ampelmann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1icoz4g/is_there_any_software_to_ask_a_colleague_on_slack/</guid>
+      <pubDate>Wed, 29 Jan 2025 08:04:48 GMT</pubDate>
+    </item>
     <item>
       <title>在线值班时间追踪</title>
       <link>https://www.reddit.com/r/software/comments/1icnqjo/online_duty_time_tracking/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我需要一款适用于 Windows 的屏幕录像软件，在录制过程中不会在屏幕上显示录制图标。我想秘密地录制一些东西，不让别人注意到我正在录制屏幕。 我发现了 EaseUS RecExpert。但它只能免费使用大约 30 秒。如果您知道其他软件，请告诉我。 提前致谢。    提交人    /u/Maximum-Ad840   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ibwccn/screen_recorders_without_visible_recording_icons/</guid>
       <pubDate>Tue, 28 Jan 2025 07:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要程序将文件与操作系统分离</title>
-      <link>https://www.reddit.com/r/software/comments/1ibvn1k/need_program_to_separate_files_from_os/</link>
-      <description><![CDATA[我正在组装一台新电脑，想有一个专门用于启动的驱动器和一个用于其他所有东西的驱动器。有没有一个程序可以解析文件并将它们与操作系统分离，这样当我全新安装 Windows 时，两个驱动器中就不会有重复的文件。我不想手动操作，但如果必须的话，我会的。    提交人    /u/TheBestMurn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ibvn1k/need_program_to_separate_files_from_os/</guid>
-      <pubDate>Tue, 28 Jan 2025 06:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
