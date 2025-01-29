@@ -4,111 +4,111 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 22 Jan 2025 23:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 02:43:32 GMT</lastBuildDate>
     <item>
-      <title>有兴趣为 Fediverse 构建吗？以下是现有的开源项目领域</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7od9q/interested_in_building_for_the_fediverse_heres/</link>
-      <description><![CDATA[        由    /u/Spaduf 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7od9q/interested_in_building_for_the_fediverse_heres/</guid>
-      <pubDate>Wed, 22 Jan 2025 22:47:02 GMT</pubDate>
+      <title>DeepSeek 是开源黑客还是其他什么？（讨论）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icj6jo/is_deepseek_an_opensource_hack_or_something_else/</link>
+      <description><![CDATA[我很乐意看到关于 DeepSeek 作为开源礼物或黑客的严肃讨论。我不知道答案。  由 Judy Lin 林昭仪 撰写的关于 DeepSeek 的精彩客座帖子在这里：​​https://www.ai-supremacy.com/p/china-deepseek-ai-founder-background    提交人    /u/BackgroundResult   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icj6jo/is_deepseek_an_opensource_hack_or_something_else/</guid>
+      <pubDate>Wed, 29 Jan 2025 02:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>Rip Roop-unleashed - GitHub 已将其停用，因为它违反了其政策。好奇为什么这么久之后才停用。不管怎样，它目前是一个无关紧要的应用程序，但仍然是一个值得一试的有趣事情</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7n6e7/rip_roopunleashed_github_has_deactivated_it_for/</link>
-      <description><![CDATA[今天收到一封电子邮件，说 repo 已关闭，我检查了 count floyds repo 并发现这是真的。  自从 rope 以来，这个应用程序已经很长时间没有用了，但我很好奇 GitHub 在这里是怎么想的。原始版本是开源的，所以不应该是更改代码的问题。我想知道反解锁/未经审查的模型应急是否一直在施加压力。    提交人    /u/FitContribution2946   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7n6e7/rip_roopunleashed_github_has_deactivated_it_for/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:56:49 GMT</pubDate>
+      <title>Guidefox，一个用户入职和体验平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ichi92/guidefox_a_user_onboarding_and_experience_platform/</link>
+      <description><![CDATA[大家好，开源爱好者们！ 我很高兴宣布推出 Guidefox，这是一个用户入门和体验平台。这是我们 6 个多月来一直在开发的产品，我们终于发布了！:) Guidefox 通过提示、弹出窗口、横幅和帮助链接为您的用户提供服务并提高产品采用率。很快我们也会推出旅游服务。 请尝试一下，如果您喜欢它，请告诉我们。如果您能提出任何改进建议，我将非常高兴。 源代码： https://github.com/bluewave-labs/guidefox 主页： https://guidefox.io/ 演示： https://guidefox-demo.bluewavelabs.ca/    提交人    /u/gorkemcetin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ichi92/guidefox_a_user_onboarding_and_experience_platform/</guid>
+      <pubDate>Wed, 29 Jan 2025 00:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>这是浪费时间还是一个好主意？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7mxl9/is_it_a_waste_of_time_or_a_good_idea/</link>
-      <description><![CDATA[想法： 开源开发者/组织可以在此网站上索要徽标/设计，想要为开源做出贡献的设计师可以在请求帖子下上传他们的设计。设计师还可以自己创建帖子，设计/重新设计一个开源项目。 受到下面帖子的启发。    提交人    /u/Flick9000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7mxl9/is_it_a_waste_of_time_or_a_good_idea/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:46:23 GMT</pubDate>
+      <title>超快搜索 Windows 文件系统搜索</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</link>
+      <description><![CDATA[此时我甚至会使用 CLI 程序，我只想要一个程序，最好是用 rust，它可以索引我的驱动器的内容，然后让我使用关键字搜索目录或整个驱动器。Dust（存储分析器）似乎能够比 Windows 资源管理器搜索单个中等大小的目录更快地遍历我的整个驱动器，所以我现在想要一个可以超快地翻阅我的驱动器并返回任何符合搜索条件的内容的东西，即使它只是返回带有链接的匹配 CSV，它也比 Windows 文件资源管理器更快 我偏爱 rust 的原因是它可以与 cargo 一起安装。它不是必需的，只是一个不错的额外功能    提交人    /u/redcorerobot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</guid>
+      <pubDate>Wed, 29 Jan 2025 00:38:19 GMT</pubDate>
     </item>
     <item>
-      <title>自托管的 Strava 统计 APP 正在寻找愿意帮助添加语言环境和翻译的人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7m1jx/self_hosted_strava_statistics_app_in_search_for/</link>
-      <description><![CDATA[Hi r/opensource  Strava statistics 📈 是一款应用程序，可让您自行托管使用 Strava 数据生成的统计数据：https://github.com/robiningelbrecht/strava-statistics 我已经在这个 sub-reddit 上发了几篇帖子，得到了很多积极的反馈。我一直在致力于本地化实施。目前，该应用程序已翻译成英文和法文，但我还想添加对西班牙语、葡萄牙语和德语的支持。 如果有人愿意帮助我，我将不胜感激！！    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7m1jx/self_hosted_strava_statistics_app_in_search_for/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:08:43 GMT</pubDate>
+      <title>开源真的安全吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icd7l0/is_opensource_really_safe/</link>
+      <description><![CDATA[如何确保开源库不包含后门或其他恶意软件？    提交人    /u/shoki_ztk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icd7l0/is_opensource_really_safe/</guid>
+      <pubDate>Tue, 28 Jan 2025 21:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 应用程序可以检查来自不同来源的消息吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7iof3/windows_app_to_check_messages_from_different/</link>
-      <description><![CDATA[你好！ 您是否知道任何可以链接到网站/应用程序（WhatsApp 网页、Instagram...）以便在有新消息到达时显示通知的开源应用程序？ 不知道是否可能。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7iof3/windows_app_to_check_messages_from_different/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:53:07 GMT</pubDate>
+      <title>盲人开发者提供的无障碍建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iccmmg/accessibility_tips_from_blind_developer/</link>
+      <description><![CDATA[本想做个好人，就此开个帖子。6 年前，我因线粒体基因缺陷突然完全失明，我一生都是以质量为导向的软件开发人员，因此，我为那些追求可访问性的人提供了一些建议。 许多人似乎混淆了可访问性，并使其变得比实际复杂得多。对于 Cloudflare、Expedia、LinkedIn 等大型企业来说尤其如此。他们喜欢自我吹嘘，宣扬他们如何在可访问性方面投入了数百万美元，但事实是，他们推出的产品绝对是垃圾，我要么需要使用 API / CLI 工具，要么就不用这个网站。让事情变得可访问其实很简单。 对于网站，如果您希望让它们可访问，有四个简单的规则：  放弃繁重的 Javascript，更少的 Javascript = 更适合屏幕阅读器。甚至更进一步，提供最小/无 Javascript 版本，这实际上具有双重用途，因为它吸引了政府、军队和其他注重安全的组织。 使用 h1 - 6 标签作为页面和部分标题。 对于所有可点击内容，请使用标准 HTML 标签（a、button、input 等）。不要使用带有 onclick 事件监听器的 div / span 标签，因为我们的屏幕阅读器不喜欢它们。 与表单相同，使用标准 HTML 标签（input、select、textarea、button 等）。不要使用由 Javascript 驱动的 div / span 元素，因为它会搞砸屏幕阅读器。  就是这样。遵循这些规则，您的网站将对每个盲人完全开放。请记住，屏幕阅读器是糟糕的 Javascript 解释器，但却是出色的 HTML 解释器。 对于桌面应用程序，不要使用 Electron，因为它完全无法访问。如果可能，请使用运行本地 HTTP 服务器的 PWA。 对于坚持使用 Javascript 重度用户控制面板的在线操作，需要可访问性的用户会非常感激一个好的 REST API 和/或 CLI 工具。 如果您是一个追求可访问性但又不太确定如何去做的人，请不要担心，正如我上面概述的那样，它实际上非常简单。对于我们这些屏幕阅读器用户来说，越简单越好，我们不需要任何花哨的东西。 希望这能对那里的人有所帮助。    提交人    /u/mdizak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iccmmg/accessibility_tips_from_blind_developer/</guid>
+      <pubDate>Tue, 28 Jan 2025 21:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>OSI 2025 年董事会：选举详情</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7icil/osis_board_of_directors_in_2025_details_about_the/</link>
-      <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7icil/osis_board_of_directors_in_2025_details_about_the/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:40:00 GMT</pubDate>
+      <title>Signal 为链接设备添加加密消息历史同步功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icbu3u/signal_adds_encrypting_message_history_sync_for/</link>
+      <description><![CDATA[Signal 正在推出一项新功能，允许用户在将主设备链接到新桌面或 iPad 时传输消息历史记录。以前，只有新消息会同步到链接的设备，但现在用户可以随身携带聊天记录和最多 45 天的媒体 - 同时保持 Signal 严格的端到端加密。 此功能目前处于测试阶段，需要大量工程工作才能确保消息在整个传输过程中保持私密。与许多其他将用户数据存储在集中式服务器上的消息平台不同，Signal 通过确保消息历史记录只能在用户的设备上访问来优先保护隐私。这对在链接设备之间同步消息同时保持 Signal 最小数据暴露的核心原则提出了独特的挑战。 https://cyberinsider.com/signal-adds-encrypting-message-history-sync-for-linked-devices/    提交人    /u/KingSash   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icbu3u/signal_adds_encrypting_message_history_sync_for/</guid>
+      <pubDate>Tue, 28 Jan 2025 20:45:59 GMT</pubDate>
     </item>
     <item>
-      <title>对于那些想要快速开始使用 ImGui 构建 C++ 跨平台应用程序的人来说。此库提供即插即用设置和预配置的入口点，使开发变得简单。欢迎所有贡献。（更多 C++ 项目在这里 https://github.com/Interactive-Echoes）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7fp3h/for_those_wanting_to_quickly_start_building_c/</link>
-      <description><![CDATA[  由    /u/mozahzah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7fp3h/for_those_wanting_to_quickly_start_building_c/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:53:36 GMT</pubDate>
+      <title>看来 Limited Run Games 违反了 PCSX 的 GPL 许可证来发布 Tomba！特别版</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</link>
+      <description><![CDATA[  由    /u/DaemonBatterySaver  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:31:54 GMT</pubDate>
     </item>
     <item>
-      <title>大多数开源应用程序的糟糕图标</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7bmmd/the_bad_icons_of_most_open_source_apps/</link>
-      <description><![CDATA[我徘徊在 fossdroid 商店，想用开源应用程序替换我的一些 gplay 应用程序。我遇到的一个问题是，50% 的开源应用程序的图标很糟糕，25% 的甚至没有图标，只有 25% 的图标还不错。 我可能很肤浅，但我认为图标对于更广泛地采用应用程序很重要，它是人们看到的第一件事。此外，在 PC 上，这可能不是什么大问题，因为很多应用程序（特别是在 Linux 中）都是在无需与图标交互的情况下启动的。但在 Android 上，图标的好坏/解释性直接决定了您跟踪和打开它的速度。 抱怨够多了，现在来谈谈一个可能的解决方案，我的女朋友是一名平面设计师，我让她制作了几个图标捐赠给我使用的应用程序的开发人员，我们给了他们很多变体，他们选择了他们喜欢的那个，并告诉我们要调整什么。没什么特别的，她花了不到半个小时，对我们来说这是一个有趣的活动。显然这不是一个专业的工作，但对于一个目前没有资源委托专业人士的项目来说，总比没有好。 我觉得如果人们有一种简单的方式可以捐赠图标，许多学生/图形设计师会在业余时间这样做，只是为了锻炼身体，也许创建一个作品集。 你们觉得呢？    提交人    /u/NorthmanTheDoorman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7bmmd/the_bad_icons_of_most_open_source_apps/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:55:58 GMT</pubDate>
+      <title>🚀 Strava Statistics v0.4.0 已发布！添加了本地化、PWA 支持等</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</link>
+      <description><![CDATA[嗨 r/opensource ！ 我很高兴地宣布 Strava Statistics `v0.4.0` 已于本周早些时候发布。  Strava Statistics 是一个自托管的 Web 应用程序，旨在为您提供更好的 Strava 统计数据。   示例：https://strava-statistics.robiningelbrecht.be/ GitHub：https://github.com/robiningelbrecht/strava-statistics  警告 升级前请务必备份数据库。此版本具有从 v0.3.x 到 v0.4.0 的有效迁移路径，但由于后端进行了大规模改造，所以谨慎行事总比事后后悔好，对吧？😎 v0.4.0 中的新功能和改进：  添加了 PWA 支持。Web 应用程序现在可以安装在移动设备上 对后端进行了重大改造，应能减少 50% 的资源使用量 添加了本地化和翻译。 改进了跑步和步行活动的统计数据 添加了内部调度程序，使外部 cron 作业变得过时 修复了搜索、过滤和排序概览时的几个问题 改进了错误消息  Plannen 功能：https://github.com/robiningelbrecht/strava-statistics/issues 与往常一样，感谢您的反馈，我期待更多功能请求！    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>Wabe：简化开发的开源后端即服务🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i78nx9/wabe_the_opensource_backend_as_a_service_that/</link>
-      <description><![CDATA[👋 大家好 👋， 🎉 我一直在独自进行一次冒险，心中只有一个想法：让创建应用程序的过程更轻松、更快捷。我厌倦了花几天时间重新编码同样的东西（基本端点、身份验证、权限等）。经过无数个小时的编码、挑战和迭代，我很自豪地向你们介绍 Wabe 🚀 Wabe 是一个完全开源的后端即服务 (BaaS)，我设计它是为了让开发人员的生活更轻松。有了 Wabe，一切都变得简单：管理身份验证、数据库访问、自动 GraphQL API 生成、细粒度权限设置、增强安全性等等。 在过去的几个月里，我一直在多个生产应用程序中使用 Wabe，其中包括一个名为“ShipMySaaS”的应用程序，它是构建 SaaS 平台的样板。这些实际实施让我能够建立一个可靠的反馈循环，以确定改进、增强安全性和添加功能。例如，我最近引入了数据库控制器的完整类型，使处理数据变得更加轻松和安全。 真正令人鼓舞的是实时看到进展——看着辛勤工作转化为其他人可以使用的有形和实用的东西。这是一段非常有意义的旅程，而这仅仅是个开始！ 我们才刚刚开始 Wabe 的冒险，我们还计划推出许多功能：仪表板、与 Stripe 和 Mailgun 的集成、对 PostgreSQL 的支持等等。 每一行代码都经过精心设计，为您提供强大而灵活的工具，我希望它能为您节省宝贵的时间。我真的很想听到您的想法！🙏 Wabe：https://wabe.dev ShipMySaaS：https://shipmysaas.com PS：如果您喜欢该项目并希望支持它，请随时在 GitHub 上关注它并加星标 😁😁    提交人    /u/mrpalixir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i78nx9/wabe_the_opensource_backend_as_a_service_that/</guid>
-      <pubDate>Wed, 22 Jan 2025 11:03:14 GMT</pubDate>
+      <title>是什么让人工智能模型“开源”？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</link>
+      <description><![CDATA[所以 deepseek r1 是目前最受追捧的东西。它的权重是在 MIT 下授权的，这应该本质上使它成为“开源”吧？ OSI 最近在 AI 背景下为开源制定了全面的定义。 根据他们的定义，如果 AI 系统授予用户以下自由，则被视为开源：  使用：无需寻求额外许可即可将系统用于任何目的。 研究：检查系统的工作原理并检查其组件以了解其功能。 修改：更改系统以满足特定需求，包括更改其输出。 共享：出于任何目的将系统分发给其他人，无论是否经过修改。  要使 AI 系统在 OSAID 下被认可为开源，它应满足以下要求：  数据信息：有关用于训练 AI 模型的数据的足够详细信息，包括其来源、选择、标记和处理方法。 代码：在 OSI 批准的许可下概述数据处理和训练的完整源代码。 参数：模型参数和中间训练状态，在 OSI 批准的条款下可用，允许修改和透明调整。  现在按照这个定义，Deepseek r1 不能被视为开源。因为它不提供数据信息和代码来重现。Huggingface 已经在对代码部分进行完整的 OSS 重现，但我们可能永远不会知道它是在什么数据上进行训练的。这同样适用于几乎所有大型语言模型，因为在盗版数据上进行训练是一种常见的做法。 本质上是一个开放权重模型，没有完整的重现步骤，类似于编译的二进制文件。它们可以被检查和修改，但程度不如原始代码。 但尽管如此，拥有开放权重模型仍然比拥有无法自托管的完全封闭模型要好得多。 请问你们对纯开源（OSI 兼容）和开放权重模型的看法。干杯 相关链接： https://www.infoq.com/news/2024/11/open-source-ai-definition/ https://opensource.org/ai    提交人    /u/nrkishere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</guid>
+      <pubDate>Tue, 28 Jan 2025 17:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>针对开源维护者的可疑电子邮件 (gitsponsors dot com)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i783hg/suspicious_emails_targeting_open_source/</link>
-      <description><![CDATA[检查垃圾邮件过滤器中的电子邮件时，我发现一封声称来自 gitsponsors[.]com 的电子邮件。 看起来很多人也收到了它（&lt;- 此链接中也有电子邮件示例）。 总的来说，这似乎很可疑，我忽略了它，但在这里分享它，以防其他人收到了它而不知道该怎么做。 编辑：格式    提交人    /u/nicholashairs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i783hg/suspicious_emails_targeting_open_source/</guid>
-      <pubDate>Wed, 22 Jan 2025 10:22:55 GMT</pubDate>
+      <title>有开源浏览器推荐吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic6sfe/recommendations_for_open_source_browser/</link>
+      <description><![CDATA[我创办了一家小公司，我们大约有 8 名全职员工。我一直是 Chrome 用户，但听说过一些关于 Google 数据收集实践的恐怖故事。我想请您推荐一款可以在工作场所使用的开源浏览器？ 我知道 Chrome 是基于 Chromium 的，但我尝试过，感觉不尽如人意。我也听说过 Firefox 的好评？ 我的团队使用 Office 365，所以我们需要一个可以很好地与它配合使用的浏览器 - 我认为他们都有？    提交人    /u/Timely-Accountant173   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic6sfe/recommendations_for_open_source_browser/</guid>
+      <pubDate>Tue, 28 Jan 2025 17:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>FuzPad：您的简约笔记管理解决方案！📙</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i77rf5/fuzpad_your_minimalistic_note_management_solution/</link>
-      <description><![CDATA[大家好！ 查看此处的项目。 我很高兴与大家分享我的最新项目：FuzPad！这是一个极简主义的笔记管理解决方案，使用起来非常简单，非常适合那些喜欢简单、高效工具的人。以下是您需要了解的内容： 功能  新增：使用当前日期和时间作为文件名创建新笔记。 打开：打开现有笔记。 搜索：在笔记中搜索特定内容。 删除：删除选定的笔记。 版本控制：自动提交对笔记的更改。  计划中的功能  标签：实现标记系统。 安装程序：使用 brew 进行打包。 CLI：创建允许管道和其他功能的 CLI。  目标  提供一个简单明了的使用 Bash 脚本的极简笔记管理解决方案。 通过直观的命令和界面确保易用性。  要求  Bash fzf（模糊查找器） bat（用于增强预览） 您首选的文本编辑器（默认为 nano）  用法  克隆存储库：sh git clone https://github.com/JianZcar/FuzPad.git cd FuzPad  使脚本可执行：sh chmod +x bin/fuzpad  运行脚本：sh ./bin/fuzpad   配置 您可以通过修改 ~/.bashrc 文件中的环境变量来自定义默认目录、文本编辑器、文本格式、日期时间格式等。查看 README 了解详细说明。 贡献 欢迎随时分叉存储库并提交拉取请求。欢迎随时做出贡献！ 许可证 本项目根据 GNU 通用公共许可证 v3.0 的条款获得许可。有关更多详细信息，请参阅存储库中的 LICENSE 文件。 查看此处的项目并告诉我您的想法！非常感谢您的反馈和贡献。😊 祝您笔记愉快！    提交人    /u/Zenalia-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i77rf5/fuzpad_your_minimalistic_note_management_solution/</guid>
-      <pubDate>Wed, 22 Jan 2025 09:59:00 GMT</pubDate>
+      <title>5 分钟内自主托管任何程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic5pl5/self_host_within_5_minutes_any_program/</link>
+      <description><![CDATA[我写了一篇简单的博客文章和一个视频，展示了如何使用 P2PRC(http://github.com/Akilan1999/p2p-rendering-computation) 自托管 Linkwarden(https://linkwarden.app) 作为示例。 博客文章：http://p2prc.akilan.io/Docs/#org5156fb1 视频：https://www.youtube.com/watch?v=rN4SiVowg5E 如果能听听您的意见就太好了！ 几天后，我和几个朋友将参加 FOSDEM 2025。如果开源社区有人出席，我们可以亲自见面。只需向 [me@akilan.io](mailto:me@akilan.io) 发送电子邮件，我们就可以安排在布鲁塞尔见面。    提交人    /u/Few_Blackberry380   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic5pl5/self_host_within_5_minutes_any_program/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>回顾我大一时的 ML 项目！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i73tmy/revisit_of_my_freshman_year_ml_project/</link>
-      <description><![CDATA[我目前是一名在香港学习数据科学的大二学生。我最近更新了我大一时做的机器学习项目的文档。它是关于仅根据用户名模式对香港 Instagram 用户进行分类，而无需外部元数据。  请随意查看，并欢迎提供反馈！  https://github.com/kuntiniong/HK-Insta-Identifier 使用此 streamlit 应用程序试用    提交人    /u/Low-Caregiver-2694   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i73tmy/revisit_of_my_freshman_year_ml_project/</guid>
-      <pubDate>Wed, 22 Jan 2025 05:16:32 GMT</pubDate>
+      <title>我使用 AI 为 SRE 构建了一个开源 VS 代码扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</link>
+      <description><![CDATA[我构建了 Thufir：https://github.com/thufir-dev/thufir，一个开源 VS 代码扩展。 我认为我的标题并不能说明一切，但基本上我受到了continue.dev 和光标编辑器的启发，并决定构建一个 VS 代码扩展，帮助您使用 ssh 连接到本地/远程服务器并监控它们的运行状况。 我建立了与 Prometheus 的集成，并添加了聊天功能来帮助您将警报发送到您最喜欢的 LLM API。它仍处于测试阶段，我的目的是构建一个 SRE 代理，将其与 GitHub 集成并帮助进行根本原因分析，建议修复并查找是否有任何提交破坏了生产以及原因。 理想情况下，我希望代理甚至可以控制并通过访问终端等进行一些补救，就像作曲家所做的那样。我非常欢迎合作者，因为我对 Typescript 还不是很熟悉，所以任何想法都非常受欢迎。    提交人    /u/_twelvechess   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:37:36 GMT</pubDate>
     </item>
     <item>
-      <title>现在通过 Transformers、Llama cpp、Ollama 或自定义端点进行部署。CPU/MPS/CUDA 支持 Linux、Windows 和 Mac。完全开源。带有本地嵌入的 Rag Chat。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i709mq/now_deploy_via_transformers_llama_cpp_ollama_or/</link>
-      <description><![CDATA[        提交人    /u/Hairetsu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i709mq/now_deploy_via_transformers_llama_cpp_ollama_or/</guid>
-      <pubDate>Wed, 22 Jan 2025 02:17:40 GMT</pubDate>
+      <title>Sirang-基于 QUIC 的正向和反向 TCP 隧道</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</link>
+      <description><![CDATA[       提交人  /u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>通往开放、健康的社交媒体生态系统的道路，不受任何公司或亿万富翁的控制</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i6y2p6/a_pathway_to_an_open_and_healthy_social_media/</link>
-      <description><![CDATA[嗨， 我不知道是否可以在这里发布此内容，但是因为我们具有开源的思维方式，喜欢一起工作和分享，所以我想在这里发布它。  “随着扎克伯格上周全力支持马斯克，我们不能再让亿万富翁控制我们的数字公共广场了。” Bluesky 是一个改变现状的机会。他们为一种新型社交网络搭建了脚手架。我们都有更多的发言权、选择权和控制权。 但是，需要独立的资金和治理才能将 Bluesky 的底层技术（AT 协议）转变为比单个应用程序更强大的东西。我们希望创建一个由互联应用程序和不同公司组成的整个生态系统，这些公司将人们的利益放在心上。 Free Our Feeds 将建立一个新的独立基金会来帮助实现这一目标。 这不仅仅是为了支持一个新的社交媒体平台。我们的愿景提供了一条通往开放和健康的社交媒体生态系统的道路，任何公司或亿万富翁都无法控制这个生态系统。 加入解放社交媒体的运动。你愿意捐款吗？&quot;  有关更多信息，请访问：https://freeourfeeds.com/    提交人    /u/HappyBuddha8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i6y2p6/a_pathway_to_an_open_and_healthy_social_media/</guid>
-      <pubDate>Wed, 22 Jan 2025 00:31:57 GMT</pubDate>
+      <title>光环人工智能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic2mkv/aura_ai/</link>
+      <description><![CDATA[      介绍 aura ai 用于构建基于 React 的前端网站的开源微型 AI 代理。使用@google Gemini 2.0 flash 100% 免费。    由    /u/cxsmicguy 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic2mkv/aura_ai/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>具有 o1 功能的开源 LLM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i6xb1m/opensource_llm_with_o1_capabilities/</link>
-      <description><![CDATA[页面：https://www.deepseek.com/ github：https://github.com/deepseek-ai/DeepSeek-R1 中国人工智能公司 DeepSeek 发布了他们的 r1 模型。 它是 MIT 许可下的免费开源模型 基准测试显示它的表现与 gpt-4o 和 claude-3.5 相当    提交人    /u/zeemouu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i6xb1m/opensource_llm_with_o1_capabilities/</guid>
-      <pubDate>Tue, 21 Jan 2025 23:57:28 GMT</pubDate>
+      <title>花费大量时间和精力在这个 Python 项目上。我希望这对任何人都有用。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic24t8/spend_lots_of_time_and_effort_with_this_python/</link>
+      <description><![CDATA[https://github.com/irfanbroo/Netwarden 它的作用基本上是使用 Wireshark 捕获实时网络流量，分析数据包中是否存在可疑活动，例如恶意 DNS 查询、潜在的 SYN 扫描和异常大的数据包。通过集成 Nmap，它还可以执行漏洞扫描以评估联网系统的安全性，帮助检测潜在威胁。我还添加了 netcat、nmap arm 欺骗检测等。 我非常感谢任何使这个脚本更优化和更高效的建议。    提交人    /u/Complete-Flounder-46   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic24t8/spend_lots_of_time_and_effort_with_this_python/</guid>
+      <pubDate>Tue, 28 Jan 2025 13:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

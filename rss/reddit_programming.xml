@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 22 Jan 2025 23:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 02:43:04 GMT</lastBuildDate>
     <item>
-      <title>使用最疯狂的 AVX-512 指令来制作最快的短语搜索算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7mnza/using_the_most_unhinged_avx512_instruction_to/</link>
-      <description><![CDATA[  由    /u/FTW_gb09  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7mnza/using_the_most_unhinged_avx512_instruction_to/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:35:08 GMT</pubDate>
+      <title>Less Slow v0.6：Thrust → CUDA → PTX → SASS 🏋️‍♂️🏋️‍♀️</title>
+      <link>https://www.reddit.com/r/programming/comments/1icj7py/less_slow_v06_thrust_cuda_ptx_sass/</link>
+      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icj7py/less_slow_v06_thrust_cuda_ptx_sass/</guid>
+      <pubDate>Wed, 29 Jan 2025 02:15:30 GMT</pubDate>
     </item>
     <item>
-      <title>使用 MCP 和 Gpt4all 的 2 个快速提高生产力技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7knmp/2_quick_productivity_hacks_using_mcp_gpt4all/</link>
-      <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7knmp/2_quick_productivity_hacks_using_mcp_gpt4all/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:11:24 GMT</pubDate>
+      <title>克里斯·拉特纳访谈</title>
+      <link>https://www.reddit.com/r/programming/comments/1ichws9/an_interview_with_chris_lattner/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ichws9/an_interview_with_chris_lattner/</guid>
+      <pubDate>Wed, 29 Jan 2025 01:11:23 GMT</pubDate>
     </item>
     <item>
-      <title>如何实际使用 LLM 进行编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7kd7l/how_to_actually_use_llms_for_programming/</link>
-      <description><![CDATA[  由    /u/0xideas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7kd7l/how_to_actually_use_llms_for_programming/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:59:47 GMT</pubDate>
+      <title>我写了一篇关于编程是一门艺术吗？的文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1ice8cs/i_wrote_an_article_about_is_programming_an_art/</link>
+      <description><![CDATA[  由    /u/polatsfekaya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ice8cs/i_wrote_an_article_about_is_programming_an_art/</guid>
+      <pubDate>Tue, 28 Jan 2025 22:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>C stdlib 不是线程安全的，甚至不安全 Rust 也没有拯救我们 | EdgeDB 博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7iz4h/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</link>
-      <description><![CDATA[  由    /u/1st1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7iz4h/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:04:40 GMT</pubDate>
+      <title>Java 教程：使用 Temporal 和 MongoDB 构建无敌的应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1icccpq/java_tutorial_building_invincible_applications/</link>
+      <description><![CDATA[  由    /u/temporal-tom  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icccpq/java_tutorial_building_invincible_applications/</guid>
+      <pubDate>Tue, 28 Jan 2025 21:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学史上最具影响力的 7 篇论文</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7iqc9/the_7_most_influential_papers_in_computer_science/</link>
-      <description><![CDATA[  由    /u/Acceptable-Courage-9  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7iqc9/the_7_most_influential_papers_in_computer_science/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:55:18 GMT</pubDate>
+      <title>C 习语；这是处理器，菜鸟</title>
+      <link>https://www.reddit.com/r/programming/comments/1icbz2i/c_idioms_its_the_processor_noob/</link>
+      <description><![CDATA[  由    /u/felipec  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icbz2i/c_idioms_its_the_processor_noob/</guid>
+      <pubDate>Tue, 28 Jan 2025 20:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub - Bin-Huang/chatbox：适用于 AI 模型/LLM（GPT、Claude、Gemini、Ollama……）的用户友好型桌面客户端应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7hqgy/github_binhuangchatbox_userfriendly_desktop/</link>
-      <description><![CDATA[  由    /u/hackergirl888  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7hqgy/github_binhuangchatbox_userfriendly_desktop/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:15:36 GMT</pubDate>
+      <title>“通过 Pi 探索 AI 驱动的 GPU 优化、自我重写代码和无限存储，以实现下一代计算系统”</title>
+      <link>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</link>
+      <description><![CDATA[  由    /u/EntrepreneurGlass485  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:39:54 GMT</pubDate>
     </item>
     <item>
-      <title>程序员的大脑——阅读代码、思考代码等。</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7e1fn/the_programmers_brain_reading_code_thinking_about/</link>
-      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7e1fn/the_programmers_brain_reading_code_thinking_about/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:44:54 GMT</pubDate>
+      <title>GitNation 上 2000 多个 React 和 JavaScript 演讲的西班牙语翻译</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</link>
+      <description><![CDATA[  由    /u/konteriy_smm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</guid>
+      <pubDate>Tue, 28 Jan 2025 18:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>数据结构和算法 (DSA) 终极指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7dt23/the_ultimate_guide_to_data_structures_and/</link>
-      <description><![CDATA[  由    /u/bowbahdoe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7dt23/the_ultimate_guide_to_data_structures_and/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:34:53 GMT</pubDate>
+      <title>如何理解截止日期（作为开发人员）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</link>
+      <description><![CDATA[  由    /u/mixteenth  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</guid>
+      <pubDate>Tue, 28 Jan 2025 17:10:34 GMT</pubDate>
     </item>
     <item>
-      <title>Bryan Cantrill（和朋友们）谈技术博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7c5cn/bryan_cantrill_and_friends_on_technical_blogging/</link>
-      <description><![CDATA[  由    /u/swdevtest  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7c5cn/bryan_cantrill_and_friends_on_technical_blogging/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:20:42 GMT</pubDate>
+      <title>降低 AST 以逃避类型检查</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</link>
+      <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:07:21 GMT</pubDate>
     </item>
     <item>
-      <title>微处理器的未来 • Sophie Wilson</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7bt81/the_future_of_microprocessors_sophie_wilson/</link>
+      <title>Tilted 0.4.0 – 轻量级 TS 库，用于以现代 2.5D 方式显示地图和其他类似内容。向光标滑动时可平滑缩放，轻松实现多维视觉效果、拖动等等！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</link>
+      <description><![CDATA[  由    /u/Anbeeld  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用团队拓扑和平台工程实现快速流动 • Manuel Pais 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</link>
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7bt81/the_future_of_microprocessors_sophie_wilson/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:04:37 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:15:24 GMT</pubDate>
     </item>
     <item>
-      <title>我把 JS 变成了编译语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7ar2t/i_turned_js_into_a_compiled_language/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7ar2t/i_turned_js_into_a_compiled_language/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:10:17 GMT</pubDate>
+      <title>你应该知道的 5 个运算符：Angular 中的 RxJS</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</link>
+      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</guid>
+      <pubDate>Tue, 28 Jan 2025 15:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Datalog 饮酒 (2021)</title>
-      <link>https://www.reddit.com/r/programming/comments/1i790ln/drinking_with_datalog_2021/</link>
-      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i790ln/drinking_with_datalog_2021/</guid>
-      <pubDate>Wed, 22 Jan 2025 11:27:28 GMT</pubDate>
+      <title>为 Linux-Xfce 制作（尝试）一个平铺管理器，以粗略地复制 Windows 中的“Snap-Layout”功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</link>
+      <description><![CDATA[  由    /u/BeyondMoney3072  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:59:10 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Avalonia 框架将 Webforums 从 Visual Code 转换为 Rider</title>
-      <link>https://www.reddit.com/r/programming/comments/1i78veq/conversion_of_webforums_from_visual_code_to_rider/</link>
-      <description><![CDATA[  由    /u/Appropriate-Creme-16  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i78veq/conversion_of_webforums_from_visual_code_to_rider/</guid>
-      <pubDate>Wed, 22 Jan 2025 11:17:30 GMT</pubDate>
+      <title>本地运行的 Devin 的开源替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</link>
+      <description><![CDATA[  由    /u/No_Palpitation9532  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:32:58 GMT</pubDate>
     </item>
     <item>
-      <title>Gurubase - 适用于任何主题的人工智能开源问答助手</title>
-      <link>https://www.reddit.com/r/programming/comments/1i78l7q/gurubase_aipowered_opensource_qa_assistants_for/</link>
-      <description><![CDATA[  由    /u/fatihbaltaci  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i78l7q/gurubase_aipowered_opensource_qa_assistants_for/</guid>
-      <pubDate>Wed, 22 Jan 2025 10:58:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 MPI VM 集群 (LAN) 来渲染曼德布洛特集和朱莉娅集 — 问我任何问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1i784cu/i_built_an_mpi_cluster_of_vms_lan_to_render_the/</link>
-      <description><![CDATA[  由    /u/MrMcnuggetZ  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i784cu/i_built_an_mpi_cluster_of_vms_lan_to_render_the/</guid>
-      <pubDate>Wed, 22 Jan 2025 10:24:46 GMT</pubDate>
+      <title>贪婪算法何时可以更快</title>
+      <link>https://www.reddit.com/r/programming/comments/1ic2ud3/when_greedy_algorithms_can_be_faster/</link>
+      <description><![CDATA[  由    /u/def-pri-pub  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ic2ud3/when_greedy_algorithms_can_be_faster/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:32:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
