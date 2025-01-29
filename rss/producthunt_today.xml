@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 10:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 11:15:22 GMT</lastBuildDate>
     <item>
       <title>碧玉</title>
       <link>https://www.producthunt.com/posts/jasper-20</link>
@@ -90,20 +90,6 @@ Ebo x 家庭伴侣机器人
       <pubDate>Mon, 27 Jan 2025 08:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 iOS 和 Android 的 Playbook 移动应用程序</title>
-      <link>https://www.producthunt.com/posts/playbook-mobile-app-for-ios-android</link>
-      <description><![CDATA[
-随时随地管理视觉文件的全新方式
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/playbook-mobile-app-for-ios-android</guid>
-      <pubDate>Fri, 24 Jan 2025 20:30:01 GMT</pubDate>
-    </item>
-    <item>
       <title>克罗克特</title>
       <link>https://www.producthunt.com/posts/croct</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@ AI 代理构建器工具包
 ]]></description>
       <guid>https://www.producthunt.com/posts/portals-4</guid>
       <pubDate>Mon, 13 Jan 2025 20:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>拱形结构</title>
+      <link>https://www.producthunt.com/posts/archformation</link>
+      <description><![CDATA[
+使用无代码应用程序设计并将基础设施部署到 AWS
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/archformation</guid>
+      <pubDate>Mon, 13 Jan 2025 15:16:18 GMT</pubDate>
     </item>
     <item>
       <title>电子邮件审计引擎</title>

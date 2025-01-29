@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 08:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 11:14:52 GMT</lastBuildDate>
+    <item>
+      <title>你在 Go 应用程序中是否遇到过神秘的 goroutine 泄漏或无声故障？</title>
+      <link>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</link>
+      <description><![CDATA[  由    /u/StatisticianNo2104  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>可组合 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>交换链和帧同步（2021）</title>
+      <link>https://www.reddit.com/r/programming/comments/1icq34i/swapchains_and_frame_pacing_2021/</link>
+      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icq34i/swapchains_and_frame_pacing_2021/</guid>
+      <pubDate>Wed, 29 Jan 2025 09:31:40 GMT</pubDate>
+    </item>
     <item>
       <title>我应该把我的创业公司押注于凸</title>
       <link>https://www.reddit.com/r/programming/comments/1icp00f/should_i_bet_my_startup_on_convex/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/temporal-tom  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1icccpq/java_tutorial_building_invincible_applications/</guid>
       <pubDate>Tue, 28 Jan 2025 21:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>C 习语；这是处理器，菜鸟</title>
-      <link>https://www.reddit.com/r/programming/comments/1icbz2i/c_idioms_its_the_processor_noob/</link>
-      <description><![CDATA[  由    /u/felipec  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icbz2i/c_idioms_its_the_processor_noob/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>“通过 Pi 探索 AI 驱动的 GPU 优化、自我重写代码和无限存储，以实现下一代计算系统”</title>
-      <link>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</link>
-      <description><![CDATA[  由    /u/EntrepreneurGlass485  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitNation 上 2000 多个 React 和 JavaScript 演讲的西班牙语翻译</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</link>
-      <description><![CDATA[  由    /u/konteriy_smm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</guid>
-      <pubDate>Tue, 28 Jan 2025 18:52:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

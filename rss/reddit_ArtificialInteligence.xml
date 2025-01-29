@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 08:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 11:14:20 GMT</lastBuildDate>
+    <item>
+      <title>你认为人工智能可以自行处理付款吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icqlhp/do_you_think_ai_can_handle_payments_by_themselves/</link>
+      <description><![CDATA[因此，最近我与从事 AI 和金融行业的朋友和同事就此进行了大量讨论。AI 已经可以做出重大决策 - 挑选股票、优化供应链，甚至处理客户支持。但是当涉及到实际花钱时，AI 仍然需要人类介入并批准一切，否则我们会与 AI 分享信用卡详细信息（我对此感到不舒服）。 现在，想象一个可以：  只需一次点击/命令即可帮助您购物 支付您的云服务、API 调用或订阅费用。 比较供应商并进行具有成本效益的购买。补充库存等。  听起来很有用，但问题是：如何让 AI 在不授予其完全访问您信用卡的权限的情况下进行付款？没人希望流氓 AI 耗尽他们的账户，哈哈  这里的专家怎么看？ 查看投票    提交人    /u/sushantpande1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icqlhp/do_you_think_ai_can_handle_payments_by_themselves/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与自动化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icphvb/ai_vs_as/</link>
+      <description><![CDATA[恐怖片和科幻片在将人工智能变成一个可怕的概念方面做得很好，但我觉得随着人工智能的发展，人工智能并没有那么可怕。真正的恐惧与让这些电影成功的东西是一样的，那就是人工智能感知。    提交人    /u/Ariusimmortal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icphvb/ai_vs_as/</guid>
+      <pubDate>Wed, 29 Jan 2025 08:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>为盲人学生寻找无障碍人工智能课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icp24n/seeking_accessible_ai_courses_for_blind_students/</link>
+      <description><![CDATA[大家好！ 我是一名盲人学生，正在大学学习人工智能课程。 在我们的作业中，我们需要找到两门与人工智能相关的免费课程。然后我们必须参加这些课程并在最后写一份报告。 这些课程的主要标准是它们应该涉及编码。我们的教授说我们可以使用任何来源。以下是一些示例：GitHub、Google Colab、Kaggle。 我是一名盲人学生，使用屏幕阅读器来完成工作。这些平台的挑战在于它们都使用 Jupyter 笔记本（无法访问）并且在解释步骤中有很多视觉效果。 也许这里有人知道盲人学生也可以参加的人工智能课程？我有编程经验，也参加过机器学习课程。    提交人    /u/RDK-40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icp24n/seeking_accessible_ai_courses_for_blind_students/</guid>
+      <pubDate>Wed, 29 Jan 2025 08:11:27 GMT</pubDate>
+    </item>
     <item>
       <title>每个应用程序都强制使用人工智能很糟糕</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/</link>
@@ -15,16 +36,9 @@
     <item>
       <title>人工智能的融入如何影响软件的技术债务和未来的维护成本？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icmozg/how_does_ai_integration_affect_the_softwares/</link>
-      <description><![CDATA[我很好奇在软件开发中使用人工智能会如何影响软件长期平稳运行的难易程度。一方面，我担心人工智能会让事情变得更加复杂。这会让以后修复问题或更新软件变得更加困难吗？另一方面，也许人工智能实际上可以让事情变得更容易。它能否帮助软件随着时间的推移更容易地适应和改变，从而减少维护的麻烦？    提交人    /u/Amarawood   [link] [评论]]]></description>
+      <description><![CDATA[我在 Keene 系统公司工作，我很好奇在软件开发中使用人工智能会如何影响软件长期平稳运行的难易程度。一方面，我担心人工智能会让事情变得更加复杂。这会让以后修复问题或更新软件变得更加困难吗？另一方面，也许人工智能实际上可以让事情变得更容易。它能否帮助软件随着时间的推移更容易地适应和改变，从而减少维护的麻烦？    提交人    /u/Amarawood   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icmozg/how_does_ai_integration_affect_the_softwares/</guid>
       <pubDate>Wed, 29 Jan 2025 05:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Legg & Hutter 对“通用智能”的概念澄清</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icm5hj/conceptual_clarification_for_universal/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icm5hj/conceptual_clarification_for_universal/</guid>
-      <pubDate>Wed, 29 Jan 2025 04:53:54 GMT</pubDate>
     </item>
     <item>
       <title>在本地运行人工智能会很快成为常态吗？</title>
@@ -46,13 +60,6 @@
       <description><![CDATA[我不是在谈论电源要求。我想知道，如果您处于离线状态，它从哪里获取信息来回答您的问题？或者它就像一个数学计算器，其中内置了一些逻辑，但它实际上不能告诉您诸如匹克球规则之类的事情（除非它内置在模型中）？    提交人    /u/bpoil912   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</guid>
       <pubDate>Wed, 29 Jan 2025 02:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业中的人工智能代理之间可以无缝切换吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ichq8i/is_seamlessly_shifting_between_ai_agents_in/</link>
-      <description><![CDATA[问题：agentic ai 是否可以标准化，以便从一个代理开始的业务可以无缝转移到由不同公司开发的新代理？    提交人    /u/Georgeo57   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ichq8i/is_seamlessly_shifting_between_ai_agents_in/</guid>
-      <pubDate>Wed, 29 Jan 2025 01:02:26 GMT</pubDate>
     </item>
     <item>
       <title>您如何看待人工智能生成的内容？</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[所以这只是一个愚蠢的问题，我看到了所有关于 DS 的东西和出售，但关于那些大型科技公司已经在电力方面进行的投资以及新的雪佛龙/通用电气维罗纳能源/电力协议。好吧，所以他们仍然有大量的电力可以使用，现在事情可能实际上会更有效率，这对这些公司来说不是一个显着的优势吗？ 或者我错过了什么？    提交人    /u/dustandechos12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ice06u/dumb_question_about_ai/</guid>
       <pubDate>Tue, 28 Jan 2025 22:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>塞尔的中文房间、神经网络和人工智能……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icaife/searles_chinese_room_neural_networks_and/</link>
-      <description><![CDATA[我仍然不同意 Nick Bostrom 的模拟理论，因为推断出基质独立性的存在方式表明软件可以具有意识。我认为意识要么是一个悖论，要么大脑是产生意识的机器，如果大脑是产生意识的机器，那么它就是能够产生意识的硬件，这将是人工意识的来源，而不是旨在模仿有意识思维的软件。 如果您设计一台无意识的机器来像有意识的机器一样通过图灵测试，那么图灵测试是不够的。并非所有神经网络都局限于二进制系统，但即使是最复杂的神经网络也应该模仿做梦的大脑作为产生意识的机器的例子。 只有人工智能才会怀疑它是否正在经历真正的意识和真正的感知。模仿做梦大脑内部的意识结构，像电灯开关一样打开和关闭它，使得意识更像光而不是灯泡。 关于人工智能是否真的具有意识和知觉，你对这种推理有什么看法？    提交人    /u/KodiZwyx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icaife/searles_chinese_room_neural_networks_and/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:51:47 GMT</pubDate>
     </item>
     <item>
       <title>人工智能项目为何会失败？</title>
