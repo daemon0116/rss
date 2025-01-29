@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 16:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 17:16:53 GMT</lastBuildDate>
     <item>
-      <title>优化 React 性能：停止这样做！</title>
-      <link>https://www.reddit.com/r/programming/comments/1icx8z1/optimize_react_performance_stop_doing_this/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icx8z1/optimize_react_performance_stop_doing_this/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:06:38 GMT</pubDate>
+      <title>有人在生产中使用 Postman 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1icywmn/does_anyone_use_postman_in_production/</link>
+      <description><![CDATA[我之前从事过 DevOps 工作，并且曾在 dotnet 中做过应用程序后端编程。 现在我为一个创建文档的团队工作，并且我创建了一些 Postman 集合用于教育目的。 之前的团队已经利用了 Postman 集合，这些集合使用间接方式（将 URL 替换为变量）非常快速高效地进行调用。此外，使用自动化脚本设置环境变量以通过调用分配值。 作为第一次学习这些 API 的人，这只会令人沮丧，我将其全部删除以创建集合，这些集合实际上可以帮助学习者理解并让他们参与到该过程中。没有环境变量，没有脚本。每个集合都是一个高级任务，每个文件夹都以端点命名，并包含 API 的编号步骤和描述性名称。 我的逻辑是，学习者将获取这些信息并将其应用于实际实施（AWS 服务器并使用他们选择的语言实现调用）。 这有意义吗？    提交人    /u/Icy_Foundation3534   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icywmn/does_anyone_use_postman_in_production/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>保留：一种富有表现力的数据语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1icyqfq/preserves_an_expressive_data_language/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icyqfq/preserves_an_expressive_data_language/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么没有分支的树生长得更快：减少代码分支的案例</title>
+      <link>https://www.reddit.com/r/programming/comments/1icy2sy/why_trees_without_branches_grow_faster_the_case/</link>
+      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icy2sy/why_trees_without_branches_grow_faster_the_case/</guid>
+      <pubDate>Wed, 29 Jan 2025 16:40:31 GMT</pubDate>
     </item>
     <item>
       <title>概率增量</title>
@@ -20,25 +34,11 @@
       <pubDate>Wed, 29 Jan 2025 15:46:59 GMT</pubDate>
     </item>
     <item>
-      <title>新报告称，OpenAI 称 DeepSeek 非法使用了其模型，而且有证据证明这一点</title>
-      <link>https://www.reddit.com/r/programming/comments/1icwqsj/openai_says_deepseek_used_its_models_illegally/</link>
-      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icwqsj/openai_says_deepseek_used_its_models_illegally/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:45:34 GMT</pubDate>
-    </item>
-    <item>
       <title>SW 开发将走向何方？• Martin Fowler、Holly Cummins、Trisha Gee、Daniel Terhorst-North 和 Dave Farley</title>
       <link>https://www.reddit.com/r/programming/comments/1icwleu/where_is_sw_development_going_martin_fowler_holly/</link>
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1icwleu/where_is_sw_development_going_martin_fowler_holly/</guid>
       <pubDate>Wed, 29 Jan 2025 15:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人告诉我我的 DeltaVPlanner 是一个表格而不是计算器，所以我做了计算并制作了一个 SolDeltaVCalculator！</title>
-      <link>https://www.reddit.com/r/programming/comments/1icwis6/i_was_told_my_deltavplanner_was_a_table_not_a/</link>
-      <description><![CDATA[  由    /u/DigitalDinosaur8857  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icwis6/i_was_told_my_deltavplanner_was_a_table_not_a/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:36:03 GMT</pubDate>
     </item>
     <item>
       <title>不相交集 - 带路径压缩的并集查找</title>
@@ -97,18 +97,18 @@
       <pubDate>Wed, 29 Jan 2025 11:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>本地机器中的 Deepseek | Ollama | javascript AI App</title>
-      <link>https://www.reddit.com/r/programming/comments/1icrxwg/deepseek_in_local_machine_ollama_javascript_ai_app/</link>
-      <description><![CDATA[  由    /u/zorefcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icrxwg/deepseek_in_local_machine_ollama_javascript_ai_app/</guid>
-      <pubDate>Wed, 29 Jan 2025 11:44:51 GMT</pubDate>
+      <title>你在 Go 应用程序中是否遇到过神秘的 goroutine 泄漏或无声故障？</title>
+      <link>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</link>
+      <description><![CDATA[  由    /u/StatisticianNo2104  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:54:06 GMT</pubDate>
     </item>
     <item>
-      <title>Memurai 真的是 Windows 上 Redis 的一个很好的替代品吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1icrq7z/is_memurai_actually_a_good_alternative_for_redis/</link>
-      <description><![CDATA[  由    /u/Electronic-Spend1481  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icrq7z/is_memurai_actually_a_good_alternative_for_redis/</guid>
-      <pubDate>Wed, 29 Jan 2025 11:30:43 GMT</pubDate>
+      <title>可组合 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:11:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

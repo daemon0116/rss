@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 16:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 17:16:49 GMT</lastBuildDate>
+    <item>
+      <title>下载器iPhone</title>
+      <link>https://www.reddit.com/r/software/comments/1icxvdk/downloader_iphone/</link>
+      <description><![CDATA[iPhone 下载器 嘿，在 iPhone 上从网络下载任何视频的最佳方法是什么？我有大约 60 个 URL 链接需要下载，每个链接上都有一个视频。有没有网站或任何东西可以用来一次性下载它们？TIA    提交人    /u/gavinkamp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1icxvdk/downloader_iphone/</guid>
+      <pubDate>Wed, 29 Jan 2025 16:32:02 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Photos 帮助 iPhone 照片按时间排序？</title>
       <link>https://www.reddit.com/r/software/comments/1icw6yb/microsoft_photos_help_for_iphone_photo_sorting_by/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有任何 (最好是 FOSS) 软件可以在鼠标到达屏幕边缘时将其传送到屏幕周围？ 我有一个沙箱在一个显示器中运行，当运行全屏程序时，它似乎无法正确处理光标锁定，所以我的鼠标最终会滞留在另一台显示器上，或者卡在当前显示器的末端。 如果有某种软件可以在鼠标向任何一个方向偏离太远时自动将其传送回屏幕中心，那就太好了。    提交人    /u/Alemismun   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ice1dh/teleporting_mouse_lock_software/</guid>
       <pubDate>Tue, 28 Jan 2025 22:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找具有高级编辑功能的 Microsoft Word 替代品，对 WPS Office 的 AI 有何看法？</title>
-      <link>https://www.reddit.com/r/software/comments/1icc7tl/looking_for_a_microsoft_word_alternative_with/</link>
-      <description><![CDATA[我从事自由职业已有六年多，但从未安装过完整的 Microsoft Office 套件。我的客户通常更喜欢 Google Docs 或 .docx 查看器，到目前为止，它们一直运行良好。我的最新客户坚持要向我发送 Word 中的修订和深入评论，如果没有实际的 MS Office 软件，很难进行协作。 不过，我的预算很紧张，目前买不起 Microsoft 365 订阅。我听说 WPS Office 与 Word 非常相似，甚至提供 WPS AI，这可能有助于我处理高级编辑任务，如语法修复或快速重写。但它能正确管理修订和评论吗，尤其是当其他人在 Word 中启动它们时？ 如果有人使用 WPS AI 来处理已经有大量标记的 .docx 文件，我很想知道结果如何。此外，如果您尝试过其他免费或低成本的解决方案，请随时分享。在此先感谢大家的指导。     提交人    /u/Opposite_Space7955   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1icc7tl/looking_for_a_microsoft_word_alternative_with/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
