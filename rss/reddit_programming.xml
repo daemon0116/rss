@@ -4,9 +4,16 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 12:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 13:23:58 GMT</lastBuildDate>
     <item>
-      <title>多巴胺对编码的依赖——这是一种仪式</title>
+      <title>Kubernetes — Grafana — 概览仪表板：常见问题和效率</title>
+      <link>https://www.reddit.com/r/programming/comments/1icsyab/kubernetes_grafana_overview_dashboard_common/</link>
+      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icsyab/kubernetes_grafana_overview_dashboard_common/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>多巴胺对编码上瘾——这是一种仪式</title>
       <link>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</link>
       <description><![CDATA[  由    /u/SpareCalendar4754  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>向 Spring REST API 传递参数的 6 种方法</title>
       <link>https://www.reddit.com/r/programming/comments/1ickh9w/6_ways_to_pass_parameters_to_spring_rest_api/</link>
-      <description><![CDATA[  由   提交  /u/Educational-Ad2036   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ickh9w/6_ways_to_pass_parameters_to_spring_rest_api/</guid>
       <pubDate>Wed, 29 Jan 2025 03:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>印第安纳州程序员</title>
-      <link>https://www.reddit.com/r/programming/comments/1ick4ar/indiana_programmers/</link>
-      <description><![CDATA[我是新手，但我不会问愚蠢的问题，我愿意努力工作来构建我想要的东西。我没有 10 万美元的不切实际的目标。我只是有一个很棒的工具想要构建。但我想沉浸在这种文化中。并可能与程序员见面合作......所以邀请开放🥸    提交人    /u/AMh_Shine063   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ick4ar/indiana_programmers/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:01:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

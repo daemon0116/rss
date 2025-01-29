@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 12:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 13:24:32 GMT</lastBuildDate>
     <item>
       <title>碧玉</title>
       <link>https://www.producthunt.com/posts/jasper-20</link>
@@ -37,7 +37,7 @@ Ebo x 家庭伴侣机器人
       <title>鼠兔 2.1</title>
       <link>https://www.producthunt.com/posts/pika-2-1</link>
       <description><![CDATA[
-以令人惊叹的 1080p 分辨率创建您最奇特、最狂野的梦想
+以令人惊叹的 1080p 分辨率创建您最奇特、最疯狂的梦想
 
 
 讨论
@@ -48,18 +48,18 @@ Ebo x 家庭伴侣机器人
       <pubDate>Mon, 27 Jan 2025 20:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>雅努斯</title>
-      <link>https://www.producthunt.com/posts/janus-7834fdf6-7df8-4d55-80f2-197193626248</link>
+      <title>CheapUI</title>
+      <link>https://www.producthunt.com/posts/cheapui</link>
       <description><![CDATA[
-DeepSeek 的统一多模式 AI
+用于 Web 开发的 AI 驱动 UI 组件生成器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/janus-7834fdf6-7df8-4d55-80f2-197193626248</guid>
-      <pubDate>Mon, 27 Jan 2025 17:37:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/cheapui</guid>
+      <pubDate>Mon, 27 Jan 2025 15:24:55 GMT</pubDate>
     </item>
     <item>
       <title>塔布</title>
@@ -76,6 +76,20 @@ DeepSeek 的统一多模式 AI
       <pubDate>Mon, 27 Jan 2025 14:21:19 GMT</pubDate>
     </item>
     <item>
+      <title>开发者联盟</title>
+      <link>https://www.producthunt.com/posts/devleague</link>
+      <description><![CDATA[
+您的 Github 个人资料作为 Pokemon 卡
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/devleague</guid>
+      <pubDate>Mon, 27 Jan 2025 13:21:21 GMT</pubDate>
+    </item>
+    <item>
       <title>播客</title>
       <link>https://www.producthunt.com/posts/podcatcher</link>
       <description><![CDATA[
@@ -88,20 +102,6 @@ DeepSeek 的统一多模式 AI
 ]]></description>
       <guid>https://www.producthunt.com/posts/podcatcher</guid>
       <pubDate>Mon, 27 Jan 2025 08:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴塞达什</title>
-      <link>https://www.producthunt.com/posts/basedash-2</link>
-      <description><![CDATA[
-AI 原生商业智能平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/basedash-2</guid>
-      <pubDate>Fri, 24 Jan 2025 20:00:54 GMT</pubDate>
     </item>
     <item>
       <title>克罗克特</title>
@@ -160,7 +160,7 @@ Geoguessr，但这是卫星图像！
       <pubDate>Mon, 20 Jan 2025 17:18:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能聊天头像</title>
+      <title>AI聊天头像</title>
       <link>https://www.producthunt.com/posts/ai-chat-avatar</link>
       <description><![CDATA[
 对话式 AI 助手随时准备为您服务 
