@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 29 Jan 2025 06:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 07:17:36 GMT</lastBuildDate>
+    <item>
+      <title>帮助启动开源！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ico6oh/help_starting_open_source/</link>
+      <description><![CDATA[我想申请 GSoC，所以我看了它的提示，我看到的都是做开源贡献。现在我的难题是，我看的每个视频都告诉我要开源贡献，但我如何找到那些开源项目，很难找到那些开放的，而且我参加 GSoC 晚了吗？我知道 java 中级水平，正在学习 python     提交人    /u/Complex-Repeat-7167   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ico6oh/help_starting_open_source/</guid>
+      <pubDate>Wed, 29 Jan 2025 07:05:01 GMT</pubDate>
+    </item>
     <item>
       <title>为开源项目寻找志愿设计师</title>
       <link>https://www.reddit.com/r/opensource/comments/1icmow5/looking_for_a_volunteer_designer_for_an/</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 28 Jan 2025 19:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>是什么让人工智能模型变得“开源”？</title>
+      <title>是什么让人工智能模型“开源”？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</link>
       <description><![CDATA[所以 deepseek r1 是目前最受追捧的东西。它的权重是在 MIT 下授权的，这应该本质上使它成为“开源”吧？ OSI 最近在 AI 背景下为开源制定了全面的定义。 根据他们的定义，如果 AI 系统授予用户以下自由，则被视为开源：  使用：无需寻求额外许可即可将系统用于任何目的。 研究：检查系统的工作原理并检查其组件以了解其功能。 修改：更改系统以满足特定需求，包括更改其输出。 共享：出于任何目的将系统分发给其他人，无论是否经过修改。  要使 AI 系统在 OSAID 下被认可为开源，它应满足以下要求：  数据信息：有关用于训练 AI 模型的数据的足够详细信息，包括其来源、选择、标记和处理方法。 代码：在 OSI 批准的许可下概述数据处理和训练的完整源代码。 参数：模型参数和中间训练状态，在 OSI 批准的条款下可用，允许修改和透明调整。  现在按照这个定义，Deepseek r1 不能被视为开源。因为它不提供数据信息和代码来重现。Huggingface 已经在对代码部分进行完整的 OSS 重现，但我们可能永远不会知道它是在什么数据上进行训练的。这同样适用于几乎所有大型语言模型，因为在盗版数据上进行训练是一种常见的做法。 本质上是一个开放权重模型，没有完整的重现步骤，类似于编译的二进制文件。它们可以被检查和修改，但程度不如原始代码。 但尽管如此，拥有开放权重模型仍然比拥有无法自托管的完全封闭模型要好得多。 请问你们对纯开源（OSI 兼容）和开放权重模型的看法。干杯 相关链接： https://www.infoq.com/news/2024/11/open-source-ai-definition/ https://opensource.org/ai    提交人    /u/nrkishere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>有开源浏览器推荐吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ic6sfe/recommendations_for_open_source_browser/</link>
-      <description><![CDATA[我创办了一家小公司，我们有大约 8 名全职员工。我一直是 Chrome 用户，但听说过一些关于 Google 数据收集实践的恐怖故事。我想请您推荐一款可以在工作场所使用的开源浏览器？ 我知道 Chrome 是基于 Chromium 的，但我尝试过，感觉不尽如人意。我也听说过 Firefox 的好评？ 我的团队使用 Office 365，所以我们需要一个可以很好地与它配合使用的浏览器 - 我认为他们都有？    提交人    /u/Timely-Accountant173   [链接] [评论]]]></description>
+      <description><![CDATA[我创办了一家小公司，我们大约有 8 名全职员工。我一直是 Chrome 用户，但听说过一些关于 Google 数据收集实践的恐怖故事。我想请您推荐一款可以在工作场所使用的开源浏览器？ 我知道 Chrome 是基于 Chromium 的，但我尝试过，感觉不尽如人意。我也听说过 Firefox 的好评？ 我的团队使用 Office 365，所以我们需要一个可以很好地与它配合使用的浏览器 - 我认为他们都有？    提交人    /u/Timely-Accountant173   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic6sfe/recommendations_for_open_source_browser/</guid>
       <pubDate>Tue, 28 Jan 2025 17:21:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我构建了 Thufir：https://github.com/thufir-dev/thufir，一个开源 VS 代码扩展。 我认为我的标题并不能说明一切，但基本上我受到了continue.dev 和光标编辑器的启发，并决定构建一个 VS 代码扩展，帮助您使用 ssh 连接到本地/远程服务器并监控它们的运行状况。 我建立了与 Prometheus 的集成，并添加了聊天功能来帮助您将警报发送到您最喜欢的 LLM API。它仍处于测试阶段，我的目的是构建一个 SRE 代理，将其与 GitHub 集成并帮助进行根本原因分析，建议修复并查找是否有任何提交破坏了生产以及原因。 理想情况下，我希望代理甚至可以控制并通过访问终端等进行一些补救，就像作曲家所做的那样。我非常欢迎合作者，因为我对 Typescript 还不是很熟悉，所以任何想法都非常受欢迎。    提交人    /u/_twelvechess   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</guid>
       <pubDate>Tue, 28 Jan 2025 16:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sirang-基于 QUIC 的正向和反向 TCP 隧道</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</link>
-      <description><![CDATA[       提交人  /u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
