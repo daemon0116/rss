@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 17:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 20:20:18 GMT</lastBuildDate>
     <item>
-      <title>有人在生产中使用 Postman 吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1icywmn/does_anyone_use_postman_in_production/</link>
-      <description><![CDATA[我之前从事过 DevOps 工作，并且曾在 dotnet 中做过应用程序后端编程。 现在我为一个创建文档的团队工作，并且我创建了一些 Postman 集合用于教育目的。 之前的团队已经利用了 Postman 集合，这些集合使用间接方式（将 URL 替换为变量）非常快速高效地进行调用。此外，使用自动化脚本设置环境变量以通过调用分配值。 作为第一次学习这些 API 的人，这只会令人沮丧，我将其全部删除以创建集合，这些集合实际上可以帮助学习者理解并让他们参与到该过程中。没有环境变量，没有脚本。每个集合都是一个高级任务，每个文件夹都以端点命名，并包含 API 的编号步骤和描述性名称。 我的逻辑是，学习者将获取这些信息并将其应用于实际实施（AWS 服务器并使用他们选择的语言实现调用）。 这有意义吗？    提交人    /u/Icy_Foundation3534   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icywmn/does_anyone_use_postman_in_production/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:13:34 GMT</pubDate>
+      <title>从头开始构建数据仪表板：数据集成、可视化以及使用 Streamlit 和 Python。</title>
+      <link>https://www.reddit.com/r/programming/comments/1id2isv/build_a_data_dashboard_from_scratch_data/</link>
+      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1id2isv/build_a_data_dashboard_from_scratch_data/</guid>
+      <pubDate>Wed, 29 Jan 2025 19:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>保留：一种富有表现力的数据语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1icyqfq/preserves_an_expressive_data_language/</link>
+      <title>宣布发布 TypeScript 5.8 Beta 版</title>
+      <link>https://www.reddit.com/r/programming/comments/1id1cqj/announcing_typescript_58_beta/</link>
+      <description><![CDATA[  由    /u/DanielRosenwasser  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1id1cqj/announcing_typescript_58_beta/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erlang 中的并发第九部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1id0m8i/concurrencia_en_erlang_parte_9/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1id0m8i/concurrencia_en_erlang_parte_9/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使 Java 可空字段向后兼容</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczq43/making_java_nullable_fields_backwards_compatible/</link>
+      <description><![CDATA[  由    /u/dgellow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczq43/making_java_nullable_fields_backwards_compatible/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度学习 NLP 最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczkn7/deep_learning_for_nlp_best_practices/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icyqfq/preserves_an_expressive_data_language/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:06:42 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1iczkn7/deep_learning_for_nlp_best_practices/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:40:26 GMT</pubDate>
     </item>
     <item>
-      <title>为什么没有分支的树生长得更快：减少代码分支的案例</title>
-      <link>https://www.reddit.com/r/programming/comments/1icy2sy/why_trees_without_branches_grow_faster_the_case/</link>
-      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icy2sy/why_trees_without_branches_grow_faster_the_case/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:40:31 GMT</pubDate>
+      <title>持有锁时获取单个值的模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczklx/a_pattern_for_obtaining_a_single_value_while/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczklx/a_pattern_for_obtaining_a_single_value_while/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:40:23 GMT</pubDate>
     </item>
     <item>
-      <title>概率增量</title>
-      <link>https://www.reddit.com/r/programming/comments/1icws36/probabilistic_increment/</link>
-      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icws36/probabilistic_increment/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:46:59 GMT</pubDate>
+      <title>但什么是“一生”——把一生看作记忆的区域</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczjh2/but_what_is_a_lifetime_thinking_of_lifetimes_as/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczjh2/but_what_is_a_lifetime_thinking_of_lifetimes_as/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>SW 开发将走向何方？• Martin Fowler、Holly Cummins、Trisha Gee、Daniel Terhorst-North 和 Dave Farley</title>
-      <link>https://www.reddit.com/r/programming/comments/1icwleu/where_is_sw_development_going_martin_fowler_holly/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icwleu/where_is_sw_development_going_martin_fowler_holly/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:39:14 GMT</pubDate>
+      <title>在 Zig 中，什么是作家？</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczj6m/in_zig_whats_a_writer/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczj6m/in_zig_whats_a_writer/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>不相交集 - 带路径压缩的并集查找</title>
-      <link>https://www.reddit.com/r/programming/comments/1icvy0s/disjoint_set_union_find_with_path_compression/</link>
-      <description><![CDATA[  由    /u/Mysterious-3636  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icvy0s/disjoint_set_union_find_with_path_compression/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:11:13 GMT</pubDate>
+      <title>OCaml 5 的多核基于属性的测试：挑战和经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczilj/multicore_propertybased_tests_for_ocaml_5/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczilj/multicore_propertybased_tests_for_ocaml_5/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>省份数量：使用不相交集的解决方案 | 联合查找 DFS BFS -...</title>
-      <link>https://www.reddit.com/r/programming/comments/1icvvyr/number_of_provinces_solution_using_disjoint_set/</link>
-      <description><![CDATA[使用不相交集数据结构、dfs 和 bfs 解决连通分量问题并比较它们的时间空间复杂度    提交人    /u/Mysterious-3636   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icvvyr/number_of_provinces_solution_using_disjoint_set/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:08:45 GMT</pubDate>
+      <title>我们可以在不损害安全性的情况下保留传递依赖的好处吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczgvj/can_we_retain_the_benefits_of_transitive/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczgvj/can_we_retain_the_benefits_of_transitive/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲 IT 招聘和薪资现状：18,000 个职位，68,000 份调查</title>
-      <link>https://www.reddit.com/r/programming/comments/1icvqyl/current_state_of_it_hiring_and_salaries_in_europe/</link>
-      <description><![CDATA[  由    /u/One-Durian2205  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icvqyl/current_state_of_it_hiring_and_salaries_in_europe/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:02:41 GMT</pubDate>
+      <title>双向类型检查是双向的</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczfs8/bidirectional_typechecking_is_bidirectional/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczfs8/bidirectional_typechecking_is_bidirectional/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>实施 API 威胁防护</title>
-      <link>https://www.reddit.com/r/programming/comments/1icv23d/implementing_api_threat_protection/</link>
-      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icv23d/implementing_api_threat_protection/</guid>
-      <pubDate>Wed, 29 Jan 2025 14:31:48 GMT</pubDate>
+      <title>地狱（Haskell shell）</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczfku/hell_haskell_shell/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczfku/hell_haskell_shell/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:34:47 GMT</pubDate>
     </item>
     <item>
-      <title>分解主图</title>
-      <link>https://www.reddit.com/r/programming/comments/1icu06c/breaking_up_the_master_diagram/</link>
-      <description><![CDATA[  由    /u/Veuxdo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icu06c/breaking_up_the_master_diagram/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:41:48 GMT</pubDate>
+      <title>门户流程将所有内容整合在一起</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczf4v/portal_flow_brings_it_all_together/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczf4v/portal_flow_brings_it_all_together/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>Kubernetes — Grafana — 概览仪表板：常见问题和效率</title>
-      <link>https://www.reddit.com/r/programming/comments/1icsyab/kubernetes_grafana_overview_dashboard_common/</link>
-      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icsyab/kubernetes_grafana_overview_dashboard_common/</guid>
-      <pubDate>Wed, 29 Jan 2025 12:46:11 GMT</pubDate>
+      <title>我与 Forth 和堆栈机的历史</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczerd/my_history_with_forth_stack_machines/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczerd/my_history_with_forth_stack_machines/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺对编码的依赖——这是一种仪式</title>
-      <link>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</link>
-      <description><![CDATA[  由    /u/SpareCalendar4754  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</guid>
-      <pubDate>Wed, 29 Jan 2025 12:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>安静危机：快速发展的技术环境中高级开发人员的价值被忽视</title>
-      <link>https://www.reddit.com/r/programming/comments/1ics5re/the_quiet_crisis_the_overlooked_value_of_senior/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ics5re/the_quiet_crisis_the_overlooked_value_of_senior/</guid>
-      <pubDate>Wed, 29 Jan 2025 11:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在 Go 应用程序中是否遇到过神秘的 goroutine 泄漏或无声故障？</title>
-      <link>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</link>
-      <description><![CDATA[  由    /u/StatisticianNo2104  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</guid>
-      <pubDate>Wed, 29 Jan 2025 10:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>可组合 SQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</link>
-      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</guid>
-      <pubDate>Wed, 29 Jan 2025 10:11:27 GMT</pubDate>
+      <title>终止“诅咒终端仿真”</title>
+      <link>https://www.reddit.com/r/programming/comments/1iczeie/sunsetting_cursed_terminal_emulation/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iczeie/sunsetting_cursed_terminal_emulation/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
