@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 14:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:19:35 GMT</lastBuildDate>
+    <item>
+      <title>虚拟桌面似乎无法卸载所有文件，并出现重新安装错误</title>
+      <link>https://www.reddit.com/r/software/comments/1icvejg/cant_seem_to_uninstall_all_files_with_for_a/</link>
+      <description><![CDATA[我使用虚拟桌面工作，使用我的电脑登录。桌面是 VMware Horizo​​n Client，或者我猜现在是 Omnissa Horizo​​n Client。 上周四我登录时遇到了一些问题。我使用 revo 卸载程序删除了文件，重新安装，一切正常。今天早上我遇到了同样的问题。尝试做同样的事情，但每当我尝试安装它时，它都会让我选择修复或删除当前安装。选择任一选项，我都会收到“安装失败”的错误消息，并且没有原因详细信息。我使用 Revo 卸载程序和注册表清理器删除名称中带有 omnissa 或 VMware 的任何东西，但没成功。清理了回收站，仍然没成功。在我的 c 文件中没有看到任何东西，但也许我错过了什么，因为我不是专业人士。不确定我应该做什么，应该在哪里查看或还需要做什么，所以欢迎任何建议    提交人    /u/ryan_james504   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1icvejg/cant_seem_to_uninstall_all_files_with_for_a/</guid>
+      <pubDate>Wed, 29 Jan 2025 14:47:45 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一款可以从 learn.microsoft.com 下载视频课程的软件</title>
       <link>https://www.reddit.com/r/software/comments/1icqphi/looking_for_a_software_to_download_videolessons/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>正在寻找“管理器”软件....客户想知道在公司笔记本电脑上打开或打印了哪些文件...您能推荐一些吗？</title>
       <link>https://www.reddit.com/r/software/comments/1icppmq/looking_for_manager_software_a_client_wants_to/</link>
-      <description><![CDATA[我没有评论，但我认为这并没有错     由    /u/mejoudeh 提交   [link] [comments]]]></description>
+      <description><![CDATA[我没有意见，但我认为这并没有错     由    /u/mejoudeh 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1icppmq/looking_for_manager_software_a_client_wants_to/</guid>
       <pubDate>Wed, 29 Jan 2025 09:02:34 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 28 Jan 2025 21:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>我该如何向我的老板解释，ChatGPT 无法准确生成数百个日期。</title>
+      <title>我该如何向我的老板解释，ChatGPT 不能准确生成数百个日期。</title>
       <link>https://www.reddit.com/r/software/comments/1icahw0/how_do_i_explain_to_my_boss_that_chatgpt_cant_be/</link>
-      <description><![CDATA[我的老板想使用 ChatGPT 生成业务集成计划。集成被分解为多个目标，每个目标都有自己的开始日期和截止日期。ChatGPT 非常擅长生成用户需要的目标，并且可以分配目标的顺序，但无法正确获取日期。 我的老板不想接受这一点，并且对我无法使其工作感到沮丧，尽管我已经多次解释了这一点。我该如何向他展示这个？    提交人    /u/RylanStylin57   [链接] [评论]]]></description>
+      <description><![CDATA[我的老板想使用 ChatGPT 生成业务集成计划。集成被分解为多个目标，每个目标都有自己的开始日期和截止日期。ChatGPT 非常擅长生成用户需要的目标，并且可以分配目标的顺序，但无法正确分配日期。 我的老板不想接受这一点，并且对我无法使其工作感到沮丧，尽管我已经多次解释了这一点。我该如何向他展示这个？    提交人    /u/RylanStylin57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1icahw0/how_do_i_explain_to_my_boss_that_chatgpt_cant_be/</guid>
       <pubDate>Tue, 28 Jan 2025 19:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的云托管真的值得吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ic9s72/is_simple_cloud_hosting_actually_worth_it/</link>
-      <description><![CDATA[TL;DR：简单云托管的简单性和可访问性是否值得花费，尤其是在使用 torrent 时？ 我一直在探索简单的云托管用于个人项目和一些 torrenting（使用不同的 VPN）。我喜欢它提供的便利性和访问权限，但我对成本和隐私方面存有疑问。是否还有其他人认为简单性值得花费和任何潜在的隐私风险？您如何处理这些问题？    提交人    /u/flops85   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ic9s72/is_simple_cloud_hosting_actually_worth_it/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:22:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

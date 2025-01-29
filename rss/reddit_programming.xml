@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 14:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:19:39 GMT</lastBuildDate>
+    <item>
+      <title>不相交集 - 带路径压缩的并集查找</title>
+      <link>https://www.reddit.com/r/programming/comments/1icvy0s/disjoint_set_union_find_with_path_compression/</link>
+      <description><![CDATA[  由    /u/Mysterious-3636  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icvy0s/disjoint_set_union_find_with_path_compression/</guid>
+      <pubDate>Wed, 29 Jan 2025 15:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>省份数量：使用不相交集的解决方案 | 联合查找 DFS BFS -...</title>
+      <link>https://www.reddit.com/r/programming/comments/1icvvyr/number_of_provinces_solution_using_disjoint_set/</link>
+      <description><![CDATA[使用不相交集数据结构、dfs 和 bfs 解决连通分量问题并比较它们的时间空间复杂度    提交人    /u/Mysterious-3636   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icvvyr/number_of_provinces_solution_using_disjoint_set/</guid>
+      <pubDate>Wed, 29 Jan 2025 15:08:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲 IT 招聘和薪资现状：18,000 个职位，68,000 份调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1icvqyl/current_state_of_it_hiring_and_salaries_in_europe/</link>
+      <description><![CDATA[  由    /u/One-Durian2205  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icvqyl/current_state_of_it_hiring_and_salaries_in_europe/</guid>
+      <pubDate>Wed, 29 Jan 2025 15:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>实施 API 威胁防护</title>
+      <link>https://www.reddit.com/r/programming/comments/1icv23d/implementing_api_threat_protection/</link>
+      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icv23d/implementing_api_threat_protection/</guid>
+      <pubDate>Wed, 29 Jan 2025 14:31:48 GMT</pubDate>
+    </item>
     <item>
       <title>分解主图</title>
       <link>https://www.reddit.com/r/programming/comments/1icu06c/breaking_up_the_master_diagram/</link>
@@ -20,7 +48,7 @@
       <pubDate>Wed, 29 Jan 2025 12:46:11 GMT</pubDate>
     </item>
     <item>
-      <title>多巴胺对编码上瘾——这是一种仪式</title>
+      <title>多巴胺对编码的依赖——这是一种仪式</title>
       <link>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</link>
       <description><![CDATA[  由    /u/SpareCalendar4754  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/Amanpandey046  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1icnvqr/guide_stepbystep_how_to_install_and_run_deepseek/</guid>
       <pubDate>Wed, 29 Jan 2025 06:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈希函数：弥合理论与实践之间的差距 - Mikkel Thorup - Google 算法研讨会</title>
-      <link>https://www.reddit.com/r/programming/comments/1icm986/hash_functions_bridging_the_gap_from_theory_to/</link>
-      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icm986/hash_functions_bridging_the_gap_from_theory_to/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么分类比看起来更难</title>
-      <link>https://www.reddit.com/r/programming/comments/1icm1si/why_sorting_is_harder_than_it_seems/</link>
-      <description><![CDATA[  由    /u/dsagal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icm1si/why_sorting_is_harder_than_it_seems/</guid>
-      <pubDate>Wed, 29 Jan 2025 04:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据结构简单解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1icktls/data_structures_explained_simply/</link>
-      <description><![CDATA[  由    /u/nicbarkeragain  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1icktls/data_structures_explained_simply/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux：Gnome 文件：在保存操作时应禁用输入时搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1ickpia/linux_gnome_files_searchontyping_should_be/</link>
-      <description><![CDATA[在 GNOME 中保存文件时，输入内容会立即打开搜索栏，而不是专注于文件名输入。在 ~/.profile 中设置环境变量 GTK_USE_PORTAL=0 可通过切换回旧文件选择器来解决此问题。在保存操作的情况下，应该禁用输入时搜索，而直接专注于文件名输入。 希望在未来的更新中看到这个选项！还有人对此感到困扰吗？    提交人    /u/sohang-3112   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ickpia/linux_gnome_files_searchontyping_should_be/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
