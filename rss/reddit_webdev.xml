@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 20:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 21:17:40 GMT</lastBuildDate>
+    <item>
+      <title>AI 应用程序 Web 开发框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id4vmk/ai_app_web_development_frameworks/</link>
+      <description><![CDATA[嘿，我想我们很多人都在开发由人工智能驱动的应用程序。有人在制作人工智能应用程序时使用基于理论的开发框架吗？例如，在视频游戏设计中有 MDA - 力学、动力学和美学。它可以帮助设计师思考游戏规则、由这些规则产生的新兴系统以及玩家对整体游戏体验的感受。 是否存在适用于人工智能应用程序的开发框架？    提交人    /u/CutMonster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id4vmk/ai_app_web_development_frameworks/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管前端和后端的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id4mxt/whats_the_best_way_to_host_front_end_and_back_end/</link>
+      <description><![CDATA[嗨， 我正在使用 chat gpt 做一个小项目，有兴趣做 web 开发。  chat gpt 生成的代码是（Node.js + Express）用于后端，然后是（html + javascript）用于前端 代码将与 amazon api 交互 该网站将是一个单页网站，上面不会有很多东西可做，只是一个随机器运行。 任何指导都将不胜感激。做了很多反复试验，所以如果成本是免费的，那是理想的，但如果运行起来至少很便宜，那么我不介意花一点钱尝试不同的东西 提前谢谢 P.s. 我希望这有意义哈哈    提交人    /u/McCluregamer447   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id4mxt/whats_the_best_way_to_host_front_end_and_back_end/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使包括移动设备在内的所有设备都能实现视差？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id4c7c/how_to_get_working_parallax_for_all_devices/</link>
+      <description><![CDATA[我有一个网站，主要用于传达美学，它主要由 4 张全屏图像组成，每张图像占用 100vh。每张图片上方都有相当数量的文本。它在桌面上显然运行良好，但在移动设备上，文本溢出，并且由于背景图像，我无法垂直扩展 div。我需要的是让每个背景图像保持不动，直到文本内容完全滚动，然后滚动到下一部分。 起初我考虑使用普通视差，但我的用例与平常相反。我需要移动设备上的视差，而不是桌面上的视差。有什么办法吗？我正在使用 Astro，我想我必须为此使用 JS。    提交人    /u/placeholder-123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id4c7c/how_to_get_working_parallax_for_all_devices/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>reCATPCHA 迁移 - 我们用什么来代替？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id48tg/recatpcha_migrations_what_are_we_using_instead/</link>
+      <description><![CDATA[我今天收到一封来自 Google 的电子邮件，说他们正在将所有 recaptcha 集成迁移到 Google 云帐户，我猜测这将需要附加信用卡，因为他们要对超过 10,000 次评估收费（或者很快就会收费？）。  我目前拥有我们机构建立的 60 多个站点的注册密钥，我知道让客户使用自己的信用卡注册自己的帐户将非常困难。所以我的问题是 - 我们改用什么？    提交人    /u/jubilant_nobody   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id48tg/recatpcha_migrations_what_are_we_using_instead/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有一些 HTML/CSS 知识和无代码构建器经验的平面设计师。行业标准 QA 的检查表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id3yvo/graphic_designer_with_some_htmlcss_knowledge_and/</link>
+      <description><![CDATA[嗨，我是一名自学成才的兼职自由平面设计师，在设计完一个品牌后，我经常被要求为客户建立一个网站。 我选择的工具是 Webflow，它将我的 HTML/CSS 知识与设计师友好的 UI 相结合，让我能够出色地控制元素，而不需要臃肿的 WP 插件。 虽然我的网站最终在前端很漂亮，在后端也具有足够的功能（比如使用 CMS），但我还是忍不住觉得自己像个冒名顶替的 Web 开发人员。 我知道专业的全栈 UI/UX 设计师在交付网站时会考虑更多因素，但是教育内容已经饱和，我分析困难，不知道哪个资源是最好的一站式信息商店。 您是否有任何免费的内容创建者建议或关于如何通过正确程序构建网站的知识库？ 例如诸如可访问性（Webflow 实际上在审核替代文本、颜色对比度和描述性链接预发布方面做得很好）、正确的类选择器语法、使用 CSS 或属性时的效率技巧等。 提前谢谢     提交人    /u/annoyinconquerer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id3yvo/graphic_designer_with_some_htmlcss_knowledge_and/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:38:42 GMT</pubDate>
+    </item>
     <item>
       <title>更新：我使用 Alex Hormozi 的“1 亿美元报价”重写了我的登陆页面——以下是发生的事情</title>
       <link>https://www.reddit.com/r/webdev/comments/1id3cjp/update_i_rewrote_my_landing_page_using_alex/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[在您的身份验证令牌上存储自定义声明（如 role=&#39;admin&#39;）似乎是处理授权的最常见方式，但对于某些用例来说，它似乎不太理想，因为据我所知，权限不能立即撤销（因为声明存储在身份验证令牌上，直到过期）。 因此，似乎为了避免这种情况，处理授权的最佳方法是使用 DB 查询。唯一的问题是，如何使其尽可能高效？ 现在我正在使用 Postgres / Drizzle / TS 作为我的后端。我最初的方法是创建可重复使用的查询来检查授权，如下所示： const isAdmin = (clubId: number) =&gt; { const result = db.select... // 查询以检查用户是否为俱乐部管理员，clubId 返回 !!result }  然后，您可以从任何需要管理员状态的给定端点调用该查询，并在需要时返回错误状态。但这会增加到 DB 的额外往返，从而增加不必要的延迟，有时需要进行多次检查（例如 isAdmin、isOwnerOfProperty 等） 你们是如何处理这种情况的？我知道我可以将授权逻辑写入每个单独的查询中，但似乎有更好的方法可以重复使用逻辑。 此外，您对 RLS 有什么看法？似乎是一个相当不错的解决方案，但它似乎并不那么受欢迎，我想知道是否有原因。 谢谢！    提交人    /u/MajorLeagueGMoney   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icznf3/best_way_to_handle_backend_authorization_without/</guid>
       <pubDate>Wed, 29 Jan 2025 17:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Trader Joe 的产品数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icyp59/looking_for_trader_joes_product_data/</link>
-      <description><![CDATA[您好，我想创建一个使用 Trader Joe 的产品数据的网站，其中包含产品名称和图片等信息。但我不确定从哪里访问这些数据。他们的网站上有超过 1000 种产品我想使用，但我愿意使用任何其他方法。有什么想法可以从哪里开始吗？    提交人    /u/pcanpie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icyp59/looking_for_trader_joes_product_data/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建一个简单的网站，其中文字在中间，章节在左侧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icyo99/how_to_create_a_simple_website_with_text_in_the/</link>
-      <description><![CDATA[我一直在研究如何创建网站/博客或如何托管它们，但我总是找到超长的指南，而我已经有了我想要的模型： https://read.easypeasymethod.org/ 我在这里纯粹谈论格式，而不是内容。 我找不到有关托管商的任何信息，也不知道他们是如何做到的。有没有人能简单地解释一下如何以不同的文本形式复制此内容？    提交人    /u/Ataraxidermist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icyo99/how_to_create_a_simple_website_with_text_in_the/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建这种滚动效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icxp8e/how_do_you_create_that_scroll_effect/</link>
-      <description><![CDATA[我发现这个网站有一个非常酷的滚动动画，我该如何重建它？  https://polyphonicmusiclibrary.com/    提交人    /u/daf00q   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icxp8e/how_do_you_create_that_scroll_effect/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为当地景点建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icxadq/building_websites_for_local_attractions/</link>
-      <description><![CDATA[嗨， 为当地景点制作小型信息网站是个好主意吗？提供有关位置和周围历史的信息。如果已经有一个网站，那么如果他们想购买新的和改进的外观，那么最好是建立它并提供当前网站，还是提供让我的网站成为通往他们网站的前门？ 我目前处于构思阶段，因为我想从头到尾真正构建一些东西。我已经用 html、css 和 javascript 建立了个人网站，但我想完成并发布一些东西，更多地参与后端的工作方式。 任何指导或建议也将不胜感激 谢谢    提交人    /u/McCluregamer447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icxadq/building_websites_for_local_attractions/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法注册 DigitalOcean</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icwzil/unable_to_sign_up_for_digitalocean/</link>
-      <description><![CDATA[在开发了我的第一个适合个人作品集的项目并需要一个地方来托管它之后，我尝试注册 DigitalOcean。我听说 DigitalOcean 很棒，并配置了自己的 VPS 来托管附带项目，我认为这也可以帮助我完善简历。但是在注册 GitHub 并输入我的信用卡详细信息后，我遇到了：  我们无法授权您访问此帐户。我们理解这可能会令人沮丧，并感谢您的耐心，这样我们才能确保我们平台的安全。  打开了一张票，他们的回复是   在手动检查您的帐户后，我们目前无法继续在我们的平台上激活您的帐户。我们理解这可能不是预期的结果。但是，我们已经检查了提供的详细信息，无法满足您的要求。   我尝试询问我可以提供哪些其他信息来激活我的帐户，他们的回复基本上是  如果您找到一个符合您需求的新托管服务，那将最有利于您的时间。我们对您帐户的决定是最终决定，您无需采取进一步行动。  我不明白我的电子邮件怎么会在注册时被永久禁止，而且没有可能的方法来反驳它。是不是因为我不是“真正的”企业，因为我只打算托管我的副业？ 我知道还有其他选择，但我只是想发泄一下，因为我发现在注册时我可能会被永久禁止，这太疯狂了。    提交人    /u/GutsyGallant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icwzil/unable_to_sign_up_for_digitalocean/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:55:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 29 Jan 2025 20:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 21:17:45 GMT</lastBuildDate>
+    <item>
+      <title>认识 Mirai：彻底改变应用程序开发的开源服务器驱动 UI 框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1id4n8p/meet_mirai_the_opensource_serverdriven_ui/</link>
+      <description><![CDATA[       由    /u/divyanshub024  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1id4n8p/meet_mirai_the_opensource_serverdriven_ui/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>最近，我开始了一个简单的开源项目，用 BLAZINGLY ⚡ 快速虚拟工作区取代 macOS Spaces。切换之间不再有延迟和动画！🔥 欢迎加入并做出贡献！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1id42jb/recently_i_started_a_simple_opensource_project/</link>
+      <description><![CDATA[        提交人    /u/john_snow_968   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1id42jb/recently_i_started_a_simple_opensource_project/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:42:57 GMT</pubDate>
+    </item>
     <item>
       <title>在发布开源版本之前我应该​​检查代码中的哪些内容？</title>
       <link>https://www.reddit.com/r/opensource/comments/1id2jl0/what_should_i_check_in_the_code_before_releasing/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>开源视频转录工具-兼容本地AI模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</link>
-      <description><![CDATA[大家好！周末，在查看了转录服务价格高得离谱的云选项（Otter 等）后，借助 Deepseek R1（使用 Python/Streamlit 和开放的 Al whisper）构建了一个本地运行的视频转录器。未来更新 - 更好的摘要、电子邮件转录、在文件夹中存储新视频文件时自动转录。 查看一下，让我知道还可以做哪些改进 GitHub 链接如下： https://github.com/DataAnts-AI/VideoTranscriber YouTube 演示：https://youtu.be/Ak5PqxYXz7g   由    /u/t1092  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！周末，在查看了转录服务价格高得离谱的云选项（Otter 等）后，借助 Deepseek R1（使用 Python/Streamlit 和开放的 Al whisper）构建了一个本地运行的视频转录器。未来更新 - 更好的摘要、电子邮件转录、在文件夹中存储新视频文件时自动转录。 查看一下，让我知道还可以做哪些其他改进 GitHub 链接如下： https://github.com/DataAnts-AI/VideoTranscriber YouTube 演示：https://youtu.be/Ak5PqxYXz7g   由    /u/t1092  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</guid>
       <pubDate>Wed, 29 Jan 2025 18:15:57 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 29 Jan 2025 12:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>NativeAppTemplate-Free-iOS 和 Android：具有内置用户身份验证的现代、生产就绪应用程序</title>
+      <title>NativeAppTemplate-Free-iOS 和 Android：具有内置用户身份验证的现代化、可立即投入生产的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1icrs7s/nativeapptemplatefreeios_android_modern/</link>
       <description><![CDATA[NativeAppTemplate-Free-iOS 和 NativeAppTemplate-Free-Android 是适用于 iOS 和 Android 的现代、全面且可立即投入生产的原生应用，具有内置用户身份验证功能。  功能  入门 注册/登录/退出 电子邮件确认 忘记密码 输入验证 商店的 CRUD 操作（创建/读取/更新/删除） 还有更多！   技术 NativeAppTemplate-Free-iOS 此模板利用最新的 iOS 开发工具和实践，包括： - 100% Swift - 99% SwiftUI（UIKit 仅用于联系人电子邮件屏幕） - @Observable（iOS 17：简化的状态管理） - SwiftLint 用于代码质量和一致性 - 灵感来自 emitron-iOS  NativeAppTemplate-Free-Android 此模板使用最新的 Android 开发工具和实践，包括： - 100% Kotlin - 100% Jetpack Compose - Hilt 用于依赖注入 - Retrofit2 用于网络 - Proto DataStore 用于数据存储 - Android 现代应用架构 - 受到 nowinandroid 和 emitron-Android 的启发   资源 🔗 GitHub 存储库： - NativeAppTemplate-Free-iOS - NativeAppTemplate-Free-Android     由    /u/DaisukeAdachi 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1icrs7s/nativeapptemplatefreeios_android_modern/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>超快搜索 Windows 文件系统搜索</title>
       <link>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</link>
-      <description><![CDATA[此时我甚至会使用 CLI 程序，我只想要一个程序，最好是用 rust 编写的，它可以索引我的驱动器的内容，然后让我使用关键字搜索目录或整个驱动器。Dust（存储分析器）似乎能够比 Windows 资源管理器搜索单个中等大小的目录更快地遍历我的整个驱动器，所以我现在想要一个可以超快地翻阅我的驱动器并返回任何符合搜索条件的内容的东西，即使它只是返回带有链接的匹配 CSV，它也比 Windows 文件资源管理器更快 我偏爱 rust 的原因是它可以与 cargo 一起安装。它不是必需的，只是一个不错的额外功能    提交人    /u/redcorerobot   [链接] [评论]]]></description>
+      <description><![CDATA[此时我甚至会使用 CLI 程序，我只想要一个程序，最好是用 rust，它可以索引我的驱动器的内容，然后让我使用关键字搜索目录或整个驱动器。Dust（存储分析器）似乎能够比 Windows 资源管理器搜索单个中等大小的目录更快地遍历我的整个驱动器，所以我现在想要一个可以超快地翻阅我的驱动器并返回任何符合搜索条件的内容的东西，即使它只是返回带有链接的匹配 CSV，它也比 Windows 文件资源管理器更快 我偏爱 rust 的原因是它可以与 cargo 一起安装。它不是必需的，只是一个不错的额外功能    提交人    /u/redcorerobot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ich845/superfast_searching_windows_file_system_searching/</guid>
       <pubDate>Wed, 29 Jan 2025 00:38:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Signal 正在推出一项新功能，允许用户在将主设备链接到新桌面或 iPad 时传输消息历史记录。以前，只有新消息会同步到链接的设备，但现在用户可以随身携带聊天记录和最多 45 天的媒体 - 同时保持 Signal 严格的端到端加密。 此功能目前处于测试阶段，需要大量工程工作才能确保消息在整个传输过程中保持私密。与许多其他将用户数据存储在集中式服务器上的消息平台不同，Signal 通过确保消息历史记录只能在用户的设备上访问来优先保护隐私。这对在链接设备之间同步消息同时保持 Signal 最小数据暴露的核心原则提出了独特的挑战。 https://cyberinsider.com/signal-adds-encrypting-message-history-sync-for-linked-devices/    提交人    /u/KingSash   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1icbu3u/signal_adds_encrypting_message_history_sync_for/</guid>
       <pubDate>Tue, 28 Jan 2025 20:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>看来 Limited Run Games 违反了 PCSX 的 GPL 许可证来发布 Tomba！特别版</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</link>
-      <description><![CDATA[  由    /u/DaemonBatterySaver  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 Strava Statistics v0.4.0 已发布！添加了本地化、PWA 支持等</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</link>
-      <description><![CDATA[嗨 r/opensource ！ 我很高兴地宣布 Strava Statistics `v0.4.0` 已于本周早些时候发布。  Strava Statistics 是一个自托管的 Web 应用程序，旨在为您提供更好的 Strava 统计数据。   示例：https://strava-statistics.robiningelbrecht.be/ GitHub：https://github.com/robiningelbrecht/strava-statistics  警告 升级前请务必备份数据库。此版本具有从 v0.3.x 到 v0.4.0 的有效迁移路径，但由于后端进行了大规模改造，所以谨慎行事总比事后后悔好，对吧？😎 v0.4.0 中的新功能和改进：  添加了 PWA 支持。Web 应用程序现在可以安装在移动设备上 对后端进行了重大改造，应能减少 50% 的资源使用量 添加了本地化和翻译。 改进了跑步和步行活动的统计数据 添加了内部调度程序，使外部 cron 作业变得过时 修复了搜索、过滤和排序概览时的几个问题 改进了错误消息  Plannen 功能：https://github.com/robiningelbrecht/strava-statistics/issues 与往常一样，感谢您的反馈，我期待更多功能请求！    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:18:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
