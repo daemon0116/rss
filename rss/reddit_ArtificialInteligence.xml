@@ -4,14 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 13:23:13 GMT</lastBuildDate>
-    <item>
-      <title>Deepsake AI 有多安全？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ict891/how_safe_is_deepsake_ai/</link>
-      <description><![CDATA[仅供参考，我不太懂技术，不了解安全和人工智能的来龙去脉，请原谅我的无知。  但对于我这个美国人，我不确定是否下载或使用中国人工智能，或者仅仅因为它的来源而将我的任何信息/数据托付给它。  有人可以告诉我如何使用人工智能保护数据吗？中国政府是否在秘密这样做以收集我们所有的数据？    提交人    /u/LivingTheTruths   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ict891/how_safe_is_deepsake_ai/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:01:33 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jan 2025 14:16:27 GMT</lastBuildDate>
     <item>
       <title>R1 的 8 位 MoE + 内核是否可以通过“再训练睡眠”实现高效的 100K GPU 小时训练周期，以实现长期记忆回忆，而无需知识分解？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ict0x7/could_r1s_8_bit_moe_kernals_allow_for_efficient/</link>
@@ -67,6 +60,13 @@
       <description><![CDATA[在本地运行 AI 会很快成为常态吗？如果是，如果用户想在他们的系统上本地运行稍微愚蠢的 AI 版本，所需的最低系统规格是什么？ （请仅给出基于文本的 AI 所需的系统的答案。 以及照片+文本所需的最低系统）    提交人    /u/ExtremePresence3030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icm1wr/would_running_ai_locally_become_a_norm_soon/</guid>
       <pubDate>Wed, 29 Jan 2025 04:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI如何离线运行？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</link>
+      <description><![CDATA[我不是在谈论电源要求。我想知道，如果您处于离线状态，它从哪里获取信息来回答您的问题？或者它就像一个数学计算器，其中内置了一些逻辑，但它实际上不能告诉您诸如匹克球规则之类的事情（除非它内置在模型中）？    提交人    /u/bpoil912   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</guid>
+      <pubDate>Wed, 29 Jan 2025 02:04:39 GMT</pubDate>
     </item>
     <item>
       <title>您如何看待人工智能生成的内容？</title>

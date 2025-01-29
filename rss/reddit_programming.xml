@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 13:23:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 14:17:20 GMT</lastBuildDate>
+    <item>
+      <title>分解主图</title>
+      <link>https://www.reddit.com/r/programming/comments/1icu06c/breaking_up_the_master_diagram/</link>
+      <description><![CDATA[  由    /u/Veuxdo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icu06c/breaking_up_the_master_diagram/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:41:48 GMT</pubDate>
+    </item>
     <item>
       <title>Kubernetes — Grafana — 概览仪表板：常见问题和效率</title>
       <link>https://www.reddit.com/r/programming/comments/1icsyab/kubernetes_grafana_overview_dashboard_common/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 GNOME 中保存文件时，输入内容会立即打开搜索栏，而不是专注于文件名输入。在 ~/.profile 中设置环境变量 GTK_USE_PORTAL=0 可通过切换回旧文件选择器来解决此问题。在保存操作的情况下，应该禁用输入时搜索，而直接专注于文件名输入。 希望在未来的更新中看到这个选项！还有人对此感到困扰吗？    提交人    /u/sohang-3112   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ickpia/linux_gnome_files_searchontyping_should_be/</guid>
       <pubDate>Wed, 29 Jan 2025 03:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>向 Spring REST API 传递参数的 6 种方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ickh9w/6_ways_to_pass_parameters_to_spring_rest_api/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ickh9w/6_ways_to_pass_parameters_to_spring_rest_api/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:21:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

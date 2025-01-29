@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 29 Jan 2025 13:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 14:17:47 GMT</lastBuildDate>
+    <item>
+      <title>可能比 PowerToys 键盘重新映射更好的替代方案，具有附加功能 - 开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ictz8o/possibly_better_alternatives_for_powertoys/</link>
+      <description><![CDATA[大家好！我以前经常使用 PowerToys，尤其是键盘重新映射功能。我专门为键盘重新映射安装它，所以我很少使用其他功能。而且我发现每当我需要使用它时总是导航到键盘重新映射非常不方便。为什么 PowerToys 没有某种可以直接打开键盘重新映射的快捷方式。PowerToys 还缺少我需要使用的一些功能，例如多次重新映射，因此每当我想更改它时都不需要设置重新映射。 这就是为什么我制作了一个键盘重新映射，它不仅具有 PowerToys 的一些功能，而且还具有我发现 PowerToys 上缺少的附加功能。因此，这里是 PowerToys 和此替代方案之间的区别和相似之处，也是此替代方案的联系和缺点。 ------------------------------------------------------------------------------------------------------------------ 如果您想使用它或只是想查看它，这里是链接： 网站：https://keytik.com GitHub：https://github.com/Fajar-RahmadJaya/KeyTik 我也很乐意接受任何意见、建议或问题。非常感谢！ --------------------------------------------------------------------------------------------------- 相似性  常规重新映射或单个按键重新映射。 重新映射快捷方式。 在特定程序或应用上重新映射。 不是系统或注册表级别的重新映射。 重新映射在后台或启动时运行。 自动接受按键输入。按下该键，它将把该键作为输入。 仅限 Windows。  附加功能  重新映射鼠标键。 在特定设备（键盘或鼠标）上重新映射。重新映射仅适用于特定的键盘或鼠标 ID，而不会影响其他键盘或鼠标。 在特定程序类上重新映射。不仅在整个程序上，而且在程序类上，例如：特定的 chrome 标签。还支持同时使用多个程序。 多重重新映射（创建一个重新映射设置，保存它，然后您可以根据需要激活或停用它。这就像某种重新映射设置保存）。 重新映射到文本（可以模拟打字，例如：按 F9 将自动输入“感谢您的参与”）。 少于 100 MB。 使用快捷方式激活。不是重新映射快捷方式，而是使用快捷方式激活重新映射。这意味着您可以按下您选择的快捷方式来停止重新映射，然后再次按下它以重新启动重新映射。 您可以选择是否在启动时运行重新映射。 将键重新映射到自动点击器、屏幕点击器或文件打开器，例如：按左移将启动自动点击器或屏幕点击器或打开多个文件。目前是代码形式，我计划在下次更新时为其制作一个 UI。 免费和开源。 2 种模式，默认模式（GUI 模式，最简单、最容易的模式只需填写并单击）和文本或代码模式（高级模式，您可以在线找到 AutoHotkey 脚本并粘贴到其中，然后可以将其分配给特定的程序、设备或快捷方式）。  缺点  PowerToys UI 可能会更好。 这只是我做的，所以可能不完美，但我会尽力改进它。 需要额外的设置，但相对容易。  截图预览 ![img](yzz7c6mbbxfe1 &quot;主窗口&quot;) ![img](q4mj6iocbxfe1 &quot;带快捷键的默认模式&quot;) ![img](2kpbjxtebxfe1 &quot;带快捷键的文本或代码模式&quot;) ![img](71hnpigfbxfe1 &quot;重新映射格式示例&quot;) ![img](ks4eqpxfbxfe1 &quot;使用下拉菜单选择键&quot;) ![img](fhxnkmlgbxfe1 &quot;在特定设备上分配重新映射&quot;) ![img](q9at7y4hbxfe1 &quot;在特定程序上分配重新映射&quot;) ![img](udzuoishbxfe1 &quot;分配设备和程序示例”）    由   提交  /u/National_Operation14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ictz8o/possibly_better_alternatives_for_powertoys/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:40:34 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有良好 ML 背景的 Swift 开发人员来指导 GSOC</title>
       <link>https://www.reddit.com/r/opensource/comments/1icse68/looking_for_swift_developer_with_good_ml/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我创办了一家小公司，我们有大约 8 名全职员工。我一直是 Chrome 用户，但听说过一些关于 Google 数据收集实践的恐怖故事。我想请您推荐一款可以在工作场所使用的开源浏览器？ 我知道 Chrome 是基于 Chromium 的，但我尝试过，感觉不尽如人意。我也听说过 Firefox 的好评？ 我的团队使用 Office 365，所以我们需要一个可以很好地与它配合使用的浏览器 - 我认为他们都有？    提交人    /u/Timely-Accountant173   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic6sfe/recommendations_for_open_source_browser/</guid>
       <pubDate>Tue, 28 Jan 2025 17:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 分钟内自主托管任何程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic5pl5/self_host_within_5_minutes_any_program/</link>
-      <description><![CDATA[我写了一篇简单的博客文章和一个视频，展示了如何使用 P2PRC(http://github.com/Akilan1999/p2p-rendering-computation) 自托管 Linkwarden(https://linkwarden.app) 作为示例。 博客文章：http://p2prc.akilan.io/Docs/#org5156fb1 视频：https://www.youtube.com/watch?v=rN4SiVowg5E 如果能听听您的意见就太好了！ 几天后，我和几个朋友将参加 FOSDEM 2025。如果开源社区有人出席，我们可以亲自见面。只需向 [me@akilan.io](mailto:me@akilan.io) 发送电子邮件，我们就可以安排在布鲁塞尔见面。    提交人    /u/Few_Blackberry380   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic5pl5/self_host_within_5_minutes_any_program/</guid>
-      <pubDate>Tue, 28 Jan 2025 16:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

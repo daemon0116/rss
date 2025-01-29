@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 13:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 14:17:41 GMT</lastBuildDate>
+    <item>
+      <title>您对域名托管商和网站创建者有何建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ictw0g/what_would_be_your_recommendation_for_a_domain/</link>
+      <description><![CDATA[大约 10 年前，我曾经拥有自己的流行文化网站，现在想对网站进行现代化的更新。我以前使用免费版 Wordpress，但这次我想要更高级的版本，比如付费版 Wordpress 或 Wix。我想要一些简单易用且可能由 AI 驱动的东西。我的工作时间是早上 9 点到下午 5 点，并不总是有精力做更多工作。这将是一个新闻/博客网站，我希望将其转变为一个论坛，并最终成为一个社区应用程序。任何建议都将不胜感激。  P.S. 易用性是首要任务。     提交人    /u/Luvurb0y   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ictw0g/what_would_be_your_recommendation_for_a_domain/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 网站无法通过 Chrome 移动模拟器加载（但可以与 Edge 和桌面一起加载）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ictnip/react_website_not_loading_with_chrome_mobile/</link>
+      <description><![CDATA[      大家好， 我刚刚开始学习构建一个 React 网站，即使从头开始重新启动我的项目，我仍然会遇到这个问题： 在谷歌 Chrome 上（清理缓存或  隐身模式）在桌面上，该网站运行良好 - 如果我按 F12，该网站仍然正常，我可以在移动型号之间切换没有问题 - 如果我按 F5 或重新加载/刷新窗口，我会看到无互联网连接故障页面（下面 - 请原谅我的法语;)) - 控制台中没有错误消息，请在网络选项卡中解决： || || |（失败）net::ERR_INTERNET_DISCONNECTED| 该网站在 Edge 上运行良好，我可以打开开发控制台放置任何移动 SIM 卡并刷新，网站正常加载。 它只适用于 Chrome，这意味着我的网站无法在移动 Chrome 上访问，相当大的阻塞：D。 有什么想法或主意吗？如果您需要，很乐意分享文件:) Chrome 版本 132.0.6834.160   &quot;name&quot;: &quot;web&quot;, &quot;version&quot;: &quot;0.1.0&quot;, &quot;private&quot;: true, &quot;scripts&quot;: { &quot;dev&quot;: &quot;next dev&quot;, &quot;build&quot;: &quot;next build&quot;, &quot;start&quot;: &quot;next start&quot;, &quot;lint&quot;: &quot;next lint&quot; }, &quot;dependencies&quot;: { &quot;next&quot;: &quot;^14.2.23&quot;, &quot;react&quot;: &quot;^18.2.0&quot;, &quot;react-dom&quot;: &quot;^18.2.0&quot; }, &quot;devDependencies&quot;：{ &quot;@types/node&quot;：&quot;^20&quot;， &quot;@types/react&quot;：&quot;^18&quot;， &quot;@types/react-dom&quot;：&quot;^18&quot;， &quot;autoprefixer&quot;：&quot;^10.0.1&quot;， &quot;eslint&quot;：&quot;^8&quot;， &quot;eslint-config-next&quot;：&quot;14.0.4&quot;， &quot;postcss&quot;：&quot;^8&quot;， &quot;tailwindcss&quot;：&quot;^3.3.0&quot;， &quot;typescript&quot;：&quot;^5&quot;  https://preview.redd.it/7dty4blhoxfe1.png?width=440&amp;format=png&amp;auto=webp&amp;s=ea3966a9e11ef34c1edae969ba4e8beb8bc457f6 我花了几个小时来改变、重建项目，但我尝试的所有方法都不起作用。 有什么想法吗？    提交人    /u/Pas_vu_pas_pris   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ictnip/react_website_not_loading_with_chrome_mobile/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:24:18 GMT</pubDate>
+    </item>
     <item>
       <title>我该从哪儿开始说呢？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ictbzb/where_would_i_even_start_with_this/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我刚开始创业，因此目前还没有太多资金可以投入。有人有使用 AI webdev 做后端的经验吗？你能给我一些建议吗？ 我会自己做，然后再找人检查代码（这样便宜得多）    提交人    /u/daedricprincesss   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icppai/do_you_do_webdev_with_ai/</guid>
       <pubDate>Wed, 29 Jan 2025 09:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以解释一下小型企业制作网站的过程吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icp2pj/can_someone_explain_the_process_of_making/</link>
-      <description><![CDATA[我计划为我家的牙科诊所和我爸爸的个人教学诊所制作网站。我自学了网页开发，没有任何工作经验。所以我想尝试在我家的诊所里实践一下！当我制作他们的网站时，我是否必须为他们提供自己的网页设计，例如 UI 和 UX？或者我是否应该请求他们希望他们如何布局？    提交人    /u/Significant-Sir-1372   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icp2pj/can_someone_explain_the_process_of_making/</guid>
-      <pubDate>Wed, 29 Jan 2025 08:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我家族的企业建立网站算工作经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icp291/does_building_websites_for_my_familys_business/</link>
-      <description><![CDATA[我自学了网页开发，简历上没有任何工作经验。我计划为我的家人做一个网站，我家人有一家牙科诊所，我爸爸的教学公司（个人）这两个都算吗？    提交人    /u/Significant-Sir-1372   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icp291/does_building_websites_for_my_familys_business/</guid>
-      <pubDate>Wed, 29 Jan 2025 08:11:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
