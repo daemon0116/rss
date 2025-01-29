@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 19:15:31 GMT</lastBuildDate>
     <item>
       <title>碧玉</title>
       <link>https://www.producthunt.com/posts/jasper-20</link>
@@ -37,7 +37,7 @@ Ebo x 家庭伴侣机器人
       <title>鼠兔 2.1</title>
       <link>https://www.producthunt.com/posts/pika-2-1</link>
       <description><![CDATA[
-以令人惊叹的 1080p 分辨率创建您最奇特、最狂野的梦想
+以令人惊叹的 1080p 分辨率创建您最奇特、最疯狂的梦想
 
 
 讨论
@@ -46,6 +46,20 @@ Ebo x 家庭伴侣机器人
 ]]></description>
       <guid>https://www.producthunt.com/posts/pika-2-1</guid>
       <pubDate>Mon, 27 Jan 2025 20:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅努斯</title>
+      <link>https://www.producthunt.com/posts/janus-7834fdf6-7df8-4d55-80f2-197193626248</link>
+      <description><![CDATA[
+DeepSeek 的统一多模式 AI
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/janus-7834fdf6-7df8-4d55-80f2-197193626248</guid>
+      <pubDate>Mon, 27 Jan 2025 17:37:55 GMT</pubDate>
     </item>
     <item>
       <title>塔布</title>
@@ -62,34 +76,6 @@ Ebo x 家庭伴侣机器人
       <pubDate>Mon, 27 Jan 2025 14:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>OrangeCat 的拉格朗日</title>
-      <link>https://www.producthunt.com/posts/lagrange-by-orangecat</link>
-      <description><![CDATA[
-让每个人都能民主化发展
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/lagrange-by-orangecat</guid>
-      <pubDate>Mon, 27 Jan 2025 09:35:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时笔记和行动项目</title>
-      <link>https://www.producthunt.com/posts/real-time-notes-action-items</link>
-      <description><![CDATA[
-实时撰写简洁要点的人工智能
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/real-time-notes-action-items</guid>
-      <pubDate>Mon, 27 Jan 2025 08:21:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Omakase.ai</title>
       <link>https://www.producthunt.com/posts/omakase-ai-2</link>
       <description><![CDATA[
@@ -104,20 +90,6 @@ Ebo x 家庭伴侣机器人
       <pubDate>Mon, 27 Jan 2025 01:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>巴塞达什</title>
-      <link>https://www.producthunt.com/posts/basedash-2</link>
-      <description><![CDATA[
-AI 原生商业智能平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/basedash-2</guid>
-      <pubDate>Fri, 24 Jan 2025 20:00:54 GMT</pubDate>
-    </item>
-    <item>
       <title>克罗克特</title>
       <link>https://www.producthunt.com/posts/croct</link>
       <description><![CDATA[
@@ -130,6 +102,20 @@ AI 原生商业智能平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/croct</guid>
       <pubDate>Fri, 24 Jan 2025 14:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 版 Jotform</title>
+      <link>https://www.producthunt.com/posts/jotform-for-canva</link>
+      <description><![CDATA[
+为 Canva 创建强大的表单
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/jotform-for-canva</guid>
+      <pubDate>Fri, 24 Jan 2025 07:24:58 GMT</pubDate>
     </item>
     <item>
       <title>现在API</title>
@@ -186,6 +172,20 @@ AI 代理构建器工具包
 ]]></description>
       <guid>https://www.producthunt.com/posts/portals-4</guid>
       <pubDate>Mon, 13 Jan 2025 20:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>拱形结构</title>
+      <link>https://www.producthunt.com/posts/archformation</link>
+      <description><![CDATA[
+使用无代码应用程序设计并将基础设施部署到 AWS
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/archformation</guid>
+      <pubDate>Mon, 13 Jan 2025 15:16:18 GMT</pubDate>
     </item>
     <item>
       <title>电子邮件审计引擎</title>
