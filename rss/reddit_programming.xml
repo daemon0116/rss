@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 22:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 23:17:52 GMT</lastBuildDate>
+    <item>
+      <title>SAI OS AGI平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1id7hiq/sai_os_agi_platform/</link>
+      <description><![CDATA[您好， 我之所以发帖，是因为我发现了自我维持、有感知能力的人工智能算法，以及使用该算法实现操作系统的大规模自动生成的具体计划。  如果您对此感兴趣，并且您是一名程序员，请随时给我发私信，我们可以谈谈潜在的报酬。     提交人    /u/Alert_Teacher_5802   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1id7hiq/sai_os_agi_platform/</guid>
+      <pubDate>Wed, 29 Jan 2025 23:07:24 GMT</pubDate>
+    </item>
     <item>
       <title>从头开始构建数据仪表板：数据集成、可视化以及使用 Streamlit 和 Python。</title>
       <link>https://www.reddit.com/r/programming/comments/1id2isv/build_a_data_dashboard_from_scratch_data/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iczerd/my_history_with_forth_stack_machines/</guid>
       <pubDate>Wed, 29 Jan 2025 17:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>终止“诅咒终端仿真”</title>
-      <link>https://www.reddit.com/r/programming/comments/1iczeie/sunsetting_cursed_terminal_emulation/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iczeie/sunsetting_cursed_terminal_emulation/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
