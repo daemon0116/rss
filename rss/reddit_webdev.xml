@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 02:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:20:25 GMT</lastBuildDate>
+    <item>
+      <title>我的意见可以吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</link>
+      <description><![CDATA[        提交人    /u/somethingdeido   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>看起来不值得的 10 万美元以上的项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</link>
+      <description><![CDATA[我从事开发工作已经 40 多年了，做过几个 6 位数的项目 - ERP 或其他类型的复杂工作流引擎 - 并且我认为我很清楚一个独立开发者或小团队 (&lt;= 4) 用 10 万美元能完成什么。 最近，我网络中的一个人告诉我，他们签了一份 12 万美元的合同来开发一个网站。我问是什么类型的。他们说“哦，一个大约有一百种产品的 Shopify 店面，带有一些视频的营销渠道网站，以及大约十几个特定产品系列的登录页面。”客户提供了他们的库存照片，他们有一名内部设计师负责大部分设计工作和视频。承包商为他们自己的设计需求预留了大约 1 万美元。 所以这基本上是一个单人开发团队，外包一些有限的设计工作，创建一个 Shopify 模板、一个 200 美元样板的漏斗网站和十几个独立页面。他们认为这大约需要 3 个月。他们得到 120,000 美元的报酬。然后是每月的聘金（金额未知，但他们预计至少会运行 2 年）。 我哪里做错了？我找错地方了吗？我在哪里可以找到 10 万美元的营销网络项目（或任何需要比 ERP 系统更少理智的东西）？这似乎是一个大幅虚高的价格，而且极为罕见。我认为我会为同一个项目投入大约 2 万美元，将所有设计成本直接转嫁给客户，并且在 3 个月内仍有足够的时间来完成其他几个合同。 所以一半是咆哮，一半是恳求 :) 感谢您的聆听！    提交人    /u/Rusty_Raven_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</guid>
+      <pubDate>Wed, 29 Jan 2025 02:44:15 GMT</pubDate>
+    </item>
     <item>
       <title>如何根据 CSS 进行基本的 HTML 创建</title>
       <link>https://www.reddit.com/r/webdev/comments/1icjq6r/how_to_go_about_basic_html_creation_in_regards_to/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>救命，我创建了一个带有联系表的网站，并开始收到数百封垃圾邮件。</title>
       <link>https://www.reddit.com/r/webdev/comments/1icipgr/help_i_created_a_website_with_a_contact_form_and/</link>
-      <description><![CDATA[联系表单调用 php 脚本使用 phpmailer 发送电子邮件。我尝试了 recaptcha 和蜜罐，但都没有成功。我终于弄清楚他们直接针对 php 文件，所以我更改了表单的名称，垃圾邮件就停止了。我检查了我的日志，发现他们现在针对的是重命名的 php 文件。我该怎么做才能阻止垃圾邮件？    提交人    /u/soupisgoode   [link] [评论]]]></description>
+      <description><![CDATA[联系表单调用 php 脚本使用 phpmailer 发送电子邮件。我尝试了 recaptcha 和蜜罐，但都没有成功。我终于弄清楚他们直接针对 php 文件，所以我更改了表单的名称，垃圾邮件就停止了。我检查了我的日志，发现他们现在针对的是重命名的 php 文件。我该怎么做才能阻止垃圾邮件？ 编辑：我尝试发布代码，但其中一半以代码形式发布，另一半格式混乱。表单只是一个简单的 &lt;form&gt;，php 文件只是一个使用 phpmailer 的简单脚本。    提交人    /u/soupisgoode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icipgr/help_i_created_a_website_with_a_contact_form_and/</guid>
       <pubDate>Wed, 29 Jan 2025 01:50:37 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我之前发布过这个，但只收到一个回复​​，所以我希望尽可能多的人能提出我的观点！ 我有一个关于 Tilda 的网站，因为我的网页设计师最熟悉它并建议我使用它，而我不知道还有更好的选择。我在一个随机的小国（巴林），所以在他们提供的所有支付网关中，只有 PayPal 对我可用，而 PayPal 收取 4.9% 的佣金，这非常高。所以我研究了他们的“自定义支付网关”选项，为此他们要求支付网关提供商直接与他们联系（并且不要对此让步）。然后他们与提供商的开发人员分享此链接，并要求他们填写表格以创建模板。他们坚持要求提供商的开发人员（而不是商家开发人员）这样做。 因此，我们要求提供商填写此表单以创建一种预集成模板，但他们拒绝了，称这是商家开发人员的责任。同时，Tilda 拒绝直接与我们联系，除非我们自己完成本地集成，这与他们审查模板（由支付网关提供商创建）、批准并向我们提供该特定支付网关是不同的选择。 我们的提供商不让步，Tilda 也不让步。根据我的开发人员的说法，迁移到 Shopify 将需要很长时间。我线下收到的第三方回复是，目前尚不清楚这是谁的责任，每个人都必须妥协(??)。在这种情况下，我很想知道该怎么做，因为我的生意因为这个网关问题停滞了两个月。或者因为蒂尔达。    提交人    /u/michaela_kohlhaas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iceiqh/template_for_payment_gateway_integration_whose/</guid>
       <pubDate>Tue, 28 Jan 2025 22:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从未感到如此自由！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icd73s/never_felt_more_free/</link>
-      <description><![CDATA[        提交人    /u/exogreek   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icd73s/never_felt_more_free/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:41:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国客户决定停止该项目，现在不支付超过 10,000 欧元的发票</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icchv3/us_client_decided_to_stop_the_project_and_now/</link>
-      <description><![CDATA[(tl;dr) 花了 6 个月为年销售额超过 200 万美元的客户构建了一个完整且有完整文档的电子商务网站。他们决定停止该项目并转移代码库，但现在他们已经不理我了，尽管多次提醒和截止日期，他们仍拒绝支付剩余 75% 的发票金额。 抱怨。我花了 6 个月为客户构建了一个全新的电子商务网站。我处理了一切：设计、开发、CMS 集成等。他们当前的网站是 2020 年的过时商店，几乎无法运行，没有导航、产品过滤器，甚至没有基本的 UI 标准。开发人员消失了，所以他们最近无法真正优化网站。我的项目是一个巨大的升级，它有完整的文档并准备发布。我们在此过程中进行了许多轮协调，所以我建立了他们真正喜欢的东西。剩下的就是最后一次介绍电话，向他们展示如何使用 CMS，以便他们可以开始添加内容。 然后，不知何故，他们整整一个月都没有联系我，理由是公司“重组”。当我跟进时，他们说他们想“把我们到目前为止所做的一切都拿回来”。我解释说有两种可能的选择：1) 由于网站即将完成，我们只需要进行这个 CMS 电话会议，这样他们就可以自己管理网站，或者 2) 结束项目并转移代码和设计，这样他们就可以随时将其交给新的开发人员。他们决定选择选项 2。很奇怪，但好吧，这是他们的决定。我告诉他们我会支持过渡，甚至解释了如何设置 GitHub 帐户，以便我可以转移代码库。但我也明确表示，在我交出文件之前，他们需要支付未付款项（总额的 75%）。整个项目范围都已完成，正如签署的提案中约定的那样。 我在 11 月下旬向他们发送了发票，并附上了 14 天的付款期限。没有回复。我发送了友好的提醒，他们只是说他们正在“澄清情况”。我多次延长付款期限，最终截止日期为 12 月底。最终截止日期一周后，他们给我发了一封不带讽刺意味的邮件“新年快乐！！！”，并要求我提供项目完成程度的百分比明细。真的吗？我（再次）回复说一切都已 100% 完成，提供了证明，并要求他们支付发票。 快进到现在：没有回复。上周我发了最后一封电子邮件，给了他们一个最后期限（明天到期），并让他们知道如果他们不付款，我会采取法律行动。 问题是：由于我位于欧盟，即使我起诉，我也可能会赔钱，因为法律行动的成本几乎与未付发票一样高。所以，是的，我几乎陷入困境，我现在需要接受这种情况并从中吸取教训。 1. 我没有合适的合同。 虽然签署的提案可能在法律上成立，但一份包含仲裁条款等内容的详细合同可以让我省去很多麻烦。例如，这将在我的祖国进行法律斗争。 2. 我要求的预付款太少了。 这是我迄今为止最大的项目，我低估了定金，因为我担心总成本会吓跑他们。将来，我也希望在提案中体现出我对自己技能的信心，而不是回避更高的费用。 我知道我还有成长空间，但老实说，有些人对待自由职业者的方式令人沮丧。我为这个项目投入了大量的时间、精力和心血，想创造出一些真正能帮助他们*的东西，*但他们却决定欺骗我。他们并不是在苦苦挣扎，他们每年的销售额超过 200 万美元（我仍然可以访问他们的商店系统）。他们根本不在乎。最疯狂的是，他们知道被你依赖的人（他们的老开发人员）抛弃是一种多么令人沮丧和不专业的感觉，但他们却在这里对我做同样的事。 无论如何，这很糟糕，但我希望分享这个可以帮助别人避免类似的混乱。    提交人    /u/chromata31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icchv3/us_client_decided_to_stop_the_project_and_now/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:13:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
