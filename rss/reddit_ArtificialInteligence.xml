@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 05:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:24:57 GMT</lastBuildDate>
+    <item>
+      <title>每个应用程序都强制使用人工智能很糟糕</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/</link>
+      <description><![CDATA[此帖子在 r/unpopularopinion 上被禁止，因为我使用了“AI”一词。我没有意识到 Redditors 无法在该帖子中对该主题发表意见，而且我发现这种情况令人不安，但无论如何，这是我尝试在那里发布的内容： 我不喜欢 AI 被整合到我在手机和电脑上使用的每个应用程序和程序中。 我刚刚更新了 Microsoft Word 和 Adob​​e Reader，现在我不断收到使用新 AI 工具的提示，以使我的工作“更轻松”。 （今年晚些时候我还必须买一台新电脑，因为我的电脑很快就会过时，尽管它运行良好。） 我也刚刚在 iPhone 上更新到最新的 IOS 并打开了我的吉他谱应用程序。它以一份“简化我的体验”的调查问卷开始，并没有给我取消的选项。我只是想查找一个标签并播放一首歌曲，但被迫输入一个算法才能获得我付费的服务。  这项新技术可能会在某些方面被证明是有用的，但让我自己决定，因为它不符合我的需求。我正准备回到笔和垫子上来避免这种情况。     提交人    /u/nowlan_shane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icnay2/ai_being_forced_on_every_app_sucks/</guid>
+      <pubDate>Wed, 29 Jan 2025 06:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的融入如何影响软件的技术债务和未来的维护成本？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icmozg/how_does_ai_integration_affect_the_softwares/</link>
+      <description><![CDATA[我很好奇在软件开发中使用人工智能会如何影响软件长期平稳运行的难易程度。一方面，我担心人工智能会让事情变得更加复杂。这会让以后修复问题或更新软件变得更加困难吗？另一方面，也许人工智能实际上可以让事情变得更容易。它能否帮助软件随着时间的推移更容易地适应和改变，从而减少维护的麻烦？    提交人    /u/Amarawood   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icmozg/how_does_ai_integration_affect_the_softwares/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Legg & Hutter 对“通用智能”的概念澄清</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icm5hj/conceptual_clarification_for_universal/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[大家好，我正在做一个关于人工智能陪伴后果的项目，希望采访一个目前处于人工智能关系中的人。我的视频不是为了取笑或不尊重任何人，而是为了了解什么样的经历和情况会让人寻求与人工智能的关系。你可以完全匿名，我很乐意提前提供一份问题清单。我更愿意通过 discord 电话与某人交谈，但同样，你的声音可能会被改变以保持匿名。  提前谢谢您！     提交人    /u/Relevant_Oil_935   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icjcao/looking_to_interview_someone/</guid>
       <pubDate>Wed, 29 Jan 2025 02:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI如何离线运行？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</link>
-      <description><![CDATA[我不是在谈论电源要求。我想知道，如果您处于离线状态，它从哪里获取信息来回答您的问题？或者它就像一个数学计算器，其中内置了一些逻辑，但它实际上不能告诉您诸如匹克球规则之类的事情（除非它内置在模型中）？    提交人    /u/bpoil912   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1icizu2/how_can_ai_run_offline/</guid>
-      <pubDate>Wed, 29 Jan 2025 02:04:39 GMT</pubDate>
     </item>
     <item>
       <title>您如何看待人工智能生成的内容？</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[这里有一个引起我注意的统计数据：根据人工智能基础设施联盟的一项调查，54% 的大型企业高管表示，他们因管理人工智能或机器学习应用程序失败而遭受损失。其中 63% 的损失为 5000 万美元或更高。  那么，到底出了什么问题？从你的经验来看，为什么人工智能项目会失败？  数据问题（质量、孤岛、偏见）是罪魁祸首吗？还是更多的是寻找熟练专家的挑战？     提交人    /u/Inclusion-Cloud   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ic6qtk/why_do_ai_projects_fail/</guid>
       <pubDate>Tue, 28 Jan 2025 17:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工作中使用人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ic1xql/using_ai_at_work/</link>
-      <description><![CDATA[我很想在自己职位的某些方面使用人工智能，但我还是有些保留意见。我总觉得，如果我开始使用人工智能，我的智力可能会开始下降。提高生产力和纯粹的懒惰之间的界限在哪里？这让人想起人们关于拼写、语法和计算器的争论，他们说这些工具让人变得更笨。  另一方面，我看到这些公司开始使用人工智能，却没有考虑到这些，因为他们最看重的是提高生产力。所以我的一部分只想说，“去他的。”    提交人    /u/NeptuneTTT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ic1xql/using_ai_at_work/</guid>
-      <pubDate>Tue, 28 Jan 2025 13:48:39 GMT</pubDate>
     </item>
     <item>
       <title>我是 70 岁，所以才第一次接触 AI</title>

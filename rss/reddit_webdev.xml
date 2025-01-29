@@ -4,18 +4,18 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 05:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:26:14 GMT</lastBuildDate>
     <item>
-      <title>我该如何做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icmhq9/how_do_i_do_this/</link>
-      <description><![CDATA[我正在研究制作一个 html 网站。但我想在页面上包含一个可见的计数器。 假设有一个按钮。我如何跟踪和显示曾经点击过该按钮的每个人的次数？    提交人    /u/Animedingo   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icmhq9/how_do_i_do_this/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:13:52 GMT</pubDate>
+      <title>有人声称创建了我创建的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</link>
+      <description><![CDATA[刚刚检查了客户网站的反向链接，发现某个随机网站声称是我创建的他们的网站。  有人遇到过这种情况吗？有什么想法可以删除它吗？    提交人    /u/Soothsayer102   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:36:29 GMT</pubDate>
     </item>
     <item>
       <title>哪一个更好？</title>
       <link>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</link>
-      <description><![CDATA[上下文： 我写了一本关于 flex 和 grid 的电子书，但对它的名字感到困惑。 正如其他人在之前的投票中所建议的那样，我使用了价值驱动的标题。 这本书是一本 110 页的指南，用简单的术语解释了关于 flex 和 grid 的所有内容，主要是视觉效果和示例。并且没有不必要的复杂细节。 提前谢谢您：) ​ 查看投票    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <description><![CDATA[上下文： 我写了一本关于 flex 和 grid 的电子书，但对它的名字感到困惑。 正如其他人在之前的投票中所建议的那样，我使用了价值驱动的标题。 这本书是一本 110 页的指南，用简单的术语解释了关于 flex 和 grid 的所有内容，主要是视觉效果和示例。并且没有不必要的复杂细节。 提前谢谢 :) ​ 查看投票    提交人    /u/utsav_0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</guid>
       <pubDate>Wed, 29 Jan 2025 04:59:10 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>现在是 2025 年，从企业背景来看，现在构建全栈应用程序的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</link>
-      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像 React + Spring/Flask/ASP.NET ... 数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像，React + Spring/Flask/ASP.NET ...数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</guid>
       <pubDate>Wed, 29 Jan 2025 02:14:47 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Rugcheck API 示例</title>
       <link>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</link>
-      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。虽然不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的内容。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。我不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的东西。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</guid>
       <pubDate>Wed, 29 Jan 2025 01:43:06 GMT</pubDate>
     </item>
