@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 17:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 18:22:59 GMT</lastBuildDate>
+    <item>
+      <title>练习编程的 Telegram 群</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</link>
+      <description><![CDATA[您好，如果您会说西班牙语，您可以加入我在 Telegram 上创建的一个小组，这样初学者就可以一起学习编程，目标是大约 15 或 20 人，以更加团结，    提交人    /u/AliveSwimmer8968   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 每个项目都需要一个等待列表——我正在构建最简单的开源项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</link>
+      <description><![CDATA[如果您要推出一款产品，候补名单是最好的启动板🚀。它可以帮助您制造炒作、验证需求并将注册用户转化为忠实用户。但是设置一个不应该很麻烦。 ❌ 现有候补名单工具的问题 大多数候补名单解决方案强迫您进入他们的生态系统，而不是按照您需要的方式工作： 🔴品牌小部件不符合您的设计 🔴供应商锁定阻止轻松导出数据 🔴不必要的复杂性，而您只需要一个简单的注册系统 ✅ 解决方案：Waitlst（开源） 我正在构建Waitlst作为任何人都可以使用和自定义的开源候补名单工具： ✔ 一个 API呼叫 – 只需发送 POST 请求即可将用户添加到您的候补名单 ✔ 无缝集成 – 在您现有的登录页面内工作&gt; ✔ 内置分析 – 跟踪注册、推荐和转化率 ✔ 开源和可自托管 - 自己运行、自定义并拥有自己的数据 ✔ 无供应商锁定 - 完全导出支持（CSV、JSON 等） 💡 想成为其中的一员吗？ 我仍在构建中，但我希望得到创始人、开发者和制造商的反馈，了解理想的候补名单工具应包括哪些内容。 👉 在此处查看： https://waitlst.vollrath.io/ 您会使用开源候补名单而不是 SaaS 替代方案吗？为什么或为什么不？让我们讨论一下。    提交人    /u/OkInside1175   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:05:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress 真的那么糟糕吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</link>
+      <description><![CDATA[在创建网站方面，我是个业余爱好者，我喜欢使用 word press，我知道这个子版块中的一些人不喜欢 word press，但我想知道从更高级的 Web 开发人员的角度来看 word press 是否不好。    提交人    /u/AdDapper4220   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Poof!：一个数字化、短暂的、单一的、社区驱动的艺术画廊。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</link>
+      <description><![CDATA[        提交人    /u/colemilne   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:39:53 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个成人模型分析平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由    /u/Atvenice  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if8sfb/i_built_a_web_based_word_game_where_the_alphabet/</guid>
       <pubDate>Sat, 01 Feb 2025 15:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个允许 The Black Keys 乐队粉丝使用 MediaDevices 和 Pixi.JS 获得纹身的网络应用（内附链接和开发博客）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if8epn/a_web_app_which_allows_the_black_keys_fans_to/</link>
-      <description><![CDATA[        提交人    /u/leemartin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if8epn/a_web_app_which_allows_the_black_keys_fans_to/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何重新创建这个动态英雄形象/svg？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if85as/how_would_you_recreate_this_dynamic_hero_imagesvg/</link>
-      <description><![CDATA[抱歉，这是一个可怕的问题，但我已经花了比我想承认的更多的时间来试图弄清楚（检查元素等）。 在www.loanpro.io上，你将如何创建像滚动时消散的移动球体这样的东西？它看起来很棒，我是它的超级粉丝，不知道我该如何处理它。 这是我还没有找到的某个图书馆吗？提前感谢你为此付出的任何脑力。    提交人    /u/barclayk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if85as/how_would_you_recreate_this_dynamic_hero_imagesvg/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站重新设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if434o/website_redesign/</link>
-      <description><![CDATA[我的旧网站是在 Svelte 4 中构建的，它非常基础，因此我完全使用 Svelte 5、lenis 和 GSAP 重建了它。：这是网站 该网站仍在建设中，因为我需要添加模型、更好的内容和案例研究。 我希望得到一些建议，任何你遇到的设计问题或其他任何问题。 请 brave 或 chrome 上的人，如果你遇到滚动延迟，请告诉我，因为我在 brave 上有延迟，但在 firefox 或移动设备上没有。 另外，如何添加好的模型？我有一些 figma 模型，但是当我将我的网站添加到其中时，它看起来不太好，对此有什么建议吗？    提交人    /u/Namenottakenno   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if434o/website_redesign/</guid>
-      <pubDate>Sat, 01 Feb 2025 11:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在昨天发生严重吐槽后更新了我的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iet5wu/updated_my_resume_after_a_heavy_roast_that/</link>
-      <description><![CDATA[        提交人    /u/Fun-Individual-2428   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iet5wu/updated_my_resume_after_a_heavy_roast_that/</guid>
-      <pubDate>Fri, 31 Jan 2025 23:54:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

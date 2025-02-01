@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 17:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 18:22:44 GMT</lastBuildDate>
+    <item>
+      <title>Erlang 中的并发第十部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1ifc4hz/concurrencia_en_erlang_parte_10/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ifc4hz/concurrencia_en_erlang_parte_10/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个安全的低代码欺骗框架，利用 LLM 进行系统虚拟化。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ifbh4c/a_secure_low_code_deception_framework_leveraging/</link>
+      <description><![CDATA[  由    /u/mario_candela  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ifbh4c/a_secure_low_code_deception_framework_leveraging/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>非常非常简单|将 C++ 与 SQL Server 连接并填充 dataGridView</title>
+      <link>https://www.reddit.com/r/programming/comments/1ifb2v9/very_very_simple_connect_c_with_sql_server_and/</link>
+      <description><![CDATA[  由    /u/vladimirgamal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ifb2v9/very_very_simple_connect_c_with_sql_server_and/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:15:30 GMT</pubDate>
+    </item>
     <item>
       <title>Torrdroid 如何搜索 torrent 文件？</title>
       <link>https://www.reddit.com/r/programming/comments/1ifazas/how_does_torrdroid_perform_searching_for_torrent/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/programingLove  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</guid>
       <pubDate>Sat, 01 Feb 2025 11:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 Go 构建了自己的 Git – 以下是我学到的东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1if3u44/i_built_my_own_git_in_go_heres_what_i_learned/</link>
-      <description><![CDATA[  由    /u/sarthk-1012  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1if3u44/i_built_my_own_git_in_go_heres_what_i_learned/</guid>
-      <pubDate>Sat, 01 Feb 2025 10:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 rust 构建了一个用于快速链接和启动应用程序的 Windows CLI 工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1if3qhz/i_build_a_windows_cli_tool_for_quickly_linking/</link>
-      <description><![CDATA[这是我的第一个 Rust 项目，它让我爱上了它    提交人    /u/Skardyyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1if3qhz/i_build_a_windows_cli_tool_for_quickly_linking/</guid>
-      <pubDate>Sat, 01 Feb 2025 10:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>全栈谎言：追求“一切”如何让开发人员的工作表现更糟</title>
-      <link>https://www.reddit.com/r/programming/comments/1if26oq/the_fullstack_lie_how_chasing_everything_made/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1if26oq/the_fullstack_lie_how_chasing_everything_made/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:43:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
