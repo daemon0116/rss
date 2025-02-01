@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 12:32:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 13:19:27 GMT</lastBuildDate>
+    <item>
+      <title>学什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if5uwf/what_to_learn/</link>
+      <description><![CDATA[我是一名资深前端开发人员，我的职业生涯专注于 React、Typescript 和 NextJs。我有几年使用 Laravel 的经验，但大约 5 年前。我想回到一个更面向全栈的职位，并想知道未来几年有哪些语言值得学习。我正在研究 NestJs、Nodejs、.Net c#，甚至通过 Inertia 或 livewire 回到 Laravel。只是不确定什么值得关注以将其与我的 React Typescript 经验结合起来。提前感谢您的建议。    提交人    /u/cosmic_cosmic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if5uwf/what_to_learn/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>您正在评估 WSL 上的 CMS，但它超级慢？解决方案。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if5d89/you_are_evaluating_a_cms_on_wsl_and_its_super/</link>
+      <description><![CDATA[我测试了 GRAV CMS，它非常慢。第一次明显的 Google 搜索导致无关的问题，对我没有帮助。这就是为什么我发布了“如果使用 WSL 进行测试，GRAV 的速度慢得令人难以忍受。简单的解决方案。”到 r/GravCMS。 适用于 Linux 的 Windows 子系统 (WSL) 可以访问挂载到 WSL 中的普通 Windows 文件系统 (NTFS)。因此，您可能已通过浏览器下载了 CMS 并将其解压到普通的 Windows 文件夹中。 这是一个错误！！ 解压 WSL 文件系统中的所有内容。然后它实际上是可用的。 当然，这主要影响平面文件 CMS。除了 SQLite 之外，您可能不会使用数据库的 CMS 来这样做。    提交人    /u/Stefan_S_from_H   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if5d89/you_are_evaluating_a_cms_on_wsl_and_its_super/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:33:49 GMT</pubDate>
+    </item>
     <item>
       <title>我在监狱里学会了编码，然后用现代数据可视化技术构建了一个 Reddit 用户资料分析器</title>
       <link>https://www.reddit.com/r/webdev/comments/1if58p7/i_learned_to_code_in_prison_then_built_a_reddit/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if2gsi/i_built_a_site_that_turns_your_morning_thoughts/</guid>
       <pubDate>Sat, 01 Feb 2025 09:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何调试 iPad。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if271o/how_to_you_debug_ipads/</link>
-      <description><![CDATA[大家好，我最近开始使用 GSAP、ScrollTrigger 和类似的库，遇到了一些与 iOS 设备和 WebKit 浏览器相关的挑战。如果您能分享解决这些问题的策略（如果您没有 iOS 设备），我将不胜感激。具体来说，如果没有 iPad，您如何在 iPad 上进行测试？浏览器开发工具不是很有效，而且我现在无法订阅 lambdatest 或类似的东西。 编辑：我有一台 Windows 机器，而不是 Mac    提交人    /u/NoAd812   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if271o/how_to_you_debug_ipads/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>当屏幕阅读器处于活动状态时，如何在网页上按箭头键时移动焦点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if26zk/how_to_move_focus_when_pressing_arrow_keys_on_a/</link>
-      <description><![CDATA[您好！ 我遇到了一个问题，当我按下网页上的任意箭头键时，我需要在视觉上移动/显示焦点。 我的意思是在桌面网页上。使用 Jaws 屏幕阅读器。 目前，按下向上/向下箭头时，Jaws 的焦点会移动，但黑色焦点在视觉上根本不移动。屏幕阅读器本身 读取下一个/上一个元素，但视觉上不会移动。 （仅在使用 tab 时，但我也希望箭头能起作用，至少对于交互式元素而言）我尝试向文档和窗口添加 keydown 事件监听器，但它们都没有起作用。需要满足 WCAG 2.1 AA。我无法真正分享任何代码，但如果有人有任何可行的例子或者知道任何我可以从中获得灵感的来源，或者如果你有一些建议，请帮忙！！谢谢！谢谢！    提交人    /u/RainThePro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if26zk/how_to_move_focus_when_pressing_arrow_keys_on_a/</guid>
-      <pubDate>Sat, 01 Feb 2025 08:43:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
