@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 21:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 22:18:10 GMT</lastBuildDate>
+    <item>
+      <title>Adobe Acrobat Pro 替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1ifhg9c/adobe_acrobat_pro_alternatives/</link>
+      <description><![CDATA[寻找 Adob​​e Acrobat Pro 的替代品及其荒谬的订阅费用，同时选中以下复选框。 必须：-在 Windows 上运行-比 Adob​​e Acrobat Pro 年度订阅费用低-阅读和编辑 PDF-将多个 PDF 合并为一个-编辑、删除和重新排序 PDF 中的页面-添加“注释”和标记 PDF-添加/绘制签名-填写表格-扫描和文本识别-删除元数据 + 隐藏数据（安全功能） 首选：-一次性购买而不是订阅-导出为/转换为 Word 文档-比 Adob​​e 更稳定/可靠-强大/活跃的用户群，用于故障排除和/或快速响应的客户服务/支持，这些用户真正了解产品并且比阅读常见问题解答更能解决问题 谢谢   由    /u/Hard-Connect-6901  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifhg9c/adobe_acrobat_pro_alternatives/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我完蛋了吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ifh29e/am_i_screwed/</link>
+      <description><![CDATA[我有一个名为“中心”的硬盘。我用另一个驱动器替换了它，并将其命名为相同的名称。当替换的驱动器正在使用和下载种子时，我插入了另一个驱动器，却不记得它有相同的名称。  现在所有种子都出现了 io 错误，现在我无法查看驱动器文件，因为“由于致命的设备硬件错误导致请求失败”消息一直出现。发生了什么？是否有任何软件或方法可以恢复我的文件，还是我被搞砸了？     提交人    /u/SchizophrenicScreams   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifh29e/am_i_screwed/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:36:32 GMT</pubDate>
+    </item>
     <item>
       <title>推荐一款无广告的可自定义批量重命名应用，还可以将文件移动到不同的重命名文件夹中</title>
       <link>https://www.reddit.com/r/software/comments/1ifgedp/recommend_an_adfree_customizable_batch_renaming/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>人工智能在增强软件开发和内容创作中的作用</title>
       <link>https://www.reddit.com/r/software/comments/1iff81w/the_role_of_ai_in_enhancing_software_development/</link>
-      <description><![CDATA[AI 已成为软件开发不可或缺的一部分，提供可提高生产力和创造力的工具。如果使用得当，AI 可以自动执行重复性任务、提供见解，甚至协助内容创作。ReelWorld 等平台展示了如何利用 AI 持续创建引人入胜的内容，保持质量和品牌声音。必须取得平衡，将 AI 用作补充人类技能和创新的工具。您如何看待 AI 在软件开发领域的发展？    提交人    /u/Level-Novel9288   [链接] [评论]]]></description>
+      <description><![CDATA[AI 已成为软件开发不可或缺的一部分，提供可提高生产力和创造力的工具。如果使用得当，AI 可以自动执行重复性任务、提供见解，甚至协助内容创作。ReelWorld 等平台展示了如何利用 AI 持续创作引人入胜的内容，保持质量和品牌声音。必须取得平衡，将 AI 用作补充人类技能和创新的工具。您如何看待 AI 在软件开发领域的发展？    提交人    /u/Level-Novel9288   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iff81w/the_role_of_ai_in_enhancing_software_development/</guid>
       <pubDate>Sat, 01 Feb 2025 20:14:36 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我发现了 Folder Axe，这是一款可以根据文件大小将较大文件夹拆分为较小文件夹的软件，基本上实现了我在此处的要求：https://www.reddit.com/r/software/comments/1ieg1wg/split_files_into_folders_based_on_file_size/ 但是有没有类似的替代软件呢？    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ieq726/folder_axe_alternatives/</guid>
       <pubDate>Fri, 31 Jan 2025 21:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>与wintree相似的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1iep3v2/software_similar_to_wintree/</link>
-      <description><![CDATA[嘿，我需要一个可以运行我的硬盘并删除旧文件或任何不符合特定规范的文件（steam 文件或某个目录）的程序，wintree 或 windirstat 很好，但很难删除散落在周围的许多小文件    提交人    /u/Jedi748   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iep3v2/software_similar_to_wintree/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以过滤或阻止电子邮件中个人信息的隐私软件推荐？</title>
-      <link>https://www.reddit.com/r/software/comments/1ieo4hi/recommendations_for_privacy_software_that_filters/</link>
-      <description><![CDATA[我们一直存在一个问题，即通过电子邮件接收我们不想收集的个人信息（需要在另一个安全平台上发送）。想知道是否有人知道任何隐私增强技术，可以让我们特别过滤掉个人信息？即出生日期、医疗信息、社会保障号码。或者，是否有某种东西可以阻止/退回以这种方式标记的传入电子邮件？    提交人    /u/Candid_Abrocoma_9652   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ieo4hi/recommendations_for_privacy_software_that_filters/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:14:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

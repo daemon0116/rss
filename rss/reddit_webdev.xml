@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 21:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 22:18:35 GMT</lastBuildDate>
+    <item>
+      <title>这仅仅是一次随机的机器人扫描，还是我的 API 受到了攻击？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</link>
+      <description><![CDATA[      大家好， 我在我的 API 日志中收到了一些可疑请求，我想知道这是否只是一次典型的机器人扫描，或者我的 API 是否被专门针对了。以下是日志的片段： https://preview.redd.it/oig0emn4nlge1.png?width=869&amp;format=png&amp;auto=webp&amp;s=04e20810f8d762790f7cb93287daf6980f75b358 （以及来自不同 IP 的更多类似请求）。 据我所知，这些看起来像是自动扫描，试图检查敏感文件（SSH 密钥、数据库配置、 .git 目录等）。然而，我担心的是：  我的 API 没有 SEO 或任何公开曝光。 了解我的 API 域的唯一方法是通过我的客户端应用程序（不为人所知）。 这些请求得到了 403 Forbidden 响应，这意味着它们没有通过，但我仍然想知道我是否应该担心。  那么，这只是一个随机机器人扫描互联网，还是更像是有人专门探测我的 API 是否存在漏洞？我应该采取任何其他安全措施吗？    提交人    /u/UniquePackage7318   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>全屏 KEXP 播放器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</link>
+      <description><![CDATA[        提交人    /u/shaunkardinal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:19:34 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 Web 应用程序来跟踪我所做的一些代码实现，我不想忘记</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</link>
@@ -43,14 +57,14 @@
     <item>
       <title>您使用什么来编辑视频？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</link>
-      <description><![CDATA[我有一个任务，在自动模式下，用 javascript 处理大量视频，我需要裁剪它们并将它们调整到一定的分辨率，在上面放一个带圆边的小盘子并在上面添加文字，然后只需保存并自动编辑 150 个视频的顺序 有没有人遇到过这样的事情，你用什么？    提交人    /u/graveld_   [link] [评论]]]></description>
+      <description><![CDATA[我有一个任务，在自动模式下，用 javascript 处理大量视频，我需要裁剪它们并将它们调整到一定的分辨率，在上面放一个带圆边的小盘子并在上面添加文字，然后保存并自动编辑 150 个视频的顺序 有没有人遇到过这样的事情，你用什么？    提交人    /u/graveld_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</guid>
       <pubDate>Sat, 01 Feb 2025 19:51:41 GMT</pubDate>
     </item>
     <item>
       <title>匿名网站托管？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</link>
-      <description><![CDATA[如果这里不适合问这个问题，请原谅我。  我想建立一个仅包含简单文本信息的网站。我希望它是匿名的，这样我的雇主就无法将其追溯到我或我的同事。  这可能吗？ 如果可以，请帮助我完成所需的步骤。  提前致谢！    提交人    /u/BeautifulGuitarRiff   [link] [评论]]]></description>
+      <description><![CDATA[如果这里不适合问这个问题，请原谅我。  我想建立一个仅包含简单文本信息的网站。我希望它是匿名的，这样我的雇主就无法追踪到我或我的同事。  这可能吗？ 如果可以，请帮助我完成所需的步骤。  提前致谢！    提交人    /u/BeautifulGuitarRiff   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</guid>
       <pubDate>Sat, 01 Feb 2025 19:50:09 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      https://i.redd.it/3yha1arypkge1.gif 您好 r/webdev！我很高兴与大家分享 ScreenDemos，这是一款浏览器扩展程序，可让您直接从浏览器录制引人入胜的视频演示。 借助 ScreenDemos，您无需任何编辑技能即可创建专业的产品演示、教程和社交媒体帖子。其功能包括缩放效果、流畅的光标动画、快捷方式提示等等！它专为希望通过视频演示改善沟通的营销、产品和设计团队而设计。 在这里试用：https://screendemos.com 这是我推出的第一个 SaaS，我很乐意听到您关于如何改进它的反馈和建议！    提交人    /u/PopoDev   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</guid>
       <pubDate>Sat, 01 Feb 2025 18:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crux - 开发者社区</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</link>
-      <description><![CDATA[      我建立了一个免费的开发协作平台。我们目前的特色： - GitHub/Google OAuth（导入存储库以自动填充项目表单数据） - 应用内消息传递和通知 - 广泛的项目过滤 - 带有社交链接的详细开发人员资料 需要：项目帖子。活跃用户已准备好协作 - 只需与他们匹配更多项目即可。如果您正在构建一些很酷的东西，请发布它。 实时：cruxapp.org 堆栈：Vue 3、Vite、Go、Postgres、Redis 项目部分 个人资料部分    提交人    /u/zipqt   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>练习编程的 Telegram 群</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</link>
-      <description><![CDATA[您好，如果您会说西班牙语，您可以加入我在 Telegram 上创建的一个小组，这样初学者就可以一起学习编程，目标是大约 15 或 20 人，以更加团结，    提交人    /u/AliveSwimmer8968   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:08:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
