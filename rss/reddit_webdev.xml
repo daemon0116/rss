@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 07:18:15 GMT</lastBuildDate>
+    <item>
+      <title>免费的 webp 标志库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if0rdw/free_webp_logo_library/</link>
+      <description><![CDATA[我正在寻找一个免费的存储库，/library/webp 徽标集合。    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if0rdw/free_webp_logo_library/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要指导关于 React 和 C# 后端网站项目的学习内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if0qjw/need_guidance_on_what_to_learn_for_a_react_c/</link>
+      <description><![CDATA[大家好， 我目前在一家公司实习，他们指派我使用 React 作为前端、使用 C#（带 .NET）作为后端来构建一个网站。我目前的技能是： - React：初级水平 - C#：基本了解，熟悉 OOP 和 DSA 我想确保我能完成这个项目，并获得未来有用的技能。我应该重点学习 React 和 C# 中的哪些内容才能完成项目并为我的职业生涯打下坚实的基础？ 任何关于特定主题、资源或方法的建议都将不胜感激！ 谢谢！    提交人    /u/ConstructionAny4072   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if0qjw/need_guidance_on_what_to_learn_for_a_react_c/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:57:08 GMT</pubDate>
+    </item>
     <item>
       <title><map> 的现代解决方案是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1if08o1/whats_the_modern_day_solution_for_map/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>颜色选择器 JavaScript</title>
       <link>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</link>
-      <description><![CDATA[我们刚刚完成了我们的开源 JavaScript 颜色选择器：如果您的网站上需要颜色选择器，这是一个灵活且轻量级的组件。 试试看：https://www.jscolorpicker.com。 让我们知道您的想法。我最喜欢使用 Chrome 时的滴管工具。    提交人    /u/ZygoSmile   [link] [评论]]]></description>
+      <description><![CDATA[我们刚刚完成了我们的开源 JavaScript 颜色选择器：如果您的网站需要颜色选择器，这是一个灵活而轻量级的组件。 试试看：https://www.jscolorpicker.com。 让我们知道您的想法。    提交人    /u/ZygoSmile   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</guid>
       <pubDate>Sat, 01 Feb 2025 05:58:41 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      https://preview.redd.it/bwsjxytsqege1.jpg?width=1372&amp;format=pjpg&amp;auto=webp&amp;s=4cd8ee0133881c54b4ac5ff7fc0c5f35745a2800    提交人    /u/Adventurous-Bee-2995   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ierkxk/how_could_i_make_this_in_html/</guid>
       <pubDate>Fri, 31 Jan 2025 22:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的 Vanilla CSS 将变得非常强大</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</link>
-      <description><![CDATA[今天出现了一个有趣的问题。  具有最大宽度容器的布局 使用响应式网格实现共享布局结构 带有卡片滑块 卡片滑块需要滚动捕捉， 捕捉符合最大宽度容器， 但左右有可见溢出， 幻灯片与网格布局对齐  我的第一个想法是：“这就是 Swiper 的用途。”，但后来我想：“也许 css 可以处理这个问题。”事实证明：是的，这在 css 中完全可行，甚至没有那么复杂。 这是一个非常有趣的脑筋急转弯。这是 codepen：https://codepen.io/thisanimus/pen/dPbwebd 我感觉我越来越多地意识到我不再需要 js 库来做我想做的事情。我喜欢它。CSS FTW。    提交人    /u/_listless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</guid>
-      <pubDate>Fri, 31 Jan 2025 22:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能让评论部分看起来更漂亮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieqb82/how_can_i_make_the_reviews_section_to_look_more/</link>
-      <description><![CDATA[      如何让评论部分看起来更好看例如： 我的实际情况： https://preview.redd.it/vyb6zvoxgege1.png?width=435&amp;format=png&amp;auto=webp&amp;s=16af1531dc32f4bafb53bbea2c863e8313fed299 我想要的那个：  https://preview.redd.it/kaurudtvgege1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=aa3c252f8b5e087b19fd136199018790d0b76f93 请帮助我，我正在尝试让它工作一个多小时    提交人    /u/Over-Maintenance368   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieqb82/how_can_i_make_the_reviews_section_to_look_more/</guid>
-      <pubDate>Fri, 31 Jan 2025 21:47:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
