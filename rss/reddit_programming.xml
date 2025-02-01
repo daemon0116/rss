@@ -4,14 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:24:54 GMT</lastBuildDate>
-    <item>
-      <title>图像究竟是如何存储的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieuufi/how_are_images_really_stored/</link>
-      <description><![CDATA[  由    /u/Cefor111  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieuufi/how_are_images_really_stored/</guid>
-      <pubDate>Sat, 01 Feb 2025 01:15:02 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Feb 2025 02:49:06 GMT</lastBuildDate>
     <item>
       <title>图像究竟是如何存储的？</title>
       <link>https://www.reddit.com/r/programming/comments/1ieuufd/how_are_images_really_stored/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/starbist  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iecpz0/switching_from_commonjs_to_esm/</guid>
       <pubDate>Fri, 31 Jan 2025 11:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我删除了远程数据库中的 37k 条记录。现在该怎么办？</title>
+      <link>https://www.reddit.com/r/programming/comments/1iecbg8/i_delete_37k_records_in_remote_db_now_what/</link>
+      <description><![CDATA[  由    /u/coold007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iecbg8/i_delete_37k_records_in_remote_db_now_what/</guid>
+      <pubDate>Fri, 31 Jan 2025 11:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
