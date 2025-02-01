@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 03:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 04:21:06 GMT</lastBuildDate>
+    <item>
+      <title>过度自信的开发人员编写加密代码是地狱</title>
+      <link>https://www.reddit.com/r/programming/comments/1iexqgv/hell_is_overconfident_developers_writing/</link>
+      <description><![CDATA[  由    /u/Soatok  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iexqgv/hell_is_overconfident_developers_writing/</guid>
+      <pubDate>Sat, 01 Feb 2025 03:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>职业生涯早期应采取的行为</title>
+      <link>https://www.reddit.com/r/programming/comments/1iexos4/behaviors_to_adopt_early_in_career/</link>
+      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iexos4/behaviors_to_adopt_early_in_career/</guid>
+      <pubDate>Sat, 01 Feb 2025 03:46:28 GMT</pubDate>
+    </item>
     <item>
       <title>Java 现状报告显示 Java 8 的迁移势头强劲，Apache Spark 崛起 • DEVCLASS</title>
       <link>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iee2wt/neutralinojs_v56_released/</guid>
       <pubDate>Fri, 31 Jan 2025 12:51:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>云舒适正在毁掉你的职业生涯：“简易按钮”时代如何造就了无法修复问题的工程师……</title>
-      <link>https://www.reddit.com/r/programming/comments/1iedvjk/cloud_comfort_is_killing_your_career_how_the_easy/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iedvjk/cloud_comfort_is_killing_your_career_how_the_easy/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 CommonJS 切换到 ESM</title>
-      <link>https://www.reddit.com/r/programming/comments/1iecpz0/switching_from_commonjs_to_esm/</link>
-      <description><![CDATA[  由    /u/starbist  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iecpz0/switching_from_commonjs_to_esm/</guid>
-      <pubDate>Fri, 31 Jan 2025 11:30:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
