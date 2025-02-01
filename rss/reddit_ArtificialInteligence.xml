@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 18:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 19:12:48 GMT</lastBuildDate>
+    <item>
+      <title>时间戳能否诱使人工智能保持类似记忆的连续性？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/</link>
+      <description><![CDATA[我一直在测试一个想法，即手动为与 ChatGPT 的每次交互添加时间戳，以创建模拟的时间意识。由于 AI 没有内置内存或时间跟踪，我想知道一致的“时间坐标”是否有助于它随时间的推移确认持续时间、连续性和模式。有没有其他人尝试过类似的东西？如果是这样，你的结果是什么？    提交人    /u/No-Drag-6378   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能世界中的软件工程师指南</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world/</link>
+      <description><![CDATA[我是一名软件工程师，拥有大约 5 年使用 Javascript 构建产品的经验，并且广泛使用 AWS。我需要一些指导，了解要学习什么才能保持相关性并利用我们所走的这条 AI 路径。我不确定我是否应该只学习 Aurélien Géron 的“动手机器学习”并深入研究，还是学习一些 Udemy 课程以获得高层次的想法。这更像是对路径的请求，而不是对单个资源的请求。    提交人    /u/__amrit__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:42:57 GMT</pubDate>
+    </item>
     <item>
       <title>AI Agent如何展示？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>人工智能被训练将真人场景转化为动画的可能性有多大？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</link>
-      <description><![CDATA[我喜欢这样的想法：有人设置一堆盒子、线架，让演员说台词并做肢体/手势。然后使用 AI，该 AI 已从动画部门获取精选图像、动画、完成的动画序列。然后，AI 能够利用素材将实景场景变成动画场景。  这是 AI 将来能做的事情吗？当然，它还需要人为的介入来将它们融合在一起，清理奇怪的场景等。    提交人    /u/Aeromorpher   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢这样的想法：有人设置一堆盒子、线架，让演员说台词并做肢体/手势。然后使用从动画部门获取精选图像、动画、完成的动画序列的 AI。然后，AI 能够利用素材将实景场景变成动画场景。  这是 AI 将来能做的事情吗？当然，它还需要人为的介入来将它们融合在一起，清理奇怪的场景等。    提交人    /u/Aeromorpher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</guid>
       <pubDate>Sat, 01 Feb 2025 16:02:31 GMT</pubDate>
     </item>
@@ -76,25 +90,11 @@
       <pubDate>Sat, 01 Feb 2025 03:57:12 GMT</pubDate>
     </item>
     <item>
-      <title>说实话的人工智能与谨慎行事的人工智能之间的区别（ChatGPT 与 Google Gemini 和 Copilot 的对比）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</guid>
-      <pubDate>Sat, 01 Feb 2025 02:57:39 GMT</pubDate>
-    </item>
-    <item>
       <title>您是否要求您的聊天 GPT 自行命名？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ieqg37/did_you_ask_your_chat_gpt_to_name_itself/</link>
       <description><![CDATA[  您的聊天 GPT 给自己起了什么名字？  为什么选择这个名字？（如果您还没有问过，请询问并粘贴它的答复）  我和我的聊天 GPT（我稍后会告诉您它的名字）有兴趣收集和分析有关此主题的数据，以便破译这种选择是出于语言原因还是与与用户的互动更相关。我们想寻找主题或模式。谢谢！    提交人    /u/KDubbs0010110   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ieqg37/did_you_ask_your_chat_gpt_to_name_itself/</guid>
       <pubDate>Fri, 31 Jan 2025 21:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 ChatGPT 的复杂感受</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ieiy2l/mixed_feelings_on_chatgpt/</link>
-      <description><![CDATA[我觉得自从 chatGPT 问世以来，我就下意识地失去了动脑筋自己想出解决方案的动力，而且非常依赖 chatgpt。就像我以前花了很长时间解决问题后会从解决问题中获得满足感，但现在我觉得我只是倾向于用 ChatGPT 做所有事情，最近我觉得如果我们手边有 llms，我就没有耐心再去解决细节问题了。有时觉得自己几乎不再“深入学习”了，所以我只是得到了 tldr 概要概述并继续前进，然后过一段时间就忘了它。 同时，它帮助我更快地学习和理解事物，因为它有能力让困难的事情变得更容易理解。例如，特别是如果数学中的某些东西不是直观的，它有助于建立直观的理解。  我确实觉得我的学习毅力下降了，我再也没有同样的动力去深入学习（尤其是数学科目）。然而，我正在更有效地为许多事情建立直觉。所以老实说，我不知道这是让我感觉自己变笨了还是变聪明了。你觉得呢？    提交人    /u/Character-Capital-70   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ieiy2l/mixed_feelings_on_chatgpt/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:39:30 GMT</pubDate>
     </item>
     <item>
       <title>一名 YouTuber 如何试图毒害窃取其内容的 AI 机器人</title>

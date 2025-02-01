@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 18:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 19:13:35 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助</title>
+      <link>https://www.reddit.com/r/programming/comments/1ifdkxg/help_needed/</link>
+      <description><![CDATA[我正在尝试从该网站复制一份问卷。由于它会根据前一个问题的答案加载问题，因此很难做到。有什么方法可以复制此问卷，而无需手动浏览并复制所有路径。或者有没有什么地方可以像数据库或 smt 一样制作此问卷。    提交人    /u/unarmed_snek   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ifdkxg/help_needed/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:02:33 GMT</pubDate>
+    </item>
     <item>
       <title>Erlang 中的并发第十部分</title>
       <link>https://www.reddit.com/r/programming/comments/1ifc4hz/concurrencia_en_erlang_parte_10/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/kondv  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1if4ogv/our_craft_is_changing/</guid>
       <pubDate>Sat, 01 Feb 2025 11:48:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - iCreatorStudio/velora-vuejs-admin-template-free: Vuejs 免费管理模板：可用于生产、精心制作且功能丰富 🤩</title>
-      <link>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</link>
-      <description><![CDATA[  由    /u/programingLove  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</guid>
-      <pubDate>Sat, 01 Feb 2025 11:16:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

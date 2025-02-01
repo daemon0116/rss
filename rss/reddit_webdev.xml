@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 18:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 19:13:55 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 Canine.sh 来帮助您节省托管应用程序的费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifdsyk/i_built_caninesh_to_help_you_save_money_hosting/</link>
+      <description><![CDATA[      过去一年来，我一直在构建 https://canine.sh，这基于我过去建立初创公司时的一些经验教训，在这些初创公司中，我们很快就超越了单一 VPS 类型部署，转向了 Heroku 和 Render 等托管平台，并且看着我们的成本爆炸式增长，并且存在令人恼火的供应商锁定。 只要您自带基础设施，就可以完全免费使用！ 它基本上试图让 Kubernetes（现在您可以在 linode 上以每月 12 美元的价格获得完全管理）像 Heroku 一样易于使用。它具有 Github 集成、SSL 自动配置、团队帐户等。你只需要带一个通用的 Kubernetes 集群，现在几乎每个基础设施提供商都以非常便宜的价格支持它（我发现最便宜的是 Hetzner 上 2GB 内存 4 美元）。 这让你可以利用 Kubernetes 做得非常好的很多事情，比如自动健康检查、零停机部署、自动扩展等，同时也让个人开发人员或小团队可以轻松使用。 Kubernetes 的另一个好处是，还可以通过 Helm 图表在你的集群中托管一堆其他东西，你通常需要为这些东西付费，例如：  Sentry Wordpress Metabase Dagster Airflow MongoDB Redis PostgreSQL ……基本上每一个阳光下的开源工具  我一直在为自己研究 Reframe 和 Whiteboarder 等随机项目，并使用 Canine 进行部署，我对它感到非常满意，因此我认为值得一试与大家分享。 过去，我一直很难向其他人传达这个相对于 Coolify、Dokku 等其他东西的价值。我认为，它的主要附加值在于它试图利用投入到 Kubernetes 中的巨大努力。 希望得到反馈、吐槽和建议！ 源代码：https://github.com/czhu12/canine 重新构建部署 https://preview.redd.it/q7kk83oxskge1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=50d7d43092910101c45139b3b9f4611c25a17a27    提交人    /u/czhu12   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifdsyk/i_built_caninesh_to_help_you_save_money_hosting/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐 LinkedIn Scrapper - Lead Gen</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifddmi/recommendation_linkedin_scrapper_lead_gen/</link>
+      <description><![CDATA[嘿， 我有一个客户想要创建一个活动，向厨师发送大量电子邮件，我认为使用 LinkedIn Scrapper 或类似的数据库是获取这些电子邮件的解决方案。 有没有推荐的工具可以让我使用关键字获取这些电子邮件？价格也不错？    提交人    /u/Far-Judgment-5591   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifddmi/recommendation_linkedin_scrapper_lead_gen/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在编码时应该停止使用人工智能吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</link>
+      <description><![CDATA[所以，我一直在使用很多人工智能服务，比如 chatgpt、claude、deepseek。我觉得自己很笨。没有用我的大脑进行基本的编码。    提交人    /u/_SadScientist   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreenDemos - 直接从浏览器录制具有缩放效果的引人入胜的视频演示。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</link>
+      <description><![CDATA[      https://i.redd.it/3yha1arypkge1.gif 您好 r/webdev！我很高兴与大家分享 ScreenDemos，这是一款浏览器扩展程序，可让您直接从浏览器录制引人入胜的视频演示。 借助 ScreenDemos，您无需任何编辑技能即可创建专业的产品演示、教程和社交媒体帖子。其功能包括缩放效果、流畅的光标动画、快捷方式提示等等！它专为希望通过视频演示改善沟通的营销、产品和设计团队而设计。 在这里试用：https://screendemos.com 这是我推出的第一个 SaaS，我很乐意听到您关于如何改进它的反馈和建议！    提交人    /u/PopoDev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:50:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crux - 开发者社区</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</link>
+      <description><![CDATA[      我建立了一个免费的开发协作平台。我们目前的特色： - GitHub/Google OAuth（导入存储库以自动填充项目表单数据） - 应用内消息传递和通知 - 广泛的项目过滤 - 带有社交链接的详细开发人员资料 需要：项目帖子。活跃用户已准备好协作 - 只需与他们匹配更多项目即可。如果您正在构建一些很酷的东西，请发布它。 实时：cruxapp.org 堆栈：Vue 3、Vite、Go、Postgres、Redis 项目部分 个人资料部分    提交人    /u/zipqt   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:34:26 GMT</pubDate>
+    </item>
     <item>
       <title>练习编程的 Telegram 群</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</link>
@@ -48,13 +83,6 @@
       <pubDate>Sat, 01 Feb 2025 16:49:56 GMT</pubDate>
     </item>
     <item>
-      <title>ScreenDemos - 直接从浏览器录制具有缩放效果的引人入胜的视频演示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifab8j/screendemos_record_engaging_video_demos_with_zoom/</link>
-      <description><![CDATA[      https://i.redd.it/meg2dq4b3kge1.gif    由   提交  /u/PopoDev   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifab8j/screendemos_record_engaging_video_demos_with_zoom/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:42:28 GMT</pubDate>
-    </item>
-    <item>
       <title>数组，将元素移到最前面</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</link>
       <description><![CDATA[Hello webdev，我遇到了一个基础但令人困惑的问题。因此，在 React 中，我想根据数组元素的 element.channel 值，将其（一个对象）移动到数组的前面。这将用于将聊天应用侧边栏中的联系人向上移动  function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } } function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } }     提交人    /u/Altugsalt   [链接] [评论]]]></description>
@@ -78,37 +106,9 @@
     <item>
       <title>移动应用程序的后端</title>
       <link>https://www.reddit.com/r/webdev/comments/1if9cfw/backend_for_an_mobile_application/</link>
-      <description><![CDATA[嗨，我正在构建一个移动应用程序，供诊所使用，供患者预约医生 目前，我正在尝试构建一个具有这些功能的应用程序 * 患者可以搜索医生提供的可用服务并进行预约。 * 每项服务都有一个特定的时间范围，其中包含 15 分钟的时间段可供选择，并且在选定的日期，只有一个人应该能够预订特定的时间段（防止重复预订） * 目前，在填写信息并选择时间段后，患者需要在 20 分钟内使用单独的应用程序付款并上传文件作为证明，并可提交验证，之后我们将验证文件。 下一步， * 医生应该能够创建、更新、删除自己的服务 * 他们还应该能够查看预约，并在完成后将其标记为已完成 *并实施适当的支付处理器 目前，医生的任务是手动完成的，但我也希望为此构建一个单独的应用程序。 对于技术堆栈，我决定使用 FlutterFlow 作为 UI，纯粹是因为它比自己编写 UI 要好得多，对于数据库，我选择使用 Supabase，因为 Firestore 似乎很麻烦。 现在，我正在处理的问题， * 在 Flutterflow 中直接使用 Supabase API 以及行级安全性 * 或者在中间使用单独的后端 我正在考虑使用单独的后端，因为将 Supabase 与 RLS 配对使用以确保安全性导致我创建了不必要的表，例如...在更改预约状态时，我不能仅将状态保留在预约表中，因为只有医生才能将其标记为已完成，而患者只能在没有后端逻辑的情况下将状态更改为已请求，这很难。 TLDR 我想知道是否有人能够直接使用 Supabase 编写足够复杂的后端，如果可以的话该怎么做？或者我应该自己编写后端，为此您有什么建议和资源    提交人    /u/PercentageNo1005   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我正在构建一个移动应用程序，供诊所使用，供患者预约医生 目前，我正在尝试构建一个具有这些功能的应用程序 * 患者可以搜索医生提供的可用服务并进行预约。 * 每项服务都有一个特定的时间范围，其中包含 15 分钟的时间段可供选择，并且在选定的日期，只有一个人应该能够预订特定的时间段（防止重复预订） * 目前，在填写信息并选择时间段后，患者需要在 20 分钟内使用单独的应用程序付款并上传文件作为证明，并可提交验证，之后我们将验证文件。 下一步， * 医生应该能够创建、更新、删除自己的服务 * 他们还应该能够查看预约，并在完成后将其标记为已完成 *并实施适当的支付处理器 目前，医生的任务是手动完成的，但我也希望为此构建一个单独的应用程序。 对于技术堆栈，我决定使用 FlutterFlow 作为 UI，纯粹是因为它比自己编写 UI 要好得多，对于数据库，我选择使用 Supabase，因为 Firestore 似乎很麻烦。 现在，我正在处理的问题， * 在 Flutterflow 中直接使用 Supabase API 以及行级安全性 * 或者在中间使用单独的后端 我正在考虑使用单独的后端，因为将 Supabase 与 RLS 配对使用以确保安全性导致我创建了不必要的表，例如...在更改预约状态时，我不能仅将状态保留在预约表中，因为只有医生才能将其标记为已完成，而患者只能在没有后端逻辑的情况下将状态更改为已请求，这很难。 TLDR 我想知道是否有人能够直接使用 Supabase 编写足够复杂的后端，如果可以的话该怎么做？或者我应该自己编写后端，为此您的建议和资源是什么    提交人    /u/PercentageNo1005   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if9cfw/backend_for_an_mobile_application/</guid>
       <pubDate>Sat, 01 Feb 2025 15:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立这种类型的网站需要多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if99oc/how_much_price_it_takes_for_this_type_of_website/</link>
-      <description><![CDATA[“Awge.com”。价格是多少？使用什么语言开发的？    由    /u/BlackOyes 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if99oc/how_much_price_it_takes_for_this_type_of_website/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase 项目对简历有好处吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if990y/are_supabase_projects_good_for_resume/</link>
-      <description><![CDATA[我是一名软件开发人员，拥有至少一年的专业经验，希望开始一些个人项目，以便在下一份工作中写进简历。我目前在工作中使用 AWS 云，但它无法提供最佳的开发人员体验，因为服务太多，而且托管个人项目并不便宜。我一直在考虑使用 Supabase，因为它提供了慷慨的免费套餐，并且使用它构建全栈项目的速度要快得多。但我对使用 Supabase 的担心是，公司不会特别觉得我使用了一种抽象出后端组件（如身份验证）的工具令人印象深刻。像 AWS 这样的云平台会迫使您调用许多服务来实现相同的解决方案。我很想听听社区使用 Supabase 展示个人项目的经验，以及公司对您使用它来构建全栈应用程序的看法？    提交人    /u/kaiser155   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if990y/are_supabase_projects_good_for_resume/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的无代码构建器是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if93mc/whats_the_best_no_code_builder/</link>
-      <description><![CDATA[嗨！ 长话短说，我是一名高级软件开发人员，在自己的网络代理机构工作。有时我确实觉得，仅使用代码为客户制作登录页面有点过头了，这很耗时，而且会反映在我的账单上。我想知道，因为这是一种趋势，什么是最好的无代码构建器，可以非常快速地构建项目，并且维护成本低？ 我看了一下 webflow，听起来很有希望，但我不喜欢无法从中编辑或下载代码这一事实。 我也见过 WordPress 解决方案、Elementor、Divi，但这是不可能的，样板实在是太庞大了，即使它在可用模板数量方面似乎是领先的。    提交人    /u/TheDarmaInitiative   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if93mc/whats_the_best_no_code_builder/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:47:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个基于网络的文字游戏，其中的字母由等长段组成。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if8sfb/i_built_a_web_based_word_game_where_the_alphabet/</link>
-      <description><![CDATA[       由    /u/Atvenice  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if8sfb/i_built_a_web_based_word_game_where_the_alphabet/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
