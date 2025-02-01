@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 14:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 15:19:44 GMT</lastBuildDate>
+    <item>
+      <title>是否有可能开发 FLAC 流音乐播放器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1if7w5f/is_it_possible_to_develop_a_flac_streaming_music/</link>
+      <description><![CDATA[  由    /u/RoninMusashi_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1if7w5f/is_it_possible_to_develop_a_flac_streaming_music/</guid>
+      <pubDate>Sat, 01 Feb 2025 14:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>对 Android 数码单反相机照片进行地理标记</title>
       <link>https://www.reddit.com/r/opensource/comments/1if55tq/geotag_dslr_photos_android/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想与大家分享Flowkeeper——一个具有“经典”跨平台 UI 范例（Qt6、Python）的番茄工作法计时器，它设计得功能强大、简单但外观美观。它  完全按照原著中的描述实现番茄工作法， 在本地存储您的数据并且不会跟踪您， 支持多种桌面操作系统， 具有便携版本并且不需要管理员权限即可安装， 针对高级用户进行了优化（键盘快捷键和丰富的设置）。  我从 2023 年开始积极开发它。 您的反馈和评论很有帮助！如果您尝试 Flowkeeper，请告诉我您想改进什么，我会尽我所能实现它。 带有屏幕截图和下载的网站：https://flowkeeper.org/ GitHub repo： https://github.com/flowkeeper-org/fk-desktop/    由   提交  /u/setwindowtext   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</guid>
       <pubDate>Fri, 31 Jan 2025 09:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Vue.js 构建的极简开源习惯跟踪应用程序，通过 NuxtHub 由高性能数据库提供支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</link>
-      <description><![CDATA[  由    /u/sefabulak  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:42:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
