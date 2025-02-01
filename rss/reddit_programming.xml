@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 13:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 14:15:07 GMT</lastBuildDate>
+    <item>
+      <title>用于绘制像素艺术法线贴图的开源工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1if6vk1/open_source_tool_for_painting_normal_maps_for/</link>
+      <description><![CDATA[  由    /u/aafirearrow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if6vk1/open_source_tool_for_painting_normal_maps_for/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:59:24 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Google TTS 进行文本转语音的简单但实用的方法。</title>
       <link>https://www.reddit.com/r/programming/comments/1if5z46/simple_but_useful_text_to_speech_using_google_tts/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 01 Feb 2025 11:48:55 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub - iCreatorStudio/velora-vuejs-admin-template-free: Vuejs 免费管理模板：可用于生产环境、精心制作、功能丰富 🤩</title>
+      <title>GitHub - iCreatorStudio/velora-vuejs-admin-template-free: Vuejs 免费管理模板：可用于生产、精心制作且功能丰富 🤩</title>
       <link>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</link>
       <description><![CDATA[  由    /u/programingLove  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ieqz8y/c_reflection_back_on_track_david_olsen_meeting_c/</guid>
       <pubDate>Fri, 31 Jan 2025 22:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 分钟内了解 JavaScript 提升</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieonol/javascript_hoisting_in_5_minutes/</link>
-      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieonol/javascript_hoisting_in_5_minutes/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:37:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

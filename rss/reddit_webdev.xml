@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 13:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 14:15:29 GMT</lastBuildDate>
+    <item>
+      <title>非常简单的 reddit 扩展。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if6o89/very_simple_reddit_extension/</link>
+      <description><![CDATA[      哎呀... 星期六要开始表演了，我很高兴在这里展示我的简单扩展，以及我登录时看到了什么。/u/MemoryEmptyAgain 的一篇帖子与我所做的类似，但更好。 无论如何，我制作这个扩展是因为 reddit 上有很多坏人和机器人，所以这个扩展让我在决定与他们互动之前可以快速了解这个人。 https://addons.mozilla.org/en-CA/firefox/addon/reddit-activity-viewer/ https://preview.redd.it/oz43ckvy7jge1.png?width=966&amp;format=png&amp;auto=webp&amp;s=bd81f776684f37f4fcb5bf2935bf3cc2d8a1ce15 &lt;一href=&quot;https://preview.redd.it/a6szz0tz7jge1.png?width=498&amp;format=png&amp;auto=webp&amp;s=48c9094cbe8f5c827378a9f2128ffc2edea76b8d&quot;&gt; https://preview.redd.it/a6szz0tz7jge1.png?width=498&amp;format=png&amp;auto=webp&amp;s=48c9094cbe8f5c827378a9f2128ffc2edea76b8d &lt;一href=&quot;https://preview.redd.it/0wi8ot608jge1.png?width=498&amp;format=png&amp;auto=webp&amp;s=3c763eaa0fde3f48f1bf7bd52f28cb8d93b57bea&quot;&gt;https://preview.redd.it/0wi8ot608jge1.png?width=498&amp;format=png&amp;auto=webp&amp;s=3c763eaa0fde3f48f1bf7bd52f28cb8d93b57bea https://preview.redd.it/fern6g118jge1.png?width=506&amp;format=png&amp;auto=webp&amp;s=880690d7d669ec86f2110c7a5ca8061127f92661 https://preview.redd.it/4vzupkh18jge1.png?width=506&amp;format=png&amp;auto=webp&amp;s=2b51745b02fb8d964f5c31de123fe0eb63a4a1ee    提交人    /u/HowTooPlay   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if6o89/very_simple_reddit_extension/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的网站上按任何描述搜索音乐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if6l02/search_for_music_by_any_description_on_my_website/</link>
+      <description><![CDATA[        提交人    /u/ZombieHero3   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if6l02/search_for_music_by_any_description_on_my_website/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试创建一个社交媒体</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if6hvl/i_am_trying_to_make_a_social_media/</link>
+      <description><![CDATA[      https://preview.redd.it/poyrplac5jge1.png?width=1346&amp;format=png&amp;auto=webp&amp;s=d5009f330345eebd9e09271d027a9366554bfbf0 嗨 r/webdev 大家， 我正在工作，这是我现在正在做的事情。这是一个受 Twitter 和 Mastodon 启发的社交媒体平台，也是我迄今为止从事的最大项目。后端使用 Python 编写，Django 托管在 Pythonanywhere 上，前端使用 Vuejs 托管在 Github 页面上，还使用 ​​supabase 作为存储桶。这是我第一次使用 Django、Vue 和 Supabase，到目前为止，这是一次很棒的学习经历。未来我计划正确使用 Django Rest 框架。它仍然很不成熟，大多数功能都无法正常工作。任何形式的灵感或改进建议都将不胜感激。  网站链接：https://codecooker1.github.io/ 源代码：https://github.com/codecooker1/Itter（警告：代码是一团可怕的意大利面条式混乱）    提交人    /u/GroundbreakingMix607   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if6hvl/i_am_trying_to_make_a_social_media/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:39:30 GMT</pubDate>
+    </item>
     <item>
       <title>学什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1if5uwf/what_to_learn/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>IT 学生在 Web 应用和 AWS 方面遇到困难</title>
       <link>https://www.reddit.com/r/webdev/comments/1if4b1o/it_student_struggle_with_webapp_and_aws/</link>
-      <description><![CDATA[大家好，我是一名 IT 学生，对网络和 AWS 非常感兴趣。我的目标是建立一个托管在 AWS 上的个人博客，在那里我可以发布我所学到的有关 AWS 和网络的知识，并展示我从事的任何小项目。 我遇到的问题是，我发现它比我预想的要难得多。我对前端和后端开发有基本的了解——我知道有框架之类的东西——但我的编码经验有限。我学习了一些基本的 Java/JS/HTML，但还没有真正从头开始构建一个完整的网站，所以我很难把这些部分拼凑起来。本质上，我想专注于网络和 AWS 方面，但似乎我缺乏编码知识和实际的 Web 开发经验是一个主要障碍。我找到了一个个人博客网站的神殿，但不知道哪些文件属于前端或后端，以及这个神殿如何提供与数据库的连接。我正在尝试使用 copilot 来了解项目，但它无法理解整个项目，也无法向我解释项目中文件或代码的用途。  我只是不知道现在该怎么做。我尝试在 youtube 上观看一些网站建设项目，但所有项目都侧重于编码。可能我会学习什么是前端/后端，但我不想把时间浪费在我不会用的东西上。     提交人    /u/canifeto12   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我是一名 IT 学生，对网络和 AWS 非常感兴趣。我的目标是建立一个托管在 AWS 上的个人博客，在那里我可以发布我所学到的有关 AWS 和网络的知识，并展示我从事的任何小项目。 我遇到的问题是，我发现它比我预想的要难得多。我对前端和后端开发有基本的了解——我知道有框架之类的东西——但我的编码经验有限。我学习了一些基本的 Java/JS/HTML，但还没有真正从头开始构建一个完整的网站，所以我很难把这些部分拼凑起来。本质上，我想专注于网络和 AWS 方面，但似乎我缺乏编码知识和实际的 Web 开发经验是一个主要障碍。我找到了一个个人博客网站的神殿，但不知道哪些文件属于前端或后端，也不知道这个神殿如何提供与数据库的连接。我正在尝试使用 copilot 来了解项目，但它无法理解整个项目，也无法向我解释项目中文件或代码的用途。  我只是不知道现在该怎么做。我尝试在 youtube 上观看一些网站建设项目，但所有项目都侧重于编码。可能我会学习什么是前端/后端，但我不想把时间浪费在我不会用的东西上。     提交人    /u/canifeto12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if4b1o/it_student_struggle_with_webapp_and_aws/</guid>
       <pubDate>Sat, 01 Feb 2025 11:22:29 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Sat, 01 Feb 2025 10:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建一个一体化媒体跟踪器</title>
+      <title>我正在构建一个一体化媒体追踪器</title>
       <link>https://www.reddit.com/r/webdev/comments/1if3fx1/im_building_an_all_in_one_media_tracker/</link>
       <description><![CDATA[        提交人    /u/Venisol   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if3fx1/im_building_an_all_in_one_media_tracker/</guid>
       <pubDate>Sat, 01 Feb 2025 10:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该将内容编码到网站中还是从 API 中获取数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if2v3i/should_i_harcode_stuff_into_website_or_fetch_data/</link>
-      <description><![CDATA[这可能是您见过的最基本的问题。假设我想创建一个关于狗品种的网站。我有一个主页，上面有卡片，每张卡片都显示一张照片和一个狗品种的名称。当用户点击照片时，我希望弹出一个窗口，显示有关该特定品种的更多信息。我应该将这些详细信息硬编码到 HTML 中（并在需要时隐藏它们），还是应该在用户点击时从 API 中获取数据？    提交人    /u/NNeast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if2v3i/should_i_harcode_stuff_into_website_or_fetch_data/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>买不起 Zara，所以我开发了一款应用程序来虚拟试穿他们的服装 - aioutfitideas.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if2pqr/too_broke_for_zara_so_i_built_an_app_to_try_their/</link>
-      <description><![CDATA[        提交人    /u/rohanrajpal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if2pqr/too_broke_for_zara_so_i_built_an_app_to_try_their/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站，将你早上的想法和创意转化为任务，从高级用户那里获得了 150 美元的 MRR</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if2gsi/i_built_a_site_that_turns_your_morning_thoughts/</link>
-      <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if2gsi/i_built_a_site_that_turns_your_morning_thoughts/</guid>
-      <pubDate>Sat, 01 Feb 2025 09:04:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
