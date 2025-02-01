@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 19:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 20:19:01 GMT</lastBuildDate>
+    <item>
+      <title>希望从事网络开发事业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iff2r4/looking_to_get_into_web_development_as_a_career/</link>
+      <description><![CDATA[我正在学习使用 CS50 编写代码，并计划在完成后学习 CS50w。我还有一个学位（数学）。我目前从事不相关的领域。我知道这些东西本身可能不足以找到工作，但我的问题是：  这些课程是否足以建立强大的投资组合？ 这些课程与强大的投资组合相结合是否能够让我找到工作？ 涉及的时间表是什么？  谢谢    提交人    /u/greenbeanmachine1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iff2r4/looking_to_get_into_web_development_as_a_career/</guid>
+      <pubDate>Sat, 01 Feb 2025 20:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么来编辑视频？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</link>
+      <description><![CDATA[我有一个任务，在自动模式下，用 javascript 处理大量视频，我需要裁剪它们并将它们调整到一定的分辨率，在上面放一个带圆边的小盘子并在上面添加文字，然后只需保存并自动编辑 150 个视频的顺序 有没有人遇到过这样的事情，你用什么？    提交人    /u/graveld_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>匿名网站托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</link>
+      <description><![CDATA[如果这里不适合问这个问题，请原谅我。  我想建立一个仅包含简单文本信息的网站。我希望它是匿名的，这样我的雇主就无法将其追溯到我或我的同事。  这可能吗？ 如果可以，请帮助我完成所需的步骤。  提前致谢！    提交人    /u/BeautifulGuitarRiff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了一个使 Postgres 更容易使用的工具 - 一个用于查看、编辑和查询数据的协作电子表格式 UI（100% 开源）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ife9pb/we_built_a_tool_to_make_postgres_easier_a/</link>
+      <description><![CDATA[        提交人    /u/tocf   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ife9pb/we_built_a_tool_to_make_postgres_easier_a/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>副项目：你的下一次创业的基础模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ife63c/side_project_a_base_template_for_your_next_startup/</link>
+      <description><![CDATA[嗨， 最近，我一直在开发一个实现清洁架构并使用领域驱动设计构建块的副项目。我现在使用 OAuth2 和 Keycloak 添加了授权和身份验证层。所有细节都在第 5 章中描述。 很快，我将添加两个客户端应用程序 - 一个内置于 Flutter 中，另一个内置于 Angular 中 - 它们将利用身份验证层登录和刷新令牌。 目标是为任何想要启动自己的项目而无需从头开始实现所有内容的人提供一个复杂的、可用于生产的解决方案。 https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template    提交人    /u/mikol4jbb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ife63c/side_project_a_base_template_for_your_next_startup/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何处理大量数据输入？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifduvw/how_do_you_handle_large_data_entry/</link>
+      <description><![CDATA[处理大规模文本数据输入的最佳方法是什么？ 任务是将 100 个本身就是相当长的文档（100 页）的法律文本添加到模板 typescript 格式中，以便将章节、列表等全部输入到代码格式中？ 历史上这样做的方法是什么，人工智能热潮之后目前最好的方法是什么。 谢谢    提交人    /u/False-Comfortable899   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifduvw/how_do_you_handle_large_data_entry/</guid>
+      <pubDate>Sat, 01 Feb 2025 19:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 Canine.sh 来帮助您节省托管应用程序的费用</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifdsyk/i_built_caninesh_to_help_you_save_money_hosting/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[        提交人    /u/colemilne   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</guid>
       <pubDate>Sat, 01 Feb 2025 17:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个成人模型分析平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</link>
-      <description><![CDATA[        提交人    /u/hellalosses   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个社交媒体管理软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</link>
-      <description><![CDATA[经过 7 个月的苦读、熬夜和摄入过多的咖啡因，我终于推出了 Socialaize - 一个社交媒体自动化平台，旨在让跨多个平台发帖变得轻松得多。 我厌倦了不断地复制粘贴、为不同的平台调整帖子，以及使用一百万种不同的调度工具。所以我建立了 Socialaize 来：  在 Instagram、Threads、YouTube、TikTok、Facebook 等平台上转发和转换内容（而不会破坏所有内容）。 自动调度和参与度，这样您就不必在&quot;完美时间&quot; 手动发布。&quot; 简化工作流程，使处理多个平台实际上易于管理。  我知道社交媒体自动化并不是一个新概念，但我想要一个真正运行顺利的东西，而不会让事情变得过于复杂。让它上线是一个漫长的旅程，我很想听听你的想法！ 您是否曾为管理多个帐户而苦恼？在社交媒体自动化方面，您最大的挫败感是什么？ 如果您好奇，可以在这里查看：Socialaize.com。希望得到同行建设者、营销人员和创作者的诚实反馈！    提交人    /u/Zachhandley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>数组，将元素移到最前面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</link>
-      <description><![CDATA[Hello webdev，我遇到了一个基础但令人困惑的问题。因此，在 React 中，我想根据数组元素的 element.channel 值，将其（一个对象）移动到数组的前面。这将用于将聊天应用侧边栏中的联系人向上移动  function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } } function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } }     提交人    /u/Altugsalt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS 代码扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if9qza/vs_code_extension/</link>
-      <description><![CDATA[我制作了一个 VS Code 扩展，用于创建可重用代码块的片段。 该扩展将以下命令添加到命令面板： 生成代码片段 - 创建突出显示的代码片段并保存到所选前缀下的新 .md 文件中。 删除代码片段 - 删除任何本地保存或导入的片段。 导入代码片段 - 导入任何本地保存的片段（存储为 json）。  导出代码片段 - 导出 .md 文件中保存的所有代码片段。 以下是生成代码片段命令的简短演示：Reddit：https://www.reddit.com/r/vscode/s/9DTZmtjU9i YouTube：https://youtu.be/pt-oJEHQH5A?si=pjuohB7ylG2-EWE2 如果您想尝试一下，可以在这里找到！ https://marketplace.visualstudio.com/items?itemName=DanielPupke.vscode-snippet-gen    由   提交  /u/One_Vermicelli6881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if9qza/vs_code_extension/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站建设者问题，添加价格表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if9gbu/website_builder_question_adding_price_scale/</link>
-      <description><![CDATA[      大家好， 我有一个关于使用 Hostingers 网站构建器构建的网站的问题。很多人说要远离他们，我应该听从他们的建议，但我对这类事情很陌生。我一直在尝试添加考虑到您输入的定价选项，例如上面包含的此屏幕截图。我提供的服务要求客户​​输入他们的“当前级别”以便调整价格，可选附加功能以百分比增加。但是，hostingers builder，特别是商店部分不允许我将自定义 html 添加到商店页面，即使我可以以某种方式绕过它，我也不知道如何手动执行此操作。我想问的是，这真的可能吗？还是我应该现在放弃并从头开始重新开始？ 感谢您的帮助，我很感激！    提交人    /u/JustDaley   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if9gbu/website_builder_question_adding_price_scale/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动应用程序的后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if9cfw/backend_for_an_mobile_application/</link>
-      <description><![CDATA[嗨，我正在构建一个移动应用程序，供诊所使用，供患者预约医生 目前，我正在尝试构建一个具有这些功能的应用程序 * 患者可以搜索医生提供的可用服务并进行预约。 * 每项服务都有一个特定的时间范围，其中包含 15 分钟的时间段可供选择，并且在选定的日期，只有一个人应该能够预订特定的时间段（防止重复预订） * 目前，在填写信息并选择时间段后，患者需要在 20 分钟内使用单独的应用程序付款并上传文件作为证明，并可提交验证，之后我们将验证文件。 下一步， * 医生应该能够创建、更新、删除自己的服务 * 他们还应该能够查看预约，并在完成后将其标记为已完成 *并实施适当的支付处理器 目前，医生的任务是手动完成的，但我也希望为此构建一个单独的应用程序。 对于技术堆栈，我决定使用 FlutterFlow 作为 UI，纯粹是因为它比自己编写 UI 要好得多，对于数据库，我选择使用 Supabase，因为 Firestore 似乎很麻烦。 现在，我正在处理的问题， * 在 Flutterflow 中直接使用 Supabase API 以及行级安全性 * 或者在中间使用单独的后端 我正在考虑使用单独的后端，因为将 Supabase 与 RLS 配对使用以确保安全性导致我创建了不必要的表，例如...在更改预约状态时，我不能仅将状态保留在预约表中，因为只有医生才能将其标记为已完成，而患者只能在没有后端逻辑的情况下将状态更改为已请求，这很难。 TLDR 我想知道是否有人能够直接使用 Supabase 编写足够复杂的后端，如果可以的话该怎么做？或者我应该自己编写后端，为此您的建议和资源是什么    提交人    /u/PercentageNo1005   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if9cfw/backend_for_an_mobile_application/</guid>
-      <pubDate>Sat, 01 Feb 2025 15:59:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
