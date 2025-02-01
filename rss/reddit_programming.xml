@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 15:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 16:20:20 GMT</lastBuildDate>
+    <item>
+      <title>Par，一种具有交互功能的实验性并发语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1if9r5l/par_an_experimental_concurrent_language_with_an/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if9r5l/par_an_experimental_concurrent_language_with_an/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Deepseek、LangGraph 和 Streamlit 构建研究代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1if8vjn/build_a_research_agent_with_deepseek_langgraph/</link>
+      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if8vjn/build_a_research_agent_with_deepseek_langgraph/</guid>
+      <pubDate>Sat, 01 Feb 2025 15:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个设备来远程控制红外设备——值得写进我的简历吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1if8p94/built_a_device_to_control_ir_devices/</link>
+      <description><![CDATA[  由    /u/kuzakuzakuza61  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if8p94/built_a_device_to_control_ir_devices/</guid>
+      <pubDate>Sat, 01 Feb 2025 15:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>您应该使用微服务吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1if88go/should_you_use_microservices/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由   提交  /u/stronghup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</guid>
       <pubDate>Sat, 01 Feb 2025 02:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像究竟是如何存储的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieuufd/how_are_images_really_stored/</link>
-      <description><![CDATA[  由    /u/Cefor111  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieuufd/how_are_images_really_stored/</guid>
-      <pubDate>Sat, 01 Feb 2025 01:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Graal 和 Mill 将 Java 编译为本机二进制文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1ietigv/how_to_compile_java_into_native_binaries_with/</link>
-      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ietigv/how_to_compile_java_into_native_binaries_with/</guid>
-      <pubDate>Sat, 01 Feb 2025 00:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>分布式系统中的拜占庭将军问题是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</link>
-      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</guid>
-      <pubDate>Sat, 01 Feb 2025 00:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

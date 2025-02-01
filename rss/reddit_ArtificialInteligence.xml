@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 15:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 16:19:30 GMT</lastBuildDate>
+    <item>
+      <title>人工智能被训练将真人场景转化为动画的可能性有多大？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</link>
+      <description><![CDATA[我喜欢这样的想法：有人设置一堆盒子、线架，让演员说台词并做肢体/手势。然后使用 AI，该 AI 已从动画部门获取精选图像、动画、完成的动画序列。然后，AI 能够利用素材将实景场景变成动画场景。  这是 AI 将来能做的事情吗？当然，它还需要人为的介入来将它们融合在一起，清理奇怪的场景等。    提交人    /u/Aeromorpher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:02:31 GMT</pubDate>
+    </item>
     <item>
       <title>有人能推荐一本学习人工智能和机器学习核心概念的书给我吗？我是一名有抱负的电子工程师，但我想了解更多关于 AIML 的知识</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[&quot;不难发现 YouTube 用户抱怨大量这些不露面的频道窃取他们嵌入的成绩单文件并通过 AI 摘要器运行它们以生成自己的即时仿冒品。但有一位 YouTube 用户正试图反击，她在她的成绩单中植入了垃圾数据，这些数据对人类来说是看不见的，但对任何敢于尝试从盗版成绩单文件中工作的 AI 来说都是有毒的。&quot; 一位 YouTube 用户如何试图毒害窃取她的内容的 AI 机器人 - Ars Technica    提交人    /u/ope_poe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iec67l/how_one_youtuber_is_trying_to_poison_the_ai_bots/</guid>
       <pubDate>Fri, 31 Jan 2025 10:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类思维与法学硕士学位：它们之间真正的区别是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iec2ir/the_human_mind_versus_an_llm_what_is_the_real/</link>
-      <description><![CDATA[人类思维可以通过意义和思考生成无限的句子。LLM 通过统计学习和模式匹配扩展了生成无限句子的能力。这两种句子生成方法背后的过程根本不同。主要区别：1.) 缺乏真正的理解：LLM 没有经验或概念基础。2.) 依赖训练数据：LLM 不会产生真正独立的思想，而是重新混合现有知识。3.) 人类认知的效率：人类通过极少的例子和更多天生的认知结构来学习语言。*** 让我们来谈谈！你怎么看？如果 AGI 需要意义和思考，LLM 何时以及如何达到 AGI？    提交人    /u/custodiam99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iec2ir/the_human_mind_versus_an_llm_what_is_the_real/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:44:15 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
