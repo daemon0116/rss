@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Feb 2025 02:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:23:13 GMT</lastBuildDate>
     <item>
       <title>因卡德</title>
       <link>https://www.producthunt.com/posts/incard-2</link>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 30 Jan 2025 15:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>キスピネアイ</title>
+      <title>キャンチャン</title>
       <link>https://www.producthunt.com/posts/kushoai-4</link>
       <description><![CDATA[
 精心编写的 Playwright 代码，用于网络测试
@@ -48,18 +48,32 @@
       <pubDate>Thu, 30 Jan 2025 10:53:17 GMT</pubDate>
     </item>
     <item>
-      <title>语音教练</title>
-      <link>https://www.producthunt.com/posts/voice-coach</link>
+      <title>LM 工作室</title>
+      <link>https://www.producthunt.com/posts/lm-studio-2</link>
       <description><![CDATA[
-面试、演讲和对话的 AI 反馈
+发现、下载并运行本地 LLM（包括 DeepSeek R1）
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/voice-coach</guid>
-      <pubDate>Thu, 30 Jan 2025 06:24:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/lm-studio-2</guid>
+      <pubDate>Thu, 30 Jan 2025 05:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 2.5</title>
+      <link>https://www.producthunt.com/posts/qwen-2-5</link>
+      <description><![CDATA[
+阿里巴巴最新AI模型系列
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/qwen-2-5</guid>
+      <pubDate>Wed, 29 Jan 2025 17:05:22 GMT</pubDate>
     </item>
     <item>
       <title>应用回复</title>
@@ -107,7 +121,7 @@
       <title>祈祷。</title>
       <link>https://www.producthunt.com/posts/orate-2</link>
       <description><![CDATA[
-用于语音的 AI 工具包
+语音 AI 工具包
 
 
 讨论
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/stella-ai-2</guid>
       <pubDate>Mon, 20 Jan 2025 11:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>路路通</title>
-      <link>https://www.producthunt.com/posts/roadloom</link>
-      <description><![CDATA[
-客户反馈引领的产品路线图软件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/roadloom</guid>
-      <pubDate>Fri, 10 Jan 2025 05:46:54 GMT</pubDate>
     </item>
     <item>
       <title>WriteMore.io</title>
