@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 20:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:17:34 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Web 应用程序来跟踪我所做的一些代码实现，我不想忘记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</link>
+      <description><![CDATA[      嗨，我制作了https://code-chunks.app/，一个简单的 webapp 来保存代码我曾经编写过一些代码片段，将来会发现它们很有用，而且我不想忘记（通常，我编写的代码是在某些客户的存储库中编写的，这些存储库不是业务逻辑或受 NDA 保护的），我只是想在需要时记住我到底是怎么制作那个东西的。 您可以按标题、上下文描述和代码内容进行搜索，并按语言进行过滤 https://preview.redd.it/rh2uomueelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=7bed9c26aaceb3cec940b515a338e30fcd1edb32 查看、创建、编辑和保存您的区块 https://preview.redd.it/aoob08srelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=df8051468051b4f8024effd4219c73b5b6039eae 自定义您的设置 https://preview.redd.it/acduj7qvelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=2259a61fbbb2c594f563341df1d89c4b8821d33c 该工具完全免费，并可通过 github auth 获得。 数据完全归用户所有。我不会处理任何基于此数据的 AI 训练，未来也没有打算这么做    提交人    /u/Pierma   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成教程后，需要开始练习解决编码难题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</link>
+      <description><![CDATA[大家好！我陷入了教程地狱。我想是时候开始尝试解决 JavaScript/React 问题了。有没有免费的网站提供从初学者到高级水平的良好编码挑战或项目？任何帮助都将不胜感激。    提交人    /u/NeutronBeam04   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 加拿大制造产品目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifg3to/showoff_saturday_made_in_canada_products_directory/</link>
+      <description><![CDATA[每个人都喜欢购买当地产品，但很难知道哪些产品是真正的当地产品——尤其是在加拿大，很多产品来自美国和墨西哥。这就是我创建这个加拿大制造目录来帮助加拿大同胞的原因。 它由 Next.js、shadcn/ui、Tailwind CSS、Supabase、Vercel AI SDK 和 AI Agents 构建！ 实时网站：fyiCanada.ca 我正在寻找有关数据和 UI 的整体反馈和建议。    提交人    /u/rizit98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifg3to/showoff_saturday_made_in_canada_products_directory/</guid>
+      <pubDate>Sat, 01 Feb 2025 20:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 想要分享我们为加利福尼亚州一家冲浪课程公司设计的独特设计。使用 11ty 静态站点生成器的 HTML 和 css。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iffzga/showoff_saturday_wanted_to_share_a_unique_design/</link>
+      <description><![CDATA[网站： https://learntosurfhb.com 这个有点挑战性，因为没有太多很棒的冲浪网站灵感可以借鉴。但我认为我们在氛围方面做得很好。    由   提交  /u/Citrous_Oyster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iffzga/showoff_saturday_wanted_to_share_a_unique_design/</guid>
+      <pubDate>Sat, 01 Feb 2025 20:48:23 GMT</pubDate>
+    </item>
     <item>
       <title>希望从事网络开发事业</title>
       <link>https://www.reddit.com/r/webdev/comments/1iff2r4/looking_to_get_into_web_development_as_a_career/</link>
@@ -55,13 +83,6 @@
       <pubDate>Sat, 01 Feb 2025 19:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>推荐 LinkedIn Scrapper - Lead Gen</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifddmi/recommendation_linkedin_scrapper_lead_gen/</link>
-      <description><![CDATA[嘿， 我有一个客户想要创建一个活动，向厨师发送大量电子邮件，我认为使用 LinkedIn Scrapper 或类似的数据库是获取这些电子邮件的解决方案。 有没有推荐的工具可以让我使用关键字获取这些电子邮件？价格也不错？    提交人    /u/Far-Judgment-5591   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifddmi/recommendation_linkedin_scrapper_lead_gen/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:53:55 GMT</pubDate>
-    </item>
-    <item>
       <title>我在编码时应该停止使用人工智能吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</link>
       <description><![CDATA[所以，我一直在使用很多人工智能服务，比如 chatgpt、claude、deepseek。我觉得自己很笨。没有用我的大脑进行基本的编码。    提交人    /u/_SadScientist   [link] [comments]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好，如果您会说西班牙语，您可以加入我在 Telegram 上创建的一个小组，这样初学者就可以一起学习编程，目标是大约 15 或 20 人，以更加团结，    提交人    /u/AliveSwimmer8968   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</guid>
       <pubDate>Sat, 01 Feb 2025 18:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 每个项目都需要一个等待列表——我正在构建最简单的开源项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</link>
-      <description><![CDATA[如果您要推出一款产品，候补名单是最好的启动板🚀。它可以帮助您制造炒作、验证需求并将注册用户转化为忠实用户。但是设置一个不应该很麻烦。 ❌ 现有候补名单工具的问题 大多数候补名单解决方案强迫您进入他们的生态系统，而不是按照您需要的方式工作： 🔴品牌小部件不符合您的设计 🔴供应商锁定阻止轻松导出数据 🔴不必要的复杂性，而您只需要一个简单的注册系统 ✅ 解决方案：Waitlst（开源） 我正在构建Waitlst作为任何人都可以使用和自定义的开源候补名单工具： ✔ 一个 API呼叫 – 只需发送 POST 请求即可将用户添加到您的候补名单 ✔ 无缝集成 – 在您现有的登录页面内工作&gt; ✔ 内置分析 – 跟踪注册、推荐和转化率 ✔ 开源和可自托管 - 自己运行、自定义并拥有自己的数据 ✔ 无供应商锁定 - 完全导出支持（CSV、JSON 等） 💡 想成为其中的一员吗？ 我仍在构建中，但我希望得到创始人、开发者和制造商的反馈，了解理想的候补名单工具应包括哪些内容。 👉 在此处查看： https://waitlst.vollrath.io/ 您会使用开源候补名单而不是 SaaS 替代方案吗？为什么或为什么不？让我们讨论一下。    提交人    /u/OkInside1175   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 真的那么糟糕吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</link>
-      <description><![CDATA[在创建网站方面，我是个业余爱好者，我喜欢使用 word press，我知道这个子版块中的一些人不喜欢 word press，但我想知道从更高级的 Web 开发人员的角度来看 word press 是否不好。    提交人    /u/AdDapper4220   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:40:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Poof!：一个数字化、短暂的、单一的、社区驱动的艺术画廊。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</link>
-      <description><![CDATA[        提交人    /u/colemilne   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:39:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

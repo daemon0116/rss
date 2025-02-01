@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 20:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:17:13 GMT</lastBuildDate>
     <item>
       <title>“对我来说看起来不错”建设性代码审查 • Adrienne Braganza Tacke 和 Paul Slaughter</title>
       <link>https://www.reddit.com/r/programming/comments/1iff4sq/looks_good_to_me_constructive_code_reviews/</link>
@@ -18,20 +18,6 @@
       <description><![CDATA[  由    /u/dimonikys_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ifevfk/pygptcopy_fast_and_easy_way_to_copy_python_module/</guid>
       <pubDate>Sat, 01 Feb 2025 19:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向商业用户的无代码 AI 代理平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1ife66f/nocode_ai_agent_platforms_for_business_users/</link>
-      <description><![CDATA[  由    /u/Logical_Tonight8739  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ife66f/nocode_ai_agent_platforms_for_business_users/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifdkxg/help_needed/</link>
-      <description><![CDATA[我正在尝试从该网站复制一份问卷。由于它会根据前一个问题的答案加载问题，因此很难做到。有什么方法可以复制此问卷，而无需手动浏览并复制所有路径。或者有没有什么地方可以像数据库或 smt 一样制作此问卷。    提交人    /u/unarmed_snek   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifdkxg/help_needed/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:02:33 GMT</pubDate>
     </item>
     <item>
       <title>Erlang 中的并发第十部分</title>
@@ -53,13 +39,6 @@
       <description><![CDATA[  由    /u/vladimirgamal  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ifb2v9/very_very_simple_connect_c_with_sql_server_and/</guid>
       <pubDate>Sat, 01 Feb 2025 17:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Torrdroid 如何搜索 torrent 文件？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifazas/how_does_torrdroid_perform_searching_for_torrent/</link>
-      <description><![CDATA[他们是否在后端使用 python 进行抓取，或者他们使用 javascript DOM 从 Prateby 等网站提取这些种子文件？    提交人    /u/NoPin618   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifazas/how_does_torrdroid_perform_searching_for_torrent/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:11:16 GMT</pubDate>
     </item>
     <item>
       <title>超越 AI MVP：真正需要什么</title>
@@ -109,6 +88,27 @@
       <description><![CDATA[  由   提交  /u/Mysterious-3636   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1if87ue/leetcode_547_number_of_provinces_graph_disjoint/</guid>
       <pubDate>Sat, 01 Feb 2025 15:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于绘制像素艺术法线贴图的开源工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1if6vk1/open_source_tool_for_painting_normal_maps_for/</link>
+      <description><![CDATA[  由    /u/aafirearrow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if6vk1/open_source_tool_for_painting_normal_maps_for/</guid>
+      <pubDate>Sat, 01 Feb 2025 13:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的工艺正在改变</title>
+      <link>https://www.reddit.com/r/programming/comments/1if4ogv/our_craft_is_changing/</link>
+      <description><![CDATA[  由    /u/kondv  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if4ogv/our_craft_is_changing/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - iCreatorStudio/velora-vuejs-admin-template-free: Vuejs 免费管理模板：可用于生产、精心制作且功能丰富 🤩</title>
+      <link>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</link>
+      <description><![CDATA[  由    /u/programingLove  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if47yu/github_icreatorstudioveloravuejsadmintemplatefree/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:16:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

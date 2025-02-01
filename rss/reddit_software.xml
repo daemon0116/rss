@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 20:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:17:08 GMT</lastBuildDate>
+    <item>
+      <title>推荐一款无广告的可自定义批量重命名应用，还可以将文件移动到不同的重命名文件夹中</title>
+      <link>https://www.reddit.com/r/software/comments/1ifgedp/recommend_an_adfree_customizable_batch_renaming/</link>
+      <description><![CDATA[寻找一款真正可以自定义重命名和文件夹组织/排序且无广告的应用程序。如果它具有 EXIF、ID3、PDF 和视频标签的批量文件自定义功能就更好了。    由   提交  /u/usmannaeem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifgedp/recommend_an_adfree_customizable_batch_renaming/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:06:44 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能在增强软件开发和内容创作中的作用</title>
       <link>https://www.reddit.com/r/software/comments/1iff81w/the_role_of_ai_in_enhancing_software_development/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们一直存在一个问题，即通过电子邮件接收我们不想收集的个人信息（需要在另一个安全平台上发送）。想知道是否有人知道任何隐私增强技术，可以让我们特别过滤掉个人信息？即出生日期、医疗信息、社会保障号码。或者，是否有某种东西可以阻止/退回以这种方式标记的传入电子邮件？    提交人    /u/Candid_Abrocoma_9652   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ieo4hi/recommendations_for_privacy_software_that_filters/</guid>
       <pubDate>Fri, 31 Jan 2025 20:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 DigiCamControl 中出现“系统错误：无法为堆栈创建新的保护页面”，SFC /scannow 可以工作，但不确定这是否是永久修复</title>
-      <link>https://www.reddit.com/r/software/comments/1iemvc3/getting_system_error_a_new_guard_page_for_the/</link>
-      <description><![CDATA[  由    /u/That_Nonstop_Reader  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iemvc3/getting_system_error_a_new_guard_page_for_the/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:21:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
