@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 16:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 17:15:43 GMT</lastBuildDate>
+    <item>
+      <title>Torrdroid 如何搜索 torrent 文件？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ifazas/how_does_torrdroid_perform_searching_for_torrent/</link>
+      <description><![CDATA[他们是否在后端使用 python 进行抓取，或者他们使用 javascript DOM 从 Prateby 等网站提取这些种子文件？    提交人    /u/NoPin618   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ifazas/how_does_torrdroid_perform_searching_for_torrent/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越 AI MVP：真正需要什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1if9xze/beyond_the_ai_mvp_what_it_really_takes/</link>
+      <description><![CDATA[  由    /u/shared_ptr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if9xze/beyond_the_ai_mvp_what_it_really_takes/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:25:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 工程：文摘 #44</title>
+      <link>https://www.reddit.com/r/programming/comments/1if9ub7/engineering_with_java_digest_44/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1if9ub7/engineering_with_java_digest_44/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>Par，一种具有交互功能的实验性并发语言</title>
       <link>https://www.reddit.com/r/programming/comments/1if9r5l/par_an_experimental_concurrent_language_with_an/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1if26oq/the_fullstack_lie_how_chasing_everything_made/</guid>
       <pubDate>Sat, 01 Feb 2025 08:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>过度自信的开发人员编写加密代码是地狱</title>
-      <link>https://www.reddit.com/r/programming/comments/1iexqgv/hell_is_overconfident_developers_writing/</link>
-      <description><![CDATA[  由    /u/Soatok  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iexqgv/hell_is_overconfident_developers_writing/</guid>
-      <pubDate>Sat, 01 Feb 2025 03:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业生涯早期应采取的行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1iexos4/behaviors_to_adopt_early_in_career/</link>
-      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iexos4/behaviors_to_adopt_early_in_career/</guid>
-      <pubDate>Sat, 01 Feb 2025 03:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 现状报告显示 Java 8 的迁移势头强劲，Apache Spark 崛起 • DEVCLASS</title>
-      <link>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</link>
-      <description><![CDATA[  由   提交  /u/stronghup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</guid>
-      <pubDate>Sat, 01 Feb 2025 02:59:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

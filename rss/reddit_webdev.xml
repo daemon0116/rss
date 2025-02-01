@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 16:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 17:16:04 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个成人模型分析平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</link>
+      <description><![CDATA[        提交人    /u/hellalosses   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</guid>
+      <pubDate>Sat, 01 Feb 2025 17:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个社交媒体管理软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</link>
+      <description><![CDATA[经过 7 个月的苦读、熬夜和摄入过多的咖啡因，我终于推出了 Socialaize - 一个社交媒体自动化平台，旨在让跨多个平台发帖变得轻松得多。 我厌倦了不断地复制粘贴、为不同的平台调整帖子，以及使用一百万种不同的调度工具。所以我建立了 Socialaize 来：  在 Instagram、Threads、YouTube、TikTok、Facebook 等平台上转发和转换内容（而不会破坏所有内容）。 自动调度和参与度，这样您就不必在&quot;完美时间&quot; 手动发布。&quot; 简化工作流程，使处理多个平台实际上易于管理。  我知道社交媒体自动化并不是一个新概念，但我想要一个真正运行顺利的东西，而不会让事情变得过于复杂。让它上线是一个漫长的旅程，我很想听听你的想法！ 您是否曾为管理多个帐户而苦恼？在社交媒体自动化方面，您最大的挫败感是什么？ 如果您好奇，可以在这里查看：Socialaize.com。希望得到同行建设者、营销人员和创作者的诚实反馈！    提交人    /u/Zachhandley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:49:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreenDemos - 直接从浏览器录制具有缩放效果的引人入胜的视频演示。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifab8j/screendemos_record_engaging_video_demos_with_zoom/</link>
+      <description><![CDATA[      https://i.redd.it/meg2dq4b3kge1.gif    由   提交  /u/PopoDev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifab8j/screendemos_record_engaging_video_demos_with_zoom/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>数组，将元素移到最前面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</link>
+      <description><![CDATA[Hello webdev，我遇到了一个基础但令人困惑的问题。因此，在 React 中，我想根据数组元素的 element.channel 值，将其（一个对象）移动到数组的前面。这将用于将聊天应用侧边栏中的联系人向上移动  function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } } function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } }     提交人    /u/Altugsalt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</guid>
+      <pubDate>Sat, 01 Feb 2025 16:30:29 GMT</pubDate>
+    </item>
     <item>
       <title>VS 代码扩展</title>
       <link>https://www.reddit.com/r/webdev/comments/1if9qza/vs_code_extension/</link>
@@ -67,34 +95,6 @@
       <description><![CDATA[抱歉，这是一个可怕的问题，但我已经花了比我想承认的更多的时间来试图弄清楚（检查元素等）。 在www.loanpro.io上，你将如何创建像滚动时消散的移动球体这样的东西？它看起来很棒，我是它的超级粉丝，不知道我该如何处理它。 这是我还没有找到的某个图书馆吗？提前感谢你为此付出的任何脑力。    提交人    /u/barclayk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1if85as/how_would_you_recreate_this_dynamic_hero_imagesvg/</guid>
       <pubDate>Sat, 01 Feb 2025 15:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>成人的孩子我做了一件事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if7ts5/adult_childs_i_made_a_thing/</link>
-      <description><![CDATA[我制作了 AudioPrank。这是一个简单的网站，您可以在其中实时向另一台设备发送奇怪或烦人的声音。无需帐户，无需设置，只需在两台设备上打开网站并开始恶作剧即可。 它使用 WebRTC（通过 Poki NetLib）进行免费的点对点音频流传输，因此不需要服务器。只需拿起朋友的手机，打开网站，就可以玩了。 很想听听你的想法！    提交人    /u/UnrealNL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if7ts5/adult_childs_i_made_a_thing/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:47:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>“客户”要求免费工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if7nso/client_requesting_free_work/</link>
-      <description><![CDATA[我有点为难，很想听听各位专家的建议。 就在两年多前，我父母请我为他们当地的政治俱乐部设计一个网站。当时我刚从 BootCamp 毕业，我抓住机会创建了这个网站。我父母为我的时间支付了固定费用。 该网站包括一个用于动态内容编辑、照片上传等的自定义 CMS，以及为前端应用程序提供信息的 API。它已经顺利运行了两年。我爸爸支付了托管费用，我在此期间提供免费的技术支持和有限的代码更新、修改、修复和添加。 快进到今年年底。我的父母将辞去他们在这个俱乐部的职务。我的父亲是网站内容更新者，他将这个角色交给了其他人。 我明确表示，我对网站的免费支持并不包括陌生人——他们离开后，我需要为网站的任何进一步工作获得报酬。毕竟，如果我自愿为父母修剪草坪，那么在他们卖掉房子后，我没有义务继续为陌生人做这件事。 我与新“领导”的第一次互动是，他们要求访问我专门用于节点邮件中继的 Gmail 帐户。我明确告诉他们，这是一个坏主意，因为无缘无故地让几个人进入那里可能会搞乱 Google API 连接。他们坚持，所以我给了他们访问权限。 瞧，第二天，网站邮件表单就停止工作了。 我收到了一封电子邮件，没有道歉，也没有关于此事的问题。只有修复请求，没有提到付款。我回复说，这正是我建议只有开发人员才能访问 Gmail 帐户的原因，现在我无法修复该问题，因为我不再具有访问权限。 我明确表示，他们可以按小时付费给我来修复它。他们再次回复，没有解决付款请求，而是要求我从网站上删除 Web 表单。它们存在于多个页面以及导航栏（移动和桌面）。这不是一个大工程，但无论如何它都是工作。 我还建议收取固定费用以将域名注册转移到一个新的、更简单的 WordPress 网站，这将更容易管理，但他们唯一的回应是免费向他们发送信息。仅供参考，他们指定的“网站管理员”对 Web 开发一无所知。 我在这里做什么？    提交人    /u/warpedwing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if7nso/client_requesting_free_work/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>波利克洛克</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if7nao/polyclock/</link>
-      <description><![CDATA[我制作了一个交互式 3D 显示时钟。这篇文章最初发布在 u/threejs （我还在其中展示了一个展示不同风格的酷炫视频）但我想我会在这里分享它以防有人想要一个很酷的时钟，而且它还有一些我第一次尝试的 webdev 功能。 例如： - 基于小时的动态图标（保持与 7 段显示的相同风格） - 动态 ios 主题颜色（当您选择背景颜色时，主题颜色会相应更新） https://polyclock.vercel.app 您可以通过打开控制面板来完全自定义它： 在移动设备上用三根手指点击。 在桌面上按 Option (alt) + D。 github repo： https://github.com/tool3/polyclock 欢迎任何反馈/问题！ polyclock    由    /u/talhayut 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if7nao/polyclock/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>该模板对于以下项目来说正确吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1if7kk7/would_this_template_be_correct_for_the_following/</link>
-      <description><![CDATA[大家好，我目前在学校学习网络开发，我有一个小项目要做，我们必须使用 flex、grid 或 bootstrap 从图像中复制网页。我对前端的显示部分非常不擅长，所以我选择用网格来做，因为我认为 flex 更难，而 bootstraps 可以让你完成一半（根据老师的说法），但我在寻找正确的方式来构建它时遇到了一些困难，我尝试过多次从头开始做这个项目，但是模板似乎是错的，所以这次我已经考虑过如何去做，并画出来，这样我就可以更清楚地看到它，但我不知道它是否会像我想象的那样工作，所以在第三次浪费时间之前我想问你们 这是我必须复制的网站 正在处理 img emqa8canajge1... 这是我想到的模板，右边有基本代码 正在处理 img ofwyxoklbjge1... 你们觉得怎么样？它能像绘制和书写的那样正常工作吗？我不知道在另一个中使用这么多 display:grid 是否好  我对 flex 和 grid 非常不擅长    提交人    /u/Desdnt   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1if7kk7/would_this_template_be_correct_for_the_following/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:34:45 GMT</pubDate>
     </item>
     <item>
       <title>网站重新设计</title>
