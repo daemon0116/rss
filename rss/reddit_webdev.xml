@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 10:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 11:15:26 GMT</lastBuildDate>
+    <item>
+      <title>寻求有关我的React Form Builder项目的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikkwxk/seeking_feedback_on_my_react_form_builder_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究一个名为 form 的项目，这是一种动态形式的构建器，用于简化使用JavaScript对象为设置创建表单的过程。它包括内置验证和动态依赖项之类的功能。 当前，我正在开发一个退缩功能，该功能允许用户创建和主机表单，管理API键以及跟踪分析和提交。此外，用户可以自定义组件以满足其需求。 我正在寻找有关此项目的反馈。您认为这样的工具对您的项目有用吗？任何建议或见解将不胜感激！谢谢您的宝贵时间！ 🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/shbong     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikkwxk/seeking_feedback_on_my_react_form_builder_project/</guid>
+      <pubDate>Sat, 08 Feb 2025 11:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站交付：只是代码或全部部署？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikkv54/website_delivery_just_the_code_or_full_deployment/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在将网站交付给客户端时，您通常只是交出源代码，还是还处理部署​​？如果您进行部署，您首选的设置是什么（自托管，云平台，托管托管等）？您通常如何管理未来的更新？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/werhere8     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikkv54/website_delivery_just_the_code_or_full_deployment/</guid>
+      <pubDate>Sat, 08 Feb 2025 10:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个Web应用程序，让您可以观看随机的电影预告片</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikks4r/i_made_a_webapp_that_lets_you_watch_random_movie/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ritepaw     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikks4r/i_made_a_webapp_that_lets_you_watch_random_movie/</guid>
+      <pubDate>Sat, 08 Feb 2025 10:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>Vanila JS中的无代码形式构建器JS</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikk64x/nocode_form_builder_js_in_vanila_js/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我的前端已经启动并在CF页面上运行，现在要测试我的API，我将其上传到我的VPS，该VPS访问api.mysite .com，但是如果我在本地测试它，IP是明显的本地主机，但是我的前端仍配置为api.mysite.com，因此我无法在本地测试。每次我想测试它时，我是否必须进入并将API.mysite.com更改为本地主机？ （React-我在前端编码很糟糕）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/centerDeveloper     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikfxug/how_do_you_test_your_api_locally/</guid>
       <pubDate>Sat, 08 Feb 2025 05:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商店后端工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikf2kn/eshop_backend_tools/</link>
-      <description><![CDATA[在我想完全控制UI，但是我不想从头开始构建后端。 是否有任何工具？  &lt;！ -  sc_on-- - &gt;＆＃32;提交由＆＃32; /u/u/chelentos     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikf2kn/eshop_backend_tools/</guid>
-      <pubDate>Sat, 08 Feb 2025 04:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要雇用什么技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikes6k/what_skill_do_i_need_to_be_employed/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题所说，我需要用作网络开发人员什么技能？ 我已经完成了2个堆栈项目和1个React项目，似乎还不够。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lordbeast1000     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikes6k/what_skill_do_i_need_to_be_employed/</guid>
-      <pubDate>Sat, 08 Feb 2025 04:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑商与手工编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikemxp/builder_vs_hand_coded/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否还有开发人员仍然手动代码网站而不是使用网站构建者？几年前，我曾经手动编码网站。然后我摆脱了几年。因此，当我需要构建一个新网站时，我尝试了WordPress，Elementor，Wix Studio等的较新版本，并且它们似乎都很烂，恕我直言。我正在考虑回到HTML，CSS可能是Bulma，JS和VScode；也许是杰基尔。这对我来说会疯狂吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cl326     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikemxp/builder_vs_hand_coded/</guid>
-      <pubDate>Sat, 08 Feb 2025 04:08:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
