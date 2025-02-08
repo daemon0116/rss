@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 12:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 13:20:15 GMT</lastBuildDate>
+    <item>
+      <title>建立我自己的网络安全网络投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikn1g6/building_my_own_cybersecurity_web_portfolio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不是网络开发专家，我计划创建一个个人网络投资组合来托管网络安全博客，新闻页面（带有新闻通讯机制），黑客写作和注释。以前，我使用了jekyll模板的github页面，但是由于它们被广泛使用，所以我想要独特的东西，极简主义，不是过于动态的，并且在我自己的域中。 我正在寻找技术堆栈建议，这些建议是： ✔️支持良好的SEO  ✔️轻巧＆amp;快速 ✔️提供基于降压的内容管理 ✔️可以处理新闻通讯集成 感谢您的帮助！ ＆lt; 3   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mu_umin     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikn1g6/building_my_own_cybersecurity_web_portfolio/</guid>
+      <pubDate>Sat, 08 Feb 2025 13:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>风格化的房间投资组合由三分！ （评论中的链接）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikme4q/stylized_room_portfolio_made_with_threejs_link_in/</link>
+      <description><![CDATA[    （评论中的链接）“ src =” https://b.thumbs.redditmedia.com/tcajrorx5bep7g6hfs5hc-k6xauf7pqj65cb8jtncuc.jpg &gt;  ＆＃32;提交由＆＃32; /u/u/andrew_woan     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikme4q/stylized_room_portfolio_made_with_threejs_link_in/</guid>
+      <pubDate>Sat, 08 Feb 2025 12:39:52 GMT</pubDate>
+    </item>
     <item>
       <title>为注册服务商定价和域数据构建了API，有人会觉得这有用吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikm35l/built_an_api_for_registrar_pricing_domain_data/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个无代码表单构建器，我可以嵌入我的Web应用程序 - 以便用户可以构建自己的表单和工作 我已经看过这 post 。我倾向于使用 tally   - 但是我更喜欢简单地嵌入的东西。我看过 formBuilder ，坦率地说，这是一个很棒的工具。我唯一的抱怨是它非常垂直。 IE。用户无法在单行中并排设置诸如第一和姓氏之类的字段（当然，用户可以在一行中使用单个文本输入。...但这是一个说明性示例。） 我可以直接嵌入其他开源形式构建器无代码工具吗？谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/firiana_control     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikk64x/nocode_form_builder_js_in_vanila_js/</guid>
       <pubDate>Sat, 08 Feb 2025 10:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>CORS测试仪 - 测试和调试交叉原始资源共享问题的免费工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikj4jn/cors_tester_a_free_tool_to_test_and_debug/</link>
-      <description><![CDATA[    Debug Cross-Origin Resource Sharing Issues&quot; src=&quot;https://external-preview.redd.it/L2olaQjF4sSi0Gh-_OwIAtn3FkLVrPkZn04fjn7kwno.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1accc6b7b1b30bbf1fec2fae11c6fe4b2b1853c&quot; title=&quot;CORS Tester - 一个免费的工具，用于测试和调试交叉原始资源共享问题“/&gt;   ＆＃32;提交由＆＃32; /u/u/solver89     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikj4jn/cors_tester_a_free_tool_to_test_and_debug/</guid>
-      <pubDate>Sat, 08 Feb 2025 08:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在JavaScript中设置值时，为什么DateTime-Local输入有缺陷？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikiv08/why_is_the_datetimelocal_input_flawed_when/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   i我试图在html中使用`dateTime-local`输入&#39;还要从用户那里获得时间），但事实证明，如果您想为其设置值   g＆amp; auto = webp＆amp; s = 8175F636F7FF0F3739052E6341F41989B97C284D   其他人和llms建议的解决方案：   const now = new date（） constoner = string（now.getMonth（） + 1）.padStart（2，&#39;0&#39;）; const day = string（now.getDate（））。padstart（2，&#39;0&#39;）; const小时=字符串（现在。 const分钟=字符串（now.getMinutes（））。padstart（2，&#39;0&#39;）; dateInput.value =`$ {year}  -  $ {月}  -  $ {day} t $ {小时}：$ {分钟}`;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/easternpen1337     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikiv08/why_is_the_datetimelocal_input_flawed_when/</guid>
-      <pubDate>Sat, 08 Feb 2025 08:35:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
