@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 02:43:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 03:20:31 GMT</lastBuildDate>
+    <item>
+      <title>介绍仍然需要无雅各布的支持吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikde58/is_nojavascript_support_still_necessary_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我在线投资组合的。我想使用Thrix.js和所有这些，我有点想忽略必须同时照顾完整的No-JavaScript后备。我的意思是我了解可访问性，我所有的内容仍将用于屏幕读取器和搜索引擎等。 - &gt;＆＃32;提交由＆＃32; /u/joerhoney     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikde58/is_nojavascript_support_still_necessary_for/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:01:50 GMT</pubDate>
+    </item>
     <item>
       <title>Laravel 12多供应商电子商务 - 探索新的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikcnri/laravel_12_multivendor_ecommerce_exploring_new/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/webdev  P&gt; 我正在使用Sveltekit和Pocketbase在一个简单的前端工作，与VIDSRC一起创建视频流应用。 我已经成功地将最后一个观看的季节和情节位置同步到了我的数据库，所以应用程序可以记住用户离开的位置。但是，我现在正在尝试实现以下内容：  同步观察时间：定期同步VIDSRC播放器的当前观察时间与我的数据库（因此实时保存进度）。 恢复播放：嵌入播放器时，请从保存在数据库中的确切位置启动播放。  是否有一种方法可以获取VIDSRC播放器的当前观察时间并定期获得将其与PocketBase同步？ 有什么建议，建议或示例将不胜感激！ 预先感谢！   &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/siddhartha_77       [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ik4ibr/syncing_watchtime_in_vidsrc_player_with_sveltekit/</guid>
       <pubDate>Fri, 07 Feb 2025 20:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源的超快速电子邮件到URL挂钩呼叫您的自动化（例如，创建Jira/github/...从接收电子邮件中创建门票）https://gossip.v3m.net</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</link>
-      <description><![CDATA[在@jostiniane：a/gossip_dispatch：3    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ol/old_airline_1593     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_ultra_fast_fast_to_url_hook_call/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:23:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

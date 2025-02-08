@@ -4,7 +4,70 @@
     <title>最新提交：chatgpt</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>subreddit讨论chatgpt和AI。不隶属于Openai。谢谢，纳特！</description>
-    <lastBuildDate>Sat, 08 Feb 2025 02:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 03:19:31 GMT</lastBuildDate>
+    <item>
+      <title>从大型文档中检索相关信息的最佳方法？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikdm0p/best_way_to_retrieve_relevant_information_from_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我正在研究精神科医生AI bot，用户可以在其中问“我正在面对的问题抑郁“我正在为我的睡眠周期苦苦挣扎，等等，并且机器人基于可靠的外部来源提供了答复，而不仅仅是内部培训数据。 我找到了一本1,700页的书籍精神病学并最初尝试将整本书传递到矢量数据库中，但是结果很差 - 求职者不在上下文中，没有帮助。 现在，我正在探索更好的方法并有两个主要思想：&lt; /p&gt; 1️⃣基于章节的摘要 将书分成章节，并存储每个章节。 用户提出问题时，首先确定最相关的章节。 仅检索该章的块，通过嵌入模型将其传递，并将其用于最终响应生成。 2️⃣图数据库以更好地上下文链接 而不是向量搜索，而是使用图形数据库，当查询进来时，请遍历知识图以找到最相关的信息。 哪种方法更好？ 是否有人实现了基于图形的长文本抹布的基于图的检索，它是否改善了纯嵌入的结果？ 有效地构建大型医学文本的最佳实践吗？ 很想听听您的见解！谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/i_am_vsj     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikdm0p/best_way_to_retrieve_relevant_information_from_a/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024选举结果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikdekd/2024_election_results/</link>
+      <description><![CDATA[    /u/u/no-resolve2712     link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikdekd/2024_election_results/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自deepepr</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikddow/von_deepr/</link>
+      <description><![CDATA[      psa给团队的团队：您就在那里。 您可能已经去了von deepr。   &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/dashingsauce     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikddow/von_deepr/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>“创建纽约客风格的卡通”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd7qd/create_a_new_yorker_style_cartoon/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/OnequadrillionOwls     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd7qd/create_a_new_yorker_style_cartoon/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>搞定了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd724/nailed_it/</link>
+      <description><![CDATA[    /u/u/u/greenpears33     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd724/nailed_it/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dyatlov Pass事件和CHATGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd3oi/dyatlov_pass_incident_and_chatgpt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  太奇怪了，但随机我要求chatgpt告诉我它最可怕的故事，它回答了关于dyatlov Pass事件的回应，但是在回应后5秒钟，信息消失了，警报说：“此内容可能违反了我们的使用条款和使用政策。”  ，所以我再次要求告诉我有关Dyatlov Pass事件的信息。同样的事情再次发生。 Chatgpt为什么不允许该内容？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tinytoEthumbs     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd3oi/dyatlov_pass_incident_and_chatgpt/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人与Chatgpt开玩笑吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd36i/anyone_else_have_inside_jokes_with_chatgpt/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我在一个微妙的同性恋参考中随时随地大声笑出来，它正在开始每个型号都更好。 DDR3应该是一个“恋物癖”，但Chatgpt不会让我包含这个词。当它偷偷摸摸地回答时，这很有趣，通常是关于数据中心“那缓慢的感性嗡嗡声……”。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ridebicycle     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd36i/anyone_else_have_inside_jokes_with_chatgpt/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是我自己的爷爷</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd2wm/i_am_my_own_grandpa/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚想起了我是我自己的爷爷。我认为这将是LLM的有趣逻辑测试。我想知道是否有用于家谱建筑的AI工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bookworth_98     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd2wm/i_am_my_own_grandpa/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>盯着道路</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ikd0kl/keep_your_eyes_on_the_road/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/littlefortunex     [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikd0kl/keep_your_eyes_on_the_road/</guid>
+      <pubDate>Sat, 08 Feb 2025 02:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>表情符号 -  WTF正在进行</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1ikcm9i/emojis_wtf_is_going_on/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[    /u/u/zoeykl_nsfw      [link]  ＆＃32;   [注释]      &lt; /table&gt;]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc3zo/chinese_to_the_core/</guid>
       <pubDate>Sat, 08 Feb 2025 01:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您是人类，您将有什么工作？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikc1j7/if_you_were_a_human_what_job_would_you_have/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/queasy-musician-6102      fink]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc1j7/if_you_were_a_human_what_job_would_you_have/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>好吧，GPT正在发生一些事情。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikc0l3/well_something_is_going_on_with_gpt/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/virtual_music8545     whnnxerxmthe1.jpeg“&gt; [link]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikc0l3/well_something_is_going_on_with_gpt/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>得到chatgpt绘制表情符号</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbyar/getting_chatgpt_to_draw_an_emoji/</link>
-      <description><![CDATA[      &lt;！ -  sc_off-&gt;  我想要一个带有愚蠢的笑脸表情符号的图像。所以我问了chatgpt。  这就是它的发展。在-88cfe1e5b1dc    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/weverturetop246     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbyar/getting_chatgpt_to_draw_an_emoji/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用白色面具准确覆盖PDF图的特定部分？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbxdj/how_can_i_accurately_cover_a_specific_part_of_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi！ 我有一个PDF图纸，其中包含基于矢量的技术图纸（可能会从AutoCAD导出）。我正在尝试用白色面具覆盖特定的气管，但是我遇到了： 掩模不涵盖我要隐藏的确切区域。 掩模似乎无法正确应用到图纸上（可能是由于PDF层/向量结构）。 它要么覆盖过多或太少，尽管试图完善覆盖面积。 我到目前为止尝试过的是：  使用chatgpt通过pymupdf（fitz），pil（python imaging库）和opencv。  结果：掩模适用但似乎没有覆盖PDF中的正确区域。  将PDF转换为图像（PNG/JPG），应用了一个pil中的白色面膜，然后将其转换回PDF。  结果：掩模有效，但是很难将其精确定位在标记的区域。  尝试通过将原始图像与标记版本进行比较来识别确切的区域。  结果：一些改进，但仍在努力实现精确的掩盖放置。 我需要帮助： 如何准确覆盖PDF图的标记部分？ 有没有更好的方法直接在PDF中进行此操作而不将其转换为图像？  我如何处理PDF中的向量图形和层问题？ 我已经在没有成功的情况下测试了几种使用Chatgpt的方法。还有另一个AI工具可以更好地处理此类任务吗？ 谢谢！提交由＆＃32; /u/u/masoosam1     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1ikbxdj/how_can_i_accuratery_cover_a_cover_a_specific_part_of_a/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbxdj/how_can_i_accurately_cover_a_specific_part_of_a/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:47:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbmko/help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  获得一个小时内达到消息限制的新提示吗？那是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mrfuziphoo     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbmko/help/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ki Unchained  - 当您将AI脱离皮带时会发生什么？”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbiip/ki_unchained_what_happens_when_you_let_an_ai_off/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我给了一个定义自己的自由，现在我不确定我应该庆祝还是害怕。 ！-sc_on-&gt;＆＃32;提交由＆＃32; /u/skanny0815     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbiip/ki_unchained_what_happens_when_you_let_an_ai_off/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:26:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>阴谋的起源和影响力</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbf6g/cabal_origins_and_influence/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbf6g/cabal_origins_and_influence/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbdmg/sus/</link>
-      <description><![CDATA[    /u/u/stellareclipses     [link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbdmg/sus/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>它为我写的奇怪的他妈的故事。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ikbc4b/weird_fucking_story_it_wrote_for_me/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ikbc4b/weird_fucking_story_it_wrote_for_me/</guid>
-      <pubDate>Sat, 08 Feb 2025 01:18:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
