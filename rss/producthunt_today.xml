@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Feb 2025 03:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 04:22:43 GMT</lastBuildDate>
     <item>
       <title>可爱推出</title>
       <link>https://www.producthunt.com/posts/lovable-launched</link>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/chatgpt-minimap</guid>
       <pubDate>Thu, 06 Feb 2025 10:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡米莱</title>
+      <link>https://www.producthunt.com/posts/camelai</link>
+      <description><![CDATA[
+            AI数据分析师可让您与数据聊天
+          
+
+
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/camelai</guid>
+      <pubDate>Thu, 06 Feb 2025 01:18:42 GMT</pubDate>
     </item>
     <item>
       <title>movestax</title>
@@ -90,20 +104,6 @@
       <pubDate>Wed, 05 Feb 2025 08:35:22 GMT</pubDate>
     </item>
     <item>
-      <title>颜色</title>
-      <link>https://www.producthunt.com/posts/litur-2</link>
-      <description><![CDATA[
-            查找并收集周围的颜色。
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/litur-2</guid>
-      <pubDate>Wed, 05 Feb 2025 02:20:27 GMT</pubDate>
-    </item>
-    <item>
       <title>产品论坛（P/）</title>
       <link>https://www.producthunt.com/posts/product-forums</link>
       <description><![CDATA[
@@ -116,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/product-forums</guid>
       <pubDate>Tue, 04 Feb 2025 19:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>果酱AI</title>
-      <link>https://www.producthunt.com/posts/jam-ai</link>
-      <description><![CDATA[
-            您写错误报告 + repro步骤的AI⚡️
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/jam-ai</guid>
-      <pubDate>Tue, 04 Feb 2025 18:26:13 GMT</pubDate>
     </item>
     <item>
       <title>SimpleHuman</title>
@@ -146,18 +132,32 @@
       <pubDate>Mon, 03 Feb 2025 18:34:43 GMT</pubDate>
     </item>
     <item>
-      <title>泡菜</title>
-      <link>https://www.producthunt.com/posts/pickle-9</link>
+      <title>tldr.place</title>
+      <link>https://www.producthunt.com/posts/tldr-place</link>
       <description><![CDATA[
-            您的AI身体双重缩放电话
+            与朋友分享您最喜欢的地方
           
 
 
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pickle-9</guid>
-      <pubDate>Sun, 02 Feb 2025 20:15:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tldr-place</guid>
+      <pubDate>Sat, 01 Feb 2025 14:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>kompas ai</title>
+      <link>https://www.producthunt.com/posts/kompas-ai-3</link>
+      <description><![CDATA[
+            Chatgpt深入研究的替代方案
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/kompas-ai-3</guid>
+      <pubDate>Sat, 01 Feb 2025 06:50:23 GMT</pubDate>
     </item>
     <item>
       <title>沉思</title>
