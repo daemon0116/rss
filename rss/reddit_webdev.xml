@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 09:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 10:18:22 GMT</lastBuildDate>
+    <item>
+      <title>Vanila JS中的无代码形式构建器JS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikk64x/nocode_form_builder_js_in_vanila_js/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个无代码表单构建器，我可以嵌入我的Web应用程序 - 以便用户可以构建自己的表单和工作 我已经看过这 post 。我倾向于使用 tally   - 但是我更喜欢简单地嵌入的东西。我看过 formBuilder ，坦率地说，这是一个很棒的工具。我唯一的抱怨是它非常垂直。 IE。用户无法在单行中并排设置诸如第一和姓氏之类的字段（当然，用户可以在一行中使用单个文本输入。...但这是一个说明性示例。） 我可以直接嵌入其他开源形式构建器无代码工具吗？谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/firiana_control     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikk64x/nocode_form_builder_js_in_vanila_js/</guid>
+      <pubDate>Sat, 08 Feb 2025 10:09:45 GMT</pubDate>
+    </item>
     <item>
       <title>CORS测试仪 - 测试和调试交叉原始资源共享问题的免费工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikj4jn/cors_tester_a_free_tool_to_test_and_debug/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  是否还有开发人员仍然手动代码网站而不是使用网站构建者？几年前，我曾经手动编码网站。然后我摆脱了几年。因此，当我需要构建一个新网站时，我尝试了WordPress，Elementor，Wix Studio等的较新版本，并且它们似乎都很烂，恕我直言。我正在考虑回到HTML，CSS可能是Bulma，JS和VScode；也许是杰基尔。这对我来说会疯狂吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cl326     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikemxp/builder_vs_hand_coded/</guid>
       <pubDate>Sat, 08 Feb 2025 04:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为拥有投资组合很重要吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikdw3z/do_you_believe_having_a_portfolio_is_important/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  真的很好奇社区是否认为开发人员拥有投资组合很重要。   view Coll    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yeaseimjtt     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikdw3z/do_you_believe_having_a_portfolio_is_important/</guid>
-      <pubDate>Sat, 08 Feb 2025 03:28:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
