@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 18:23:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 19:16:06 GMT</lastBuildDate>
+    <item>
+      <title>自定义WordPress主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikuxkw/custom_wordpress_theme/</link>
+      <description><![CDATA[在 - 使用Elementor网站。我正在尝试更具成本效益，并选择使用PHP，Bootstrap，CSS，HTML和JavaScript构建自己的自定义主题。我只是想知道是否有人有任何技巧可以使开发过程更快，更容易。我正在考虑将Gutenberg用于更简单的网站部分。那是一个好方法吗？任何建议都将不胜感激，如果您有任何资源可以了解有关创建自定义WordPress主题的更多信息，这也将不胜感激。  编辑：有关如何使网站响应的任何建议也很棒，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/eddyeasye     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikuxkw/custom_wordpress_theme/</guid>
+      <pubDate>Sat, 08 Feb 2025 19:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>React JS克隆的“继续说话，没有人爆炸”（评论中的链接）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikux30/react_js_clone_of_keep_talking_and_nobody/</link>
+      <description><![CDATA[      提交由＆＃32; /u/aintunez     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikux30/react_js_clone_of_keep_talking_and_nobody/</guid>
+      <pubDate>Sat, 08 Feb 2025 19:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于Windows PC用户 - 是否有一段时间使用WSL2不是一个好主意？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikuf4c/for_windows_pc_users_is_there_ever_a_time_where/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我道歉，如果这是一个新手问题。对于某些上下文/背景：我已经使用Visual Studio代码已有两年了。基本上，将其用于小型个人项目在VUE，React/NextJ和Laravel中学习和发展。  我终于面对自己的恐惧，现在也学习如何使用Docker。我知道并了解从基本/一般角度使用WSL2的好处。我熟悉在VSC内的终端中运行它。我熟悉命令行（我之前也使用过MAC），在那方面我没有问题。  ，但是...这使我想知道。 ..是否有一段时间在Windows环境上使用WSL2在开发方面使用WSL2不是一个好主意吗？  我问这个问题的原因是，因为在某个时候，我可能需要尽快进行新的Windows安装（升级一些PC硬件，这使得进行新的安装更有益）。就目前而言，我一直在加倍一些事情，例如在Windows和Linux环境下安装NoDeJ。  很好奇地听到专家的任何想法，您在本地开发中不会使用wsl2。  &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/-rexa-     link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikuf4c/for_windows_pc_users_is_there_ever_a_time_where/</guid>
+      <pubDate>Sat, 08 Feb 2025 18:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>此主页会说服您下载我的应用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iku05q/would_this_homepage_convince_you_to_download_my/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/thomastensoep     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iku05q/would_this_homepage_convince_you_to_download_my/</guid>
+      <pubDate>Sat, 08 Feb 2025 18:29:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>r/soft_launch-启动项目的子雷达</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iktv2h/rsoft_launch_a_subreddit_to_launch_your_project/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/heiisenberg_420     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iktv2h/rsoft_launch_a_subreddit_to_to_to_to_to_to_to_your_your_project/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iktv2h/rsoft_launch_a_subreddit_to_launch_your_project/</guid>
+      <pubDate>Sat, 08 Feb 2025 18:23:43 GMT</pubDate>
+    </item>
     <item>
       <title>针对AI辅助代码库的项目意识3.0。只需连接您的文件夹即可！现在，您的机器人可以实时“了解”您的项目。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikt5zi/project_awareness_30_for_aiassisted_codebases/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[     &lt;！ -  sc_off-&gt;    https://preview.red 12d9575feb064a792c396049f102071    so几周前，我得到了这个想法，并迅速制作了这个网站。我一直想制作类似于百万美元首页的东西，因此我制作了这个网站，但它只有1k点，而不是1M（我有一个小的梦想） 我正在制作一些免费的工具来驱动流量。  您可以在此处查看Sickrate .com/tools  也可以让我知道您是否有一些新的免费工具想法。我将尝试构建它们。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mediocre_man_online     r/webDev/comment/1ikqyu1/i_am_making_something_similar_to_million_dollar/“&gt; [link]   ＆＃32;   [注释]  /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikqyu1/i_am_making_something_similar_to_million_dollar/</guid>
       <pubDate>Sat, 08 Feb 2025 16:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在过去的三个月中，我一直在基本网站上工作。有什么建议还是很酷的想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikqnc3/over_the_last_3_months_ive_been_working_on_my/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/smarfdurden     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikqnc3/over_the_last_3_months_ive_been_working_on_my/</guid>
-      <pubDate>Sat, 08 Feb 2025 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何在日常开发任务中使用AI？分享您的经验！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikqjwn/how_do_you_use_ai_in_your_daily_development_tasks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很想知道其他开发人员如何在日常编码任务中利用AI。  在我公司，我们的工程总监兼建筑师要求所有开发工作的AI使用。这意味着AI不仅是一个有用的工具，它是我们工作流程中不可或缺的一部分。无论我是从事新功能，修改旧模块还是为特定用户案例实施CRUD操作，AI都是首选助手。    AI如何适合我的开发过程      开始从任务开始 每当我收到JIRA票时，我都会复制描述并提示GPT生成必要的代码，无论是用于后端API，Frontend UI组件还是业务逻辑&lt; /strong&gt;。。  响应通常包括初始实施，我根据项目要求进行完善。        &lt; P&gt; 前端开发   由于我主要在前端工作，因此我的AI提示包括生成的说明：    ui模板（html） ）遵循我们的设计系统    CSS/样式以匹配现有组件     typescript logic 用于国家管理，API调用和UI交互    我经常调整输出以与我们的架构，编码标准，编码标准，和边缘案例。       写作测试    ai还会生成单元测试和集成测试均可用于前端和后端。  我通过审查和修改和 API测试（后端）   ＆amp;代码优化   调试时，我将错误登录到获取潜在的修复或优化建议。  用于重构，AI通过建议在遵守最佳实践的同时建议清洁剂，更有效的实现。强&gt; AI对我的工作的影响  就个人而言，AI通过减少样板工作和加速功能开发来提高我的生产率。但是，我仍然依靠手动代码评论，调试和建筑决策来确保质量。  我很想听听其他开发人员的声音 -   AI如何适合您的日常工作流程？您是将其用于完整的开发周期，还是只是在诸如特定领域的帮助调试，重构或写作测试？期待您的见解！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/procodeweaver     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ikqjwn/1ikqjwn/how_do_do_you_use_ai_ai_iin_your_your_deplay_develodment_tevelodment_tasks/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikqjwn/how_do_you_use_ai_in_your_daily_development_tasks/</guid>
-      <pubDate>Sat, 08 Feb 2025 16:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用XAMPP本地测试时相对路径的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikq5dw/problem_with_relative_paths_while_testing_locally/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家， 我正在为以下问题而苦苦挣扎，我无法自己弄清楚。  介绍： 我正在使用XAMPP本地测试我正在构建的网站（我的OS是Linux Mint 022，但我不确定这是否相关）。所有我本地测试的网站的所有不同文件夹都存储在/opt/lamp/htdocs 文件夹中。 我已经构建了一个带有一个超级简单的Crud Web应用程序MySQL数据库使用PhpMyAdmin本地创建。 Web应用程序执行以下操作：它显示了已经保存在数据库上的员工的记录，并允许用户在DB中查看，添加，编辑和删除记录。   问题的上下文&lt; /strong&gt;   我在htdocs文件夹中有两个主要文件夹： site1 和 site2  这两个文件夹包含以下相同的文件（相同名称，相同的代码）： index.php ， create.php，  read.php ， delete.php ， config.php  e  error.php 。 唯一的区别是，只有 site2 代码&gt;文件夹还包含两个子文件夹（当前为空的CSS和JS）。但是上述 .php 文件都放在主文件夹中（ site1 和 site2 ） 因此，两个文件夹的 index.php 文件的URL路径对于两个文件夹都是相同的：   http：http：http：http：http： //localhost/folder/index.php    两个文件夹中的 read.php 文件 site1 和 site2 在读取页面底部的html链接标签中包含相同的内容：＆lt; a href =＆quort; quref =＆quort; php; /li&gt;   问题   当我单击 site1 的读取页面中时，将我重定向到index.php毫无问题（我在链接上徘徊时看到的路径是 local -host/site1/index.php ） 单击site2的读取页面内的链接，它不工作是因为我看到的路径是 localhost/site2/read.php/index.php ，触发 302 NS_ERROR_REDIRECT_LOOP错误    问题   我已经知道如何解决此问题（我只需要更改 href 属性包含＆lt; a＆gt; 带有“ /site2/index.php ”标签标签。而不是仅仅是&#39; index.php &#39;）  我自己无法真正弄清楚的是：为什么它适用于 site1 而不是 site2 ？相同的文件，相同的文件夹结构，相同的代码。那为什么？  我不知道这是否是一个琐碎的问题，但这让我发疯。好像浏览器仅在 site2 中以错误的方式解释相对路径，认为read.php是文件夹而不是文件。  感谢您的帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/banzambo     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikq5dw/problem_with_relative_paths_while_testing_locally/</guid>
-      <pubDate>Sat, 08 Feb 2025 15:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个网站，您可以将图像上传到国家 /地区。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikpo5a/made_a_site_where_you_can_upload_images_to/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/16101997     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikpo5a/made_a_site_where_you_can_upload_images_to/</guid>
-      <pubDate>Sat, 08 Feb 2025 15:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Next.js中完成了我的第一个全栈Web应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikpkp8/finished_my_first_fullstack_web_app_in_nextjs/</link>
-      <description><![CDATA[   ＆＃32;提交由＆＃32; /u/u/deenrayman     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikpkp8/finished_my_first_fullstack_web_app_in_nextjs/</guid>
-      <pubDate>Sat, 08 Feb 2025 15:21:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
