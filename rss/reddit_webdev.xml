@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新提交：webdev</title>
+    <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 22:18:35 GMT</lastBuildDate>
+    <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
+    <lastBuildDate>Sat, 08 Feb 2025 01:20:05 GMT</lastBuildDate>
     <item>
-      <title>这仅仅是一次随机的机器人扫描，还是我的 API 受到了攻击？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</link>
-      <description><![CDATA[      大家好， 我在我的 API 日志中收到了一些可疑请求，我想知道这是否只是一次典型的机器人扫描，或者我的 API 是否被专门针对了。以下是日志的片段： https://preview.redd.it/oig0emn4nlge1.png?width=869&amp;format=png&amp;auto=webp&amp;s=04e20810f8d762790f7cb93287daf6980f75b358 （以及来自不同 IP 的更多类似请求）。 据我所知，这些看起来像是自动扫描，试图检查敏感文件（SSH 密钥、数据库配置、 .git 目录等）。然而，我担心的是：  我的 API 没有 SEO 或任何公开曝光。 了解我的 API 域的唯一方法是通过我的客户端应用程序（不为人所知）。 这些请求得到了 403 Forbidden 响应，这意味着它们没有通过，但我仍然想知道我是否应该担心。  那么，这只是一个随机机器人扫描互联网，还是更像是有人专门探测我的 API 是否存在漏洞？我应该采取任何其他安全措施吗？    提交人    /u/UniquePackage7318   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:59:46 GMT</pubDate>
+      <title>我在哪里可以找到好的图标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikb50l/where_can_i_find_good_icons/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  就像我试图找到一个具有大量图标看起来不错且相似的站点一样。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyb3rphantom     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikb50l/where_can_i_find_good_icons/</guid>
+      <pubDate>Sat, 08 Feb 2025 01:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>全屏 KEXP 播放器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</link>
-      <description><![CDATA[        提交人    /u/shaunkardinal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:19:34 GMT</pubDate>
+      <title>我如何注册其他人，即完全私人的域和Web主机？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikamf8/how_can_i_sign_up_a_domain_and_web_host_that/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想建立一个政治网站（非美国政治）。我不希望它可以追溯到我。我在哪里可以注册WebHost和域？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/taimoor2     [link]  ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikamf8/how_can_i_sign_up_a_domain_and_web_host_that/</guid>
+      <pubDate>Sat, 08 Feb 2025 00:43:31 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 Web 应用程序来跟踪我所做的一些代码实现，我不想忘记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</link>
-      <description><![CDATA[      嗨，我制作了https://code-chunks.app/，一个简单的 webapp 来保存代码我曾经编写过一些代码片段，将来会发现它们很有用，而且我不想忘记（通常，我编写的代码是在某些客户的存储库中编写的，这些存储库不是业务逻辑或受 NDA 保护的），我只是想在需要时记住我到底是怎么制作那个东西的。 您可以按标题、上下文描述和代码内容进行搜索，并按语言进行过滤 https://preview.redd.it/rh2uomueelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=7bed9c26aaceb3cec940b515a338e30fcd1edb32 查看、创建、编辑和保存您的区块 https://preview.redd.it/aoob08srelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=df8051468051b4f8024effd4219c73b5b6039eae 自定义您的设置 https://preview.redd.it/acduj7qvelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=2259a61fbbb2c594f563341df1d89c4b8821d33c 该工具完全免费，并可通过 github auth 获得。 数据完全归用户所有。我不会处理任何基于此数据的 AI 训练，未来也没有打算这么做    提交人    /u/Pierma   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:09:45 GMT</pubDate>
+      <title>Geoflo  - 一个功能强大，轻巧的映射SDK，适用于开发人员和GIS爱好者！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik8zar/geoflo_a_powerful_lightweight_mapping_sdk_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    presention   geoflo是一个全面的地理空间管理库，旨在Mapbox GL JS。它提供了广泛的功能和工具来增强您的映射应用程序，从而更容易使用地理空间数据并创建交互式图。无需安装任何东西。只需导入库，添加您的Mapbox令牌并开始使用它。 🚀在这里查看geoflo： github repo &lt; /a&gt; 👨‍💻开发人员： documentation/demo    🚧一个开源项目，欢迎捐款。您的反馈和贡献对于使GeoFlo变得更好。路线，油漆，探索等等。  多功能功能：与圆，图标，图像，图像，多边形，多边形，矩形，文本，文本和不断扩展的元素类型一起工作。  强大的进口/导出：无缝导出并导出您的数据。  可自定义的配色方案：通过自定义定制地图的外观和感觉颜色。  集成的API：完全嵌入的立交桥API和OSRM路由器，用于增强的地理空间数据和路由。   全面的游戏板支持：与包括Xbox，PlayStation，Nintendo，Ibuffalo，Logitech等在内的控制器兼容。   智能位置服务：启用用户位置跟踪并遵循动态导航的模式。  直观的基本地图控制：轻松管理和自定义基本地图设置。  动态图层管理：创建，编辑和删除图层轻松。  交互式特征管理：选择，移动，旋转，缩放和删除功能。   轻松启动/重做：快速撤消并单击重做您的动作。 （在开发中）  🚀在这里查看geoflo： github repo  👨‍💻开发人员： documentation/demo   我很想听听您的想法，反馈和功能请求！让我知道你的想法。您想在现代映射SDK中看到什么功能？ 🌍🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thumbump     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik8zar/geoflo_a_powerful_lightweight_mapping_sdk_for/</guid>
+      <pubDate>Fri, 07 Feb 2025 23:27:32 GMT</pubDate>
     </item>
     <item>
-      <title>完成教程后，需要开始练习解决编码难题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</link>
-      <description><![CDATA[大家好！我陷入了教程地狱。我想是时候开始尝试解决 JavaScript/React 问题了。有没有免费的网站提供从初学者到高级水平的良好编码挑战或项目？任何帮助都将不胜感激。    提交人    /u/NeutronBeam04   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:07:56 GMT</pubDate>
+      <title>基于JavaScript的Fetch API有条件加载内容的单页简约库的投资组合？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik8cgz/singlepage_minimalistic_gallerybased_portfolio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是业余编码器，所以请忍受我。我想知道我的想法是否有意义。 我有多个类别的项目。每个项目都有一个或多个与之相关的图像/视频以及几段文本。我希望这些项目以画廊的形式显示，访问者可以根据类别进行过滤。 我曾经在WordPress中拥有一个投资组合，但是WP太肿了，高且高 - 维护。我想拥有一个更简单，轻巧的解决方案。 我可以只有一个html，然后使用javascript的fetch（）api抓住一个JSON文件（包含项目的完整列表及其各自的列表内容和图像路径），并通过所选类别的内容动态构建页面？要编辑或添加项目，我需要做的就是编辑JSON文件（并上传相关图像）。 这是有道理的，还是一个坏主意？有什么建议吗？  ps：我考虑仅使用CSS根据类别隐藏/显示项目，但是我的项目太多了。由于它们都需要加载，因此页面负载太高（尤其是有些具有视频缩略图）。请注意，我也不能简单地为每个类别创建一个单独的页面，因为许多项目都有多个类别（即它们将在多个页面中显示）。  &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆ ＃32;提交由＆＃32; /u/u/mynameisnotmarcos      [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik8cgz/singlepage_minimalistic_gallerybased_portfolio/</guid>
+      <pubDate>Fri, 07 Feb 2025 22:59:05 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 加拿大制造产品目录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifg3to/showoff_saturday_made_in_canada_products_directory/</link>
-      <description><![CDATA[每个人都喜欢购买当地产品，但很难知道哪些产品是真正的当地产品——尤其是在加拿大，很多产品来自美国和墨西哥。这就是我创建这个加拿大制造目录来帮助加拿大同胞的原因。 它由 Next.js、shadcn/ui、Tailwind CSS、Supabase、Vercel AI SDK 和 AI Agents 构建！ 实时网站：fyiCanada.ca 我正在寻找有关数据和 UI 的整体反馈和建议。    提交人    /u/rizit98   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifg3to/showoff_saturday_made_in_canada_products_directory/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:53:51 GMT</pubDate>
+      <title>Gameshow悖论 -  JS中的模拟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik7plr/gameshow_paradox_simulation_in_js/</link>
+      <description><![CDATA[     &lt; /a &gt;  ＆＃32;提交由＆＃32; /u/u/swe129     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik7plr/gameshow_paradox_simulation_in_js/</guid>
+      <pubDate>Fri, 07 Feb 2025 22:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 想要分享我们为加利福尼亚州一家冲浪课程公司设计的独特设计。使用 11ty 静态站点生成器的 HTML 和 css。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iffzga/showoff_saturday_wanted_to_share_a_unique_design/</link>
-      <description><![CDATA[网站： https://learntosurfhb.com 这个有点挑战性，因为没有太多很棒的冲浪网站灵感可以借鉴。但我认为我们在氛围方面做得很好。    由   提交  /u/Citrous_Oyster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iffzga/showoff_saturday_wanted_to_share_a_unique_design/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:48:23 GMT</pubDate>
+      <title>一系列令人惊叹的，完全可定制的网络模板（React中的生产准备）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik7583/a_collection_of_stunning_fully_customizable_web/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ik7583/a_collection_of_stunning_stunning_customizable_web/ (Production-Ready in React)&quot; src=&quot;https://external-preview.redd.it/yt3p-YU40tFZM9gt3d6rpH8sWPk4W2VtR7p62E5ZzKU.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cfd820679b9f4ba5df328c5bcb89a032aca7c4ce&quot; title=&quot;A collection令人惊叹的，完全可定制的Web模板（React中的生产）”/&gt;   ＆＃32;提交由＆＃32; /u/maverick594     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik7583/a_collection_of_stunning_fully_customizable_web/</guid>
+      <pubDate>Fri, 07 Feb 2025 22:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>希望从事网络开发事业</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iff2r4/looking_to_get_into_web_development_as_a_career/</link>
-      <description><![CDATA[我正在学习使用 CS50 编写代码，并计划在完成后学习 CS50w。我还有一个学位（数学）。我目前从事不相关的领域。我知道这些东西本身可能不足以找到工作，但我的问题是：  这些课程是否足以建立强大的投资组合？ 这些课程与强大的投资组合相结合是否能够让我找到工作？ 涉及的时间表是什么？  谢谢    提交人    /u/greenbeanmachine1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iff2r4/looking_to_get_into_web_development_as_a_career/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:08:03 GMT</pubDate>
+      <title>Web应用程序框架与完全前端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik6nye/web_app_framework_vs_completely_frontend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题可能有些误导，因为我不确定以下条款是什么：  &lt; li&gt; 诸如react之类的标准前端（html + js），其中所有服务器端都按照用户的api调用实现。我认为这被认为是水疗中心，即使在技术上是多个页面？   后端服务器端HTML像Django一样，您可以选择拥有服务器端可以调用API并进行计算的应用程序，仅返回html。   这2之间有什么区别，因为我不完全确定用于描述它们的术语。我已经建立了简单的站点，该站点托管在S3存储桶上，这些网站只是呼叫API Gateway＆gt;＆gt; lambda集成，在django之类的框架中添加添加的好处是什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/topno6605     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik6nye/web_app_framework_vs_completely_frontend/</guid>
+      <pubDate>Fri, 07 Feb 2025 21:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>您使用什么来编辑视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</link>
-      <description><![CDATA[我有一个任务，在自动模式下，用 javascript 处理大量视频，我需要裁剪它们并将它们调整到一定的分辨率，在上面放一个带圆边的小盘子并在上面添加文字，然后保存并自动编辑 150 个视频的顺序 有没有人遇到过这样的事情，你用什么？    提交人    /u/graveld_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifepci/what_do_you_use_to_edit_videos/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:51:41 GMT</pubDate>
+      <title>构建一个多租户SaaS应用程序：从设计到实施</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik5typ/build_a_multitenant_saas_application_from_design/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ik5typ/1ik5typ/build_a_a_multitenant_saas_saas_application_from_design/ design to implementation&quot; src=&quot;https://external-preview.redd.it/re-rFfx8CBpha3WJh95TDFPKxe5RzSOa9i8S40ZS2eg.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04c239a9c973f47fca30afaaa0a6db8a831ade4d&quot; title=&quot;Build a multi-tenant SaaS应用程序：从设计到实现”/&gt;   ＆＃32;提交由＆＃32; /u/u/party_refuse8887       [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik5typ/build_a_multitenant_saas_application_from_design/</guid>
+      <pubDate>Fri, 07 Feb 2025 21:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>匿名网站托管？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</link>
-      <description><![CDATA[如果这里不适合问这个问题，请原谅我。  我想建立一个仅包含简单文本信息的网站。我希望它是匿名的，这样我的雇主就无法追踪到我或我的同事。  这可能吗？ 如果可以，请帮助我完成所需的步骤。  提前致谢！    提交人    /u/BeautifulGuitarRiff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifeo35/anonymous_webhosting/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:50:09 GMT</pubDate>
+      <title>如何为Web应用程序定价？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik5cor/how_to_price_a_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚获得了我的第一张私人合同，我真的不知道如何定价。虽然仍然需要详细信息，但总体功能是：   excel解析 - 需要灵活，因为这些文档来自他们不使用确切格式但正在使用的客户的客户非常接近。这是所需的主要服务器操作  excel文件生成 - 使用来自Excel解析的数据库的自定义过滤器生成。 表，图形和图表和图表可视化UI上的数据。 /li&gt;  这些是应用程序特定的请求，虽然还可以讨论更多内容，但我想对我可以收取的费用有一个一般的了解。这些是所需的主要功能。对于使用它可能不超过20个用户的公司而言，它将是一种内部工具。 也期望内部Web应用程序上的刻板印象功能，例如：  auth System（仅在公司域电子邮件中注册）， 管理员数据管理 用户管理 错误处理和警报   整个UI/UI/UX开发design  等。提交由＆＃32; /u/u/qpal123     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik5cor/how_to_price_a_web_app/</guid>
+      <pubDate>Fri, 07 Feb 2025 20:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>我们构建了一个使 Postgres 更容易使用的工具 - 一个用于查看、编辑和查询数据的协作电子表格式 UI（100% 开源）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ife9pb/we_built_a_tool_to_make_postgres_easier_a/</link>
-      <description><![CDATA[        提交人    /u/tocf   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ife9pb/we_built_a_tool_to_make_postgres_easier_a/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:32:44 GMT</pubDate>
+      <title>托管中小型全堆栈网站的廉价方法（JS后端，React tumpecript前端）？不会超过1000个并发用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik516p/cheap_ways_to_host_a_small_to_medium_level_full/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是WebDev的新手，正在为Onepiece社区做一个小项目（  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stockpiepeofficial     [link]  ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik516p/cheap_ways_to_host_a_small_to_medium_level_full/</guid>
+      <pubDate>Fri, 07 Feb 2025 20:37:45 GMT</pubDate>
     </item>
     <item>
-      <title>副项目：你的下一次创业的基础模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ife63c/side_project_a_base_template_for_your_next_startup/</link>
-      <description><![CDATA[嗨， 最近，我一直在开发一个实现清洁架构并使用领域驱动设计构建块的副项目。我现在使用 OAuth2 和 Keycloak 添加了授权和身份验证层。所有细节都在第 5 章中描述。 很快，我将添加两个客户端应用程序 - 一个内置于 Flutter 中，另一个内置于 Angular 中 - 它们将利用身份验证层登录和刷新令牌。 目标是为任何想要启动自己的项目而无需从头开始实现所有内容的人提供一个复杂的、可用于生产的解决方案。 https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template    提交人    /u/mikol4jbb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ife63c/side_project_a_base_template_for_your_next_startup/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:28:21 GMT</pubDate>
+      <title>需要建议：实时3D地形可视化的最佳方法（以后可能会放置基础设施）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik4ne8/need_advice_best_approach_for_realtime_3d_terrain/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算为自己的水平做一些雄心勃勃的事情。作为我研究末尾项目的一部分，我想可视化地形，并可能允许用户放置基础设施（风力涡轮机，电线杆等）。  理想情况下，我想生成/显示2.5D/3D地形基于真实的地形高程数据（来自API？），否则只有假地形。 用户应该能够放置和管理电网基础设施（风力涡轮机，动力杆） &lt; li&gt;堆栈将是下一个。 &gt;您会建议哪些地形/高程API？ &gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/telgou     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik4ne8/need_advice_best_approach_for_realtime_3d_terrain/</guid>
+      <pubDate>Fri, 07 Feb 2025 20:21:17 GMT</pubDate>
     </item>
     <item>
-      <title>您如何处理大量数据输入？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifduvw/how_do_you_handle_large_data_entry/</link>
-      <description><![CDATA[处理大规模文本数据输入的最佳方法是什么？ 任务是将 100 个本身就是相当长的文档（100 页）的法律文本添加到模板 typescript 格式中，以便将章节、列表等全部输入到代码格式中？ 历史上这样做的方法是什么，人工智能热潮之后目前最好的方法是什么。 谢谢    提交人    /u/False-Comfortable899   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifduvw/how_do_you_handle_large_data_entry/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:14:48 GMT</pubDate>
+      <title>在VIDSRC播放器中同步观看时间与Sveltekit和Pocketbase</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik4ibr/syncing_watchtime_in_vidsrc_player_with_sveltekit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/webdev  P&gt; 我正在使用Sveltekit和Pocketbase在一个简单的前端工作，与VIDSRC一起创建视频流应用。 我已经成功地将最后一个观看的季节和情节位置同步到了我的数据库，所以应用程序可以记住用户离开的位置。但是，我现在正在尝试实现以下内容：  同步观察时间：定期同步VIDSRC播放器的当前观察时间与我的数据库（因此实时保存进度）。 恢复播放：嵌入播放器时，请从保存在数据库中的确切位置启动播放。  是否有一种方法可以获取VIDSRC播放器的当前观察时间并定期获得将其与PocketBase同步？ 有什么建议，建议或示例将不胜感激！ 预先感谢！   &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/siddhartha_77       [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik4ibr/syncing_watchtime_in_vidsrc_player_with_sveltekit/</guid>
+      <pubDate>Fri, 07 Feb 2025 20:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 Canine.sh 来帮助您节省托管应用程序的费用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifdsyk/i_built_caninesh_to_help_you_save_money_hosting/</link>
-      <description><![CDATA[      过去一年来，我一直在构建 https://canine.sh，这基于我过去建立初创公司时的一些经验教训，在这些初创公司中，我们很快就超越了单一 VPS 类型部署，转向了 Heroku 和 Render 等托管平台，并且看着我们的成本爆炸式增长，并且存在令人恼火的供应商锁定。 只要您自带基础设施，就可以完全免费使用！ 它基本上试图让 Kubernetes（现在您可以在 linode 上以每月 12 美元的价格获得完全管理）像 Heroku 一样易于使用。它具有 Github 集成、SSL 自动配置、团队帐户等。你只需要带一个通用的 Kubernetes 集群，现在几乎每个基础设施提供商都以非常便宜的价格支持它（我发现最便宜的是 Hetzner 上 2GB 内存 4 美元）。 这让你可以利用 Kubernetes 做得非常好的很多事情，比如自动健康检查、零停机部署、自动扩展等，同时也让个人开发人员或小团队可以轻松使用。 Kubernetes 的另一个好处是，还可以通过 Helm 图表在你的集群中托管一堆其他东西，你通常需要为这些东西付费，例如：  Sentry Wordpress Metabase Dagster Airflow MongoDB Redis PostgreSQL ……基本上每一个阳光下的开源工具  我一直在为自己研究 Reframe 和 Whiteboarder 等随机项目，并使用 Canine 进行部署，我对它感到非常满意，因此我认为值得一试与大家分享。 过去，我一直很难向其他人传达这个相对于 Coolify、Dokku 等其他东西的价值。我认为，它的主要附加值在于它试图利用投入到 Kubernetes 中的巨大努力。 希望得到反馈、吐槽和建议！ 源代码：https://github.com/czhu12/canine 重新构建部署 https://preview.redd.it/q7kk83oxskge1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=50d7d43092910101c45139b3b9f4611c25a17a27    提交人    /u/czhu12   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifdsyk/i_built_caninesh_to_help_you_save_money_hosting/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:12:25 GMT</pubDate>
+      <title>开源的超快速电子邮件到URL挂钩呼叫您的自动化（例如，创建Jira/github/...从接收电子邮件中创建门票）https://gossip.v3m.net</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</link>
+      <description><![CDATA[在@jostiniane：a/gossip_dispatch：3    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ol/old_airline_1593     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_ultra_fast_fast_to_url_hook_call/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</guid>
+      <pubDate>Fri, 07 Feb 2025 19:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>我在编码时应该停止使用人工智能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</link>
-      <description><![CDATA[所以，我一直在使用很多人工智能服务，比如 chatgpt、claude、deepseek。我觉得自己很笨。没有用我的大脑进行基本的编码。    提交人    /u/_SadScientist   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:53:23 GMT</pubDate>
+      <title>问题导致我不在Spotify克隆中上传歌曲</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik36vv/issue_causing_me_to_not_upload_songs_in_my/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   现在被困在这一天，而我的代码的idk wth是错误的。它说我已经上传了一个未定义的文件，但是就我而言，我上传的歌曲很适合使用，因此IDK wth在这里进行。我已经检查了我的云秘密和API密钥，因此没有问题。你们可以帮我调试这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/interstellar1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik36vv/issue_causing_me_to_not_upload_songs_in_my/</guid>
+      <pubDate>Fri, 07 Feb 2025 19:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>ScreenDemos - 直接从浏览器录制具有缩放效果的引人入胜的视频演示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</link>
-      <description><![CDATA[      https://i.redd.it/3yha1arypkge1.gif 您好 r/webdev！我很高兴与大家分享 ScreenDemos，这是一款浏览器扩展程序，可让您直接从浏览器录制引人入胜的视频演示。 借助 ScreenDemos，您无需任何编辑技能即可创建专业的产品演示、教程和社交媒体帖子。其功能包括缩放效果、流畅的光标动画、快捷方式提示等等！它专为希望通过视频演示改善沟通的营销、产品和设计团队而设计。 在这里试用：https://screendemos.com 这是我推出的第一个 SaaS，我很乐意听到您关于如何改进它的反馈和建议！    提交人    /u/PopoDev   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:50:24 GMT</pubDate>
+      <title>在编辑时，查看页面上发生的实际更改的最佳设置是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ik2sda/whats_the_best_setup_for_viewing_the_actual/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为此当前项目的设置（以及许多先前的项目）如下：  记事本++用于编辑页面/css/脚本/等本身。 “ nppftp”插件，因此每次我ctrl+s将更改保存到页面时，它都会立即ftp的“新版本”页面到我的服务器。 我打开一个隐身浏览器窗口，导航到我正在编辑的页面。 每次我想看到所做的更改时，我都会刷新页面。   这可以正常工作一段时间 - 似乎隐身模式不会缓存您访问的网站，因为如果我在普通的浏览器窗口中尝试此网站，则页面永远不会从第一次访问的任何内容中变化我看了。  但是，它 dod 最终今天停止为我更新。我不得不关闭那个隐身窗口＆amp;打开一个新鲜的，以便它再次显示更改。 ，我想我会问，每次保存新版本时，是否有更好的方法来查看页面的实时更新？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unkmaster     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ik2sda/whats_the_best_setup_for_viewing_the_actual/</guid>
+      <pubDate>Fri, 07 Feb 2025 19:02:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
