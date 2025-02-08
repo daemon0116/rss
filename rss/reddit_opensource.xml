@@ -4,13 +4,13 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Feb 2025 22:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 23:19:45 GMT</lastBuildDate>
     <item>
-      <title>🚀介绍FormCM：为性能和灵活性而构建的CMS🎉</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikyefz/introducing_formcms_a_cms_built_for_performance/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  🚀介绍formcms：为性能构建的CMS＆amp;灵活性🎉 那里有很多CMS选项，但是在尝试自定义时，我一直遇到相同的问题。因此，我构建了formcms-一种新的内容管理方法，优先考虑结构化数据，关系完整性和优化的GraphQl查询。  github： https://github.com/formcms/formcms   为什么另一个CMS？ 大多数CMS平台都允许自定义属性，但它们会降低效率：&lt; br /&gt;❌键值存储 - 灵活但缺乏关系完整性＆amp;性能。❌json存储 - 更难强制执行结构＆amp;完整性。❌硬编码C＃类 - 需要重建＆amp;重新启动更改。  formcms采用不同的方法 ✅归一化数据模型 - 每个属性都是真实的数据库字段，可确保完整性＆amp;性能。✅本机对人际关系的支持 - 一对多，一对多等等。 ;效率。  graphql做正确的  graphQl功能强大，但挑战： security＆amp;过度提取 - 优化不良的查询可能会超载后端。⚡缓存问题 - 没有内置的CDN CACHING。 n+1查询问题 - 太多的小数据库查询= performance performance hit。&lt; /p &gt; 💡formcms如何修复此🔹将GraphQl查询转换为RESTFUL GET GET请求以确保更好的缓存。🔹the Admins通过Admins进行预定的查询，以防止滥用＆amp;优化性能。🔹有效的数据检索 - 不再有n+1个问题。 为什么要检查它 🔧🔧 /asp.net&quot;&gt; ass.net  core 📊支持实体框架，graphql和sql 🌎与C＃和non-c＃apps &lt; /p&gt; 一起使用尝试＆amp;让我知道您的想法！欢迎反馈！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no/no-hippo1667     link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikyefz/introducing_formcms_a_cms_built_for_performance/</guid>
-      <pubDate>Sat, 08 Feb 2025 21:38:32 GMT</pubDate>
+      <title>XMPP客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ikzfv2/xmpp_client/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个访问者，使用XMPP smack库灵感启发，甚至还不是MVP，但我可以发送消息，如果有人有兴趣贡献   https://github.com/ismael221/thecompose     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/uperne_welder1175     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ikzfv2/xmpp_client/</guid>
+      <pubDate>Sat, 08 Feb 2025 22:24:34 GMT</pubDate>
     </item>
     <item>
       <title>我做了一个小的pomodoro计时器，以跟踪我的生产力和中断。香草JS + NETRINO = 2.5MB。 Github上的详细信息</title>
