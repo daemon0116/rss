@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 15 Feb 2025 04:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 05:19:19 GMT</lastBuildDate>
+    <item>
+      <title>kafka延迟队列：当消息在工作之前需要小睡时</title>
+      <link>https://www.reddit.com/r/programming/comments/1ipu9n3/kafka_delay_queue_when_messages_need_a_nap_before/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sushant098123      [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1ipu9n3/kafka_delay_queue_when_messages_need_a_nap_before/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ipu9n3/kafka_delay_queue_when_messages_need_a_nap_before/</guid>
+      <pubDate>Sat, 15 Feb 2025 05:08:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Node.js真的可以处理数百万用户吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1iptvi4/can_nodejs_really_handle_millions_of_users/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/myssiriouseye8494     can-node-js真实的手柄数百万用户-E57415E4FB86“&gt; [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iptvi4/can_nodejs_really_handle_millions_of_users/</guid>
+      <pubDate>Sat, 15 Feb 2025 04:44:20 GMT</pubDate>
+    </item>
     <item>
       <title>制作了一些经过跨越的编程语言，想法？</title>
       <link>https://www.reddit.com/r/programming/comments/1iptfk3/made_a_little_transpiled_programming_language/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/simon_o      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ipbna2/switching_on_strings_in_zig/</guid>
       <pubDate>Fri, 14 Feb 2025 14:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我现在庆祝我遇到的每个错误（您也应该）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ipbn4t/why_i_now_celebrate_every_bug_i_encounter_and_you/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/terryc_indiegamedev     [link link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ipbn4t/why_i_now_celebrate_every_bug_i_encounter_and_you/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>用自定义调度程序暴露并发错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1ip9woi/exposing_concurrency_bugs_with_a_custom_scheduler/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/masklinn     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ip9woi/exposing_concurrency_bugs_with_a_custom_scheduler/</guid>
-      <pubDate>Fri, 14 Feb 2025 12:53:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

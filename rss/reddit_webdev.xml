@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 04:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 05:20:14 GMT</lastBuildDate>
+    <item>
+      <title>使用条纹的自由职业者：您如何在不麻烦的情况下处理固定付款？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipudot/freelancers_using_stripe_how_do_you_handle/</link>
+      <description><![CDATA[在固定器的客户。  一个反复出现的挫败感不断出现：  固定条纹订阅感觉太僵硬了。如果客户在一个月内需要更多的工作，而在此期间需要更多的工作。接下来？ 范围蠕变失控。&lt; /strong&gt;如果客户使用的时间比固定器盖子更多的时间，跟踪超重并正确计费它们是头痛。  许多自由职业者都没有简单的方法来跟踪“使用或丢失它”。目前处理此操作？ /可通行的设置以跟踪完成的工作与固定器时间？✅其他东西？&lt; /p&gt; 是否有一个自动调整器的条纹应用程序，可以自动调整固定器计费，跟踪过度限制并强制执行客户端规则&lt; /strong&gt;很有用，还是这只是自由职业的一部分？ 好奇别人是如何解决这个问题的 - 会喜欢听到（或者不适合您）！ 👇  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/any_chemist_8926      [link]   ＆＃32;   [commistion]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipudot/freelancers_using_stripe_how_do_you_handle/</guid>
+      <pubDate>Sat, 15 Feb 2025 05:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍山羊：统一状态管理的GIT启发的边缘本地解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipubte/introducing_goatdb_a_gitinspired_edgenative/</link>
+      <description><![CDATA[    [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipubte/introducing_goatdb_a_gitinspired_edgenative/</guid>
+      <pubDate>Sat, 15 Feb 2025 05:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google用来制作UIS的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipu756/what_does_google_use_to_make_their_uis/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  想知道他们在屏幕截图中使用UI是什么。 &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thise-thise-InInewitable-146     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipu756/what_does_google_use_to_make_their_uis/</guid>
+      <pubDate>Sat, 15 Feb 2025 05:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为Web开发人员提供的一项好生产服务是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iptrt1/whats_a_good_productized_service_to_offer_as_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家我是Web开发人员，我想从自定义项目转移到更加生产的服务模型。自定义项目在来回讨论和范围蠕动中花费了太多时间，所以我宁愿专注于有效地解决一个非常具体的问题。 对于那些走这条路线的人来说为您工作了吗？我正在沿着小型但高价值的服务等线路进行思考，例如速度优化着陆页创建或SEO审核，但我愿意接受想法。 很想听听您的想法和经验  &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pc11000     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iptrt1/whats_a_good_productized_service_to_offer_as_a/</guid>
+      <pubDate>Sat, 15 Feb 2025 04:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>开源WebComponents库</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipry6t/opensource_webcomponents_library/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>请帮助我了解这个API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</guid>
       <pubDate>Fri, 14 Feb 2025 21:30:57 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  他们在过去30天内打了6次，每次留下有关加入PayPal合作伙伴计划的消息。从本质上讲，这似乎是您出售客户PayPal商家服务的情况，并且您将获得削减。这是合法的贝宝（PayPal）交流。 是，我讨厌贝宝（Paypal）。他们大约在15年前从我那里偷走了$ 1000，此后我一直拒绝使用它们。我永远不会向任何人推荐它们。 他们也在一个月前通过电子邮件伸出来，但幸运的是一次。 *Elance上的客户同意一个$ 3000的项目，工作已发布。在他们批准工作并释放托管资金的里程碑中。最后，该项目爬行变得不合理，并表示另外500美元将涵盖所需的其他工作。客户不同意，而是取消了该项目，并声称他们在支付了3000美元后不再需要它，然后追溯地对他们可能会有的所有交易提出了质疑。 Elance与PayPal就该项目的条款进行了沟通，但PayPal忽略了所有文件的所有文件，他们同意释放提供的服务付款并退还了总计1500美元的款项，其中500美元我同意与客户同意。 。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exitof99     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</guid>
       <pubDate>Fri, 14 Feb 2025 20:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSAP不在手机上工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipikfy/gsap_dont_work_on_mobile/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，嗨，试图弄清楚为什么gsap动画在移动设备上不起作用： https://codesandbox.io/p/sandbox/nskhzh?file=%2Findex.html%3A106; a href =“ https://nskhzh.csb.app/”&gt; https://nskhzh.csb.app/     &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipikfy/gsap_dont_work_on_mobile/</guid>
-      <pubDate>Fri, 14 Feb 2025 19:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>3将OpenAI API与您的Web或移动应用程序集成时发生的3个常见错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipifmq/3_common_mistakes_when_integrating_the_openai_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在客户端代码中集成OpenAI时最常见的安全错误写了一篇文章： https://backmesh.com/blog/openai-api-mistakes/     lmk如果您能想到更多的潜在陷阱！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/g0_g6t_1t     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipifmq/3_common_mistakes_when_integrating_the_openai_api/</guid>
-      <pubDate>Fri, 14 Feb 2025 19:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端开发人员的最佳笔记本电脑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iphb2m/best_laptop_for_frontend_developers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我正在考虑为某些附带项目和演出获得个人笔记本电脑。需要一些好的建议。我目前正在使用办公室笔记本电脑MacBook Pro M1 Pro 16GB 512 GB。我的预算是1.5卢比。请考虑一台好笔记本电脑，考虑到浏览器上的多个选项卡的日常使用。多个项目与Tomcat/redis同时运行。   pls建议，thannks！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ornery_bank8242      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iphb2m/best_laptop_for_frontend_developers/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了刮擦和分析执行命令的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iph7e5/i_made_site_that_scrapes_and_analyzes_executive/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/vpicone     [链接]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iph7e5/i_made_site_that_scrapes_and_analyzes_executive/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:24:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
