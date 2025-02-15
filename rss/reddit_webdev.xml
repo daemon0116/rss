@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 01:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 04:25:39 GMT</lastBuildDate>
+    <item>
+      <title>开源WebComponents库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipry6t/opensource_webcomponents_library/</link>
+      <description><![CDATA[     “ MD”&gt; 大家好！只是想分享一个我最近从事的项目，LF小部件！这是一个由scencil.js构建的网络操作库。我很努力地命名事物和其他与营销有关的事物，所以我只使用了我的缩写🫠我最喜欢的组件是“ Messenger”，不幸的是，这是一个不良命名的另一个示例。通过当地托管的LLM，该LLM模仿它们（附有屏幕截图）。 这是回购： https：// https：// github.com/lucafoscili/lf-widgets   屏幕截图是从开发环境中获取的，但是如果您想尝试它们，则可以在展示柜上这样做： www.lucafoscili.com/lf-widgets    “重量级”（imageViewer，Messenger等）不是我的移动友好型&#39;m主要在comfyui中使用它们来构建自定义节点。 如果看到有趣的东西，请随时使用它！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lucafoscili     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipry6t/opensource_webcomponents_library/</guid>
+      <pubDate>Sat, 15 Feb 2025 02:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该创建2个HTML文件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipqw4c/should_i_create_2_html_file/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一项任务是构建带有着陆页和主应用程序页面的两页网络应用程序，但是我不确定是否使用两个将HTML文件分开或使用DOM管理页面。由于我仍在学习，因此我对采用哪种方法有些困惑。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/naive_bus8542     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipqw4c/should_i_create_2_html_file/</guid>
+      <pubDate>Sat, 15 Feb 2025 01:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的托管学习前/后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipqnd3/best_hosting_to_learn_frontback_end/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我搜索了以前的帖子并浏览了这些帖子，但实际上无法从我想要的东西中获得一个想法。 &lt; p&gt;我正在寻找一个允许用户注册，图像上传以及上传图像上非常基本的评论能力的网站。我对前端的基础知识有些熟悉，但对后端的熟悉程度非常不那么熟悉。也就是说，我毫无疑问地通过反复试验，教程等学习。这是暂时的一种爱好，所以不要寻找任何大规模的东西。  i已经有一个域名，因此我不介意为某些托管支付额外的费用，以使我可以使用可能需要的任何相关技术（例如SQL）。实际上，我更喜欢支付的东西，因为自由层似乎总是有一些警告或局限性，这些警告或局限性最终会变得麻烦，因此更喜欢完全侧翼。 任何建议，任何建议，或朝正确方向的指针将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/the_bio     [link]   ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipqnd3/best_hosting_to_learn_frontback_end/</guid>
+      <pubDate>Sat, 15 Feb 2025 01:38:25 GMT</pubDate>
+    </item>
     <item>
       <title>从网站获取错误的邮政编码</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipq9wj/getting_incorrect_zip_code_from_websites/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>请帮助我了解这个API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</guid>
       <pubDate>Fri, 14 Feb 2025 21:30:57 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/vpicone     [链接]  ＆＃32;  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iph7e5/i_made_site_that_scrapes_and_analyzes_executive/</guid>
       <pubDate>Fri, 14 Feb 2025 18:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在instacart.ca/instacart.com上复制文字，尤其是在我的购物车中，但目前无法...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iph1z9/i_want_to_copy_text_on_instacartcainstacartcom/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经尝试了几个firefox扩展名 - 可以选择和选择像老板一样选择，但都不是我想要的。 我想在购物车中选择物品，复制文本，然后将其粘贴到chatgpt中，以找到加拿大的替代品的替代品，并进行营养和成本分析。但是，我目前无法选择文本。 有人知道Instacart使用的特定方法是在产品列表上阻止文本选择吗？或者，如果有GreaseMonKey或类似的脚本可以绕过此？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fortjables     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iph1z9/i_want_to_copy_text_on_instacartcainstacartcom/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:17:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>socket.io with next.js</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipgrkz/socketio_with_nextjs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如何将socket.io与next.js与页面路由集成，“基于“文件夹”路由系统＆quot&#39;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/no-education-1799      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipgrkz/socketio_with_nextjs/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>本世纪的小费：镀铬调试器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipgqgj/tip_of_the_century_the_chrome_debugger/</link>
-      <description><![CDATA[在帖子/dev-tip-chrome/   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ameatmuncher_not_gay      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipgqgj/tip_of_the_century_the_chrome_debugger/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:03:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
