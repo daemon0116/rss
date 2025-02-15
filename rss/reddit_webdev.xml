@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 16:21:52 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个可以同时学习日语，韩语和中文的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4vh3/i_made_a_site_that_lets_you_learn_japanese_korean/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/bhadayun     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4vh3/i_made_a_site_that_lets_you_learn_japanese_korean/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome Dev工具性能面板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4jnp/chrome_dev_tools_performance_panel/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近写了一篇有关使用Chrome New Performance面板查看Core Web Vitals/Crux数据的文章。   https://iankduffy.com/articles/using-chrome-new-performance -panel-landing-page-in-in-dev-tools/  想知道其他人使用它的经历，还是是否使用过它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/isduffy     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4jnp/chrome_dev_tools_performance_panel/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我努力寻找一种简便的方法来展示我的项目，而无需支付完整的网站。因此，我构建了自己的无代码投资组合工具。你怎么认为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4g3q/i_struggled_to_find_an_easy_way_to_showcase_my/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/stephane_b     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4g3q/i_struggled_to_find_an_easy_way_to_showcase_my/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了AI工作申请机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4fag/made_an_ai_job_application_bot/</link>
+      <description><![CDATA[       寻找任何人都感到善良而有帮助的人加入某种形式试点计划并尝试新功能在向用户部署之前，提供反馈/建议，总体上帮助我们朝着正确的方向引导产品。 DMS/评论打开，感谢任何愿意每天贡献几分钟的人。 网站是 https://jobzy.ai 但是，在上周左右的大多数新功能尚未部署。很高兴将最新更改的私人版本发送给希望帮助我们提供反馈的任何人  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/th3ze     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4fag/made_an_ai_job_application_bot/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的个人网站上寻找反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq4ese/looking_for_feedback_on_my_personal_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://maepigeon.com  &gt;查看我的网站时有什么疼痛点吗？我将其放在我的简历上，因此，如果您从专业的角度也有任何批评，那么LMK。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flame_wizard     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq4ese/looking_for_feedback_on_my_personal_website/</guid>
+      <pubDate>Sat, 15 Feb 2025 15:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要我网站上的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq3mjs/need_feedback_on_my_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我在业余时间开始自我教授网络开发一段时间，最近得到了我的侧面项目足够多，可以决定将其放在线。    https://www.cortotarchives.org    这只是我的第二个大型项目我自己做所有事情 - 想法，设计，架构，代码，数据输入和部署。 （第一个项目是带有React前端的电子应用程序，它仍然有助于我上一份工作中的日常操作）。这是一个非常利基的主题 - 一个档案和数据库，涵盖了1900年代初期的特定钢琴家的遗产：p  这仍然是一项正在进行的工作，因为我需要在数据库中添加更多数据，但是我认为其中有足够的内容来展示我对项目的打算。 我会喜欢对任何事情的反馈，您认为可以帮助我，并且项目变得更好。我觉得我的设计技能可能会特别使用。但是欢迎一切！ 我也想知道这个项目是否足以帮助我担任初级Web Dev角色？如果没有，根据您所看到的，我应该专注于到达那里？目前，我作为Web开发人员有点自由职业者，因为我的编码技能 +利基知识足以让我吸引我几次演出。但是我很想能够在一年内获得全职职位。这似乎是现实的吗？ 谢谢您的时间！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/redditpianist     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq3mjs/need_feedback_on_my_website/</guid>
+      <pubDate>Sat, 15 Feb 2025 15:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>试图了解内容安全策略以及可以允许什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1iq2sn6/trying_to_understand_content_security_policies/</link>
@@ -34,81 +76,39 @@
       <pubDate>Sat, 15 Feb 2025 13:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>为什么WordPress Devs如此抗抑郁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq1rw7/why_are_wordpress_devs_so_antidrupal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经与r/ wordpress sub中的多个帖子进行了互动，即使它说话，也似乎是一致的内脏仇恨或厌恶的drupal或询问比较两个平台之间的功能。老实说，它几乎与美国民主党人谈论共和党人，反之亦然。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/forsaken_ad8120     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq1rw7/why_are_wordpress_devs_so_antidrupal/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:52:13 GMT</pubDate>
+      <title>做一些随机的东西，有人可能会喜欢它 - 艺术（如果您对闪烁的灯光敏感，请不要打开）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq1o78/made_something_random_someone_might_enjoy_it/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  警告！如果您对闪光灯敏感  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bioleague     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq1o78/made_something_random_someone_might_enjoy_it/</guid>
+      <pubDate>Sat, 15 Feb 2025 13:46:46 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个迷你每日单词游戏，您可以使用Reddit开发人员平台直接在Reddit帖子中玩</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq1rfw/i_created_a_mini_daily_word_game_that_you_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我启动了一个小型每日文字游戏，您可以直接在Reddit上玩。每天，一个新的难题都在 r/syllacrostic 中，您可以在其中解决填字游戏，跟踪您的统计信息， ，并将求解时间与其他redditors进行比较。 与 Reddit的开发人员平台将subreddit用作游戏空间的新想法。  这是一个直接链接对于今天的难题。让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jeffbritches     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iq1rfw/i_created_a_mini_mini_daily_daily_game_game_game_game_that_that_you_can/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq1rfw/i_created_a_mini_daily_word_game_that_you_can/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:51:30 GMT</pubDate>
+      <title>我的投资组合网站和项目的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq075u/feedback_on_my_portfolio_website_and_projects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我希望在我的网站和项目上进行一些反馈。我刚刚意识到，在项目中添加网站本身是一个好主意。 我包含了有关我在项目和项目中使用的技术的一些信息。 &lt; &lt; p&gt;预先感谢！   https://yasingunaydiin-portfolio.vercel.vercel.app   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/machinetranslator     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq075u/feedback_on_my_portfolio_website_and_projects/</guid>
+      <pubDate>Sat, 15 Feb 2025 12:20:17 GMT</pubDate>
     </item>
     <item>
-      <title>TryFeature -JavaScript库，用于与能力和用法键入功能进行交互</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq1qbr/tryfeature_javascript_library_for_interacting/</link>
-      <description><![CDATA[   TryFeature Hello, I would like to共享我一直在研究的JavaScript库。 如果您正在寻找一种管理应用程序中的权限和用法的方法，则此库适用于您。 ✨功能&lt; /p&gt;  功能或基于用法的功能 功能组 授予功能或功能组 检查是否可以尝试尝试功能 尝试功能 撤销功能组  它已在MIT下许可。 检查一下at： https://github.com/w999910/tryfeature      &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/u/thomas-brillion     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq1qbr/tryfeature_javascript_library_for_interacting/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:49:59 GMT</pubDate>
+      <title>[周六炫耀]健身房的投资组合网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipzcjp/showoff_saturday_portfolio_website_for_a_gym/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨。在寻求与人一起工作之前，我正在建立一个投资组合。这是一个虚构体育馆的网站。这是为了有效地提供访问者的信息，并希望传达出专业和积极的形象。    https://trackandfieldyork.netlify.app.app     我希望有任何反馈。如果您能想象出于特定原因访问该网站，例如找出有关...的信息，并查看您可以轻松找到该信息，那真是太神奇了。  谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/joyride0     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipzcjp/showoff_saturday_portfolio_website_for_a_gym/</guid>
+      <pubDate>Sat, 15 Feb 2025 11:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>创建的React视频编辑器 - 开源并准备使用！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq1kuz/created_react_video_editor_open_source_and_ready/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;    https://preview.redd.it/q5yjfb9o3bje1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=f763e67ddc2e4b2600259e2d275a54a3f716ccec   repo链接： https://github.com/designcombo/reaect-video-editor    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/snapmotion     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq1kuz/created_react_video_editor_open_source_and_ready/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:41:52 GMT</pubDate>
+      <title>与我一起构建这个：我正在建立一个以社区为导向的小型输入验证库，专注于安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipycpk/build_this_with_me_im_building_a_communitydriven/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我知道，现有架构验证，例如YUP和ZOD很棒。 我个人在小型项目中使用它，在小项目中，我没有很多表格来证明所有常见模式验证器的设置是合理的，但是与此同时，我需要可靠的输入验证。  这也是一种有趣的做法。 如果您看到了任何未来，请随时做出贡献。尤其是如果您在XSS和输入安全性中有知识。   fideo demo（屏幕记录）    demo 。  github    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ammarhalees     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipycpk/build_this_with_me_im_building_a_communitydriven/</guid>
+      <pubDate>Sat, 15 Feb 2025 10:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>我让人们在我的个人页面上留下手绘标志</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq1gkn/i_let_people_leave_a_handdrawn_sign_on_my/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/sshivreddit     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq1gkn/i_let_people_leave_a_handdrawn_sign_on_my/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了Forms.md，开发人员首先，开源类型替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq185x/i_built_formsmd_a_developerfirst_open_source/</link>
-      <description><![CDATA[    [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq185x/i_built_formsmd_a_developerfirst_open_source/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了Forms.md，开发人员首先，开源类型替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq17u0/i_built_formsmd_a_developerfirst_open_source/</link>
-      <description><![CDATA[    [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq17u0/i_built_formsmd_a_developerfirst_open_source/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以推荐什么休息/发布请求客户端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq0vg7/what_restpost_request_client_for_windows_can_you/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨all， 我正在寻找一个简单的独立客户端应用程序，该应用程序运行Windows，该应用程序允许我发送发布/休息向服务器的请求（用于检查 /测试API）。&lt; / p&gt; 我知道SOAPUI，也支持，但是花了很多时间（更多）时间来配置他最简单的请求，并且您需要拥有Java ，并且不作为独立应用程序。它很好，实际上（对我来说）在其他一些方案中用于测试（肥皂比POST更多） 过去，Postman插件对我来说很好 - 但是我对此有问题（限制并希望我付款）。  您还有其他可以推荐的可比较应用程序吗？  简单请求（标题和身体字段），无需项目，...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/paulfedsn     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq0vg7/what_restpost_request_client_for_windows_can_you/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法在Vercel中托管烧瓶 + index.html应用程序，请指导我</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzxxq/im_unable_to_host_my_flask_indexhtml_app_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   apis写为    u/app.route（&#39;//api/search&#39;，methods = [[ &#39;post&#39;]））  ，并将请求发送为    const response =等待fetch（endpoint，{方法：&#39;post&#39;，headers：{&#39;&#39; content-type&#39;：&#39;application/json&#39;，}，body：json.stringify（{query}），}）;   我有vercel.json，文件结构正确，index.html在模板中，仍然无法部署，任何人都可以帮助我  404 POST请求错误&lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kingofpyrates     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzxxq/im_unable_to_host_my_flask_indexhtml_app_in/</guid>
-      <pubDate>Sat, 15 Feb 2025 12:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关我的简历，英国的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzqtx/seeking_feedback_on_my_cv_uk_based/</link>
-      <description><![CDATA[     我的简历足以开始申请全栈角色？ 大家好！在与一群招聘人员联系之前，我正在寻求对我的简历的建设性批评，然后将针对单个职位应用程序量身定制此简历（我只想开始一个强大的基本简历）。 我目前的堆栈是React，Node，Express，PostgreSQL，但我也对新技术开放。 我遇到的一些特定问题：  是我的摘要太通用或我应该指定我精通/希望与之合作的堆栈吗？ 我应该在工作经验中提及兼职吗？还是那是脚上的射击？ 最后一个子弹点是无关紧要的？我之所以包括它是因为我认为与利益相关者联络是一项重要的软技能。 我的技能部分是否过分？例如，将黑曜石作为笔记软件。 IT/3IQ1T3YAGAJE1.PNG？width = 689＆amp;格式= png＆amp; auto = webp＆amp＆amp＆amp＆amp＆amp＆am = 494b0b8f5a222874873de2b2b230eee39a2cc5112c5112c41宽度= 689＆amp;格式= png＆amp; auto = webp＆amp; s = 494B0B8F5A222874873DE2B230EE39A2CC5112C41    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jwallis46     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzqtx/seeking_feedback_on_my_cv_uk_based/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了世界上最过度设计的时区时钟-MeridianApp.co</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzn3k/i_made_the_worlds_most_overengineered_time_zone/</link>
-      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/pandaman1999     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzn3k/i_made_the_worlds_most_overengineered_time_zone/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:42:40 GMT</pubDate>
+      <title>我创建了一个网站，可让您从标准普尔500指数中随机选择股票，然后立即查看它们。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipw2ad/i_made_a_site_that_lets_you_randomly_select/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/synfinium     [链接]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipw2ad/i_made_a_site_that_lets_you_randomly_select/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
