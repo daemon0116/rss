@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 08:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:20:28 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个极简主义的反馈工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</link>
+      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/uny_perspective_291     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</guid>
+      <pubDate>Sat, 15 Feb 2025 08:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>密码重置表格设计</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  当我制作马铃薯玉米饼时，这一切都开始了，希望有一个带有一个的应用程序计时器，食谱和清单。首先，这只是一个小实验 - 对简单的小部件进行介绍，使它们在React中，没有GitHub或其他任何东西，然后我需要将它们分组为面板。 快速前进三周，我在这里是，在大约4个小时的睡眠中跑步，因为我无法停止发展这种胡说八道。我意外地创造了生产力野兽（或者也许是睡眠剥夺怪物）。 所以，我应该继续发展吗？也许闭上眼睛，或者在我的创作成为我的一生之前学会休息一下？我是在杰作上，还是我刚刚为慢性失眠做了完美的借口？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/eduardez_     [link]  ＆＃32;  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipppw7/i_was_bored_so_i_built_a_widget_editor_but_now/</guid>
       <pubDate>Sat, 15 Feb 2025 00:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要在网站中有音乐播放器（应用程序？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipozmj/want_to_have_a_music_player_in_websiteapp/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！最近，我一直想创建自己的网站/WebApp，这是关于我自己的Webbio。目前，我想拥有一个播放FLAC文件存储在文件夹中的音乐播放器。但是，我试图找出最佳方法。我已经看到JS诸如React和Express之类的东西可以用于此方法，我想知道最好的方法是什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mcbobetybeep     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipozmj/want_to_have_a_music_player_in_websiteapp/</guid>
-      <pubDate>Sat, 15 Feb 2025 00:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
