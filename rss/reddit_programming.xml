@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 13:19:17 GMT</lastBuildDate>
+    <item>
+      <title>为什么OOP和FP是两个主要范式</title>
+      <link>https://www.reddit.com/r/programming/comments/1iq0rlf/why_oop_fp_are_the_two_main_paradigms/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/okmemetranslator     [链接]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iq0rlf/why_oop_fp_are_the_two_main_paradigms/</guid>
+      <pubDate>Sat, 15 Feb 2025 12:56:13 GMT</pubDate>
+    </item>
     <item>
       <title>用散射收集模式缩放分布式系统</title>
       <link>https://www.reddit.com/r/programming/comments/1ipzjs2/scaling_distributed_systems_with_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ismeront     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iprtis/lesson_3_programming_the_shooter_game_in/</guid>
       <pubDate>Sat, 15 Feb 2025 02:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用简单的实体组件系统和发电算法在JavaScript中基于转弯的Roguelike</title>
-      <link>https://www.reddit.com/r/programming/comments/1ippca5/turnbased_roguelike_in_javascript_using_simple/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/hammybonanza     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ippca5/turnbased_roguelike_in_javascript_using_simple/</guid>
-      <pubDate>Sat, 15 Feb 2025 00:29:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

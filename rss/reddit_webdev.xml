@@ -4,13 +4,13 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 13:19:42 GMT</lastBuildDate>
     <item>
-      <title>我在《野外》中发现的具有不良可读性的博客。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq071x/a_blog_with_bad_readability_that_i_found_in_the/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/mechanicawkward55​​45      [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq071x/a_blog_with_bad_readability_that_i_found_in_the/</guid>
-      <pubDate>Sat, 15 Feb 2025 12:20:07 GMT</pubDate>
+      <title>您可以推荐什么休息/发布请求客户端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq0vg7/what_restpost_request_client_for_windows_can_you/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨all， 我正在寻找一个简单的独立客户端应用程序，该应用程序运行Windows，该应用程序允许我发送发布/休息向服务器的请求（用于检查 /测试API）。&lt; / p&gt; 我知道SOAPUI，也支持，但是花了很多时间（更多）时间来配置他最简单的请求，并且您需要拥有Java ，并且不作为独立应用程序。它很好，实际上（对我来说）在其他一些方案中用于测试（肥皂比POST更多） 过去，Postman插件对我来说很好 - 但是我对此有问题（限制并希望我付款）。  您还有其他可以推荐的可比较应用程序吗？  简单请求（标题和身体字段），无需项目，...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/paulfedsn     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq0vg7/what_restpost_request_client_for_windows_can_you/</guid>
+      <pubDate>Sat, 15 Feb 2025 13:02:13 GMT</pubDate>
     </item>
     <item>
       <title>我无法在Vercel中托管烧瓶 + index.html应用程序，请指导我</title>

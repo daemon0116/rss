@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 13:19:12 GMT</lastBuildDate>
+    <item>
+      <title>乔普林（Joplin）不断删除我的笔记，我的其他选择是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1iq0khi/joplin_keeps_deleting_my_notes_what_are_my_other/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在使用joplin和oneDrive作为我的同步后端（从仍定期使用Windows的时候，我的保留）。我的两个最经常编辑的音符有时只是随机消失，我厌倦了每周或每两周都必须从备份中恢复它们。我在Github上发现的类似，未解决的问题的数量非常令人担忧。我需要一种方法来在台式机，笔记本电脑和电话之间同步标记文件，那么我的其他选择是什么？  该解决方案需要在Linux和Android上工作，需要离线工作（显然是同步），并且需要能够在不在同一LAN上的设备之间同步。开源是强烈的首选，强制性帐户/订阅是一个破坏交易的人。 我知道存在黑曜石，但是基于其网站，它看起来需要使用一个帐户，并且仅支持同步同步通过付费后端，所以我没有尝试过。 我尝试了自我托管最小的NextCloud实例，但是设置是一个痛苦，Android应用程序很慢，很笨拙，编辑器试图成为wysiwyg，而不是让我将其编辑为纯文本。  据我所知，在Android上仍然损坏了同步，因此我不能将其用作替代同步后端。 使用git或svn等VC作为同步后端似乎是过度杀伤力，并且比我喜欢的不太自动。我也不确定Android上的GUI VCS客户的选项如何。我不会在手机上使用CLI，它可能会给我手工抽筋和偏头痛。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cybeatb     [link]   ＆＃32;   [commient]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iq0khi/joplin_keeps_deleting_my_notes_what_are_my_other/</guid>
+      <pubDate>Sat, 15 Feb 2025 12:44:00 GMT</pubDate>
+    </item>
     <item>
       <title>在Meta工作，局外人完全误会了什么？</title>
       <link>https://www.reddit.com/r/software/comments/1ipzv90/whats_one_thing_about_working_at_meta_that/</link>
@@ -13,9 +20,9 @@
       <pubDate>Sat, 15 Feb 2025 11:58:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>YouTube到有效的MP3转换器？</title>
       <link>https://www.reddit.com/r/software/comments/1ipykn9/youtube_to_mp3_converter_that_works/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找一个在线转换器，该转换器将允许我转换长视频并在手机上以mp3下载。  i &#39;ve检查了subreddit搜索，但一切都倒塌，阻止，不起作用，或者用于PC。我曾经使用x2mate，但它停止工作。我尝试了Y2MATE，它曾经起作用，但是当我再次尝试时没有起作用。有什么建议吗？我在英国，会影响某些网站的访问  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/crottedDeat     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ipykn9/youtube_to_mp3_converter_that_works/</guid>
       <pubDate>Sat, 15 Feb 2025 10:23:50 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我的列表： 付费：opus目录，win rar，affinity suits，upnotes，anki，anki，solid Explorer  订阅：困惑，chatgpt，光标AI，标准音符，质子驱动器，Midjourney，Dropbox，Microsoft Office 365，Norton Antivirus    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_janc_      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ipe34y/any_software_worth_buying_subscribed/</guid>
       <pubDate>Fri, 14 Feb 2025 16:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>转换我的视频文件导致不同步音频。这似乎是一个非典型情况。</title>
-      <link>https://www.reddit.com/r/software/comments/1ipcu0z/converting_my_video_files_result_in_out_of_sync/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用的是使用FFMPEG转换视频的格式工厂。但是，当我尝试将H264 MP4 VIDE转换为H264或H265 MP4视频时，音频仅在与Windows相关的媒体播放器（电影＆amp; TV，新媒体播放器应用程序等）中略有同步。它不是逐渐或恒定的偏移问题。就像有人在不好的编辑视频中翻译/交谈的人是在翻译/谈论的一样。与音频相比，唇部运动似乎较慢/偏离（可能延迟了0.5秒？但似乎是随机的）。当我在VLC上打开相同的视频时，没有这样的问题。我试图将这些视频复制到手机上，并且它们也正确地播放。 所以idk为什么它不适用于多个默认的Microsoft Apps/Programs？原始视频文件正常工作，但是一旦我用格式工厂触摸它们，它们就会变得像这样。 我的选择是Adobe Media Encoder和Handbrake，它们都没有这个问题，但是它们覆盖了原始的文件创建日期，所以我被FFMPEG/格式工厂所困。 有人知道为什么这是吗？考虑到我更喜欢与VLC相比的其他媒体玩家，我希望他们能在所有媒体播放器上正确比赛。这个问题使使用这些新文件感到不可信，而且Premiere Pro无法播放这些文件中的一些，从而使编辑不可能。 格式工厂没有命令行功能（我不&#39; t想要直接使用FFMPEG），但它具有一个可以添加其他参数/​​命令的地方，一个FFPMEG命令可以使H265视频与Apple设备兼容。是否有一些命令可以解决此奇怪的音频问题，仅与FFMPEG对话有关？ 我在这里发布了此命令，因为FFMPEG Sub立即删除了此帖子而没有给出任何原因。  &lt;！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/altruisticlist6000     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ipcu0z/converting_my_video_files_result_in_out_of_sync/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:17:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
