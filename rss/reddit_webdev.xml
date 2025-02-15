@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 14:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 15:18:37 GMT</lastBuildDate>
+    <item>
+      <title>试图了解内容安全策略以及可以允许什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq2sn6/trying_to_understand_content_security_policies/</link>
+      <description><![CDATA[在了解某些方面的安全含义。 我到目前为止得到的东西 - 请正确，如果我写了错误的话。  不安全inline    - ＆gt;删除执行Inline代码  - ＆gt;的限制。不应使用，因为这允许XSS攻击，通过将代码直接注入站点（内联）并在另一个（真正的原始）域的上下文中执行。  不安全。 -eval &lt; /strong&gt;   - ＆gt;删除执行eval/settimeout/setInterval   - ＆gt;的限制不应该使用...允许什么？这实际上是我的第一个问题。 使用Settimeout/setInterval的情况是什么而无需不安全的eval指令？我将如何在JavaScript中使用延迟/时间触发的操作来实现任何内容？匹配的“&gt; https://www.w3.org/tr/csp2/#source-list-guid-matching ）   特别是对于默认的src和script src指令，政策作者应意识到允许“数据：” URL等同于不安全的内线，允许“ blob：;”或“文件系统：” url等于不安全。由于事实，我不明白这些是如何不安全的。 这些指令有一种允许特定的斑点/文件系统源的方法 - 事实证明是安全的吗？ （如果一个旧库仍在使用它们，但我知道建筑时间的确切来源吗？）   所以我的问题总结：  &lt; ul&gt; 什么不安全效果允许攻击者做什么？  是否有关于如何避免使用settimeout/setInterval的实践？  blob和文件系统如何等于不安全效果，而不是不安全的内线？ 是否有一种方法可以允许BLOB和文件系统作为源，但是减少了安全性影响？ 为什么它被称为“不安全”。而不是“不安全” （这里没有母语的人）？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/paulfedsn     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq2sn6/trying_to_understand_content_security_policies/</guid>
+      <pubDate>Sat, 15 Feb 2025 14:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>50K+免费的尾风CSS UI组件和模板|我的第一个公开发射</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq2b53/50k_free_tailwind_css_ui_components_templates_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，开发人员！ 🌟我为您创建了这个很棒的  50,000尾风CSS UI组件和模板。无论您是刚开始还是编码多年，这里都有可以帮助您的项目发光的东西。您会发现各种各样的元素，可以根据自己的喜好进行定制。猜猜是什么？全部免费使用！只是一个头，组件是AI生成的，因此您可能在这里和那里遇到一些错误。该网站目前正在Beta中，因此请期待一些错误。如果您错过任何组件，请告诉我，我会添加它们。 网站： https://uipilot.dev/ &lt; /a&gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/e否则falcon     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1IQ2B53/50K_FREE_TAILWIND_CSS_UI_COMPONENTS_COMPONENTS_TEMPLATES_MMY/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq2b53/50k_free_tailwind_css_ui_components_templates_my/</guid>
+      <pubDate>Sat, 15 Feb 2025 14:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIX上的OTP验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iq29bm/otp_verification_on_wix/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找某人为我使用Wix构建的沙拉餐厅网站建造一个注册页面。任何人都可以帮忙做这个小事情吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iLovelaughinglmao     [link]  ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iq29bm/otp_verification_on_wix/</guid>
+      <pubDate>Sat, 15 Feb 2025 14:17:03 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个AI电影发现者！使用其情节或简短描述搜索电影或电视节目。 [星期六炫耀]</title>
       <link>https://www.reddit.com/r/webdev/comments/1iq1unp/i_created_an_ai_movie_finder_search_for_a_movie/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/pandaman1999     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipzn3k/i_made_the_worlds_most_overengineered_time_zone/</guid>
       <pubDate>Sat, 15 Feb 2025 11:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSAP不与Lenis合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzn2a/gsap_dont_work_with_lenis/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，实际上是在努力使GSAP和LENIS一起工作，   ＆lt;！doctype html＆gt;！ ＆lt; html lang =; ＆lt; head＆gt; ＆lt; meta charset =&#39;utf-8＆quot /＆gt; ＆lt; meta名称=“视口” content =; width =设备宽度，初始尺度= 1.0＆quot; /＆gt; ＆lt; meta http-equiv =＆quot x-ua兼容; content =; ie = edge＆quot＆quot; /＆gt; ＆lt; title＆gt; html + css＆lt;/title＆gt; ＆lt; link rel =“样式表” href =“ styles.css” /＆gt; ＆lt;/head＆gt; ＆lt; style＆gt; html，身体{高度：100％;溢出：隐藏；字体家庭：sans-serif; } .scrollWrapper {高度：100VH;溢出：隐藏；位置：绝对；顶部：0; } .scrollcontent {高度：100％;溢出：滚动； -webkit-overflow-scrolling：touch; }节{width：100VW;最大宽度：100％；身高：100VH；显示：Flex; } H2 {Align-felt：Center; }＆lt;/style＆gt; ＆lt;身体＆gt; ＆lt; div class =&#39;scrollWrapper＆quot; gt; ＆lt; div class =&#39;scrollContent＆quot; gt; ＆lt; e节＆lt; section style =; quote =&#39;background：red＆quord＆gt;＆lt; h2＆gt;我的标题1＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; section style =;背景：蓝色＆quot＆gt;＆lt; h2＆gt;我的标题2＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题3＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题4＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt; e节＆lt;＆lt; h2＆gt;我的标题6＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt; section＆gt;＆lt; h2＆gt;我的标题8＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题9＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt; e节＆lt;＆lt; h2＆gt;我的标题10＆lt;/h2＆gt;＆lt;/section＆gt; ＆lt;/div＆gt; ＆lt;/div＆gt; ＆lt;/body＆gt; ＆lt; script src =＆quot; https：//cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js&quot;完整性=＆quot; sha512-7ehrwcbykk4d9g/6td/mhkf ++ eothwpnm9wobxtpubwm67zeaffc+hrdoe2gankeocly/vxelviqwiqwvcdk7qscg = = =＆quot crossorigin =&#39;匿名referrerpolicy =＆quot“ no-treferrer; quot” ＆gt;＆lt;/script＆gt; ＆lt; script src =＆quot; https：//cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/scrolltrigger.min.js&quot;完整性=＆quot; sha512-onmtrkjbkz8m1tnqqdugblowlh0ohfzmxyrnebz+yocc5tqr/zaksthzhuv0hiyukeiqeqeqeqexeyqxeynnxeynxcvntok5g ==＆quot crossorigin =&#39;匿名referrerpolicy =＆quot“ no-treferrer; quot” ＆gt;＆lt;/script＆gt; ＆lt; script src =＆quot; https：//cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.0.42/dist/lenis.min.min.js＆js&quot; ＆lt; script＆gt; gsap.registerplugin（scrolltrigger）; const wrapper = document.queryselector（; scrollWrapper;）; const content = document.queryselector（＆quot; scrollcontent; quot;）; const lenis = new Lenis（{包装器：包装器，内容：内容，持续时间：2，放松：（t）=＆gt; math.min.min（1，1.001 -Math.pow（2，-10 * t）），EventStarget： document.documentElement，}）;功能Raf（time）{lenis.raf（time）; scrolltrigger.update（）; requestAnimationFrame（RAF）; } requestAnimationFrame（RAF）; scrolltrigger.defaults（{scroller：wrapper}）; scrolltrigger.scrollerproxy（包装器，{scrolltop（value）{return grength.length？lenis.scrollto（value，{持续时间：0，立即：trighatization：trime}）：lenis.scroll;}左：0，宽度：window.innerwidth，高度：窗口。 const部分= gsap.utils.toArray（“部分”）; sections.map（（（部分，index）=＆gt; {让tl = gsap.timeline（{持续时间：1，scrolltrigger：{trigger：trigger：proct，标记：true，markers：true，scrub：true，start，start：＆quot&#39;top＆quort＆quort＆quort＆quort＆quort＆quort＆quort＆quot&#39; ＆quot&#39;top＆quot&#39;}，}）; ＆lt;/script＆gt; ＆lt;/html＆gt;     https://codesandbox.io/p/sandbox/sandbox/m877qzq 这里我的预览代码，GSAP似乎不了解DOM或类似的东西。有人已经得到了这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzn2a/gsap_dont_work_with_lenis/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个本地的通用文件转换器，它不会将您的文件发送到粗略的服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipzkp3/i_made_a_local_universal_file_converter_that/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/jakecoolguy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipzkp3/i_made_a_local_universal_file_converter_that/</guid>
-      <pubDate>Sat, 15 Feb 2025 11:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经编辑了200多个有用的网站/应用的列表，以备一系列用途</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_list_of_200_useful_websites_apps/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我只是想分享自己的网站，其中汇总了200多个网站，软件和应用程序的列表。这些范围从有用的网站，资源和其他创造性爱好（例如艺术，音乐，摄影）。 此列表由我手工挑选。没有网络报废或列出大量缠身或狡猾的网站。只有有用（或有趣的）网站。通常是免费的开源。尽管还列出了付费应用程序。 我可能应该添加一个搜索功能，但是您可以通过单击顶部的标签过滤器来组织几个类别，例如免费，付费，Windows，Mac和Linux页面。 如果您有更多内容，则认为应该添加到列表中。请告诉我！每当我有空闲时间并有要添加的网站时，我都会在列表中添加更多网站。 我认为我的其余网站对这里的人来说不会太有趣，但是请随时检查一下     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unerage_cdcruz     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_a_af_200_200_useful_websites_apps/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipywlb/ive_compiled_a_list_of_200_useful_websites_apps/</guid>
-      <pubDate>Sat, 15 Feb 2025 10:48:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
