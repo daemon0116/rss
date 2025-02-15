@@ -4,20 +4,20 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 15 Feb 2025 16:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 17:18:24 GMT</lastBuildDate>
+    <item>
+      <title>有什么免费替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iq578i/any_free_alternatives_for_noteshelf/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mysterious_unique     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iq578i/any_free_alternatives_for_noteshelf/</guid>
+      <pubDate>Sat, 15 Feb 2025 16:35:25 GMT</pubDate>
+    </item>
     <item>
       <title>ServicableBus-开源Azure Servicebus软件包</title>
       <link>https://www.reddit.com/r/opensource/comments/1iq4ldf/the_serviceablebus_open_source_azure_servicebus/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  第一个计时器海报，长时间开发人员。我一直在为.NET制作一个Nuget软件包，以使与Microsoft库更容易地使用Azure Service Bus，通过一些简单的配置和接口，您可以非常快速地设置并运行并运行消耗和发布来自队列和主题的消息。  该软件包非常早期的WIP，但到目前为止的功能是： 发布事件，向主题和排队排队消费主题中的事件，并在消息消费错误上排队死亡的字母dead torys to Message Expression to Message Exploting错误遇到的属性袋中消息标头 计划功能的简短但不完整的列表是： 使用可配置的延迟和最大交付计数，使用OTEL使用Otel实现to To to to to to to to to to t to允许应用程序可选地收集有关AWS SNS/SQS等效实现的包装使用情况的数据 这是早期的日子，所以请保持温和，但我很想听到有关软件包或代码库的任何初步想法。感谢您的考虑   https://github.com/gthompson90/servicablebus  div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/m4l90     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iq4ldf/the_serviceablebus_open_source_azure_servicebus/</guid>
       <pubDate>Sat, 15 Feb 2025 16:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>银软件组</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iq4gw3/silver_software_group/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们制作开源软件，导致我们仍然是新的，我们需要一个社区， https://www.reddit.com/r/silversoftware/    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_clock732     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iq4gw3/silver_software_group/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:01:58 GMT</pubDate>
     </item>
     <item>
       <title>OpenVoiceos基金会上线</title>
