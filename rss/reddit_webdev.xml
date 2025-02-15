@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 07:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 08:21:58 GMT</lastBuildDate>
+    <item>
+      <title>密码重置表格设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我正在构建一个密码重置表单，并获得了所有设计和功能，并且想知道我还能清理它吗？我特别不喜欢如何对齐密码要求我喜欢它们以中心为中心，但看起来不正确。提交由＆＃32; /u/u/u/saajaadeen     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:54:34 GMT</pubDate>
+    </item>
     <item>
       <title>扩展语言更改？ |从ChineSeSimplified（ZH）到Eng</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipw0aw/extension_language_change_from_chinesesimplified/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！最近，我一直想创建自己的网站/WebApp，这是关于我自己的Webbio。目前，我想拥有一个播放FLAC文件存储在文件夹中的音乐播放器。但是，我试图找出最佳方法。我已经看到JS诸如React和Express之类的东西可以用于此方法，我想知道最好的方法是什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mcbobetybeep     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipozmj/want_to_have_a_music_player_in_websiteapp/</guid>
       <pubDate>Sat, 15 Feb 2025 00:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级评论为网站添加了一个新功能！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;     编辑：好的：好的，那么帖子尚未删除，所以我得到了域： https://dailywebsiteupdates.store/  是的，它是一个.Store后缀，但它就像该域的一美元  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</guid>
-      <pubDate>Fri, 14 Feb 2025 23:48:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
