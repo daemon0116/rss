@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 05:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 06:25:41 GMT</lastBuildDate>
+    <item>
+      <title>如何减少API响应尺寸</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipv6jh/how_to_reduce_api_response_size/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个Angular 16应用程序，该应用程序取决于后端中基于GRPC的API。 API端点之一是将主要数据加载到应用程序中。说，它加载了5个大对象的集合。 1是交易主要数据，其他4个是其他较小的对象。我的组织中的API平台将响应大小限制为10MB。  对于较大的查询，此端点很容易超过它。这是一个财务应用程序，主要数据集用于加载主要职位清单。  如何重新设计API，以使我将较小的数据很多发送回到前端以保持在10MB限制之内，但是请用户界面等待所有数据返回。  如果问题不完全清楚，请原谅我。我正在学习这个空间。谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coffeemahn     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipv6jh/how_to_reduce_api_response_size/</guid>
+      <pubDate>Sat, 15 Feb 2025 06:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何降低Next.js客户端网站的托管成本？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipuwwa/how_to_reduce_hosting_costs_for_nextjs_client/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i使用next.js为客户端构建网站，并在AWS Lightsail上托管它们。但是，我注意到与WordPress相比，托管成本明显更高，许多客户熟悉。 我正在考虑将有效载荷CMS切换到降低成本，同时保持无头的方法。   有效载荷CMS是否会有助于减少托管费用，而AWS-JS网站？    最佳预算友好型托管选项是什么对于下一个。JS +有效负载设置？   是否还有其他CMS解决方案可以节省成本，同时保持灵活性和性能？    来自面临类似挑战的人的任何建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/devzooom     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipuwwa/how_to_reduce_hosting_costs_for_nextjs_client/</guid>
+      <pubDate>Sat, 15 Feb 2025 05:50:57 GMT</pubDate>
+    </item>
     <item>
       <title>使用条纹的自由职业者：您如何在不麻烦的情况下处理固定付款？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipudot/freelancers_using_stripe_how_do_you_handle/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>我应该创建2个HTML文件吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipqw4c/should_i_create_2_html_file/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一项任务是构建带有着陆页和主应用程序页面的两页网络应用程序，但是我不确定是否使用两个将HTML文件分开或使用DOM管理页面。由于我仍在学习，因此我对采用哪种方法有些困惑。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/naive_bus8542     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一项任务是构建带有着陆页和主应用程序页面的两页网络应用程序，但是我不确定是否使用两个将HTML文件分开或使用DOM管理页面。由于我仍在学习，所以我对采用哪种方法有些困惑。&lt; /p&gt;  ------- 登录页面是静态的，它直接指向Web应用程序，哪些功能作为文件的简单转换器，使用API​​运行。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/naive_bus8542     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipqw4c/should_i_create_2_html_file/</guid>
       <pubDate>Sat, 15 Feb 2025 01:51:39 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</guid>
       <pubDate>Fri, 14 Feb 2025 21:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenis滚动，不要滚动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipl873/lenis_scroll_dont_scroll_the_dom/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，目前试图将Lenis和GSAP与HTML一起使用 - ＆gt;溢出：隐藏，但Lenis似乎在滚动GSAP标记时滚动DOM。 您可以在此处看到： https://codesandbox.io/p/sandbox/nskhzh?file=%2Findex.html%3A121%2C12C1 我的html被隐藏了，因此需要此设置，但无法弄清楚如何使其工作  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipl873/lenis_scroll_dont_scroll_the_dom/</guid>
-      <pubDate>Fri, 14 Feb 2025 21:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人被“ PayPal合作伙伴计划”反复打电话？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  他们在过去30天内打了6次，每次留下有关加入PayPal合作伙伴计划的消息。从本质上讲，这似乎是您出售客户PayPal商家服务的情况，并且您将获得削减。这是合法的贝宝（PayPal）交流。 是，我讨厌贝宝（Paypal）。他们大约在15年前从我那里偷走了$ 1000，此后我一直拒绝使用它们。我永远不会向任何人推荐它们。 他们也在一个月前通过电子邮件伸出来，但幸运的是一次。 *Elance上的客户同意一个$ 3000的项目，工作已发布。在他们批准工作并释放托管资金的里程碑中。最后，该项目爬行变得不合理，并表示另外500美元将涵盖所需的其他工作。客户不同意，而是取消了该项目，并声称他们在支付了3000美元后不再需要它，然后追溯地对他们可能会有的所有交易提出了质疑。 Elance与PayPal就该项目的条款进行了沟通，但PayPal忽略了所有文件的所有文件，他们同意释放提供的服务付款并退还了总计1500美元的款项，其中500美元我同意与客户同意。 。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exitof99     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</guid>
-      <pubDate>Fri, 14 Feb 2025 20:14:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
