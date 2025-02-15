@@ -4,7 +4,49 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sat, 08 Feb 2025 01:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 01:20:28 GMT</lastBuildDate>
+    <item>
+      <title>欢迎在轮毂上的Fireworks.ai🎆</title>
+      <link>https://huggingface.co/blog/fireworks-ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fireworks-ai</guid>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用数学验证修复开放LLM排行榜</title>
+      <link>https://huggingface.co/blog/math_verify_leaderboard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/math_verify_leaderboard</guid>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10亿分类</title>
+      <link>https://huggingface.co/blog/billion-classifications</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/billion-classifications</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从块到块：加速上载和下载枢纽</title>
+      <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/from-chunks-to-blocks</guid>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为视频生成构建很棒的数据集</title>
+      <link>https://huggingface.co/blog/vid_ds_scripts</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/vid_ds_scripts</guid>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放的阿拉伯LLM排行榜2</title>
+      <link>https://huggingface.co/blog/leaderboard-arabic-v2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-arabic-v2</guid>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开源深研究 - 释放我们的搜索代理商</title>
       <link>https://huggingface.co/blog/open-deep-research</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/smolagents-can-see</guid>
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smolvlm的生长较小 - 引入了250m和500m型号！</title>
-      <link>https://huggingface.co/blog/smolervlm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/smolervlm</guid>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱面孔和友谊伙伴在枢纽上进行增压模型部署</title>
-      <link>https://huggingface.co/blog/friendliai-partnership</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/friendliai-partnership</guid>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Timm❤️变形金刚：使用任何与变压器的Timm模型</title>
-      <link>https://huggingface.co/blog/timm-transformers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/timm-transformers</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍对文本生成推理的多背景（TRT-LLM，VLLM）支持</title>
-      <link>https://huggingface.co/blog/tgi-multi-backend</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/tgi-multi-backend</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用句子变形金刚训练400倍的静态嵌入模型更快</title>
-      <link>https://huggingface.co/blog/static-embeddings</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/static-embeddings</guid>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在空间上免费运行comfyui工作流程</title>
-      <link>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</guid>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

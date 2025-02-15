@@ -4,111 +4,111 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Feb 2025 23:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 01:22:25 GMT</lastBuildDate>
     <item>
-      <title>XMPP客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikzfv2/xmpp_client/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个访问者，使用XMPP smack库灵感启发，甚至还不是MVP，但我可以发送消息，如果有人有兴趣贡献   https://github.com/ismael221/thecompose     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/uperne_welder1175     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikzfv2/xmpp_client/</guid>
-      <pubDate>Sat, 08 Feb 2025 22:24:34 GMT</pubDate>
+      <title>如何与其他熟练的编码人员联系以进行开源协作？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ippvgq/how_can_i_connect_with_other_skilled_coders_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我希望与其他擅长编码并积极从事开源项目的开发人员建立联系。我很想在我可以的地方进行协作，学习和贡献。 找到并与从事有趣的开源项目的人们接触的最佳方法是什么？另外，如果这里有人在做某事并向贡献者开放，请告诉我！ 谢谢！ 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/shows_adi76     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ippvgq/how_can_i_connect_with_other_skilled_coders_for/</guid>
+      <pubDate>Sat, 15 Feb 2025 00:56:59 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个小的pomodoro计时器，以跟踪我的生产力和中断。香草JS + NETRINO = 2.5MB。 Github上的详细信息</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iky8h9/i_made_a_tiny_pomodoro_timer_to_track_my/</link>
-      <description><![CDATA[   /u/speckart     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iky8h9/i_made_a_tiny_pomodoro_timer_to_track_my/</guid>
-      <pubDate>Sat, 08 Feb 2025 21:31:07 GMT</pubDate>
+      <title>我建立了一个开源网站，将Wikipedia转换为交互式时间表，以便您可以比较不同的历史人物</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipn402/i_build_an_open_source_website_transforming/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  可以在此处检查实时演示   https://wiki-timeline.com/timeline/timeline/michelangelo%7cleonardo_da_vinci%7craphael      github在这里，请考虑有兴趣，请考虑有贡献， &gt;   https://github.com/wenzhenl/wikitimeline       &lt;！ - &gt;＆＃32;提交由＆＃32; /u/u/Any-Blacksmith-7432       [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipn402/i_build_an_open_source_website_transforming/</guid>
+      <pubDate>Fri, 14 Feb 2025 22:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>开源合规性软件：解锁免费访问清单和知识</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我正在开发一个开源合规平台，以使SOC2和ISO 27001认证流程民主化。当前的合规性格局具有重大的成本障碍，对于初创企业和小型企业来说可能特别具有挑战性。我相信安全合规性应该更容易访问。   github存储库    关键目标： - 创建一个免费的，开源的替代品，替代Vanta之类的平台 - 简化SOC2和ISO 27001的合规过程 - 建立一种以社区为导向的安全合规性 我很想听听您的想法如下： - 您在现有合规性解决方案中经历的痛点 - 您认为对于此平台所必需的功能 - 对此空间的潜在挑战或考虑 我已经根据成功的SOC2参与而开发了初始内容与客户。后端实施几乎已经完成，接下来的几天将开始前端开发。我的目标是在两周内准备好MVP！ 让我们可以使每个人都可以访问！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/gearnode     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</guid>
-      <pubDate>Sat, 08 Feb 2025 17:26:54 GMT</pubDate>
+      <title>有没有寻找志愿产品经理来贡献的FOSS团队？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipl4gw/any_foss_teams_looking_for_a_volunteer_product/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，每个季度我都会选择一个新项目自愿参加。支持当地公共服务，或指导学生或新毕业生。这次我以为我是我最近开始支持这个想法以来会提供的。 我担任非技术产品经理，因此，如果您需要帮助清理积压待说，优化您的UX或帮助营销产品，让我知道！ 理想情况下，我想从事金融或与AI相关的产品，但很乐意为任何具有积极影响的事物做出贡献。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/first_sky_9889      r/opensource/comment/1ipl4gw/any_foss_teams_looking_for_a_volunteer_product/“&gt; [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipl4gw/any_foss_teams_looking_for_a_volunteer_product/</guid>
+      <pubDate>Fri, 14 Feb 2025 21:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>[开源释放]带有黄蜂，React和Node的可远程SaaS模板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在发布项目的核心SaaS组件 CloudContext  作为开源。目的是为想要旋转SaaS的任何人提供一个现成的基础，同时为开源生态系统做出贡献。    Tech＆amp;功能：    框架： WASP（0.16.0）使用React（FrontEnd）＆amp; node.js（后端）。  数据库：以prisma为orm。 li&gt;   auth Integration： github，discord，google，以及电子邮件/密码。  付款集成：柠檬squeezy。  分析＆amp;存储：合理，AWS S3。 &gt;基于namecheap的SMTP设置。   在哪里找到它：      实时演示：  cloudContext.cc     github： 即可到达deploy-saas-template       贡献＆amp;支持：   任何反馈或建议都得到赞赏 - 自由开放或提交Pr。 如果您觉得它有益，则可以支持该项目通过给我买咖啡。如果您需要自定义或扩展，我也可以咨询工作。  感谢您帮助发展开源社区！  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/u/cloud_context     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</guid>
-      <pubDate>Sat, 08 Feb 2025 17:20:25 GMT</pubDate>
+      <title>打开仇恨的开源工具包：寻找内容贡献者！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipjvkv/open_source_toolkit_to_fight_hate_looking_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  （编辑：实时网站URL现在实际上转到网站）🙋大家好！在过去的几周中，我整理了这个开源网站，以与最近变得胆大的所有仇恨作斗争。 🔗github repo： resistance-toolkit-web ，实时网站：电阻工具kit   ℹ️基本上您：选择原因，找到一个org ，采取行动支持它，充电您的电池，重复！我希望成长一个为内容做出贡献的人们社区。我很想获得反馈，建议，并让人们审核内容，以确保一切都是合法的。让我知道您的想法，谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/mossly_epic_     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipjvkv/open_source_toolkit_to_fight_hate_looking_for/</guid>
+      <pubDate>Fri, 14 Feb 2025 20:17:19 GMT</pubDate>
     </item>
     <item>
-      <title>一个简单的网站，可轻松下载Linux发行版 -  istrohub</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iko87r/a_simple_website_for_easy_linux_distro_downloads/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个名为istrohub的小侧面项目，我很高兴能与大家分享。这是一个方便的网站，可让您只需单击一键即可下载各种Linux发行版的最新桌面版本 - 不再浏览多个页面以找到正确的ISO。   https://github.com/distributionhub/distributionhub.github.io      &lt;！ -  sc_on-&gt;＆＃32 ;提交由＆＃32; /u/u/itisnotyello     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iko87r/a_simple_website_for_easy_linux_distro_downloads/</guid>
-      <pubDate>Sat, 08 Feb 2025 14:18:22 GMT</pubDate>
+      <title>开源python数据应用程序构建器w/ preswald/ hotherduck</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们投掷 Motherduck  +  preswald 在大量的公共卫生数据集中，  4倍分析 -  Plus Live，交互式仪表板 - 仅在几行Python中。    MotherDuc  k→duckdb in Cloud中br/&gt;  preswal  d→python-native，声明仪表板= autopilot上的互动性   blog： https://motherduck.com/blog/preswald-health-data-analysis    🖥️代码： https://github.com/structuredlabs/preswald/preswald/tree/main/main/examples/health/health     &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; &lt; reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/&quot;&gt; link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/</guid>
+      <pubDate>Fri, 14 Feb 2025 18:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>开源音频到视频生成器。这是我的github帐户上的开源！:)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iknxbk/open_source_audio_to_video_generator_its_open/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨！这已经是我的个人项目已经有几个月了，我现在公开了它 这是一个实时使用图像生成神经网络的框架，该框架与麦克风连接。 如果您是关于它可以随意通过的好奇心 - &gt;＆＃32;提交由＆＃32; /u/u/u/staust_jelly5794      [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iknxbk/open_source_audio_to_video_generator_its_open/</guid>
-      <pubDate>Sat, 08 Feb 2025 14:02:56 GMT</pubDate>
+      <title>Distrohop：比较跨Linux发行版的包装</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iphksq/distrohop_compare_packages_across_linux_distros/</link>
+      <description><![CDATA[在您可以比较不同分布的Linux软件包。例如，您可以在另一个发行版中搜索一个包裹，或搜索包含特定项目的软件包，例如命令，库，Systemd Services等。 它可以通过下载和解码为每个支持的存储库中的文件索引。它分析了索引中的信息，以形成通常描述每个软件包内容的标签列表，然后将其存储在数据库中。当您搜索软件包时，它将软件包名称解析到其标签列表中，然后将它们与您要搜索的存储库中的每个软件包进行比较。它目前支持APT，DNF和PACMAN REPOS，并且我主持的实例有Debian Bookworm，Ubuntu 24.04，Fedora 40，Arch Linux和Chaotic Aur启用。 我主要是为了帮助我包装软件软件。对于不同的发行版，但是当我制作它时，我意识到它对库和命令的包装名称远不止于此。  我发现它确实很有用，希望您也会发现它也很有帮助：3  存储库： https://gitea.elara.ws/elara6331/distrohop  \ github镜子： \网站： https://hop.lure.sh/      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/elara6331     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iphksq/distrohop_compare_packages_across_linux_distros/</guid>
+      <pubDate>Fri, 14 Feb 2025 18:39:44 GMT</pubDate>
     </item>
     <item>
-      <title>🚀引入本地枢纽 - 保持本地化，保持安全！ 🔒</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iknrsr/introducing_local_hub_keep_it_local_keep_it_secure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大多数代码托管平台都控制您的存储库，收取隐藏费用，然后将您锁定到他们的生态系统中。 本地枢纽使开发人员重新负责自托管，隐私优先和完全开源的。没有订阅，没有第三方干涉您和您的代码。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 🚀为什么为什么选择本地集线器？   100％代码所有权  - 您的数据留在您身上。没有第三方访问。 分散＆amp;安全&lt; /strong &lt; /strong  - 主持，共享和协作而无需云依赖。 临时URL &lt; /strong&gt;  - 为团队协作生成安全，限时的链接。 免费＆amp;开源  - 无付费墙。修改并根据需要进行扩展。 可自定义的框架  - 适应您的工作流程。 🔒核心原理   🛡️隐私至上  - 没有外部干扰或跟踪。 没有订阅成本  - 完全免费，永远。 高度定制 - 修改并扩展以满足您的需求。 轻量级＆amp;快速  - 最小设置，直接在机器上运行。 ⚠限制要牢记   需要基本的技术知识  - 设置指南可能需要。 依赖于本地机器正常运行时间&lt; /strong&gt;  - 如果不关闭，则存储库是无法访问的。   ngrok ngrok限制&lt; /strong&gt;  - 免费计划可能需要偶尔重新连接。 需要手动设置  - 配置完全在您的手中。  👨‍💻 coins！  本地枢纽正在不断发展，您的贡献可以使它变得更好！让我们为分散协作建立一个强大的社区。   在Github上查看它：  https://github.com/ayahack89/localhub        问题？想要贡献吗？在[  ayanabhachatterjee@gmail@gmail.com   ]（） &lt; p&gt; 本地枢纽是一种自托管，隐私优先的替代方案。 虽然需要一些技术知识，但完整数据控制和分散发展的长期益处值得。  您的反馈和贡献对于将本地枢纽塑造成强大的开发人员友好型替代方案至关重要。让我们创建一个未来，其中开发人员可以完全控制其代码！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzle_age555     [link]   ＆＃32;   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iknrsr/introducing_local_hub_keep_it_local_keep_it_secure/</guid>
-      <pubDate>Sat, 08 Feb 2025 13:55:11 GMT</pubDate>
+      <title>Janus -Script Runner/Scheduler应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipes48/janus_script_runnerscheduler_application/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了一个开源平台，用于运行Adhoc脚本以及安排它们。它被设计为工程师撰写脚本的地方，并允许更少的技术人员在受控的环境中执行它们。这是受Rundeck的启发。 它支持有关各种平台，自定义超时，每个脚本的自定义输入，CRON调度，每个项目的权限，Webhooks和单个登录的通知。  回购： https://github.com/lbrictson/janus    docs： https://janus.brictson.dev/    它被包装为Docker容器或独立二元。使用它并尝试使用它的最简单方法是使用Docker容器，并支持此类内置的SQLITE数据库（也支持Postgres）：     cd〜/some-directory-where--您是want -to -store -data/   docker run -It -v $ pwd：/data/-e janus_url = http：// localhost：8080 -p 8080：8080：8080- P 8081：8081 lbrictson/janus：最新slim   ＃访问    http：/ /localhost：8080/   ＃username：admin@localhost   ＃password：changemebeforeuse1234！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rigral_boar     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipes48/janus_script_runnerscheduler_application/</guid>
+      <pubDate>Fri, 14 Feb 2025 16:42:08 GMT</pubDate>
     </item>
     <item>
-      <title>用文字构建自定义图表小部件：开发人员的旅程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iknenr/building_custom_charting_widgets_with_textual_a/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iknenr/building_custom_charting_widgets_with_textual_a/</guid>
-      <pubDate>Sat, 08 Feb 2025 13:36:22 GMT</pubDate>
+      <title>📂没有档案：库存OTA图像，完整的固件和OTA更新，nothing＆cmf设备📱</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipdwu0/nothing_archive_stock_ota_images_full_firmware/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/griezzy007     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipdwu0/nothing_archive_stock_ota_images_full_firmware/</guid>
+      <pubDate>Fri, 14 Feb 2025 16:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>redcoffee：使Sonarqube向所有人报告可共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikme4r/redcoffee_making_sonarqube_reports_shareable_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很高兴分享 redcoffee ，一种以PDF格式生成Sonarqube报告的Python软件包，使开发人员更容易有效地共享分析结果。 动机： &lt; &lt; &lt; P&gt;去年，在进行协作方面的项目时，我和我的团队集成了Sonarqube来跟踪代码质量。由于这纯粹是一项以学习为重点的倡议，因此我们决定使用Sonarqube社区版，该版本满足了我们的需求 - 除了一些主要限制：  没有内置的分享方式分析报告。 我们的Sonarqube实例在Docker容器中本地运行。 没有积极维护的插件可用于生成报告。  经过一番研究，我找到了一个支持PDF报告的旧插件，但是自2016年以来就没有进行更新。看到可行的解决方案，我决定构建Redcoffee，这是一种基于CLI的工具，允许用户为任何Sonarqube生成PDF报告分析，专为使用社区版的团队而设计。  i首先在  最近更新中有什么新功能？ 现在在报告的顶部可以看到执行摘要。这将突出显示错误，漏洞，代码气味和重复百分比的数量。这是基于用户在github上提出的功能请求。第二个是一个错误修复程序，人们在安装库时面临问题，因为“请求软件包”在“所需依赖关系”部分中缺少。用户也在github上提出了这一点。  它如何工作？  安装redcoffee很简单。它可以在PYPI上找到，我建议使用1.1版，这是最新的长期支持（LTS）版本。   pip install redcoffee == 1.1   对于那些已经安装了Redcoffee的人，请升级到最新版本：  pip install -upgrade redcoffee    一旦安装，生成PDF报告是就像运行一样简单：   redcoffee generatepdf -host = $ {your_sonArqube_host_name} \  -  project = $ {sonarqube_project_key} sonarqube_user_token}   此命令从Sonarqube获取分析数据并生成结构良好的PDF报告。   目标受众：  Redcoffee对于以下方式特别有用：  使用Sonarqube社区版托管在一台机器上的小型团队和初创公司。 开发人员和测试人员需要共享Sonarqube报告，但缺乏构建-in选项。 任何人学习点击 - 用于构建CLI应用程序的Python库。 想要探索Sonarqube API集成的工程师。    与类似工具的比较：曾经有一个名为Sonarpdf的插件，但已有几年的时间从​​未积极维护。 Redcoffee提供了现代，维护良好的替代方案。  相关链接：   pypi上的redcoffee    github储存库  sample报告       &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/content_ad_4153     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikme4r/redcoffee_making_sonarqube_reports_shareable_for/</guid>
-      <pubDate>Sat, 08 Feb 2025 12:39:53 GMT</pubDate>
+      <title>我建立了一个开源AI Assistant Chrome扩展名 - 需要您的反馈！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在开发一个开源的镀铬扩展名，该扩展程序利用本地LLMS（使用Ollama）使日常任务更加容易。我正在寻找社区的反馈，以使其变得更好！这是它可以做的：   文本校正：立即修复语法和拼写错误。   代码评论：提供快速的代码分析。  后期：帮助您创建引人入胜的内容。  上下文问题：回答有关选定文本的问题。 API键）。尝试一下，让我知道您的想法！   github： https://github.com/hasan-py/hasan-py/ai-py/ai-assistant -Chrome-Extension  不要忘记给它一个开始，并随意为新功能做出贡献。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hasan_py     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</guid>
+      <pubDate>Fri, 14 Feb 2025 15:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>自动启动延伸</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikl78h/automatic_startup_stretchly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我使用opensource stretchally应用。  https://hovancik.net/stretchly/downloads/     但是，在Windows 11上，我在启动计算机时无法自动启动它。 您是否知道是否知道是否知道我可以做到这一点？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/super_ad1989     [link]  ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikl78h/automatic_startup_stretchly/</guid>
-      <pubDate>Sat, 08 Feb 2025 11:21:58 GMT</pubDate>
+      <title>扩展Confygre电子邮件（您要求它） - 开源电子邮件清洁器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipbo6s/expanding_confygre_email_you_asked_for_it_an_open/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  几天前，我发布了Android的第一个开源电子邮件清洁器应用程序（可以查看post 在那篇文章中，你们中的一些人询问了Web应用程序。因此，我做了一些RND并开始实施它。我几乎已经完成了该应用程序。它将在几天内发布（希望如此）。  我只是想分享Web应用程序的瞥见，并想获得一些反馈和建议。请确保将提醒机器人用于此帖子。我打算在接下来的几天内宣布我的项目的更新。  confygre电子邮件 -  web： https：// youtu。 BE/QY77XIHY3DI    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/7adash1     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipbo6s/expanding_confygre_email_you_asked_for_it_an_open/</guid>
+      <pubDate>Fri, 14 Feb 2025 14:24:14 GMT</pubDate>
     </item>
     <item>
-      <title>DIA等图解软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikizcd/diagramming_software_like_dia/</link>
-      <description><![CDATA[在，但看起来也被抛弃了）。  还有另一个最近的开源，最好是免费的软件图表编辑器？我正在寻找具有多个图标的工具，“可能比DIA更现代：）请不要以Web为基础。 谢谢  &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/_thezmaj_     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikizcd/diagramming_software_like_dia/</guid>
-      <pubDate>Sat, 08 Feb 2025 08:44:36 GMT</pubDate>
+      <title>Adobe Creative Suite替代</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipawvz/adobe_creative_suite_alternative/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  续订订阅的日期即将到来，我想看看该软件包是否有真正的选择。我使用Photoshop，Lightroom，Illustrator，Indesign，After Effect和Premiere。有时也是字符动画师。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pindarico     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipawvz/adobe_creative_suite_alternative/</guid>
+      <pubDate>Fri, 14 Feb 2025 13:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>Clipcascade  - 立即跨设备同步剪贴板！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikff5u/clipcascade_sync_your_clipboard_across_devices/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   在一台设备上复制，粘贴在另一台设备上 - 没有设置，没有键，只能工作！   &lt; p&gt;✅实时剪贴板同步（文本，图像，＆amp; files）✅端到端加密＆amp; 私有&lt; /strong&gt;  在Windows，MacOS，Linux等上作品Android   无需设置 - 使用免费服务器或自助主机！    立即尝试→  clipcascade.sathvik.dev.dev   下载： github  |  docker     节省时间。保持生产力。   #opensource #privace #clipboard #sync #sync #productivity #selfhosted #docker #linux #linux #androidapps #macos #windows #windows #windows   &lt;！ - &gt;＆＃32;提交由＆＃32; /u/u/flienewt6922     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikff5u/clipcascade_sync_your_clipboard_across_devices/</guid>
-      <pubDate>Sat, 08 Feb 2025 04:52:42 GMT</pubDate>
+      <title>RISC-V和免费/开源硬件的Richard Stallman</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iparvv/richard_stallman_on_riscv_and_freeopen_source/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iparvv/1iparvv/richard_stallman_riscv_riscv_and_freeopen_source/” Open Source Hardware&quot; src=&quot;https://external-preview.redd.it/UHpEIZ_9DJVfwwWx7K7B1f_DggQRfFL5GOCXqCMIldk.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=109253defcb3ba33c9aaf1bf89f87bde3d9a1067&quot; title=&quot;Richard Stallman on RISC-V and Free /开源硬件“/&gt;   ＆＃32;提交由＆＃32; /u/u/shockleytransistor     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iparvv/richard_stallman_on_riscv_and_freeopen_source/</guid>
+      <pubDate>Fri, 14 Feb 2025 13:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>Geoflo  - 一个功能强大，轻巧的映射SDK，适用于开发人员和GIS爱好者！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ik926l/geoflo_a_powerful_lightweight_mapping_sdk_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     ## ristive geoflo是一个全面的地理空间管理库，设计用于Mapbox GL JS。它提供了广泛的功能和工具来增强您的映射应用程序，从而更容易使用地理空间数据并创建交互式图。无需安装任何东西。只需导入库，添加您的MAPBOX令牌并开始使用它。 🚀在此处查看Geoflo：[github repo]（https://github.com/solutegrate/geoflo.sdk）👨‍💻开发人员：[documentation/demo]（https://docs.geoflo.pro/） Geoflo的贡献是一个开源项目，欢迎捐款。您的反馈和贡献对于使Geoflo变得更好。 ##🌟关键功能 -  **高级编辑：**绘制，编辑，快照，销，路线，油漆，探索等等。 -  **多功能功能：**与圆形，图标，图像，多边形，多边形，矩形，文本以及不断扩展的元素类型一起工作。 -  **强大的进口/导出：**无缝导入并导出数据。 -  **可自定义的配色方案：**用自定义颜色量身定制地图的外观和感觉。 -  **集成的API：**完全嵌入的Overpass API和OSRM路由器，用于增强的地理空间数据和路由。 -  **全面的游戏手柄支持：**与Xbox，PlayStation，Nintendo，Ibuffalo，Logitech等的控制器兼容。 -  **智能位置服务：**启用用户位置跟踪并遵循模式进行动态导航。 -  **直观的基本地图控制：**轻松管理和自定义基本地图设置。 -  **动态层管理：**轻松创建，编辑和删除图层。 -  **交互式功能管理：**选择，移动，旋转，缩放和删除功能，并带有简单的手势。 -  **轻松撤消/重做：**快速撤消，并单击一次重做您的动作。 （在开发中）🚀在此处查看Geoflo：[github repo]（https://github.com/solutegrate/geoflo.sdk）👨‍💻开发人员：[Documentation/demo]（https：//docs.geoflo.pro.pro.pro.pro.pro/ ）我很想听听您的想法，反馈和功能请求！让我知道你的想法。您想在现代映射SDK中看到什么功能？ 🌍🚀   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thumbump     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ik926l/geoflo_a_powerful_lightweight_mapping_sdk_for/</guid>
-      <pubDate>Fri, 07 Feb 2025 23:31:03 GMT</pubDate>
+      <title>我分叉了一个项目，并添加了许多新功能。我不打算将其与原始内容合并，因为它已经差异太远了。我如何处理原始作者的个人品牌？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ipa0ts/i_forked_a_project_and_added_a_bunch_of_new/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个反应项目，因此原始作者的姓名和电子邮件在package.json文件中。我只用他们的名字添加自己的名字吗？我要替换吗？我该怎么办？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vardonir     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ipa0ts/i_forked_a_project_and_added_a_bunch_of_new/</guid>
+      <pubDate>Fri, 14 Feb 2025 12:59:54 GMT</pubDate>
     </item>
     <item>
-      <title>本地网络的单人间聊天服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ik3lou/a_single_room_chatserver_for_the_local_network/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/jgaa_from_north     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ik3lou/a_single_room_chatserver_for_the_local_network/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:37:12 GMT</pubDate>
+      <title>开始新工作如何在我的合同中正式化开源工作</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ip99a2/starting_a_new_job_how_to_formalise_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一份新工作的要约，并想要求我合同中的条款，我为开源的下班时间做的工作项目不归公司所有。有人可以分享该子句文本，以便我们可以向法律团队提供一些示例？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phobug     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ip99a2/starting_a_new_job_how_to_formalise_open_source/</guid>
+      <pubDate>Fri, 14 Feb 2025 12:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>开源自托管通用视觉编程语言（MIT许可证）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ik3ad6/opensource_selfhosting_generalpurpose_visual/</link>
-      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ik3ad6/opensource_generalpurpurpose_visual/ visual programming language (MIT License)&quot; src=&quot;https://external-preview.redd.it/kIksMv8thxoNYOkSME29EGbfLohKUI3UA3t52dGOan8.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=975f04d72e4edf5141a1e16b54902cd6e9ab16ee&quot; title=&quot;Open-source self - 培训通用视觉编程语言（MIT许可证）“/&gt;   ＆＃32;提交由＆＃32; /u/u/mrpro1a1     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ik3ad6/opensource_selfhosting_generalpurpose_visual/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:24:06 GMT</pubDate>
+      <title>Easy PDF查看器JS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ip82vo/easy_pdf_viewer_js/</link>
+      <description><![CDATA[在 - 响应 - 整合您的自定义按钮   https://github.com/w999910/pdf-viewer     https://www.npmjs.com/package/package/easy-pdf-viewer &lt; /a&gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/thomas-brillion     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ip82vo/easy_pdf_viewer_js/</guid>
+      <pubDate>Fri, 14 Feb 2025 10:57:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
