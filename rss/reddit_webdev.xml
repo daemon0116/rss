@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 21:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 22:19:39 GMT</lastBuildDate>
+    <item>
+      <title>初级前端开发人员从欧盟转移到美国的职业前景？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqcnch/career_prospects_for_junior_frontend_dev_moving/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在这里寻找一些建议在明年左右内搬到美国的朋友。这个人：  目前是 junior Frontend Web Dev，     2年在小型网络开发店工作的经验以及 Bootcamp 在本国的认证。 最精通 React；节点;打字稿； JavaScript等。。目前专注于前端。但是，通过完整的堆栈编码训练营，以及他们工作的小公司的经常性质，至少具有后端的经验。  具有高水平的英语水平   不需要雇主的H1-B 赞助。  非常对远程工作的强烈偏爱，，但是补偿水平是优先级要低得多的 - 大致上，超过45k/年的任何东西都是很好，只要它与期望/压力相称）。 在其祖国的非茎场中具有在非茎场中的两个硕士学位。 &lt; /li&gt;  三个主要问题：   他们在美国期望得到哪些职业前景？    您建议他们明年提高他们的个人资料，以及您如何优先考虑这些努力？    是否会在一所美国大学（例如，公共旗舰店）获得计算机科学证书是值得的投资吗？如果是这样，您将不再以什么$$$价值认为这是值得的投资？   都会感激任何人和所有见解，建议，评论或澄清问题！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagession_simple_19     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqcnch/career_prospects_for_junior_frontend_dev_moving/</guid>
+      <pubDate>Sat, 15 Feb 2025 22:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>窗口为什么不处理Chrome DevTools控制台中的错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个问题似乎很愚蠢，但我相信不是。此代码块在窗口对象中覆盖 onerror 功能。  toString 函数更改为 x ，然后将 window 对象与字符串串联，该字符串强制迫使 toString 在窗口对象上调用的方法。这会导致 x 函数运行，并且应触发警报。 当我在html中添加此代码＆lt; script＆gt; 标签时文件，警报起作用。但是，当我将代码粘贴到开发人员控制台中时，警报不会显示。取而代之的是，我收到了一个未知的错误消息。 这是代码：   x = e =＆gt; {window.onerror = alert;投掷“错误”＆quot; } toString = x;窗口 +“测试”；   为什么会发生这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/3_3_8_9     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</guid>
+      <pubDate>Sat, 15 Feb 2025 21:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个微小的安全优先输入验证库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation_validation/ validation library&quot; src=&quot;https://external-preview.redd.it/lNjR1R1LMkqU4i4QPUiW4JgKS0KEgp_pWP0PqW0_PqE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e06cb3405dfdec9202b58010a084ce729b6357f1&quot; title=&quot;Im building a tiny, security-first input验证库“/&gt;    &lt;！ -  sc_off-&gt;  我知道，现有的架构验证，例如YUP和ZOD很棒。  我亲自在小型项目中使用它，在小型项目中，我没有很多表格来证明所有常见模式验证器的设置合理，但与此同时，我需要可靠的输入验证。 这也是一种有趣的做法。 如果您在此看到任何未来，请随时做出贡献。尤其是如果您在XSS和输入安全性方面知识。   https://i.redd.it.it.it/tza5tekufdje1。 gif     github     &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; /u/u/ammarhalees     [link]   ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation/</guid>
+      <pubDate>Sat, 15 Feb 2025 21:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发这样的Web应用程序多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqbosv/how_much_to_develop_a_web_app_like_this/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 任何人都可以告诉我一个球场数字，说明它要花费多少钱，以创建一个全堆栈的自由职业者开发人员如下：   https://www.uworld.com /courseapp/usmle/v4/demo/welcome/1     https://www.uworld.com/courseapp/usmle/v4/demo/demo/testinterface/launchtest/1/1/200561420/2/2/2/2/2/1 需要多长时间？只是球场数。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/opelesselesselessecticdesigner     [link]  ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqbosv/how_much_to_develop_a_web_app_like_this/</guid>
+      <pubDate>Sat, 15 Feb 2025 21:18:57 GMT</pubDate>
+    </item>
     <item>
       <title>如何在Lightspeed产品页面上显示“ 3期付款”？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iqacu9/how_to_display_pay_in_3_installments_on/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/anbeeld     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iq6l3g/raoi_typescript_library_to_give_objects_integer/</guid>
       <pubDate>Sat, 15 Feb 2025 17:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个用于网站监视的AI代理 - 寻找反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq5wfj/i_built_an_ai_agent_for_website_monitoring/</link>
-      <description><![CDATA[在/a&gt;，我和我的两个朋友正在研究的产品。我们很想听听您的反馈和意见。 一切都开始了，当我们发现LLMS可以通过遵循类似Chatgpt的提示来浏览网站时真的很擅长浏览网站。因此，我们建立了一个LLM代理，并提供了键盘之类的工具。鼠标控制。我们解析网站，代理会采取行动提示。这为网站监控和测试开辟了很多机会。它也是的绝佳替代品。   而不是仅仅是ping网站，您现在可以提示AI代理商作为真实用户访问和与网站互动。第三方应用程序崩溃或功能无法加载。 设置了代理商运行其监视流程的频率后，它实际上每次都会访问您的网站。 LLM现在足够聪明，并与我们的Web解析相结合，如果某些网络元素更改，则代理会在不询问您的帮助的情况下进行适应。  以下是我们第一个客户如何使用它的一些示例：    代理商访问您的网站，输入搜索框中的关键字，并验证相关搜索结果是否出现。 代理商访问您的登录页面，输入凭据，并确认成功登录到正确的帐户。 代理通过填写所有必要字段来完成购买流程，并检查结帐过程是否正常工作。   我们最初是将其启动为质量保证测试自动化代理，但注意到我们的早期客户将其更多用作网站正常运行时间监控服务。 我们提供7天的免费试用版，但是如果您想尝试一下只需延长我，我就会免费给您一个月以换取您的反馈。 我们很想听听您的所有反馈和意见。 &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ticaragua     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq5wfj/i_built_an_ai_agent_for_website_monitoring/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个让浪漫迷的应用程序，有无尽的AI编写故事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq5qgt/i_made_an_app_that_lets_romance_junkies_have/</link>
-      <description><![CDATA[     &lt;！ -  sc_off-&gt;  我希望通过让他们harness openai制作自己喜欢的尽可能多的自定义故事来满足浪漫迷的需求！ 用户可以在无尽的组合中选择自己的类型，主题，设置，音调和张力水平，以产生自己的故事。我使用每次输入的自定义提示，并为OpenAI API的最终提示提供了使用，并使用Dalle-3进行了故事封面。 让我知道您的想法！ 技术堆栈：SST，Next，TypeScript（DUH）  P.S。 Inngest是有史以来最酷的工具。  app： https://lovebound.io     repo：  https://github.com/spacerumsfeld-code/lovebound       ＆＃32;提交由＆＃32; /u/u/ok_confusion_1777       [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq5qgt/i_made_an_app_that_lets_romance_junkies_have/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>retcom-重写您的提交消息。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq5icq/retcom_rewrite_your_commit_messages/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;     tl：dr：我制作了一个Web应用程序，可以重写您的整个提交单击几下消息历史记录。   https://retcom-ac130.web.app.app    嗨， 我在创业公司担任开发人员，最近我必须向监管机构提交详细的更改列表。  不幸的是，我的所有3028个我的提交消息看起来都有些尴尬：   &lt; /p&gt; 我最终制作了一种工具来帮助我将它们变成这一点：   https：/// C93719DED2D11BD9D277EEE9EDE4AF9A33F73C4   我也发现它对其他项目也很有用，因此我建立了一个前端，并已将其部署供其他人尝试使用。   它的工作原理：   选择分支（以及您需要重写的特定提交）。 等待差异发送到LLM以进行消息生成。 创建了一个新分支，与第一个相同，但具有高质量的提交消息。    &lt;  &lt; strong&gt;要点：   您的原始分支被留下。 一切都将一切都推到一个新的分支，所有提交都有新的shas。  如果您在团队中工作并决定合并或切换到新分支，这将产生后果。     UI不能很好地处理大型（1000+ commit）存储库。 需要一段时间。我刚刚做了一个3028提交的回购，花了5个小时。我对API限制非常谨慎，但是可以在以后的更新中加快速度。 错误处理有点有限。 我不确定如何好吧，它将处理来自不同用户的并发作业。 您需要与GitHub登录以进行回购访问。  所有令牌在使用后都被加密并在使用后销毁。     我将自由限制设置为在Beta时的1000下限，因此，如果您想立即尝试一下，这是个好时机！  感谢任何反馈：）   https://retcom-ac130.web.app    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/george2967     [link]   ＆＃32;   [注释]     /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq5icq/retcom_rewrite_your_commit_messages/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要域名和电子邮件，也许是网站 - 使用什么？ newb</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq5ctp/need_a_domain_name_email_maybe_website_what_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想为他重新进入的我父亲的房地产bizz设置域名和电子邮件。他年龄较大，现年71岁，不是精通技术的。他使用他的comcast电子邮件，看起来像是迹象上的废话，而不是专业的。  我想购买一个域，然后通过 hisname@hisdomain.com 。建立网站确实在路上。  我不知道购买域不包括电子邮件服务。我使用的最好的路线是什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rpdubc     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq5ctp/need_a_domain_name_email_maybe_website_what_to/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:42:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
