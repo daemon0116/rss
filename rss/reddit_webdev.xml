@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 22:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 23:17:55 GMT</lastBuildDate>
+    <item>
+      <title>我使用Tailwind CSS和VUE创建了免费的UI块！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqea9t/i_created_free_ui_blocks_using_tailwind_css_vue/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/genkaobi     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqea9t/i_created_free_ui_blocks_using_tailwind_css_vue/</guid>
+      <pubDate>Sat, 15 Feb 2025 23:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要HTML CSS的指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqe8k6/need_guidance_in_html_css/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，eveyone，让我首先说我没有像HTML CSS这样的前端经验，而对于我的项目，我使用了一个网站来创建模板。我的模板的CSS响应迅速，但一页有4K+行，是正常的吗？另外，所使用的类名称太长，例如.example .example1 .example3 ....我猜这称为嵌套，这也是正常的吗？而且由于有太多代码，我应该如何编辑和使用它们？截至目前，我在浏览器中使用Inspect来查找相关代码进行编辑。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/echane     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqe8k6/need_guidance_in_html_css/</guid>
+      <pubDate>Sat, 15 Feb 2025 23:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有能力解决具有挑战性的算法，但有时我的头脑不断努力或不会想象它的全部能力</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqdmdc/i_am_capable_of_solving_challenging_algorithms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是前端web dev  我尚未完成leetcode一段时间以来，算法挑战。我年轻的时候我非常聪明，能够在脑海中解决这样的事情，但是我只是失败了palindrome检测算法，因为我在20分钟内无法弄清楚。即使是在我的脑海中握住一根绳子并成像步骤的想法都是具有挑战性的。大约5秒后，我只是分离。  我面临着一些心理健康挑战，例如抑郁症和大脑雾，所以这也许只是情感上的事情。  无论如何，我可以对自己的愚蠢感到抱怨，而我对此感到不高兴，但我真的很好奇您对此的经历吗？ 您能否在您的身上解决一个呼吸疾病的检测。前进而不经常练习算法？任何人都可以与您的想象能力相关，并认为出于某种原因而陷入逻辑的能力？提交由＆＃32; /u/u/bicepmuffins     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqdmdc/i_am_capable_of_solving_challenging_algorithms/</guid>
+      <pubDate>Sat, 15 Feb 2025 22:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个自托管工具来部署Web应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqd4d4/built_a_self_hosted_tool_to_deploy_web/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hello r/webdev！我一直在研究犬现在大约一年了。它始于我厌倦了使用Heroku，渲染，飞行等诸如托管一些 web   apps    Mockachino.com/&quot;&gt; built 。有一次，我每月支付超过400美元的费用来将这些托管在云中。去年，我将所有东西移到了Hetzner。 || | Heroku | $ 260 | |  fly.io  | $ 65 | |渲染| $ 85 | |  hetzner  |  $ 4  |  （当您需要＆gt; 4GB时，此问题会变得更糟， 使用Hetzner的是，没有一种超级直接的方法可以做以下操作：   DNS Management/SSL证书管理 团队管理  GitHub集成  ，但我认为很容易快速为我的Hetzner实例构建类似Heroku。事实证明，这比预期的要困难得多，但是一年后，我取得了良好的进步！ 犬的最佳部分是，这也使托管任何掌舵图表变得琐碎基本上可用于任何开源项目，因此从数据库（例如Postgres，redis）到随机内容，例如Torrent跟踪服务器，VPN的端点等随机内容，等等。   open source   请参阅网站在这里    /p&gt; 喜欢反馈，烤，建议！目前，还没有其他目标，但是我真的很想回去，真的很专注于UX。那是超级昂贵的应用程序做得非常好的一件事。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/czhu12     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqd4d4/built_a_self_hosted_tool_to_deploy_web/</guid>
+      <pubDate>Sat, 15 Feb 2025 22:22:07 GMT</pubDate>
+    </item>
     <item>
       <title>初级前端开发人员从欧盟转移到美国的职业前景？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iqcnch/career_prospects_for_junior_frontend_dev_moving/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>窗口为什么不处理Chrome DevTools控制台中的错误？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个问题似乎很愚蠢，但我相信不是。此代码块在窗口对象中覆盖 onerror 功能。  toString 函数更改为 x ，然后将 window 对象与字符串串联，该字符串强制迫使 toString 在窗口对象上调用的方法。这会导致 x 函数运行，并且应触发警报。 当我在html中添加此代码＆lt; script＆gt; 标签时文件，警报起作用。但是，当我将代码粘贴到开发人员控制台中时，警报不会显示。取而代之的是，我收到了一个未知的错误消息。 这是代码：   x = e =＆gt; {window.onerror = alert;投掷“错误”＆quot; } toString = x;窗口 +“测试”；   为什么会发生这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/3_3_8_9     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个问题似乎很愚蠢，但我相信不是。此代码块在窗口对象中覆盖 onerror 功能。  toString 函数更改为 x ，然后将 window 对象与字符串串联，该字符串强制迫使 toString 在窗口对象上调用的方法。这会导致 x 函数运行，并且应触发警报。 当我在html中添加此代码时文件，警报起作用。但是，当我将代码粘贴到开发人员控制台中时，警报不会显示。取而代之的是，我收到了一个未知的错误消息。 这是代码：   x = e =＆gt; {window.onerror = alert;投掷“错误”＆quot; } tostring = x;窗口 +“测试”；   为什么会发生这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/3_3_8_9     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</guid>
       <pubDate>Sat, 15 Feb 2025 21:34:33 GMT</pubDate>
     </item>
@@ -69,13 +97,6 @@
       <pubDate>Sat, 15 Feb 2025 18:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>vue + supabase +电容器 + daisyui抽屉：移动应用程序启动模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq7g1w/vue_supabase_capacitor_daisyui_drawer_a_mobile/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   身份验证：使用supabase实现用户身份验证，包括登录，注册和处理身份验证状态。 抽屉组件：使用daisyui组件构建抽屉，管理其开放/关闭状态以及处理路由。  Composables ：使用vue.js composable（usedrawer）集中抽屉状态  源代码 -   https://github.com/aaronksaunders/daisyui-vue-drawer-2025     video- https://youtu.be/pirgbyj9dwo?si=tvs58lg61bgtfbub    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aaronksaunders     [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq7g1w/vue_supabase_capacitor_daisyui_drawer_a_mobile/</guid>
-      <pubDate>Sat, 15 Feb 2025 18:14:11 GMT</pubDate>
-    </item>
-    <item>
       <title>需要一个多合一的业务管理工具吗？满足时间表 -  CRM，调度，员工管理等等！ 🚀</title>
       <link>https://www.reddit.com/r/webdev/comments/1iq7cl0/need_an_allinone_business_management_tool_meet/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gabeciii     [链接]  ＆＃32;   [注释]   ]]></description>
@@ -83,32 +104,11 @@
       <pubDate>Sat, 15 Feb 2025 18:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工作应用程序跟踪器网站 +浏览器扩展程序！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq70zx/i_made_a_job_application_tracker_website_browser/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/typesafeui     [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq70zx/i_made_a_job_application_tracker_website_browser/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:56:07 GMT</pubDate>
-    </item>
-    <item>
       <title>制作了一个游戏，LLM将您的图纸视为著名的虚构人物</title>
       <link>https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_where_an_llm_judges_your_drawings_as/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个我打算在周末完成的爱好项目。这是一种尝试以某种方式获得LLM的快速有趣的游戏。我实际上有一个想法浮了一段时间，但直到最近才开发。 在一个〜周内建立了一个初始版本，与我们的一些朋友一起玩，他们实际上喜欢它，他们的反馈才驱动了我实际上花更多的时间并重写整个游戏，这就是您现在所看到的。 玩drawels（我给游戏给游戏的名字），您需要提供一个Gemini API键（您可以从AI工作室免费获得此功能，我最终为那些懒于使用自己的懒惰的人添加了几个服务器键），绘图在内存中完全运行，没有保存（除了图纸，它们都保留到了，直到回合直到回合末端），一旦离开（或断开连接）您的API键将从房间中删除。 游戏将免费托管： https://drawels.onrender.com/    鉴于它是一个免费的托管托管，它是一个非常薄弱的​​VM，但是它应该能做（希望是吗？）要尝试一下，请检查一下，让我知道您的想法。 https://preview.itd.itd.it.it/v。KNGR4KVBCJE1.JPG？ D4E1AA5E00A1DFF30EC194FDD     https：//preview.redd.it/fc3zrbqzbcje1.jpg？ 2748E6291CBD707A8A93EAACE6029AE    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usrared12     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_awhere_an_an_llm_judges_your_your_your_drawings_as/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_where_an_llm_judges_your_drawings_as/</guid>
       <pubDate>Sat, 15 Feb 2025 17:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[民意调查]您喜欢哪种颜色/动画样式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq6li4/poll_which_coloranimation_style_for_directed/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/xamid     [链接]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq6li4/poll_which_coloranimation_style_for_directed/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAOI  - 打字稿库提供对象整数ID并随时通过上述ID检索。使用全局寄存器或创建本地寄存器，并通过多种方法确保在TS和Vanilla JS中键入安全性！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq6l3g/raoi_typescript_library_to_give_objects_integer/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/anbeeld     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq6l3g/raoi_typescript_library_to_give_objects_integer/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:36:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
