@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 15 Feb 2025 17:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 18:23:28 GMT</lastBuildDate>
+    <item>
+      <title>METUP API客户端 - 我制作了第一个开源JS/TS客户端库，用于METUP的API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_made_the_first_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为Metup.com的GQL API制作了第一个开源JS/TS客户库库。我组织两次聚会晚上和开发软件 Day，并想要一种简单的方法来访问我们自己的网站和工具的小组和活动数据。这与易于使用的查询功能和打字稿类型完整。组织者和开发人员现在可以使用组和事件数据！  npm ： https：https：https：https：https： //www.npmjs.com/package/meetup-api-client    github ： https：//github.com/cunningdj/meetup-api-client    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cunningdj     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_i_i_made_made_the_first_open_source/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_made_the_first_open_source/</guid>
+      <pubDate>Sat, 15 Feb 2025 17:34:42 GMT</pubDate>
+    </item>
     <item>
       <title>有什么免费替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iq578i/any_free_alternatives_for_noteshelf/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/griezzy007     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ipdwu0/nothing_archive_stock_ota_images_full_firmware/</guid>
       <pubDate>Fri, 14 Feb 2025 16:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个开源AI Assistant Chrome扩展名 - 需要您的反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在开发一个开源的镀铬扩展名，该扩展程序利用本地LLMS（使用Ollama）使日常任务更加容易。我正在寻找社区的反馈，以使其变得更好！这是它可以做的：   文本校正：立即修复语法和拼写错误。   代码评论：提供快速的代码分析。  后期：帮助您创建引人入胜的内容。  上下文问题：回答有关选定文本的问题。 API键）。尝试一下，让我知道您的想法！   github： https://github.com/hasan-py/hasan-py/ai-py/ai-assistant -Chrome-Extension  不要忘记给它一个开始，并随意为新功能做出贡献。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hasan_py     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:20:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
