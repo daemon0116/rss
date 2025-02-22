@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Sat, 22 Feb 2025 18:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 19:14:56 GMT</lastBuildDate>
+    <item>
+      <title>双单声道未更新编辑项目</title>
+      <link>https://www.reddit.com/r/editors/comments/1ivphvb/dual_mono_not_updating_in_editors_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在avid中遇到一些奇怪的行为。 我正在将音乐箱从我的AE项目中分发到所有情节项目。  每当我在AE项目中使用新音乐曲目更新垃圾箱时，我只需复制/粘贴覆盖文件Explorer/finder级别的bin，并带有从AE项目的更新的垃圾箱到所有情节项目。 没问题，一切正常，每个人都对此过程很酷。 然后，昨天，其中一位编辑要求将某个音乐箱中的所有剪辑转换为 我在ae项目中更新了垃圾箱，然后在file Explorer/finder级别覆盖.avb文件 -   但是，只要一个编辑中的编辑将打开新更新的双单垃圾箱，并不是所有的曲目似乎都是双单声道，许多曲目被视为立体声。   添加到了所有的特殊性中，只有大约一半我知道我正在更新的bin的曲目中的曲目中的曲目是来自其他垃圾箱的剪辑的重复项。 也许这些其他垃圾箱/剪辑可能没有在此编辑项目中更新为双单声道，因此它使其他垃圾箱的元数据荡漾，并覆盖了双单声道转换回到我专注于垃圾箱中的立体声的元素？ 或，也许这是关于该编辑器可能已启用/禁用引起此的某个用户设置的某些东西？ ，我个人无法想到设置这会导致这种情况。 任何洞察力都赞赏！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/fly_swatter_friendly     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ivphvb/dual_mono_not_updating_in_editors_project/</guid>
+      <pubDate>Sat, 22 Feb 2025 18:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件结构帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1ivnrp9/file_structure_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  需要一个为期3天的年度大会的文件结构。我们有一堆在大会之前创建的内容，并且在大会期间经常创建。我们有一些普通资产，例如GFX，上一年的股票镜头，音频等。 我的问题是，有些项目直接涉及为此记录的录像。例如，如果我们在烹饪时要制作视频，是否应该在该镜头所在的同一根文件夹中将项目文件和导出？但是，我们也有每天的亮点视频，该视频利用了全天录制的每种录像，如果在特定视频中使用该镜头，我们就无法将镜头放在普通资产文件夹中。  在过去的几年中，尽管浏览了这个SubredDit和YouTube，但在需要时，我们的文件结构很差，在需要时找不到东西，但只需要根据我的情况而需要一些满足的建议。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/school_nervous     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ivnrp9/file_structure_help/</guid>
+      <pubDate>Sat, 22 Feb 2025 17:18:54 GMT</pubDate>
+    </item>
     <item>
       <title>颜色水平问题：解决狂热</title>
       <link>https://www.reddit.com/r/editors/comments/1iv3946/color_levels_question_resolve_to_avid/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  在过去的几个月中，每周工作60小时，我开始有背部和颈部概率。我保持活跃并去健身房，但我认为我坐在我坐着太远的头上浮出水面。我有一个可调节的坐姿/架子桌，但是当我站立时我会这样做。 有人遇到了这个问题并解决了吗？我的监视器似乎并没有太远或其他任何东西。我应该得到那些姿势的东西之一吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bobaskin     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ius990/neck_pain_help/</guid>
       <pubDate>Fri, 21 Feb 2025 14:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>最终输出的颜色空间标签？</title>
-      <link>https://www.reddit.com/r/editors/comments/1iurgxm/color_space_tags_for_final_output/</link>
-      <description><![CDATA[在SDR Rec 709带有伽马2.4。当他将他的颜色回报寄回（这将是ProRes文件）时，我需要将其嫁给最终的声音混音并创建最终的出口。我的时间轴和输出颜色空间是否应该设置为rec 709（场景）或其他内容？ 此外，在“交付”选项卡中，我的颜色空间标签和伽马标签是否应设置为rec 709，或我应该将伽马标签设置为伽马2.4吗？这一切都是为了让我们发送DCP/用于剧院筛查环境。 我经常对所有这些不同的设置感到困惑和不知所措。过去，我以为我选择了合适的时间 - 时间线和输出颜色空间的REC 709场景，以及两个交付标签的Rec 709  - 但最终产品似乎比剧院预期的要明亮。我不确定这是否是由于我的标记错误或剧院本身是否存在问题。 也：我将在Davinci Resolve Studio 19工作。 Mac Studio（M2 Ultra -64GB RAM）。与Alexa录像一起工作。 如果在此之前对此主题进行了广泛讨论，请随时将我链接到适当的线程！ 非常感谢！    &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1iurgxm/color_space_tags_final_final_output/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iurgxm/color_space_tags_for_final_output/</guid>
-      <pubDate>Fri, 21 Feb 2025 13:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在哪里可以找到这些过渡性的图像</title>
-      <link>https://www.reddit.com/r/editors/comments/1iup9x2/where_can_i_find_these_transitionblurryquickimages/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在艺术列表上没有发现太多，不确定我是否正确搜索。我指的是编辑仅用于过渡到下一张照片的那些镜头。该视频中有很多： https://www.instagram.com/p/c21mmdpyzev/  &gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/acutious-external286     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iup9x2/where_can_i_find_these_transitionblurryquickimages/</guid>
-      <pubDate>Fri, 21 Feb 2025 12:01:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
