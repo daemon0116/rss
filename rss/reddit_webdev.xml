@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 23:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 01:21:44 GMT</lastBuildDate>
     <item>
-      <title>我使用Tailwind CSS和VUE创建了免费的UI块！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqea9t/i_created_free_ui_blocks_using_tailwind_css_vue/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/genkaobi     [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqea9t/i_created_free_ui_blocks_using_tailwind_css_vue/</guid>
-      <pubDate>Sat, 15 Feb 2025 23:15:36 GMT</pubDate>
+      <title>建造了一个免费的正则驱动写作分析仪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv5jco/built_a_free_regexpowered_writing_analyzer/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/apained-text811     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv5jco/built_a_free_regexpowered_writing_analyzer/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:52:56 GMT</pubDate>
     </item>
     <item>
-      <title>需要HTML CSS的指导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqe8k6/need_guidance_in_html_css/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，eveyone，让我首先说我没有像HTML CSS这样的前端经验，而对于我的项目，我使用了一个网站来创建模板。我的模板的CSS响应迅速，但一页有4K+行，是正常的吗？另外，所使用的类名称太长，例如.example .example1 .example3 ....我猜这称为嵌套，这也是正常的吗？而且由于有太多代码，我应该如何编辑和使用它们？截至目前，我在浏览器中使用Inspect来查找相关代码进行编辑。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/echane     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqe8k6/need_guidance_in_html_css/</guid>
-      <pubDate>Sat, 15 Feb 2025 23:13:16 GMT</pubDate>
+      <title>我为GO，PY，TS和更多其他游乐场建造了一个新的操场，以及Postgres ...它支持程序参数，JSON的漂亮输出，我很快就会添加很多功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv5h8u/i_built_a_new_playground_for_go_py_ts_and_more/</link>
+      <description><![CDATA[在 它是在开源平台代号上构建的 https://github.com/codiewio/codenire    我将很乐意回答任何问题并考虑任何建议并考虑任何建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/halabooda     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv5h8u/i_built_a_new_playground_for_go_py_ts_and_more/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:50:13 GMT</pubDate>
     </item>
     <item>
-      <title>我有能力解决具有挑战性的算法，但有时我的头脑不断努力或不会想象它的全部能力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqdmdc/i_am_capable_of_solving_challenging_algorithms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是前端web dev  我尚未完成leetcode一段时间以来，算法挑战。我年轻的时候我非常聪明，能够在脑海中解决这样的事情，但是我只是失败了palindrome检测算法，因为我在20分钟内无法弄清楚。即使是在我的脑海中握住一根绳子并成像步骤的想法都是具有挑战性的。大约5秒后，我只是分离。  我面临着一些心理健康挑战，例如抑郁症和大脑雾，所以这也许只是情感上的事情。  无论如何，我可以对自己的愚蠢感到抱怨，而我对此感到不高兴，但我真的很好奇您对此的经历吗？ 您能否在您的身上解决一个呼吸疾病的检测。前进而不经常练习算法？任何人都可以与您的想象能力相关，并认为出于某种原因而陷入逻辑的能力？提交由＆＃32; /u/u/bicepmuffins     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqdmdc/i_am_capable_of_solving_challenging_algorithms/</guid>
-      <pubDate>Sat, 15 Feb 2025 22:44:55 GMT</pubDate>
+      <title>帮助！！！更改了网站域，但是旧的一个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv4l27/help_changed_website_domain_but_big_problem_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   help！旧一个（长话短说...）。她只是删除了“ s＆quot”。在旧域的尽头，并将她的网站连接到了这个新域。现在，所有的场所和其他供应商都有旧的。她能够向其中一些信息传达给他们的一些人传达域的变化，但不是因为谁知道的人（亚特兰大的大市场）。一个网站。什么！！！在这种情况下，您认为最好做什么？我丢了言语，真的不知道该怎么办。 谢谢！  &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ubvolt     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv4l27/help_changed_website_domain_but_big_problem_with/</guid>
+      <pubDate>Fri, 21 Feb 2025 23:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个自托管工具来部署Web应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqd4d4/built_a_self_hosted_tool_to_deploy_web/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hello r/webdev！我一直在研究犬现在大约一年了。它始于我厌倦了使用Heroku，渲染，飞行等诸如托管一些 web   apps    Mockachino.com/&quot;&gt; built 。有一次，我每月支付超过400美元的费用来将这些托管在云中。去年，我将所有东西移到了Hetzner。 || | Heroku | $ 260 | |  fly.io  | $ 65 | |渲染| $ 85 | |  hetzner  |  $ 4  |  （当您需要＆gt; 4GB时，此问题会变得更糟， 使用Hetzner的是，没有一种超级直接的方法可以做以下操作：   DNS Management/SSL证书管理 团队管理  GitHub集成  ，但我认为很容易快速为我的Hetzner实例构建类似Heroku。事实证明，这比预期的要困难得多，但是一年后，我取得了良好的进步！ 犬的最佳部分是，这也使托管任何掌舵图表变得琐碎基本上可用于任何开源项目，因此从数据库（例如Postgres，redis）到随机内容，例如Torrent跟踪服务器，VPN的端点等随机内容，等等。   open source   请参阅网站在这里    /p&gt; 喜欢反馈，烤，建议！目前，还没有其他目标，但是我真的很想回去，真的很专注于UX。那是超级昂贵的应用程序做得非常好的一件事。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/czhu12     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqd4d4/built_a_self_hosted_tool_to_deploy_web/</guid>
-      <pubDate>Sat, 15 Feb 2025 22:22:07 GMT</pubDate>
+      <title>为什么没有客户端ORM将串行的SQL查询发送到服务器以进行执行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv36je/why_isnt_there_a_clientside_orm_that_sends/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道您不能直接在客户端上使用ORM  - 出于安全原因，您不想公开数据库凭据或运行从前端进行任意查询。但是，为什么不具有SDK，可以让您在客户端上编写类型安全的查询，序列化并将其发送到执行它们的后端服务呢？这样，客户端可以使用与服务器端ORM相同的API，同时保持数据库访问控制。  sserialization成本应与通常的API请求/响应周期相比，相比之下。  这种方法是不可行的，还是没有人认真追求的东西？  ，或者也许有这样的解决方案我只是不知道？我对GraphQl并不熟悉，但据我了解，它遵循了这个想法。但是我的问题是为什么不对像毛毛雨或prisma这样的Orms做这样的事情。 很想听听其他考虑此事的想法。  &lt;！ -  sc_on- - &gt;＆＃32;提交由＆＃32; /u/u/carlpaul153     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv36je/why_isnt_there_a_clientside_orm_that_sends/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>初级前端开发人员从欧盟转移到美国的职业前景？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqcnch/career_prospects_for_junior_frontend_dev_moving/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在这里寻找一些建议在明年左右内搬到美国的朋友。这个人：  目前是 junior Frontend Web Dev，     2年在小型网络开发店工作的经验以及 Bootcamp 在本国的认证。 最精通 React；节点;打字稿； JavaScript等。。目前专注于前端。但是，通过完整的堆栈编码训练营，以及他们工作的小公司的经常性质，至少具有后端的经验。  具有高水平的英语水平   不需要雇主的H1-B 赞助。  非常对远程工作的强烈偏爱，，但是补偿水平是优先级要低得多的 - 大致上，超过45k/年的任何东西都是很好，只要它与期望/压力相称）。 在其祖国的非茎场中具有在非茎场中的两个硕士学位。 &lt; /li&gt;  三个主要问题：   他们在美国期望得到哪些职业前景？    您建议他们明年提高他们的个人资料，以及您如何优先考虑这些努力？    是否会在一所美国大学（例如，公共旗舰店）获得计算机科学证书是值得的投资吗？如果是这样，您将不再以什么$$$价值认为这是值得的投资？   都会感激任何人和所有见解，建议，评论或澄清问题！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagession_simple_19     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqcnch/career_prospects_for_junior_frontend_dev_moving/</guid>
-      <pubDate>Sat, 15 Feb 2025 22:01:00 GMT</pubDate>
+      <title>Livewire 3.5：异步调度是否可能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，&lt; /p&gt; 我正在在单个Livewire组件下生成几个图表。  i使用＆quot＆quot; dispatch（） ＆quot要将图表数据发送到UI。 我面临的问题 - 更新一次都在所有图表上发生。 实际上有些是生成的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_is_asynchronous_dispatch_possible/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:04:17 GMT</pubDate>
     </item>
     <item>
-      <title>窗口为什么不处理Chrome DevTools控制台中的错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个问题似乎很愚蠢，但我相信不是。此代码块在窗口对象中覆盖 onerror 功能。  toString 函数更改为 x ，然后将 window 对象与字符串串联，该字符串强制迫使 toString 在窗口对象上调用的方法。这会导致 x 函数运行，并且应触发警报。 当我在html中添加此代码时文件，警报起作用。但是，当我将代码粘贴到开发人员控制台中时，警报不会显示。取而代之的是，我收到了一个未知的错误消息。 这是代码：   x = e =＆gt; {window.onerror = alert;投掷“错误”＆quot; } tostring = x;窗口 +“测试”；   为什么会发生这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/3_3_8_9     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqc1vr/why_doesnt_windowonerror_handle_errors_in_the/</guid>
-      <pubDate>Sat, 15 Feb 2025 21:34:33 GMT</pubDate>
+      <title>单页应用程序在2025年仍然相关吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv30dl/are_single_page_apps_still_relevant_in_2025/</link>
+      <description><![CDATA[在/xfvdxleyspc    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/livid_sign9681     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv30dl/are_single_page_apps_still_relevant_in_2025/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个微小的安全优先输入验证库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation/</link>
-      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation_validation/ validation library&quot; src=&quot;https://external-preview.redd.it/lNjR1R1LMkqU4i4QPUiW4JgKS0KEgp_pWP0PqW0_PqE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e06cb3405dfdec9202b58010a084ce729b6357f1&quot; title=&quot;Im building a tiny, security-first input验证库“/&gt;    &lt;！ -  sc_off-&gt;  我知道，现有的架构验证，例如YUP和ZOD很棒。  我亲自在小型项目中使用它，在小型项目中，我没有很多表格来证明所有常见模式验证器的设置合理，但与此同时，我需要可靠的输入验证。 这也是一种有趣的做法。 如果您在此看到任何未来，请随时做出贡献。尤其是如果您在XSS和输入安全性方面知识。   https://i.redd.it.it.it/tza5tekufdje1。 gif     github     &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; /u/u/ammarhalees     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqbzz7/im_building_a_tiny_securityfirst_input_validation/</guid>
-      <pubDate>Sat, 15 Feb 2025 21:32:16 GMT</pubDate>
+      <title>如何托管数百张可单击的照片</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv2w7c/how_to_host_hundreds_of_clickable_photos/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一张数百封信和照片的剪贴簿，我已故的婆婆在第二次世界大战期间担任WAC时送回家。我已经扫描了所有内容，并希望将它们托管在网站上。我希望每封信都可以放大，以便文字更大，使得字母更容易阅读。  ，我想将所有内容都放在网站上，而不是使用照片托管网站，我还可以添加一些介绍性文本和其他评论。  有什么想法或建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andyetanotheruserid     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv2w7c/how_to_host_hundreds_of_clickable_photos/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:56:12 GMT</pubDate>
     </item>
     <item>
-      <title>开发这样的Web应用程序多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqbosv/how_much_to_develop_a_web_app_like_this/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 任何人都可以告诉我一个球场数字，说明它要花费多少钱，以创建一个全堆栈的自由职业者开发人员如下：   https://www.uworld.com /courseapp/usmle/v4/demo/welcome/1     https://www.uworld.com/courseapp/usmle/v4/demo/demo/testinterface/launchtest/1/1/200561420/2/2/2/2/2/1 需要多长时间？只是球场数。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/opelesselesselessecticdesigner     [link]  ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqbosv/how_much_to_develop_a_web_app_like_this/</guid>
-      <pubDate>Sat, 15 Feb 2025 21:18:57 GMT</pubDate>
+      <title>构建了CSS动画生成器 - 时间轴，密钥帧，实时预览🎉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv29u2/built_a_css_animation_generator_timeline/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/aguythathasbeenborn     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv29u2/built_a_css_animation_generator_timeline/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:29:54 GMT</pubDate>
     </item>
     <item>
-      <title>如何在Lightspeed产品页面上显示“ 3期付款”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqacu9/how_to_display_pay_in_3_installments_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家显示的价格： “或以（产品价格÷3）付款”  我为客户提供了3期付款的选择。 我知道我知道我可以使用JavaScript添加自定义部分，但是我不知道如何动态地将产品价格除以3。无论我尝试什么，我都无法获得脚本来提取产品价格并计算分期付款金额。 是否有人在此之前进行过此操作或知道使其正常工作的方法？任何帮助都将不胜感激！ 产品页面的示例： https://www.vanspeijktweewielers.com/cortina-e-common-family-int-e-bike-enviolo.html  ＃32;提交由＆＃32; /u/u/veliki010     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqacu9/how_to_display_pay_in_3_installments_on/</guid>
-      <pubDate>Sat, 15 Feb 2025 20:20:51 GMT</pubDate>
+      <title>简单的博客样式网站架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv23jx/simple_blog_style_site_architecture/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我对Web Dev非常感兴趣，但由于市场非常灰心，所以花了很长时间才真正重新考虑了我在现场的道路。在这一点上，我只是为自己做：我可以部署自己的项目，编码本身可能是使大脑敏锐的好练习！哎呀，也许我也可以帮助其他人的网站。  所以，我认为自己是新手，而不是专业人士，我非常感谢我一直在学习过程中收到的帮助。  我有一个相对简单的博客样式网站的想法：从某种意义上说，它不是个性化对用户的个性化，而不是不变的意义上的静态，我会添加内容，当然可能会选择选择更改标记。更改标记和添加内容通常意味着某种类型的HTML模板。我看到了很多有关“使用PHP和MySQL”或Node/Express以及一些框架和MongoDB等构建您自己的博客网站的教程，以及等等。您知道我在谈论的堆栈。我也不是WordPress开发人员，更喜欢“更接近金属”。  这是事实，如果我的网站不是大量页面，并且页面是基本内容（即每月1个新的短篇文章，带有1-2张照片），我真的需要一个数据库？  这是我正在考虑的简单体系结构：   文本内容和图片文件中存储在JS对象中的路径。    索引。 其他页面是使用JS模板文字和字符串插值编程形成的，在上述内容的JS对象上迭代。    使用 innerhtml （安全，硬编码的文本且没有用户输入！），以编程形式形成的页面，并通过侦听来实现简单的路由哈希变化。    在github页面上主机，推动github更新了该站点。    似乎是一个非常简单且低成本的解决方案，没有数据库，框架或服务器侧面可以解决。我这里有什么我缺少的吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv23jx/simple_blog_style_site_architecture/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个应用程序，可以轻松制定自发计划并发展您的社交圈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq910f/i_built_an_app_to_easily_make_spontaneous_plans/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/icanhaztehcookie     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq910f/i_built_an_app_to_easily_make_spontaneous_plans/</guid>
-      <pubDate>Sat, 15 Feb 2025 19:23:30 GMT</pubDate>
+      <title>Chrome Devtools搜索现在很烂？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv1vc2/chrome_devtools_search_sucks_now/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  ！[img]（ftsjyzhq5kke1）  “搜索所有来源”工具，但是几个版本之前，它开始做需要一段时间的索引工作（而我发誓它曾经是即时的）。但是现在，它根本不会为我完成索引。它停滞不前98％。只是我吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iv1vc2/chrome_devtools_search_search_sucks_now/”&gt; [link]      [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv1vc2/chrome_devtools_search_sucks_now/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>为什么Reddit不会（几乎每次）加载整个图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq8jdn/why_does_reddit_not_load_the_entire_image/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/calikw     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq8jdn/why_does_reddit_not_load_the_entire_image/</guid>
-      <pubDate>Sat, 15 Feb 2025 19:02:06 GMT</pubDate>
+      <title>流</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv1uzz/streamthing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  流是用于在网络上实现实时功能的工具。它可以从开箱即用的开箱即用提供预配置的服务器。是什么使它与众不同？ - 这很简单，流thing不得超过几分钟的设置，并提供了您需要的所有内容。 它可以通过节点JS安装，并且可以在任何前端框架上使用。 &lt;。 &lt;。 &lt; P&gt;今天在 https://streamthing.dev    任何反馈都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jesseogunlaja     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv1uzz/streamthing/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>对不起，请另一篇AI帖子，但我想知道AI是否会使良好的建筑更为重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq7ufe/sorry_for_another_ai_post_but_im_wondering_if_ai/</link>
-      <description><![CDATA[在荒野。例如：首先，我可以在聊天中使用O3-Mini将问题分解为可行的步骤，然后将其传递给有访问多文件编辑的作曲家，查看更改并接受。 我刚刚开始学习，但是我觉得，如果我真正开始使用此工具加快速度，那是我认为实际上可以10倍输出的A-Ai-thing。我可以看到自己在做简单的门票，这将花费20分钟的时间。 &gt;比今天更快，以及建筑模式的全部点（即清洁建筑）是允许代码库以健康的方式增长。 我只是考虑到这些模式在大多数是较大公司的少数软件架构师必须意识到的模式。对于普通开发人员而言，可能变得更加重要。 即，如果我可以在早上有一个爱好项目的想法，并且在中间运行的功能齐全的应用程序的500+文件代码库 - 对于我来说，知道如何使用良好的建筑实践来构建我的项目将变得更加重要。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/codefinbel     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq7ufe/sorry_for_another_ai_post_but_im_wondering_if_ai/</guid>
-      <pubDate>Sat, 15 Feb 2025 18:31:31 GMT</pubDate>
+      <title>最适合新手贡献的人的GitHub项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iv016y/best_github_projects_for_someone_new_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经编码HTML/CSS/JS已有4年了，并且反应1年。我只使用GitHub作为部署我的个人/客户端项目并充当远程存储的一种方式。我想以更加协作的方式与大型代码库一起工作，并使用github。有人可以建议一个对初次贡献者友好的前端项目吗？ 谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fritobleak   href =“ https://www.reddit.com/r/webdev/comments/1iv016y/best_github_projects_for_for_someone_new_to/&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iv016y/best_github_projects_for_someone_new_to/</guid>
+      <pubDate>Fri, 21 Feb 2025 19:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>我每天都可以在Reddit上玩这个单词游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq7tpv/i_made_a_daily_word_game_that_you_can_play_right/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我启动了一个小型每日文字游戏，您可以直接在Reddit上玩。每天，一个新的难题都在 r/syllacrostic 中，您可以在其中解决填字游戏，跟踪您的统计信息， ，并将求解时间与其他redditors进行比较。 与 Reddit的开发人员平台将subreddit用作游戏空间的新想法。  这是一个直接链接对于今天的难题。让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jeffbritches     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iq7tpv/i_made_a_daily_daily_game_game_that_that_you_can_play_play_ray_right/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq7tpv/i_made_a_daily_word_game_that_you_can_play_right/</guid>
-      <pubDate>Sat, 15 Feb 2025 18:30:41 GMT</pubDate>
+      <title>我制作了我的第一个待办事项列表应用程序。比我预期的要难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iuzrt2/i_made_my_first_todo_list_app_it_was_harder_than/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我看到 Gumroad的创始人Sahil的推文与您的）＆quot”  我从未做过一个，所以我想这有多难？事实证明，比我预期的😂 无论如何，这里都在所有荣耀中。它确实可以完成您的期望。我借此机会尝试了类似于chatgpt的布局，并将输入固定在底部，任务列表以相反的顺序生长，因此新任务出现在底部。没什么太喜欢的tbh笑了，但它让我开心 给它一个镜头。 &gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usiriczman     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iuzrt2/i_made_my_first_todo_list_app_it_was_harder_than/</guid>
+      <pubDate>Fri, 21 Feb 2025 19:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>需要一个多合一的业务管理工具吗？满足时间表 -  CRM，调度，员工管理等等！ 🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq7cl0/need_an_allinone_business_management_tool_meet/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gabeciii     [链接]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq7cl0/need_an_allinone_business_management_tool_meet/</guid>
-      <pubDate>Sat, 15 Feb 2025 18:09:53 GMT</pubDate>
+      <title>帮助计划可视化。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iuzqun/help_with_schedule_visualization/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我有一个黑客马拉松TMRW，主题正在帮助学生优化他们的学习生活。我有一个想法是制作一个使用Gemini的API获取用户输入并将其传输到可以通过时间表可视化器读取的格式，以便用户可以输入其例程，然后将其可视化，然后用户可以为您使用，然后用户可以为您使用，然后用户可以为示例要求提供一个例行程序，以在12周内学习Python课程，因此Gemini会找出每周的例行程序，并将其添加到时间表中，每个事件/学习会议将是一个对象，所有事件都将存储在所有事件中它们在数组中。然后，计划可视化器将使用所有这些数据来可视化整个每周例程。我以前使用ChartJs进行数据可视化，有人知道类似的东西，但对于时间表？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/planenewt8956     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iuzqun/help_with_schedule_visualization/</guid>
+      <pubDate>Fri, 21 Feb 2025 19:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个游戏，LLM将您的图纸视为著名的虚构人物</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_where_an_llm_judges_your_drawings_as/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是一个我打算在周末完成的爱好项目。这是一种尝试以某种方式获得LLM的快速有趣的游戏。我实际上有一个想法浮了一段时间，但直到最近才开发。 在一个〜周内建立了一个初始版本，与我们的一些朋友一起玩，他们实际上喜欢它，他们的反馈才驱动了我实际上花更多的时间并重写整个游戏，这就是您现在所看到的。 玩drawels（我给游戏给游戏的名字），您需要提供一个Gemini API键（您可以从AI工作室免费获得此功能，我最终为那些懒于使用自己的懒惰的人添加了几个服务器键），绘图在内存中完全运行，没有保存（除了图纸，它们都保留到了，直到回合直到回合末端），一旦离开（或断开连接）您的API键将从房间中删除。 游戏将免费托管： https://drawels.onrender.com/    鉴于它是一个免费的托管托管，它是一个非常薄弱的​​VM，但是它应该能做（希望是吗？）要尝试一下，请检查一下，让我知道您的想法。 https://preview.itd.itd.it.it/v。KNGR4KVBCJE1.JPG？ D4E1AA5E00A1DFF30EC194FDD     https：//preview.redd.it/fc3zrbqzbcje1.jpg？ 2748E6291CBD707A8A93EAACE6029AE    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usrared12     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_awhere_an_an_llm_judges_your_your_your_drawings_as/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iq6yn6/made_a_game_where_an_llm_judges_your_drawings_as/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:53:10 GMT</pubDate>
+      <title>在投资组合中看到哪些项目会感到惊讶？ （Fullstack）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iuz4le/what_projects_would_you_be_surprised_to_see_in_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑要在我的网络开发人员投资组合中进行哪些项目，而我不想做一个典型的项目，这只会消耗一个API，就是IT或典型的Crud。但是，更令人惊讶的东西或表明您确实具有开发人员的经验。  例如，您看到了项目并说：“雇用”。 😅  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iuz4le/what_projects_would_you_you_be_surprise_to_to_see_in_a/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iuz4le/what_projects_would_you_you_surprise_surprise_to_see_ine_in_a/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iuz4le/what_projects_would_you_be_surprised_to_see_in_a/</guid>
+      <pubDate>Fri, 21 Feb 2025 19:18:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

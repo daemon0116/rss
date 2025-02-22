@@ -4,7 +4,35 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sat, 15 Feb 2025 01:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 01:20:12 GMT</lastBuildDate>
+    <item>
+      <title>Siglip 2：更好的多语言视觉语言编码器</title>
+      <link>https://huggingface.co/blog/siglip2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/siglip2</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smolvlm2：将视频理解带入每个设备</title>
+      <link>https://huggingface.co/blog/smolvlm2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolvlm2</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>paligemma 2混音 -  Google的新教学视觉语言模型</title>
+      <link>https://huggingface.co/blog/paligemma2mix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/paligemma2mix</guid>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍三个新的无服务器推理提供商：双曲线，Nebius AI Studio和Novita🔥</title>
+      <link>https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic</guid>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎在轮毂上的Fireworks.ai🎆</title>
       <link>https://huggingface.co/blog/fireworks-ai</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/deepseek-r1-aws</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到集线器上的推论提供者</title>
-      <link>https://huggingface.co/blog/inference-providers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/inference-providers</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open-R1：DeepSeek-R1的完全开放繁殖</title>
-      <link>https://huggingface.co/blog/open-r1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/open-r1</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩散器中开放视频生成模型的状态</title>
-      <link>https://huggingface.co/blog/video_gen</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/video_gen</guid>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在，我们支持Smolagents中的VLM！</title>
-      <link>https://huggingface.co/blog/smolagents-can-see</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/smolagents-can-see</guid>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
