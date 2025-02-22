@@ -4,7 +4,7 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 15:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 16:20:05 GMT</lastBuildDate>
     <item>
       <title>小组的问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivkry3/question_for_the_group/</link>
@@ -43,14 +43,14 @@
     <item>
       <title>需要一些想法，用于心理学中AI的计划应用</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivfrdp/need_some_ideas_for_planned_applications_of_ai_in/</link>
-      <description><![CDATA[在心理学（例如，心理健康聊天机器人 - 但我认为这真的很无聊，想要更多的想法）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unlavecookie     [link]   [注释]   ]]></description>
+      <description><![CDATA[在心理学（例如，心理健康聊天机器人 - 但我认为这真的很无聊，想要更多的想法）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unlavecookie     [link]   [commiss]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivfrdp/need_some_ideas_for_planned_applications_of_ai_in/</guid>
       <pubDate>Sat, 22 Feb 2025 10:19:31 GMT</pubDate>
     </item>
     <item>
       <title>通过迭代直接偏好优化增强长形成含量生成的视觉模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivd1xr/enhancing_visionlanguage_models_for_longform/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文引入了一种有趣的方法，以使视觉模型模型生成更长的输出（最多10k单词），同时保持连贯性和质量。关键创新是 iterdpo   - 一种迭代的直接偏好优化方法，将长期生成分解为可管理的培训块。 主要技术要点： - 创建 longwwriter-创建V -22K 数据集，其中有22,158个示例，其中长度高达10K单词 - 使用iterdpo实现了基于块的培训，以有效地处理长序列 - 开发的 mmlongbench-Write 基准标准，具有6个用于评估长形成生成的任务 - 建立在开源LLAVA架构上，并修改了用于扩展的生成 关键结果： - 超过GPT-4V和GPT-4V和Claude 3在长期生成任务上 - 跨10K单词输出保持连贯性 - 通过专业培训实现较小的模型大小的性能 - 成功处理带有复杂说明的多图像输入 我认为这项工作为AI-Assisced技术写作和文档等实用应用程序开辟了有趣的可能性。基于块的培训方法对于其他长篇小说ML问题可能很有价值。 。有趣的是，如何使用更大，更多样化的数据集和不同的模型体系结构进行缩放。  tldr：新的培训方法（iterdpo）和数据集启用视觉语言模型，通过破裂来生成连贯的10K单词输出将长序列减少到优化的块中。在长期任务上显示出比大型模型更好的性能。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文引入了一种有趣的方法，以使视觉模型模型生成更长的输出（最多10k单词），同时保持连贯性和质量。关键创新是 iterdpo   - 一种迭代的直接偏好优化方法，将长期生成分解为可管理的培训块。 主要技术要点： - 创建 longwwriter-创建V -22K 数据集，其中有22,158个示例，其中长度高达10K单词 - 使用iterdpo实现了基于块的培训，以有效地处理长序列 - 开发的 mmlongbench-Write 基准标准，具有6个用于评估长形成生成的任务 - 建立在开源LLAVA架构上，并修改了用于扩展的生成 关键结果： - 超过GPT-4V和GPT-4V和Claude 3在长期生成任务上 - 跨10K单词输出保持连贯性 - 通过专业培训实现较小的模型大小的性能 - 成功处理带有复杂说明的多图像输入 我认为这项工作为AI-Assisced技术写作和文档等实用应用程序开辟了有趣的可能性。基于块的培训方法对于其他长篇小说ML问题可能很有价值。 。有趣的是，如何使用更大，更多样化的数据集和不同的模型体系结构进行缩放。  tldr：新的培训方法（iterdpo）和数据集启用视觉语言模型，通过破裂来生成连贯的10K单词输出将长序列减少到优化的块中。在长期任务上显示出比大型模型更好的性能。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivd1xr/enhancing_visionlanguage_models_for_longform/</guid>
       <pubDate>Sat, 22 Feb 2025 07:05:58 GMT</pubDate>
     </item>
