@@ -4,20 +4,20 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 07:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:22:28 GMT</lastBuildDate>
+    <item>
+      <title>DDOS攻击，该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivdqd8/ddos_attack_what_to_do/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个大型的电子商务网站，我们在这里受到了很多攻击。所有攻击都将进入这样的路径 /search?f%5B0%5D=field_product_reference:field_author:7399309&amp;f%5B1%5D=field_product_reference:field_vocab_format:58&amp;f%5B2%5D=field_product_reference:field_vocab_format:404 ＆amp; f％5B3％5D = field_product_reference：field_author：18658＆amp; f％5B4％5D = field_product_reference：field_vocab_language：670＆amp; f％5B5％5D = field_product_reference：field_product_reference：field_vocab_vocab_langage：39   问题在于，似乎他们将IP Alle的时间更改为时间，而不会从同一IP攻击超过3-5次。 IPS是100秒。  IPS是非洲和南美国家的主要国家 如何解决这个问题？防火墙的乡村街区还是其他？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/striking-bat5897    href =“ https://www.reddit.com/r/webdev/comments/1ivdqd8/ddos_attack_what_to_do/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivdqd8/ddos_attack_what_to_do/</guid>
+      <pubDate>Sat, 22 Feb 2025 07:53:39 GMT</pubDate>
+    </item>
     <item>
       <title>2025年的顶级WebDEV趋势：您认为游戏最多的变化是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivd6tr/the_top_webdev_trends_for_2025_what_do_you_think/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   WebDev正在快速更改；新的AI工具和新的前端框架正在出现。我一直在调查我们领域的下一步，所以您认为哪种趋势会产生最大的不同？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kadketon     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivd6tr/the_top_webdev_trends_for_for_for_2025_do_do_do_you_think/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivd6tr/the_top_webdev_trends_for_2025_what_do_you_think/</guid>
       <pubDate>Sat, 22 Feb 2025 07:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>6个月后，我的应用使我的被动收入为2,700美元！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivcx7k/my_app_makes_me_2700month_in_passive_income_after/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  因此，开发此应用程序的基本版本大约需要30天。 &lt; p&gt;我和我的兄弟一起做了这件事。当我们开始时）。然后，我们继续改进它并添加新功能，例如通过reddit讨论进行搜索以验证思想，遵循从构想到建筑和营销的特定阶段，并添加工具以使整个过程更加可行。 我们所有确实是在公共社区中的X上构建应用程序的旅程（在公共社区的X上构建应用程序）。 我们还在产品狩猎上启动了我们的第一个付款方式。 客户。 发布后54天，我们达到了$ 1,000 MRR   98天后，我们达到了$ 2,000 MRR  ，今天我们的价格为2,700美元MRR。 总收入约为9,000美元。 我们没有花一美元来营销以达到这一点，最近我们击中了5,000个用户。直到上周，我们才开始尝试付费广告。 今年的目标是达到1万美元的MRR，如果我们得到付费广告上班，我认为这是可行的。 该应用程序被称为 buildpad 如果您想检查一下。 如果你们有兴趣，我将继续分享更多$ 100K MRR的旅程。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/felixheikka     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivcx7k/my_app_makes_me_2700month_in_passive_income_after/</guid>
-      <pubDate>Sat, 22 Feb 2025 06:57:39 GMT</pubDate>
     </item>
     <item>
       <title>编码笔记本电脑建议：Windows或MacBook以下的120万卢比？</title>
@@ -92,7 +92,7 @@
     <item>
       <title>Livewire 3.5：异步调度是否可能？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，&lt; /p&gt; 我正在在单个Livewire组件下生成几个图表。  i使用＆quot＆quot; dispatch（） ＆quot要将图表数据发送到UI。 我面临的问题 - 更新一次都在所有图表上发生。 实际上有些生成。因此，我想加载页面并显示图表。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_is_asynchronous_dispatch_possible/”&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，&lt; /p&gt; 我正在在单个Livewire组件下生成几个图表。  i使用＆quot＆quot; dispatch（） ＆quot要将图表数据发送到UI。 我面临的问题 - 更新一次都在所有图表上发生。 实际上有些是生成的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_is_asynchronous_dispatch_possible/”&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</guid>
       <pubDate>Fri, 21 Feb 2025 22:04:17 GMT</pubDate>
     </item>
