@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 22 Feb 2025 20:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 23:18:01 GMT</lastBuildDate>
+    <item>
+      <title>太久自动化：学习使用GitHub Actions和Workload Identity Federation联合会[一个“一个分支来统治他们全部串联”的最终部分，学会自动化单元测试，git标签，docker映像构建和推动，集成测试和部署到云运行[]</title>
+      <link>https://www.reddit.com/r/programming/comments/1ivsbga/too_long_automated_learn_to_automate_unit_tests/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/data_owner     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ivsbga/too_long_automated_learn_to_automate_unit_tests/</guid>
+      <pubDate>Sat, 22 Feb 2025 20:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想雇用程序员来编程Java的插件</title>
+      <link>https://www.reddit.com/r/programming/comments/1ivs2ts/me_gustaria_contratar_un_programador_para/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/aicti     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ivs2ts/me_gustaria_contratar_un_programador_para/</guid>
+      <pubDate>Sat, 22 Feb 2025 20:21:44 GMT</pubDate>
+    </item>
     <item>
       <title>如果您是Python的初学者..我将向您展示10个隐藏的Python技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1ivrudy/if_you_are_beginner_in_python_ill_show_you_10/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ivhol0/the_efficiency_paradox_how_to_save_yourself_the/</guid>
       <pubDate>Sat, 22 Feb 2025 12:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个相当广泛的备忘单，用于脚本筛网过滤器。如果有人有兴趣，这是指关键的链接。</title>
-      <link>https://www.reddit.com/r/programming/comments/1iveor2/i_created_a_fairly_extensive_cheat_sheet_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stinkypete312     [link]    ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iveor2/i_created_a_fairly_extensive_cheat_sheet_for/</guid>
-      <pubDate>Sat, 22 Feb 2025 09:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是用于Windows项目的极简主义2键式MSI安装程序生成器。魔术工作所需的工作就是用自己的值填充_configmsi.yml，然后单击2个蝙蝠或SH文件（如果使用MS Visual Studio或MSYS2/Mingw64）。瞧，您的MSI安装程序已经准备好了！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ivejju/this_is_a_minimalist_2click_msi_installer/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/florida-haunted     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ivejju/this_is_a_minimalist_2click_msi_installer/</guid>
-      <pubDate>Sat, 22 Feb 2025 08:51:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
