@@ -4,11 +4,32 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 10:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 11:15:27 GMT</lastBuildDate>
+    <item>
+      <title>上周我做了一个小部件建造者，现在我制作了一个应用程序来使用它们</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivgdoz/last_week_i_made_a_widget_builder_now_i_made_an/</link>
+      <description><![CDATA[    &lt;！ -  sc_off-&gt;    https://i.redd.it.it/ag0odqwc9oke1.gif    上周，我建立了一个小部件的创建者（我改进了它），本周，我终于完成了一个应用程序，您可以将它们整理到面板中！我将重点放在生产力上，尤其是对多动症（我的女友拥有的），我想做一些有用的东西，例如概念，但对于ADHD的开发人员。 我很快就会推出新的集成。 ，因此，如果您有任何想法或功能，我希望听到它们。  顺便说一句，我知道可以改进UI，这就是为什么IM搜索测试用户哈哈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivgdoz/last_week_i_i_made_made_a_widget_buildet_builder_now_now_i_made_made_an/”&gt; [links]       ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivgdoz/last_week_i_made_a_widget_builder_now_i_made_an/</guid>
+      <pubDate>Sat, 22 Feb 2025 11:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我浪费了2年的$ 0项目。然后，我一个月内完成了一个$ 1,000的项目。这就是改变的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivga72/i_wasted_2_years_on_a_0_project_then_i_made_a/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/jakecoolguy     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivga72/i_wasted_2_years_on_a_0_project_then_i_made_a/</guid>
+      <pubDate>Sat, 22 Feb 2025 10:57:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库应该多么混乱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivg7q7/how_messy_should_a_database_be/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我目前正在研究我的第一个真正的WebApp，并且刚刚开始设置数据库结构。最终，我想在应用程序中添加多种语言，但是由于这是我的第一个项目，因此我对数据库中应该使用多少逻辑而感到不知所措。 我应该存储所有用户输入，或者只有某些输入？如果我以后需要它们，或者立即清理它们，我应该保留它们吗？另外，在数据库中存储像简单菜单之类的东西更好，以便我可以轻松地切换语言，或者在代码中处理该逻辑？ 另一个问题：我是否应该依靠“临时状态”某些数据，或者只是将所有内容都放在数据库中以减少加载时间？我很想听听经验丰富的开发人员有关最佳实践的任何建议，尤其是关于数据库“混乱”与可维护性的建议。如果对于第一个项目来说是一定程度的混乱，那么也很高兴知道！ 预先感谢您的任何建议！  &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆ ＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivg7q7/how_messy_should_should_should_a_database_be/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivg7q7/how_messy_should_a_database_be/</guid>
+      <pubDate>Sat, 22 Feb 2025 10:53:01 GMT</pubDate>
+    </item>
     <item>
       <title>制作了我的第一个3D网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivfm9o/made_my_first_3d_website/</link>
-      <description><![CDATA[      &lt;！ -  sc_off-&gt;  用三j和r3f制作了我的第一个网站，这并不多，但我对结果感到非常满意。欢迎反馈。 （对不起，由于我以前的帖子已被删除，今天必须重新发布它） 代码： https://github.com/tompast/camera-3d-showroom    &lt;！&lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/tompst     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <description><![CDATA[      &lt;！ -  sc_off-&gt;  用三j和r3f制作了我的第一个网站，这并不多，但我对结果感到非常满意。欢迎反馈。 （对不起，由于我以前的帖子已被删除，因此今天必须在Showoff Staurday上重新发布它） 代码： https://github.com/tompast/camera-3d-showroom    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tompst     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivfm9o/made_my_first_3d_website/</guid>
       <pubDate>Sat, 22 Feb 2025 10:09:14 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[    &lt;！ -  sc_off-&gt;  我想发布模板的视频，但是社区不允许我发布视频。提交由＆＃32; /u/u/narry_coding30     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivbs3m/please_rate_of_my_bekary_template_design_using/</guid>
       <pubDate>Sat, 22 Feb 2025 05:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的着陆页上的反馈：atlasprods.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivbqjv/feedback_on_my_landing_page_atlasprodscom/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://atlasprods.com     这是我在 lodable.dev 和 aider.chat 。会喜欢关于如何改进它的一些反馈！我也是SEO的新手，因此，对于此React（Vite）项目的任何提示也非常感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ashwin_apk     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivbqjv/feedback_on_my_landing_page_atlasprodscom/</guid>
-      <pubDate>Sat, 22 Feb 2025 05:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将Web应用程序演示转换为动画SVG？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivbgkw/how_to_convert_a_web_app_demo_to_an_animated_svg/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在铁路应用程序上遇到了Web应用程序演示（ https：// railway。 com/） 我正在尝试创建与铁路登录页面类似的Web应用程序的动画SVG演示。我不确定从哪里开始。我试图研究，我有点不知所措。有人对此有任何经验吗？我应该使用哪些工具和技术？对于初学者有什么建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ggravating_basil973      [links]       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivbgkw/how_to_to_convert_a_web_app_demo_demo_to_an_animated_animated_svg/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivbgkw/how_to_convert_a_web_app_demo_to_an_animated_svg/</guid>
-      <pubDate>Sat, 22 Feb 2025 05:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>JDBC“未正确拼写</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivbbkg/jdbc_is_not_correctly_spelled/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  为什么我会遇到此错误？这不是正确的拼写吗？ （Java23。EclipseIde。H2在依赖项中配置）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hotrod9988     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivbbkg/jdbc_is_not_correctly_spelled/</guid>
-      <pubDate>Sat, 22 Feb 2025 05:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
