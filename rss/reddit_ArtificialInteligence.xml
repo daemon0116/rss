@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 19:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 20:17:49 GMT</lastBuildDate>
+    <item>
+      <title>药剂师寻求有关过渡到医疗保健AI/ML博士学位的建议 - 药房的背景，但在数据科学领域很自学</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivrnq0/pharmacist_seeking_advice_on_transitioning_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是最近合格的药剂师。我为某些情况提供了背景： 背景：   - 完成了硕士在药物输送方面完成的Mpharm（特别是吸入器设备开发）   - 完成了我的关于在主要会议上介绍的原型吸入器的论文   - 在业余时间通过在线课程中的编程和数据科学自学   - 目前是作为一个药剂师 研究兴趣：   - 将AI/ML与医疗保健申请结合   - 鉴于他们需要的各个领域开放：药物提供，公共卫生，公共卫生，制药开发   - 寻找与学术界和行业相关的主题 关键问题：     MSC在数据科学/ML中首先？我对此持开放态度，但想知道我的自学背景是否足够。我已经完成了研究，并且还有转换MSC计划和许多其他计划。   将AI/ML与Pharmaceutical/Healthcare结合了哪些热门研究领域，这对这两种学术界都很有价值和行业？   识别合适的程序/主管的任何建议？    职业目标： 希望最终在制药行业或学术界的研究中工作。 真的很感谢任何见解，尤其是从以下方面来：   - 当前的博士/博士学位/博士生在类似领域   - 从药房过渡到数据科学的人   - 在此交叉路口工作的学者   - 行业研究人员的行业研究人员Transitions  事先感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/babyloniangm     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivrnq0/pharmacist_seeking_advice_on_transitioning_to/</guid>
+      <pubDate>Sat, 22 Feb 2025 20:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>征税AI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivotjl/taxing_ai/</link>
@@ -43,14 +50,14 @@
     <item>
       <title>需要一些想法，用于心理学中AI的计划应用</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivfrdp/need_some_ideas_for_planned_applications_of_ai_in/</link>
-      <description><![CDATA[在心理学（例如，心理健康聊天机器人 - 但我认为这真的很无聊，想要更多的想法）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unlavecookie     [link]   [注释]   ]]></description>
+      <description><![CDATA[在心理学（例如，心理健康聊天机器人 - 但我认为这真的很无聊，想要更多的想法）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unlavecookie     [link]   [commiss]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivfrdp/need_some_ideas_for_planned_applications_of_ai_in/</guid>
       <pubDate>Sat, 22 Feb 2025 10:19:31 GMT</pubDate>
     </item>
     <item>
       <title>通过迭代直接偏好优化增强长形成含量生成的视觉模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivd1xr/enhancing_visionlanguage_models_for_longform/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文引入了一种有趣的方法，以使视觉模型模型生成更长的输出（最多10k单词），同时保持连贯性和质量。关键创新是 iterdpo   - 一种迭代的直接偏好优化方法，将长期生成分解为可管理的培训块。 主要技术要点： - 创建 longwwriter-创建V -22K 数据集，其中有22,158个示例，其中长度高达10K单词 - 使用iterdpo实现了基于块的培训，以有效地处理长序列 - 开发的 mmlongbench-Write 基准标准，具有6个用于评估长形成生成的任务 - 建立在开源LLAVA架构上，并修改了用于扩展的生成 关键结果： - 超过GPT-4V和GPT-4V和Claude 3在长期生成任务上 - 跨10K单词输出保持连贯性 - 通过专业培训实现较小的模型大小的性能 - 成功处理带有复杂说明的多图像输入 我认为这项工作为AI-Assisced技术写作和文档等实用应用程序开辟了有趣的可能性。基于块的培训方法对于其他长篇小说ML问题可能很有价值。 。有趣的是，如何使用更大，更多样化的数据集和不同的模型体系结构进行缩放。  tldr：新的培训方法（iterdpo）和数据集启用视觉语言模型，通过破裂来生成连贯的10K单词输出将长序列减少到优化的块中。在长期任务上显示出比大型模型更好的性能。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文引入了一种有趣的方法，以使视觉模型模型生成更长的输出（最多10k单词），同时保持连贯性和质量。关键创新是 iterdpo   - 一种迭代的直接偏好优化方法，将长期生成分解为可管理的培训块。 主要技术要点： - 创建 longwwriter-创建V -22K 数据集，其中有22,158个示例，其中长度高达10K单词 - 使用iterdpo实现了基于块的培训，以有效地处理长序列 - 开发的 mmlongbench-Write 基准标准，具有6个用于评估长形成生成的任务 - 建立在开源LLAVA架构上，并修改了用于扩展的生成 关键结果： - 超过GPT-4V和GPT-4V和Claude 3在长期生成任务上 - 跨10K单词输出保持连贯性 - 通过专业培训实现较小的模型大小的性能 - 成功处理带有复杂说明的多图像输入 我认为这项工作为AI-Assisced技术写作和文档等实用应用程序开辟了有趣的可能性。基于块的培训方法对于其他长篇小说ML问题可能很有价值。 。有趣的是，如何使用更大，更多样化的数据集和不同的模型体系结构进行缩放。  tldr：新的培训方法（iterdpo）和数据集启用视觉语言模型，通过破裂来生成连贯的10K单词输出将长序列减少到优化的块中。在长期任务上显示出比大型模型更好的性能。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivd1xr/enhancing_visionlanguage_models_for_longform/</guid>
       <pubDate>Sat, 22 Feb 2025 07:05:58 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我认为自己是ai向前。目前，我正在对我们的某些数据进行微调模型，因为它是针对NLP/刮擦平台处理结构化数据的最佳方法。我每天都使用Chatgpt，“您可以修改本段吗？或了解做新事。最近，帮助澄清一些我有兴趣使用XSD的事情。 Copilot有时很烦人，但它一直是我在编写简单可预测代码时见过的最大生产力提升，并节省了大量的击键作为一个不错的自动完整。  话虽如此，炒作会死了吗？就像，擅长它的擅长。我实际上喜欢公司所做的一些集成。但这在空间中耗尽了新颖性。每个新的趋势GitHub存储库都是另一台LLM包装纸或Grift机器。每个YC接受视频似乎都是关于它们如何建立了下一个OpenAi补丁将无效的东西。昨天我刚刚在LinkedIn上看到了一篇文章，有人宣称他们“在每个大陆上教AI”。”这是什么意思？ 3年后，他们最大，最昂贵的车型仍然很糟糕地修复了CRUD应用中的初级错误，但是世界上最好的程序员之一。” AI艺术拍卖只是令人作呕。我觉得我只是因为没有得到它而疯了，而且害怕感觉自己被留在后面。我20多岁了！我在这里真的缺少什么吗？公用事业很清楚，但笨拙也是如此。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iv7w5n/ai_is_is_is_is_is_exhausting_i_feel_i_feel_im_im_just_not/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iv7w5n/ai_is_is_is_is_is_eexhausting_i_i_feel_im_im_im_just_not/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iv7w5n/ai_is_becoming_exhausting_i_feel_like_im_just_not/</guid>
       <pubDate>Sat, 22 Feb 2025 02:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI会导致云部署更少吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iv3zvl/will_ai_cause_fewer_cloud_deployments/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  与AI一起，公司能够更快，更轻松地部署和获得更多的服务，同时还可以保持强大的DevOps/IAC实践。经济学将始终使本地与云方程难以计算。破坏性技术经常以一种或另一种方式摆动摆。 LLMS / Genai可以使云和本地部署变得更加容易，更便宜。LLMS在频谱的进攻和防御性方面都非常有价值，这使它们成为安全专业人员的绝对要求。如果您不探索LLM对网络安全的好处，那么现在是开始的好时机。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iv3zvl/will_ai_ai_cause_fewer_fewer_cloud_deployments/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iv3zvl/will_ai_cause_fewer_cloud_deployments/</guid>
-      <pubDate>Fri, 21 Feb 2025 22:43:49 GMT</pubDate>
     </item>
     <item>
       <title>Openai发现了AI。驱动中国监视的证据</title>
