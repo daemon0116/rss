@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 08:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 09:18:58 GMT</lastBuildDate>
+    <item>
+      <title>该工具可以重新上映您的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivepdd/this_tool_can_recolor_your_website/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/icecreamwithfriends     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivepdd/this_tool_can_recolor_your_website/</guid>
+      <pubDate>Sat, 22 Feb 2025 09:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何同时在Android上同时查看4个选项卡？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivemv9/how_to_see_4_tabs_simultaneously_on_chrome_on/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Android上运行了最新版本的Chrome，并且正在寻找一种分开屏幕的方法，以便一次看到4个选项卡，我&#39;ve设法将其分为2个选项卡，并创建了一个浮动窗口来添加第三个选项卡，但是它的凌乱，有能力看到四个？ 有一些历史记录，其中JS Dev和DevTool上通常会修补很高兴得到Creative！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/flewizzle     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivemv9/how_to_see_4_tabs_simultaneously_on_chrome_on/</guid>
+      <pubDate>Sat, 22 Feb 2025 08:58:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个精选的很棒的文本效果列表，您可以在下一个项目中使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivemaf/i_created_a_curated_list_of_awesome_text_effects/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/artlesa     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivemaf/i_created_a_curated_list_of_awesome_text_effects/</guid>
+      <pubDate>Sat, 22 Feb 2025 08:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何做这样的事情？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivelnr/how_can_i_make_something_like_this/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在学习网站动画，我看到了这个动画：＆lt; video Controls＆gt;    https://imgur.com/qc0lyqt    任何人都可以让我知道如何我可以实现这一目标吗？ &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivelnr/how_can_i_i_make_make_make_something_like_this/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivelnr/how_can_i_make_something_like_this/</guid>
+      <pubDate>Sat, 22 Feb 2025 08:55:41 GMT</pubDate>
+    </item>
     <item>
       <title>DDOS攻击，该怎么办？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivdqd8/ddos_attack_what_to_do/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[在 它是在开源平台代号上构建的 https://github.com/codiewio/codenire    我将很乐意回答任何问题并考虑任何建议并考虑任何建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/halabooda     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iv5h8u/i_built_a_new_playground_for_go_py_ts_and_more/</guid>
       <pubDate>Fri, 21 Feb 2025 23:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有客户端ORM将串行的SQL查询发送到服务器以进行执行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iv36je/why_isnt_there_a_clientside_orm_that_sends/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道您不能直接在客户端上使用ORM  - 出于安全原因，您不想公开数据库凭据或运行从前端进行任意查询。但是，为什么不具有SDK，可以让您在客户端上编写类型安全的查询，序列化并将其发送到执行它们的后端服务呢？这样，客户端可以使用与服务器端ORM相同的API，同时保持数据库访问控制。  sserialization成本应与通常的API请求/响应周期相比，相比之下。  这种方法是不可行的，还是没有人认真追求的东西？  ，或者也许有这样的解决方案我只是不知道？我对GraphQl并不熟悉，但据我了解，它遵循了这个想法。但是我的问题是为什么不对像毛毛雨或prisma这样的Orms做这样的事情。 很想听听其他考虑此事的想法。  &lt;！ -  sc_on- - &gt;＆＃32;提交由＆＃32; /u/u/carlpaul153     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iv36je/why_isnt_there_a_clientside_orm_that_sends/</guid>
-      <pubDate>Fri, 21 Feb 2025 22:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Livewire 3.5：异步调度是否可能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，&lt; /p&gt; 我正在在单个Livewire组件下生成几个图表。  i使用＆quot＆quot; dispatch（） ＆quot要将图表数据发送到UI。 我面临的问题 - 更新一次都在所有图表上发生。 实际上有些是生成的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_is_asynchronous_dispatch_possible/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iv33a3/livewire_35_is_asynchronous_dispatch_possible/</guid>
-      <pubDate>Fri, 21 Feb 2025 22:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何托管数百张可单击的照片</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iv2w7c/how_to_host_hundreds_of_clickable_photos/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一张数百封信和照片的剪贴簿，我已故的婆婆在第二次世界大战期间担任WAC时送回家。我已经扫描了所有内容，并希望将它们托管在网站上。我希望每封信都可以放大，以便文字更大，使得字母更容易阅读。  ，我想将所有内容都放在网站上，而不是使用照片托管网站，我还可以添加一些介绍性文本和其他评论。  有什么想法或建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andyetanotheruserid     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iv2w7c/how_to_host_hundreds_of_clickable_photos/</guid>
-      <pubDate>Fri, 21 Feb 2025 21:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了CSS动画生成器 - 时间轴，密钥帧，实时预览🎉</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iv29u2/built_a_css_animation_generator_timeline/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/aguythathasbeenborn     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iv29u2/built_a_css_animation_generator_timeline/</guid>
-      <pubDate>Fri, 21 Feb 2025 21:29:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
