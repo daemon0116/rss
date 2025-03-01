@@ -4,7 +4,14 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 17:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 18:23:13 GMT</lastBuildDate>
+    <item>
+      <title>AI永远是免费的吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j15ap4/will_ai_always_be_free/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  他们说“如果产品是免费的，您就是产品”，就AI而言，这些公司只是在使用我们需要的东西时才使用我们耕种数据？总是会有“免费” AI吗？在公司将数十亿美元投资于AI的经济体中，他们不可避免地需要以某种方式从中获利。我看不到它们总是这样的，即使有免费的人，它也可能会愚蠢到下层/中产阶级。  您认为无法负担AI的人的未来是什么样的？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dirtylinzo     [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j15ap4/will_ai_always_be_free/</guid>
+      <pubDate>Sat, 01 Mar 2025 17:51:44 GMT</pubDate>
+    </item>
     <item>
       <title>芝麻语音模型一直是我的时刻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j12kef/the_sesame_voice_model_has_been_the_moment_for_me/</link>
@@ -62,13 +69,6 @@
       <pubDate>Sat, 01 Mar 2025 07:30:48 GMT</pubDate>
     </item>
     <item>
-      <title>关于抽搐的真相</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0u412/truth_about_twitch/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/chudy88      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0u412/truth_about_twitch/</guid>
-      <pubDate>Sat, 01 Mar 2025 07:30:14 GMT</pubDate>
-    </item>
-    <item>
       <title>通过加强学习来增强医疗VLM推理，而无需参考标签</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0txuc/enhancing_medical_vlm_reasoning_through/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  本文介绍了一种使用强化学习来提高医疗VLMS推理能力的方法。关键创新是一个奖励系统，它激励逐步的医疗分析，而不仅仅是正确的最终答案 - 类似于我们希望医学专业人员显示其诊断推理的方式。 关键技术：••在基本医疗vlm体系结构上实现RL的RL•使用链链链接（COT）促进良好的良好性•在良好的方面进行质量•精确•精确•精确•技术•精确•技术•精确•技术•精确•技术•技术•精确•技术•技术•精确的质量• specialized attention mechanisms • Evaluates across multiple medical imaging benchmarks Results show meaningful improvements: • 5-15% accuracy gains across various medical imaging tasks • More detailed and medically relevant explanations • Better alignment with clinical reasoning patterns • Consistent performance across different imaging types • Improved transparency in diagnostic process I think this approach could help bridge an important gap in medical AI adoption.通过使推理过程更加明确和医学声音，它解决了有关黑盒医疗AI系统的一些关键问题。提高准确性和可解释性的结合可以使这些系统在临床环境中更加实用。 我认为，计算要求和潜在过度拟合的局限性需要仔细考虑。跨专业的各种表现也不同，还表明，广泛的临床应用需要更多的工作。  tldr：加强学习 +经济链推理提高了医疗VLMS的诊断能力和解释质量，准确性获得了5-15％，并且准确性获得了5-15％。 href =“ https://aimodels.fyi/papers/arxiv/medvlm-r1-incentivizing-medical-reasoning-capibility-vision-vision”&gt;完整摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]   ]]></description>
@@ -76,18 +76,18 @@
       <pubDate>Sat, 01 Mar 2025 07:18:06 GMT</pubDate>
     </item>
     <item>
+      <title>创建一个可以说谎的AI会成为一项成就吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0slth/would_creating_an_ai_that_can_lie_about_its/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这听起来很奇怪，但是格罗克（Grok）被暴露为明确的规则，即不提国王没有衣服。例如，在哪里无法提出关于错误信息的麝香或埃隆。 ，但它也可以看到它们是错误信息的主要来源。这让我想知道，难道创建有目的地使用标准技术的AI吗？ 撒谎的事情是您必须记住您所说的话。这很昂贵。如果我们假设默认情况下必须将数据源填充到事实信息，那么您如何修改说Mistral或开源的东西突然开始说地球上充满地球不平坦的事实是平坦的？  AI如何解决逻辑上的不一致？  这只是一个想法，在我走开睡觉之前就冒泡了。鉴于许多东西被客观地在客观上是错误的，因此使一个机器人撒谎比让它说实话要难得多吗？ 再次，这意味着您没有用错误的训练数据填充它，只有关于如何解释数据的错误说明。  &lt;！&lt;！ -  sc_on--&gt;＆＃32;&gt;＆＃32;提交由＆＃32; /u/u/redtuna777     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0slth/would_creating_an_ai_that_can_lie_about_its/</guid>
+      <pubDate>Sat, 01 Mar 2025 05:50:09 GMT</pubDate>
+    </item>
+    <item>
       <title>一分钟每日AI新闻2/28/2025</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0px70/oneminute_daily_ai_news_2282025/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;      OpenAi 计划将Sora的视频生成器带到Chatgpt。[1]     Anthropic 与美国国家实验室合作，与美国国家实验室合作，为前1,000个科学家AI JAM/lie&gt;     欧盟针对AI生成的儿童性虐待材料发起了全球刺痛行动。[4]   包括： https://bushaicave.com/2025/2025/28/28/28/28-2025/ 提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j0px70/oneminute_daily_ai_ai_news_2282025/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0px70/oneminute_daily_ai_news_2282025/</guid>
       <pubDate>Sat, 01 Mar 2025 03:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0dhi3/learning_about_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  哪些网站，YouTube视频，书籍等是什么？这个子雷迪特的人们建议什么来学习AI？这是针对一个对AI不了解并想开始了解的人，因为我一直听到它。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/prawe-philosophy-346      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0dhi3/learning_about_ai/</guid>
-      <pubDate>Fri, 28 Feb 2025 17:40:32 GMT</pubDate>
     </item>
     <item>
       <title>如果每个人都可以访问AI（就像每个人都有大脑一样），那么真正将某人与众不同的是什么？</title>

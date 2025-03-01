@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 17:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 18:24:06 GMT</lastBuildDate>
+    <item>
+      <title>.NET 10到达首次预览</title>
+      <link>https://www.reddit.com/r/programming/comments/1j15uue/net_10_arrives_in_first_preview/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Microsoft已推出了.NET 10的首次预览，这是该公司的旗舰软件开发平台的主要新版本。该公司说，可能是11月份的生产发行，.NET 10介绍C＃14，并为.NET运行时增加了重大增强，SDK，Libraries，Asp.net Core，Blazor和.Net Maui。 c＃14包括对系统的一流支持。和system.ReadonlySpan＆lt; t＆gt;用语言。微软说，这涉及新的隐式转换，这些转换可以通过这些类型进行更自然的编程。这种支持可以提高性能，而没有安全的风险。同样在C＃14中，名称的参数可以是无限的通用类型。 C＃14还允许开发人员添加参数修改器，例如范围范围，参考，进出或或参考，而在不指定参数类型的情况下与lambda表达参数。 。  .net 10运行时，从而减少了流行语言特征的抽象开销，是对攻击的关键焦点。 De-Virtualize方法调用以覆盖数组接口方法。同样在运行时，JIT将堆叠分配小的，固定尺寸的价值类型的阵列，这些阵列不包含垃圾收集指针时，它可以保证对象不会超过其父方法。 更多详细信息在链接内。   &lt;！&lt;！ -  sc_on-&gt;＆＃32;＆＃32;提交由＆＃32;态href =“ https://www.infoworld.com/article/3834128/microsofts-net-10-rives-inet-rives-in-first-preview.html”&gt; [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j15uue/net_10_arrives_in_first_preview/</guid>
+      <pubDate>Sat, 01 Mar 2025 18:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>在vb.net中创建DLL并在C＃项目中使用它</title>
+      <link>https://www.reddit.com/r/programming/comments/1j15pvl/create_a_dll_in_vbnet_and_use_it_in_a_c_project/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/paulpjoby     &lt;a href =“ https://www.reddit.com/r/programming/comments/1j15pvl/create_a_dll_dll_in_in_in_vbnet_and_and_it_it_it_it_in_a_a_a_a_a_a_c_project/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j15pvl/create_a_dll_in_vbnet_and_use_it_in_a_c_project/</guid>
+      <pubDate>Sat, 01 Mar 2025 18:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个AI矢量搜索引擎，用于魔术</title>
+      <link>https://www.reddit.com/r/programming/comments/1j14icj/i_built_an_ai_vector_search_engine_for_magic_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了此网站以通过MTG数据库执行向量 /语义搜索查询。这允许语义搜索。基本上，这意味着我们搜索搜索中的基本含义，而不仅仅是关键字。后端API是节点＆amp; express，前端是nuxt，矢量数据库是编织的。 vectorizer是一个openai型号。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andrewrm98       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j14icj/i_built_an_ai_vector_search_engine_for_magic_the/</guid>
+      <pubDate>Sat, 01 Mar 2025 17:18:06 GMT</pubDate>
+    </item>
     <item>
       <title>我为Discord Application命令创建了Terraform（DisgoForm v0.10）</title>
       <link>https://www.reddit.com/r/programming/comments/1j13x7h/i_created_terraform_for_discord_application/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/mwo12     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0ufcw/microsoft_copilot_continues_to_expose_private/</guid>
       <pubDate>Sat, 01 Mar 2025 07:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像见解初学者项目| Llama 3.2 90B | llm |人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0ti4o/image_insights_beginners_project_llama_32_90b_llm/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ase easy_ad4699      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0ti4o/image_insights_beginners_project_llama_32_90b_llm/</guid>
-      <pubDate>Sat, 01 Mar 2025 06:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>4个主管或什么都没有</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0sti5/4_mains_or_nothing_at_all/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/andrewmd5       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0sti5/4_mains_or_nothing_at_all/</guid>
-      <pubDate>Sat, 01 Mar 2025 06:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>BPF，或者我学会停止担心和爱内核</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0qyah/bpf_or_how_i_learned_to_stop_worrying_and_love/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://cgmathprog.home.blog/2025/02/02/17/bpf-or-how-i-stopped-worrying-and-worrying-and-and-love-the-the-phernel/&gt; [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0qyah/bpf_or_how_i_learned_to_stop_worrying_and_love/</guid>
-      <pubDate>Sat, 01 Mar 2025 04:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
