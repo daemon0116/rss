@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 02:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 03:33:14 GMT</lastBuildDate>
+    <item>
+      <title>LLM结果的简单语法突出显示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_llm_results/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用新添加的renderstream方法，您可以轻松地将Markdown的流传递给HTML，并使用Shiki和Markdown-it进行语法突出显示。  这使您不必将降价/突出显示库将其运送到客户。  ＆＃32;提交由＆＃32; /u/u/rossrobino   href =“ https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_for_llm_results/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_llm_results/</guid>
+      <pubDate>Sat, 01 Mar 2025 02:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>Web Dev的新手，我有一个通用的问题：</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0p6mz/new_to_web_dev_and_i_have_a_generic_question/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>我应该接受哪个工作机会（初创公司与公司）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0maw3/which_job_offer_should_i_accept_startup_vs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我需要在两个前端开发人员工作机会之间进行一些见解。我是26岁的计算机科学和工程毕业生。在研究期间，我必须尝试许多编程语言，技术和方法，但是后来我专注于Web开发，并且在前端和设计中获得了很多经验（主要是自学成才）。  I have applied on many jobs as a Junior Front End Developer and I received the following offers. Option 1: (Small Startup – 2-10 Employees)  Tech Stack: HTML, JS, Razor, ASP.NET Core 8, SQL (Entity Framework), Redis, SignalR  角色：前端开发（有潜力进入全栈）   薪金：€1,200总/月（前4个月）→1,500欧元/月/月（下一个6个月）（下一个6个月） - （在那个房间里加薪之后）休息）  上下班： 25分钟按公共汽车/地铁（乘车10-15分钟）    远程工作：在前6个月内，然后每周1-2天远程远程     选项2：（更大的Fintech Company  -  201--500雇员） TypeScript, React.js, Vue.js, Angular, Rest APIs Role: Junior Front-End Dev (focus on enterprise-level applications) Salary: €1,580/month gross Work Hours: 09:00-18:00 (1-hour break) Commute: 40+ min by bus/metro (40+ min by car due to traffic) Remote Work: Hybrid, but mostly onsite  My Dilemma:  I have more experience in Front End Development but Back End also seems really interesting to me. The第一个让我有机会学习全栈技术，这看起来真的很有趣，但带来了更少的好处。 另一个人提供了更专业的道路作为前端开发人员，并提供了更多的好处。    您在我的位置中选择了什么？ ＆＃32;提交由＆＃32; /u/u/u/external-honey6225     [link]      [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我需要在两个前端开发人员工作机会之间进行一些见解。我是26岁的计算机科学和工程毕业生。在研究期间，我必须尝试许多编程语言，技术和方法，但是后来我专注于Web开发，并且在前端和设计中获得了很多经验（主要是自学成才）。  I have applied on many jobs as a Junior Front End Developer and I received the following offers. Option 1: (Small Startup – 2-10 Employees)  Tech Stack: HTML, JS, Razor, ASP.NET Core 8, SQL (Entity Framework), Redis, SignalR  角色：前端开发（有潜力进入全栈）   薪金：€1,200总/月（前4个月）→1,500欧元/月/月（下一个6个月）（下一个6个月） - （在那个房间里加薪之后）休息）  上下班： 25分钟按公共汽车/地铁（乘车10-15分钟）    远程工作：在前6个月内，然后每周1-2天远程远程     选项2：（更大的Fintech Company  -  201--500雇员） TypeScript, React.js, Vue.js, Angular, Rest APIs Role: Junior Front-End Dev (focus on enterprise-level applications) Salary: €1,580/month gross Work Hours: 09:00-18:00 (1-hour break) Commute: 40+ min by bus/metro (40+ min by car due to traffic) Remote Work: Hybrid, but mostly onsite  My Dilemma:  I have more experience in Front End Development but Back End also seems really interesting to me. The第一个让我有机会学习全栈技术，这似乎真的很有趣，但提供了更少的好处。 另一个人提供了更专业的道路作为前端开发人员，并提供了更多的好处。    您在我的位置中选择了什么？ ＆＃32;提交由＆＃32; /u/u/u/external-honey6225     [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0maw3/which_job_offer_should_i_accept_startup_vs/</guid>
       <pubDate>Sat, 01 Mar 2025 00:05:43 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你们认为这样的网站要花费多少钱来使用Shopify主题？它只需要使用具有不同内容/图像的相同Shopify主题制作。你们认为要完成的工作要花多长时间？ 我想提供公平的价格，但不想被剥夺。我一直以20,000美元的价格获得一些报价，并以1000美元的价格获得一些报价，有些人说可以在5天内完成，而另一些人可以在10天内完成。 从头开始编码会非常困难，但我会购买Shopify主题，而布局只需重新制作。 href =“ https://biobabeofficial.com/”&gt; https://biobabeofficial.com/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_stay_6530      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0hwnz/can_i_get_some_help_help_help_help_awhat_a_web_web_dev_would/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0hwnz/can_i_get_some_help_on_what_a_web_dev_would/</guid>
       <pubDate>Fri, 28 Feb 2025 20:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title><autur> <Time> <地址>问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0gdxv/author_time_address_questions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如何正确编码这些，或者它们是否正确编码？  ＆lt; span＆gt;作者：＆lt; wutor＆gt; joe Smith＆lt;/futor＆gt;＆lt;/span＆gt; ！ - ！ ＆lt; address＆gt; 123 Main St.＆lt;/地址＆gt;＆lt;/span＆gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/then-barber9352     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0gdxv/author_time_address_questions/</guid>
-      <pubDate>Fri, 28 Feb 2025 19:43:25 GMT</pubDate>
     </item>
     <item>
       <title>烤我的SaaS UI/UX- nocode形式的构建器</title>
