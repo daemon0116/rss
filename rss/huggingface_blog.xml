@@ -4,7 +4,35 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sat, 22 Feb 2025 01:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 01:36:14 GMT</lastBuildDate>
+    <item>
+      <title>跟踪和评估您的代理商用Arize Phoenix</title>
+      <link>https://huggingface.co/blog/smolagents-phoenix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolagents-phoenix</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huggingface，IISC合作伙伴，与印度各种语言的增压模型建设</title>
+      <link>https://huggingface.co/blog/iisc-huggingface-collab</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/iisc-huggingface-collab</guid>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastrTC：Python的实时通信库</title>
+      <link>https://huggingface.co/blog/fastrtc</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fastrtc</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于使用HF端点解码的远程VAE🤗</title>
+      <link>https://huggingface.co/blog/remote_vae</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/remote_vae</guid>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Siglip 2：更好的多语言视觉语言编码器</title>
       <link>https://huggingface.co/blog/siglip2</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-deep-research</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>π0和π0快速：通用机器人控制的视觉语言操作模型</title>
-      <link>https://huggingface.co/blog/pi0</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/pi0</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DABSTEP：多步推理的数据代理基准</title>
-      <link>https://huggingface.co/blog/dabstep</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/dabstep</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI新闻通讯的AI工具 - 第1期</title>
-      <link>https://huggingface.co/blog/ai-art-newsletter-jan-25</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ai-art-newsletter-jan-25</guid>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在AWS上部署和微调DeepSeek模型</title>
-      <link>https://huggingface.co/blog/deepseek-r1-aws</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/deepseek-r1-aws</guid>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

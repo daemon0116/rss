@@ -4,111 +4,111 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 22 Feb 2025 23:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 01:36:12 GMT</lastBuildDate>
     <item>
-      <title>太久自动化：学习使用GitHub Actions和Workload Identity Federation联合会[一个“一个分支来统治他们全部串联”的最终部分，学会自动化单元测试，git标签，docker映像构建和推动，集成测试和部署到云运行[]</title>
-      <link>https://www.reddit.com/r/automation/comments/1ivs59l/too_long_automated_learn_to_automate_unit_tests/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我找不到有关如何从需求收集到实施和测试的深入指南，使用CI/CD的自动化方法，所以我创建了一个： https://www.toolongautomated.com/posts/posts/2025/2025/one-one-one-one-one-one-one-one-one-one-one-one-one-one-one-one-one-one-one-ono-one-one-one-one-one-one-one-one-one-one-one-ine-分支机构 -  them-all-4.html   我试图使其成为全面尽可能地保持对话并简单地进行对话。 我从事的项目是： 如何将应用程序部署到多个环境，以便每个env都可以运行其他不同应用程序的版本？ 实现在这里完全开源： https://github.com/toolongautomated/tutorial-1    伙计们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/data_owner     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ivs59l/too_long_automated_learn_to_automate_unit_tests/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:24:48 GMT</pubDate>
+      <title>如何掌握Tia门户作为初学者</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0ngaa/how_to_master_tia_portal_as_a_beginner/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1j0ngaa/how_to_to_master_tia_tia_tia_portal_as_a_a_beginner/”&gt; [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0ngaa/how_to_master_tia_portal_as_a_beginner/</guid>
+      <pubDate>Sat, 01 Mar 2025 01:02:49 GMT</pubDate>
     </item>
     <item>
-      <title>自动化平台批量进出口</title>
-      <link>https://www.reddit.com/r/automation/comments/1ivoj2d/automation_platform_bulk_import_export/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  哪种自动化平台将最具成本效益和合理的方式从供应商（例如CSV）中获取平面文件，并在某些产品数据中导入（例如诸如价格和可用性）到ODOO，因此可以更新产品，可以添加新产品，并将其旧生动。大多数平台似乎是根据运营收费的，但是我不确定它们如何处理或收取这样的批量操作。这只是一项大型操作吗？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wardyany4589     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ivoj2d/automation_platform_bulk_import_export/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:50:15 GMT</pubDate>
+      <title>无代码聊天机器人在2分钟以下建造</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0mxst/nocode_chatbot_built_under_2_minutes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 构建了 rag聊天机器人，可让您与任何一组文档，URL或PDF聊天 - 无需编码！  这是一个示例：使用官方IRS URL和PDFS回答税收合规查询的聊天机器人。 它完全模块化  - 与任何文档或链接一起使用。  您只需提供文档，它可以在引擎盖下本身处理嵌入的创建。 在评论中查看它！ 👇  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/0xhbam     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0mxst/nocode_chatbot_built_under_2_minutes/</guid>
+      <pubDate>Sat, 01 Mar 2025 00:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>是我还是没有很多关于自动化的文章？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ivg2bs/is_it_just_me_or_theres_not_a_lot_of_articles/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道Make Community，但是您是否有任何推荐的内容创建者或资源来帮助我了解有关Make.com的更多信息？ 由于正在删除WebFlow逻辑，因此我希望学习 make.com 以自动化工作流程。我没有技术背景，但我是WebFlow开发人员。您是否有任何推荐的内容创建者或资源来帮助我开始？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cearread_ad7682     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ivg2bs/is_it_just_me_or_theres_not_a_lot_of_articles/</guid>
-      <pubDate>Sat, 22 Feb 2025 10:41:52 GMT</pubDate>
+      <title>对治理专业知识的日益增长的需求</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0h7uc/the_growing_need_for_ai_expertise_in_governance/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们生活在AI几乎整合到我们生活的每个方面的时代 - 让我们找到信息，做出决定，甚至影响我们交流的方式。但是，许多组织仍然缺乏负责任地监督这些强大工具的专业知识。为了确保AI使每个人都受益，我们需要那些不仅掌握人工智能技术方面的人，而且还要理解道德和战略的考虑。适当的治理意味着将AI保持在更高的标准上，使其保持透明，公平和负责。随着技术的发展，我们的处理方法也必须如此。现在该优先考虑AI治理，因此我们可以建立信任并确保这些工具为整个社会服务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/forge_tart_8853     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0h7uc/the_growing_need_for_ai_expertise_in_governance/</guid>
+      <pubDate>Fri, 28 Feb 2025 20:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用AI，LLMS等与供应商进行自动化贸易合规性互动</title>
-      <link>https://www.reddit.com/r/automation/comments/1ivcg6r/automating_trade_compliance_interactions_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  以下是我正在努力的业务问题： 我们（供应链风险管理，即贸易合规性团队）团队公司将邮件发送给我们的供应商（我们从中购买了多个零件（机械））。我们要求他们宣布必须遵守的各种立法。我们要求他们填写详细信息，例如供应商名称，零件名称，化学物质的名称，其签名/邮票，标志日期等。 现在，我们确实有一个Excel模板来填写这些信息。一些供应商填补了此Excel，而有些则以PDF，PPT，Word，电子邮件主体本身，扫描PDF等的形式发送。分析供应商的回答，如果缺少任何东西和矛盾（他们说该列中没有化学物质，但随后在其他列中提到了化学名称，依此类推，丢失的签名，数据等），我们回复他们缺少信息。 现在，我想使用genai和llms and Python以及Azure AI Foundry Hub上可用的任何模型来自动化整个过程。 邮件线程（.eml） ）（包括附件）将传递给模型，然后模型将分析整个邮件主体和附件。然后将提取供应商以特定格式提供的相关信息（假设我有几列的Excel），并自动回复供应商，要求丢失信息。 问题是，问题是由于供应商不遵循任何特定的格式，而且总是不同的，我可以自动化整个内容吗？如果是这样，请建议您建议方法和方法和解决方法  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/us cute-breadfruit-6903       [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ivcg6r/automating_trade_compliance_interactions_with/</guid>
-      <pubDate>Sat, 22 Feb 2025 06:26:14 GMT</pubDate>
+      <title>您可以为固定器收取的自动化服务？</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0eyct/automation_services_that_you_can_charge_retainers/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  从我所看到的，如果出售 make.com /zapier自动化，您通常会得到报酬以帮助客户端实施自动化。从您自己拥有自动化并将其作为服务的意义上讲，哪种类型的自动化会更像SaaS。....如果他们停止向您付款，那么客户将不再能够利用他们付费的自动化？谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flaxseedyup     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0eyct/automation_services_that_you_can_charge_retainers/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>优惠：Chrome中的自动化工作流程</title>
-      <link>https://www.reddit.com/r/automation/comments/1iv24ro/offer_automation_workflows_in_chrome/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我在这里为您的用例构建自动化工作流（仅浏览器）。这意味着浏览器自动化方案在您的浏览器（Chrome）中是完全可能的。  为什么： 我是新的Workflow自动化浏览器扩展程序的创建者。这是我通过现实世界中用例对扩展进行测试的方法，作为回报，您可以自动化工作流程。  确实分享了您的用例 - 您甚至可以DM我，我将在上面。  顺便说一句，我的扩展名是在browserchef [dot] com上。对于那些好奇的人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usamaejazch     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iv24ro/offer_automation_workflows_in_chrome/</guid>
-      <pubDate>Fri, 21 Feb 2025 21:24:14 GMT</pubDate>
+      <title>寻求实验室自动化研讨会和课程的建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0e133/seeking_recommendations_for_lab_automation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是在实验室自动化领域工作的自动化科学家，重点关注液体处理系统和自动化测定开发。 I’m keen to further enhance my skills and stay up to date with the latest technologies and methods. I’m currently looking for recommendations on: • Workshops or courses related to laboratory automation • Training programs for liquid handling platforms (any specific systems you’ve found especially valuable) • Automated assay development courses or conferences Ideally, I’m searching for opportunities in Europe, but I’m open to suggestions in the USA as well if该计划值得一游。 如果您参加了任何动手研讨会，技术培训课程或引人注目的会议，我将非常感谢您的见解。任何具有强大实用组件或网络机会的东西的奖励积分！ 在此先感谢您的帮助！期待听到您的建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coco_via_64     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0e133/seeking_recommendations_for_lab_automation/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>rtrvr.ai/exchange：世界上第一个代理工作流程交换，这是一个可行的市场吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuzad9/rtrvraiexchange_worlds_first_agentic_workflow/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们以前启动了rtrvr.ai，rtrvr.ai，AI Web代理chrome扩展名，自主在网络上自动完成任务，毫不费力地将数据删除直接删除Google表格，并通过使用AI函数调用呼叫呼叫API来无缝与外部服务集成 - 所有这些都在您的同时使用 简单提示浏览和您自己的Chrome Tabs ！  安装   chrome扩展并自己尝试代理商，然后您可以利用我们的代理工作流程交换来发现对您有用的代理工作流程。这是AI代理工作流程的革命性协作空间，我们希望将想要的人联系起来：   分享他们的代理工作流程：毫不费力地为您的本地制作的任务，功能，功能，功能，功能，功能，录音并检索了表格数据集。授权其他人通过您的创新来自动化其Web交互和数据提取，这是基于自主任务，数据刮擦和API调用的核心功能！我们计划将来支持交流的货币化！   Discover＆amp;进口预构建的自动化：即时访问社区共享工作流的扩展库。需要自动化复杂的网络表单吗？刮擦复杂的网页并将结果发送给床单？是否想根据Web数据触发API调用？代理工作流程交换可能包含现成的工作流 - 只是导入和运行，利用社区构建的解决方案满足您的核心自动化需求！  ，你们都认为，此代理工作流/自动化交换下一个App Store Moment？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bodybuilderlost328     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuzad9/rtrvraiexchange_worlds_first_agentic_workflow/</guid>
-      <pubDate>Fri, 21 Feb 2025 19:25:02 GMT</pubDate>
+      <title>[促销]困惑AI Pro -1年计划优惠-85％的折扣</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0d6k9/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  作为标题：我们提供一年计划的Perplexity AI Pro凭证代码。  顺序： cheapgpt.store    付款接受：    paypal。 href =“ https://www.reddit.com/r/cheapgpt/s/dqxg4vt0fu”&gt;反馈帖子   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mreus11r      &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1j0d6k9/promo_perplexity_ai_ai_ai_1_year_year_year_year_plan_offer_85_85_85_85_85_off/”]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0d6k9/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</guid>
+      <pubDate>Fri, 28 Feb 2025 17:27:52 GMT</pubDate>
     </item>
     <item>
-      <title>有人在AI自动化业务上成功吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuwnuh/anyone_having_success_with_an_ai_automation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我一直在考虑开展AI自动化业务与某些人看起来一样大。 对于上下文，我是软件开发人员，并运行专注于CRMS，ERP和Process Automation的软件实施业务。自然，AI感觉就像下一件大事，但是从我所看到的，今天的大多数AI自动化工具似乎都集中在小规模的任务上 - 领导者的生成，客户支持聊天机器人，简单的工作流程自动化等。 &lt; &lt; P&gt;是，这些解决方案似乎并没有吸引高价客户（至少还没有）。同时，许多在YouTube上大肆宣传AI的人只是在销售昂贵的课程，而不是实际经营有利可图的AI业务。 这里有人在这里建立了成功的AI自动化业务吗？哪些用例实际上带来了大笔资金？除了聊天机器人和冷电子邮件工具之外，是否有对AI自动化的真正需求？ 很想听听空间中人们的真实经验！  &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/stationClean1960     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuwnuh/anyone_having_success_with_an_ai_automation/</guid>
-      <pubDate>Fri, 21 Feb 2025 17:38:19 GMT</pubDate>
+      <title>如何使用N8N构建AI代理并实时Google搜索数据</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0aabm/how_to_build_an_ai_agent_with_n8n_and_live_google/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://serpapi.com/blog/how-to-to-build-an-ai-agent-with-n8n-n8n-and-live-google-google-search-data/”&gt; [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/automation/comments/1j0aabm/how_build_ai_ai_ai_agent_with_with_with_n8nn_and_and_and_live_google/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0aabm/how_to_build_an_ai_agent_with_n8n_and_live_google/</guid>
+      <pubDate>Fri, 28 Feb 2025 15:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>使用历史汇率自动将GBP交易转换为EUR？</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuv0ad/automatically_convert_gbp_transactions_to_eur/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我需要帮助使用历史汇率自动化CSV文件中GBP交易的转换。  i没有编码经验，最初认为我可以使用Chatgpt在GBP中提取交易，并从欧洲中央银行（ECB）网站检索正确的汇率。但是，由于ChatGpt没有直接的Internet访问，因此它取决于一般趋势，而不是实时或历史数据，这不足以满足我的需求。 我是自由职业者，并且我的一些客户用英镑付给我。为了确切确切，我需要一种方法来自动获取欧洲央行汇率并将其应用于我的交易。 有没有简单的方法可以在不编码的情况下进行此操作，还是我需要脚本？任何建议或工具建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/klutzy-bat5959      [link]      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuv0ad/automatically_convert_gbp_transactions_to_eur/</guid>
-      <pubDate>Fri, 21 Feb 2025 16:31:28 GMT</pubDate>
+      <title>我用Python和Phonk自动化YouTube动漫短裤</title>
+      <link>https://www.reddit.com/r/automation/comments/1j0981v/i_automated_youtube_anime_shorts_with_python_and/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/w1hzcx4mfb3gvsz0smdpd_npzhh-nbsr2cviryv3ene.jpg？宽度= 320＆amp; crop = smart＆amp; auto = webp＆amp; s = 9734A193E0FABC42F1B1F1B1FEED2207C964C201DC5E“ title =“ i自动化的youtube动漫短裤，带有python和phonk”/&gt;   ＆＃32;提交由＆＃32; /u/u/lif_tooth_2474       [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j0981v/i_automated_youtube_anime_shorts_with_python_and/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:42:46 GMT</pubDate>
     </item>
     <item>
-      <title>与数据代理的自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuuyfq/automation_with_data_agents/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我开始为AI代理构建浏览器，最终演变成一个名为Parse的项目， -Dead AI代理，旨在自动化数据收集。  它可以做的一些很酷的事情：  控制浏览器并导航Web  处理多模式信息 收集并将来自多个来源和网站（例如LinkedIn，crunchbase）的数据综合到一个数据集中 通过与社交平台集成以识别实时信号  上周，我首次开始将该技术应用于销售，我们引起了很多兴趣！因此，我想我会在这里分享它，看看其他人是否觉得它有用。 这是我们的网站，带有演示视频： https：// Runparse.ai   我正在寻找反馈 - 这对您使用吗？ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/time-ad-8034      [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuuyfq/automation_with_data_agents/</guid>
-      <pubDate>Fri, 21 Feb 2025 16:29:21 GMT</pubDate>
+      <title>有没有人使用NeuralSeek进行工作流程自动化或AI代理？</title>
+      <link>https://www.reddit.com/r/automation/comments/1j078zx/has_anyone_used_neuralseek_for_workflow/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直将它们视为自动化某些工作流程的潜在工具，甚至可能将其集成到AI代理设置中。在其他类似工具上有任何经验或建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1j078zx/has_anyone_used_neuralseek_for_for_workflow/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j078zx/has_anyone_used_neuralseek_for_workflow/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>常见的自动化错误</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuovd2/common_automation_mistake/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我已经在空间里呆了一年多了（我已经来晚了）。 我在Tiktok，YouTube和X上创建内容，我看到许多其他人共享自己的自动化。 这是我看到的一个常见问题：有很多自我中心的解决方案，但没有太多体面的自动化集中在实际价值上。  我认为我会分享一个简单的框架来验证一个想法，顺便说一下，它在客户说这样说之前，它永远不会有效，然后您出售：   这实际上会赚钱吗？例如。潜在客户产生，潜在客户转换，又称销售解决方案。   它是否使他们更容易赚钱？例如。提案发送，登上客户，客户成功。   市场需求吗？例如。您只是认为他们想要它还是他们真的想要它？它是由市场验证的吗？   祝你们最好。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/false_resident_941     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuovd2/common_automation_mistake/</guid>
-      <pubDate>Fri, 21 Feb 2025 11:37:22 GMT</pubDate>
+      <title>柏树样本测试用例：与柏树学习自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1j04ynt/cypress_sample_test_cases_learn_automation_with/</link>
+      <description><![CDATA[Cypress Sample Test Cases : Learn Automation with Cypress  Project Overview This repository is a collection of practice test cases I created从各种在线教程（主要是YouTube）学习柏树的同时。 🧑‍💻主要重点是掌握基础知识，因为强大的基础技能对于高级自动化任务至关重要。 每个测试案例是：      彻底评论，以更好地理解。  实用复制现实世界的场景。  如果您是有抱负的自动化测试仪或QA专业人士，请克隆此存储库并立即开始学习！ 🌟 🚀 Features and Topics Covered This repository contains 40 Cypress automation test cases covering various UI functionalities, alerts, tables, dropdowns, file uploads, and more. 🎯 Purpose of This Repository This is not a professional-level automation project,但是，旨在建立强大的基础知识的学习资源。 未来目标：   🌟创建端到端到端到端的自动化项目，使用页面对象模型（POM）。    基础知识是成为专家的关键！ 🧠💡 💡为什么要使用此存储库？理解。  实例：涵盖现实世界中的情况，例如警报，表格和数据处理。    🙌如何贡献 ，如果您发现任何问题或有任何问题来改善此重新启动：一个问题。  总是欢迎您的贡献！ 🌟 💬如果您有任何疑问或反馈，请接触和反馈   快乐测试！       一次迈出一步，不要犹豫。 Inshallah，这个存储库将帮助您和其他人在赛普拉斯建立坚实的基础。 🌟  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zestyclose_guava_223       [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j04ynt/cypress_sample_test_cases_learn_automation_with/</guid>
+      <pubDate>Fri, 28 Feb 2025 10:49:11 GMT</pubDate>
     </item>
     <item>
-      <title>寻求AI驱动的对冲基金自动化项目的帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuk0wz/seeking_assistance_with_aipowered_hedge_fund/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nopower5561     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuk0wz/seeking_assistance_with_aipowered_hedge_fund/</guid>
-      <pubDate>Fri, 21 Feb 2025 06:00:07 GMT</pubDate>
+      <title>与人类的内容生产团队？</title>
+      <link>https://www.reddit.com/r/automation/comments/1j02hxm/content_production_team_with_humanintheloop/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   上下文：此N8N工作流有助于生成原始的，完整的研究，关键字综合的长篇小说的长格式内容，准备编辑。 Based on extensive testing, we found that the latest prompts return as low as 30% “AI-generated” scores on AI content-checking platforms without any edit. How it works:  Enter the seed keyword and a couple of other details in Google Sheets The system uses SerpAPI to find related keywords, FAQs, PAAs, and the top 3 blogs通过HTTP请求过滤，清洁，格式化和刮擦数据。 href =“ https://docs.google.com/document/d/1ppq9qpmxqlt4vay5-5vsg3lxeigcp0yfcjpharpwe-qjpharpwe-q/edit?usp = sharing” 示例2  | 示例3  |  现在将上一步的元详细信息和所有其他详细信息发送给内容作者代理。 内容作者代理根据轮廓，元信息详细信息和关键字来生产草稿。它在Google Drive中添加了一个文档：示例1  | 示例2  | 示例3  | 示例4      一旦准备就绪，一旦准备就绪，请访问人物（读取人），以搜索和&lt;跨度。 class =“ md-spoiler-text”&gt;＆＃x200b;      ps：与/u/u/lilfingaz     [link]       [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1j02hxm/content_production_team_with_humanintheloop/</guid>
+      <pubDate>Fri, 28 Feb 2025 07:46:05 GMT</pubDate>
     </item>
     <item>
-      <title>将变量传递给JavaScript的问题在任何地方自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuhin8/issue_with_passing_variable_to_javascript_in/</link>
-      <description><![CDATA[     我正在尝试使用自动化Anywhere的“运行JavaScript”在网站上自动化一个滑块运动。行动。目的是根据数字变量$ YEAR $动态更新滑块，该$从2007年到2010年。 问题：  下面的JavaScript脚本当我手动输入一年时（例如，var targetyear = 2007;）。 但是，当我尝试通过Automation Anywhere Anywhere Anywhere $ Year $ variable时，脚本会引发错误，指示该目标年是nan。 问题似乎是任何地方的自动化都无法正确注入$年份$，或者将其视为字符串而不是数字。   代码我正在使用：  （function（）{var slider = document.queryselector（＆quot; div [requ =&#39;slider&#39;]＆quot; var track = document。 ; trackRect.Width; var slideRect = slider.getBoundingClientRect（）; var startx = slideRect.Left + slideRect.Width / 2;函数Moveslider（Stepx）{var eventMove = new PointerEvent（＆quot; PointerMove＆quot&#39;，{Bubbles：true，castable：true，composed：true，composed：true，clientx：stepx，clienty：trackRect.top + trackRect.height.height.height / 2}）; slider.dispatchevent（EventMove）; } var pointerdown = new PointerEvent（＆quot; pointerdown＆quot＆quot＆quot {bubbles：true，casulable：true，compossed：true，clientx：startx，clienty：trackRect.top.top + trackRect.height.height / 2}）; slider.dispatchevent（pointerdown）;令CurrentX = startX，stepize =（targetx -startx） / 20;函数AnimAteMove（）{if（Math.abs（currentx -targex）＆lt; Math.abs（stepize））{moveslider（targex）; settimeout（（）=＆gt; {var pointerup = new PointerEvent（&#39;pointerup＆quort＆quot; {bubbles：true，castable：true，compossed：true，compoted：true，clientx：targetx，clienty：trackRect.top + trackRect.trackRect.height.height / 2}）; slider.dispatchevent（pointerup）;}，100）; } else {currentx += stepize; Moveslider（CurrentX）; settimeout（AnimateMove，10）; }} settimeout（AnimAteMove，50）; } else {Console.Error（找不到滑块或轨道元素。＆quot;）; }}）（）;    Chrome DevTools中的控制台错误：  uck offeraght typeError：无法构造&#39;Mouseeevent&#39;：无法从&#39;Mouseeeventinit&#39;读取&#39;clientx&#39;属性：价值是无限的。在triggerevent（（（索引）：14：25）at insatemove（（索引）：40：17）    无效的targetear：nan  进行故障排除完成： &lt; /h1&gt; ✔验证的$年$是AA中的数字变量（默认值：2007）✔使用为输入; $年$ ✔手动用数字$ works ✔控制台日志手动替换$ YEAR $确认AA并未正确注入$ Year $ $ $ “运行JavaScript”行动？我如何将$ Year $作为JavaScript的数字正确注入？        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/iroter-kangaroo-94      [link]       [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuhin8/issue_with_passing_variable_to_javascript_in/</guid>
-      <pubDate>Fri, 21 Feb 2025 03:37:41 GMT</pubDate>
+      <title>使用浏览器自动化Instagram自动遵循</title>
+      <link>https://www.reddit.com/r/automation/comments/1izx5u2/instagram_autofollow_using_browser_automation/</link>
+      <description><![CDATA[      I built a browser automation that follows and unfollows profiles on Instagram using Replit, Browserbase for the headless browser, Playwrite, and Stagehand.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wlljb       [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1izx5u2/instagram_autofollow_using_browser_automation/</guid>
+      <pubDate>Fri, 28 Feb 2025 02:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>逐步AI语音预约设置器设置</title>
-      <link>https://www.reddit.com/r/automation/comments/1iuf3bh/stepbystep_ai_voice_appointment_setter_setup/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好！很高兴分享一个新的成就 - 我刚刚在我的YouTube频道上发布了一个新视频！ 🎥这次，我正在解决如何使用VAPI和N8N创建AI语音预约设置器。我们正在进一步研究AI宇宙，我在这里为您澄清过程。在本教程中，我概述了设置和量身定制用于管理约会的语音代理的必要步骤。无论您是打算增强业务流程还是仅仅对AI技术吸引，该视频都提供了有关如何轻松自动化预约计划的宝贵提示。跳入开始使用AI！  &lt;！ -  sc_on-&gt;＆＃32;开始简化任务。提交由＆＃32; /u/u/carsteel1313    href =“ https://youtu.be/zljx_dtt0-c？si = aajd1d7jv-ghz0qs”&gt; [link]   ＆＃32;   [注释]  /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iuf3bh/stepbystep_ai_voice_appointment_setter_setup/</guid>
-      <pubDate>Fri, 21 Feb 2025 01:36:02 GMT</pubDate>
+      <title>我制作了一个完全自动化的网站和社交媒体页面，该网站跟踪了美国行政部门。</title>
+      <link>https://www.reddit.com/r/automation/comments/1izluxf/ive_made_an_entirely_automated_site_and_social/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  它称为Patus Tracker，并使用我创建的传统专有算法并使用LLMS来衡量社交媒体帖子的新闻价值。  它为社交媒体生成了自己的图形，包括执行命令的摘要和特朗普总统的真相社会职位。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lukewines       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1izluxf/ive_made_an_entirely_automated_site_and_social/</guid>
+      <pubDate>Thu, 27 Feb 2025 17:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn销售导航器</title>
-      <link>https://www.reddit.com/r/automation/comments/1iueex1/linkedin_sales_navigator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  获得LinkedIn销售导航器或如何进行更多连接的最佳方法是什么，以便我可以注册LinkedIn Sales Navigator？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oudie22     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iueex1/linkedin_sales_navigator/</guid>
-      <pubDate>Fri, 21 Feb 2025 01:03:22 GMT</pubDate>
+      <title>[促销]困惑AI Pro -1年计划优惠-85％的折扣</title>
+      <link>https://www.reddit.com/r/automation/comments/1izldot/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  作为标题：我们提供一年计划的Perplexity AI Pro凭证代码。  顺序： cheapgpt.store    付款接受：    paypal。 href =“ https://www.reddit.com/r/cheapgpt/s/dqxg4vt0fu”&gt;反馈帖子   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mreus11r      [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1izldot/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</guid>
+      <pubDate>Thu, 27 Feb 2025 17:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>您有60美元 - 您会选择什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1itxnsq/you_have_60_what_would_you_choose/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您有$ 60的支出，您会从以下列表中选择哪些选项？   •CURSOR AI  - $ 20•可爱 -  $ 20•Bolt New  -  $ 18•CHATGPT  -  $ 20•Grok  -  $ 8•V0 DEV  -  $ 20•COPILOT  -  $ 10   是否有您已经尝试过和找到的工具有用吗？ 您将如何花费预算？ 您的选择是什么？ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/angique_phrase9580     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1itxnsq/you_have_60_what_would_you_choose/</guid>
-      <pubDate>Thu, 20 Feb 2025 12:45:59 GMT</pubDate>
+      <title>AI自动化爱好者的不和谐频道</title>
+      <link>https://www.reddit.com/r/automation/comments/1izdjvx/discord_channel_for_ai_automation_enthusiasts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我和我的朋友在过去一年中一直深入研究Agentic AI和自动化。我们与Reddit，Twitter和LinkedIn的许多很棒的人建立了联系，甚至开设了一个小型YouTube频道来分享我们的旅程。 我们对这些东西感到非常兴奋，并希望与更多的人聊天，并与您聊天，并找到您建立的内容，交换想法并帮助我们可以在哪里可以帮助我们。 （我们已经有一大批自动化的朋友也准备好提供帮助！） 因此，我们设置了一台Discord服务器，以将爱好者，希望自动化的企业和开发人员组合在一起。我们将建立一个嗡嗡的社区，每个人都可以学习和成长。我们正在计划每周的AMA，我和我的朋友们每天都会尽可能多地回答问题。另外，我们也希望会员也可以互相支持。 如果您有兴趣加入，请评论。很高兴沿着旅程  [编辑]：这是Discord链接： https：//discord.com/invite.com/invite/gpwtggdx 提交由＆＃32; /u/chdevman     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1izdjvx/discord_channel_for_ai_automation_enthusiasts/</guid>
+      <pubDate>Thu, 27 Feb 2025 11:24:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
