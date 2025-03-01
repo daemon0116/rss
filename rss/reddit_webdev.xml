@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 15:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 16:22:26 GMT</lastBuildDate>
+    <item>
+      <title>我花了9个月的时间制作一个轻巧的电子邮件后续工具，该工具在收件人答复或书籍时停止。制作序列，包括BCC中的序列名称，就是这样！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j12t7c/i_spent_9_months_making_a_lightweight_email/</link>
+      <description><![CDATA[   &lt;img alt=&quot;I spent 9 months making a lightweight email follow up tool that stops when recipient replies or books. Make sequence, include sequence name in BCC, 就是这样！” src =“ https://a.thumbs.redditmedia.com/7vfw6w80hsm42m42m2_bmz3tmnjflhwy3ljina6ljina6ljina6eatolf4.jpg” title =“ title =” i我花了9个月9个月来制作一个轻量级的电子邮件后续工具，在接收器中停止时停止了接收者的补充或bookence sequence sequence。 /&gt;   ＆＃32;提交由＆＃32; /u/u/eclectonic-tour404      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j12t7c/i_spent_9_months_making_a_lightweight_email/</guid>
+      <pubDate>Sat, 01 Mar 2025 16:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个智能价格跟踪器扩展程序 +网站 - “ SYLC”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j12s8l/i_built_a_smart_price_tracker_extension_site_sylc/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mauro8342      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j12s8l/i_built_a_smart_smart_smart_smart_price_tracker_tracker_extension_site_site_site_site_site_sylc/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j12s8l/i_built_a_smart_price_tracker_extension_site_sylc/</guid>
+      <pubDate>Sat, 01 Mar 2025 16:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么您应该将Cloudflare用于下一个SaaS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j12hyk/why_you_should_use_cloudflare_for_your_next_saas/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/Abstract1337   [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j12hyk/why_you_should_use_cloudflare_for_your_next_saas/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免图形数据库并选择前端处理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j12f8u/avoiding_graph_databases_opting_for_frontend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我目前正在为一个小组织做一个项目（自愿我的时间），他们必须创建一个数据库，该数据库基本上试图绘制其当地各个公司之间的关系。  鉴于所有技术要求，图DB非常适合工作。但是，为了优化节省成本，因为这个项目每月都会获得数千个命中，我认为也许可以处理具有1000秒节点的图形数据库不是一个好主意。  所以我最近遇到了这个人的一种技术。在X上，他们提到了他们基本上如何在边缘上处理数据，而不是使用GraphDB，现在我认为这个想法对我的用例有好处，但会感谢任何对此事的任何见解，并能够推荐资源或潜在的陷阱以避免。  免责声明：整个GraphDB的新手，因此我无论如何都必须学习，也可以为更有效的技术做到这一点。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/skorcch     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j12f8u/avoiding_graph_databases_opting_for_frontend/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的周末项目现在支持所有React框架，并每周下载3K</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j12f1y/my_weekend_project_supports_all_react_frameworks/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们需要一个入门库来启动我们的启动，然后我查看了所有可用的免费库。似乎对我的用例似乎无能为力，因为我希望用户能够与表单进行交互，跟踪用户进度分析，页面和自定义之间的路线以与我们的设计融为一体。  我在一个周末内创建了它，随便在这里发布。几个月后，Github的每周下载约为2-3k和270多个星星。  从NextJS社区获得非常好的反馈，鼓励我扩展它。现在，它支持所有其他React框架。  昨天我终于完成了文档并将其发布给NPM。随意测试。  https://nextstepjs.com    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/enszrlu   href =“ https://www.reddit.com/r/webdev/comments/1j12f1y/my_weekend_project_project_supports_all_react_frameworks/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j12f1y/my_weekend_project_supports_all_react_frameworks/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j12f1y/my_weekend_project_supports_all_react_frameworks/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:48:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了NSFW API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1253f/i_built_an_nsfw_api/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，自从我的上一篇文章被删除以来，我相信我没有提供有关内容的任何信息，所以一切都是另一种尝试，希望它能保持 我建立了一个api，我建立了一个构造的元素，并为大型平台提供了元数据，例如Painit Plasticals of Major Plactorss ofer Platforms suke XvInebub和Xvideos。它不会刮擦或托管任何视频。取而代之的是，它直接从经过验证的来源中检索元数据，允许开发人员使用结构化的成人内容数据构建应用程序，机器人或网站，API完全符合PornHub和XVideos等平台，类似于OpenAI使开发人员如何在Chatgpt上构建开发人员。实际上， pornhub 有自己的网站管理员程序，任何人都可以下载其CSV数据库并使用它来创建您自己的网站。我的API只是以一种使其更易于使用的方式构造了这些数据。  API严格不托管或存储视频，它仅提供元数据并正式提供由平台提供的元数据，以供DMCA符合性：如果视频从PornHub/xvideos中删除，则由于DMCA的链接，它会自动更新任何链接。原始平台处理所有内容审核，验证和合规性，Simialr至2020转编码：我们不托管任何视频内容。所有流媒体，视频处理和流量直接转到原始平台Pornhub，xvideos，drtuber，  链接到api =  https://www.inkedmods.com/ 提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j1253f/i_built_an_an_nsfw_api/”&gt; [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1253f/i_built_an_nsfw_api/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我简化了与基岩和码头机的本地WordPress多站点开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j11tiz/i_streamlined_local_wordpress_multisite_dev_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 经过数小时的工作，我很高兴分享我的新的基于Docker的BedRock Multidite Multidite stack，以用于本地WordPress开发。此设置将流行的基础框架（在Roots.io/bedrock了解更多）与Docker结合在一起，以创建可重现，一致的环境，非常适合开发和测试多站点WordPress安装。统一的安装脚本有助于简化设置，因此您可以专注于构建出色的网站。 我很想听听您的想法或建议。  repo： https://github.com/mattv8/bedrock-multisite-docker       &lt;！提交由＆＃32; /u/mattv8     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j11tiz/i_streamlined_local_wordpress_multisite_dev_with/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:22:31 GMT</pubDate>
+    </item>
     <item>
       <title>Mern Dev煮了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j11rc1/are_mern_dev_cooked/</link>
@@ -29,58 +78,9 @@
     <item>
       <title>支持保留管理应用程序的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1j10vp4/recommendations_for_support_retainer_management/</link>
-      <description><![CDATA[I have several client support plans/retainers that usually run 5-20 hours per month on a yearly term. What are you all using to track time and tasks for retainers like this? Would be awesome if the same app could handle support requests with threaded communication and status, reporting, billing app integrations, etc. Currently using a新鲜书籍和Zendesk的笨拙的混搭。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/latnem     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有几个客户支持计划/固定器，这些计划/固定器每年每月每月运行5-20个小时。 你们都用什么来跟踪像这样的固定器的时间和任务， 如果同样的应用程序可以使用螺纹commentage  当前的pretection  目前会      当前，  。新鲜书籍和Zendesk的笨拙的混搭。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/latnem     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j10vp4/recommendations_for_support_retainer_management/</guid>
       <pubDate>Sat, 01 Mar 2025 14:39:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器自动化具有Chrome Extension？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j10ufb/browser_automation_with_chrome_extension/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我经常使用自动化工具，例如Puppeteer和Selenium，而没有真正考虑或理解其潜在的缺点，例如使网站更容易检测自动化行为。例如，当我打开木偶并访问Google翻译时，该网站不允许我翻译图像。 通过创建和导入扩展程序来使我的Chrome浏览器中的自动化浏览器控制和导入自己的Chrome Browser中的自动化浏览器控制 - 启用自然用户行为的更有效的检测方式，并降低3.  提交由＆＃32; /u/u/linch-1     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j10ufb/browser_automation_with_chrome_extension/</guid>
-      <pubDate>Sat, 01 Mar 2025 14:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个通过上下文发送反馈的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j10f5r/i_made_a_tool_that_sends_feedback_with_context/</link>
-      <description><![CDATA[      ＆＃32＆＃32;的反馈”。提交由＆＃32; /u/u/u/satyamskillz     &lt;A href =“ https://www.reddit.com/r/webdev/comments/1j10f5r/i_made_a_tool_tool_tool_that_sends_feedback_with_with_with_context/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j10f5r/i_made_a_tool_that_sends_feedback_with_context/</guid>
-      <pubDate>Sat, 01 Mar 2025 14:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp SaaS：WhatsApp -Web.js vs官方API-禁令风险和扩展？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j109il/whatsapp_saas_whatsappwebjs_vs_official_api_ban/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个SaaS平台，需要为多个用户集成WhatsApp。我正在研究两个选择：    whatsapp-web.js：它负担得起且灵活，但我担心帐户禁令。有人成功地将其用于多用户设置吗？关于如何避免被禁止的任何提示？  官方WhatsApp Business API：这似乎更安全，更稳定，但可能会更加复杂和昂贵。您的经验如何？  ，如果您有任何建议保持法律和用户友好的建议（例如遵循GDPR），我将非常感谢。非常感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/muologys     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j109il/whatsapp_saas_whatsappwebjs_vs_official_api_ban/</guid>
-      <pubDate>Sat, 01 Mar 2025 14:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个DNS查找以检查域的DNS记录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0zvq6/i_created_a_dns_lookup_to_check_the_dns_records/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/teaganga     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0zvq6/i_created_a_dns_lookup_to_to_to_to_check_the_dns_records/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0zvq6/i_created_a_dns_lookup_to_check_the_dns_records/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>孤立的 - 可共享的协作数据存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0ztgz/siloed_shareable_collaborative_data_repositories/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  开发6周后，v0.0.1终于准备就绪。 孤立的让您可以从Excel，csv和parquet文件中创建数据存储库，这些文件可以用普通的英语查询，然后可以与其他成员共享。 Useful for  Data Exploration Converting reports that are hard to read into a format that can be queried in english for non-technical members of your org Letting clients explore your data in a controlled environment  Siloed ships with RBAC out of the box, so you can grant different levels of access to data silos depending on your needs.仍在进行中的工作，因此欢迎任何反馈。 查看 @  https：//app.siloed.alpn-software.com/  提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0ztgz/siloed_sharable_collaboration_data_repositories/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0ztgz/siloed_shareable_collaborative_data_repositories/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>供个人使用的网站，投资组合/CV</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0zsez/website_for_personal_use_portfoliocv/</link>
-      <description><![CDATA[在完全免费（当然我要为域支付）。我知道netlify，但是我认为  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/docte_studio1602     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0zsez/website_for_personal_use_portfoliocv/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>许可管理软件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0zocy/license_management_software/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个小型（50个客户）营销机构的网络经理。我们拥有代理级插件许可证，一些客户仅适用于他们的许可。你们用什么来跟上许可，续签日期等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0zocy/license_management_software/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0zocy/license_management_software/</guid>
-      <pubDate>Sat, 01 Mar 2025 13:39:43 GMT</pubDate>
     </item>
     <item>
       <title>与Web形式有关的问题以提高效率</title>
@@ -99,7 +99,7 @@
     <item>
       <title>我为开发人员使用AI  -  150多个开源工具建造了快速的Defutils</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0tiqr/i_built_quick_devutils_with_ai_150_opensource/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，  i构建 快速defutils   使用 v0 + next.js “ js   - 格式，编码，解码，拆分，计数。  code＆amp;调试工具  -  JSON格式，HTML/CSS/JS Minifiers，Regex Tester。 Crypto Tools – hash generators, password strength checkers, encryption utilities. ✅ Converters – YAML to JSON, Markdown to HTML, Base64, color converters. ✅ Developer Cheatsheets – Git, Regex, Docker, Crontab, JWT parser, and more. 🤖用AI＆amp; V0   AI有助于优化和生成许多工具逻辑，而 v0 使UI构建   next.js    。现在，我希望通过社区反馈和贡献来扩展项目 🚀如何帮助您如何帮助   尝试一下  -   devutils.mudasir.mudasir.in.in  ＆amp;报告错误  - 哪些工具会使您的工作流程更容易？ 在github 上做出贡献 - （如果适用，请添加链接）。🔹与他人分享   - 越来越多，越来越多。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mudasiritoo     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，  i构建 快速defutils   使用 v0 + next.js “ js   - 格式，编码，解码，拆分，计数。  code＆amp;调试工具  -  JSON格式，HTML/CSS/JS Minifiers，Regex Tester。 Crypto Tools – hash generators, password strength checkers, encryption utilities. ✅ Converters – YAML to JSON, Markdown to HTML, Base64, color converters. ✅ Developer Cheatsheets – Git, Regex, Docker, Crontab, JWT parser, and more. 🤖用AI＆amp; V0   AI有助于优化和生成许多工具逻辑，而 v0 使UI构建   next.js     。现在，我希望通过社区反馈和贡献来扩展项目 🚀如何帮助您如何帮助   尝试一下  -   devutils.mudasir.mudasir.in.in  ＆amp;报告错误  - 哪些工具会使您的工作流程更容易？ 在github 上做出贡献 - （如果适用，请添加链接）。🔹与他人分享   - 越来越多，越来越多。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mudasiritoo     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0tiqr/i_built_quick_devutils_with_ai_150_opensource/</guid>
       <pubDate>Sat, 01 Mar 2025 06:49:59 GMT</pubDate>
     </item>

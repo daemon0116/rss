@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 14:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 16:21:59 GMT</lastBuildDate>
+    <item>
+      <title>什么是命令查询责任隔离（CQRS）？</title>
+      <link>https://www.reddit.com/r/programming/comments/1j127f9/what_is_command_query_responsibility_segregation/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/scalableThread      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j127f9/what_is_command_query_responsibility_segregation/</guid>
+      <pubDate>Sat, 01 Mar 2025 15:39:37 GMT</pubDate>
+    </item>
     <item>
       <title>git-stash同步</title>
       <link>https://www.reddit.com/r/programming/comments/1j109ym/gitstashsync/</link>
@@ -48,16 +55,9 @@
       <pubDate>Sat, 01 Mar 2025 12:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>更新网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0xto3/updates_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好。我是佩德罗（Pedro），我在学习有关网站，投资组合或数字课程的道路上，我想问一下您是否从链接上载的那个是一个不错的？ 我一直在努力和工作大约两个月，因为我倾向于更新更新并更新更新并在任何时候打开它，因为我某种程度上会发现一些我的网站，也许我会找到其他网站，也许我会找到更多的网站，并且我可以找到更多的想法。看起来如何？如何？什么可以改进？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pefaodo      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0xto3/updates_website/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:52:46 GMT</pubDate>
-    </item>
-    <item>
       <title>github -xenitane/git -get：简单的命令行实用程序可从git repo获取特定文件</title>
       <link>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。 subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</guid>
       <pubDate>Sat, 01 Mar 2025 11:12:18 GMT</pubDate>
     </item>
