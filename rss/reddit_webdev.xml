@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 08:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 09:18:47 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个BAC计算器...烤我</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0uw8z/i_made_a_bac_calculator_roast_me/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lolhigh      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0uw8z/i_made_a_bac_calculator_roast_me/</guid>
+      <pubDate>Sat, 01 Mar 2025 08:25:46 GMT</pubDate>
+    </item>
     <item>
       <title>我的网站用于展示我的改装作品（嬉戏设计）</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0ulsc/my_website_for_showcasing_my_modding_work_playful/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我又回到了 我的hono系列的第7集，这次，我们正在构建一些实用的东西：全栈付费跟踪器！     在本集中，标题为“ ”与Hono＆Amppe＆Ampper＆Ampper＆Ampper＆Amppem and of Hono＆Amp; React” &lt; /strong&gt;，我逐步逐步浏览您：💡使用hono 💾建立后端，将其连接到PostgResql 🌐与Cloudflare＆amp＆amp; VERCEL 🐞调试挑战和解决方案 如果您对Hono感到好奇并且想在行动中看到它，则本集将向您展示如何在现实世界项目中使用它！ 这是链接：   一如既往，当我不断构建本系列时，我很想听听您的想法，问题甚至建议。您的反馈可以帮助您一吨，我希望这一集能让您兴奋地与我深入研究！ 让我们一起学习和编码。 🚀  #hono #fullstack #webdevelopment #buildinpublic   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_of_my_my_hono_series_building_a_flellstack/”&gt; [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_7_of_my_hono_series_building_a_a_fullstack/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_of_my_hono_series_building_a_fullstack/</guid>
       <pubDate>Sat, 01 Mar 2025 04:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM结果的简单语法突出显示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_llm_results/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用新添加的renderstream方法，您可以轻松地将Markdown的流传递给HTML，并使用Shiki和Markdown-it进行语法突出显示。  这使您不必将降价/突出显示库将其运送到客户。  ＆＃32;提交由＆＃32; /u/u/rossrobino   href =“ https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_for_llm_results/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0pmu1/easy_syntax_highlighting_for_llm_results/</guid>
-      <pubDate>Sat, 01 Mar 2025 02:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

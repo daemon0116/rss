@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 08:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 09:18:31 GMT</lastBuildDate>
+    <item>
+      <title>C中简单的向量实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1j0vbhu/simple_vector_implementation_in_c/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/lewboskifeo     link&gt;    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j0vbhu/simple_vector_implementation_in_c/</guid>
+      <pubDate>Sat, 01 Mar 2025 08:57:01 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Copilot继续暴露私人GitHub存储库</title>
       <link>https://www.reddit.com/r/programming/comments/1j0ufcw/microsoft_copilot_continues_to_expose_private/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/armanding_chip_5729        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0bn3o/a_crossplatform_0externaldependencies_textcode/</guid>
       <pubDate>Fri, 28 Feb 2025 16:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何筑巢三元</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0ax3p/how_to_nest_ternaries/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/levodelellis      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0ax3p/how_to_nest_ternaries/</guid>
-      <pubDate>Fri, 28 Feb 2025 15:56:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
