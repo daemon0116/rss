@@ -4,111 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 23:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 02:58:24 GMT</lastBuildDate>
     <item>
-      <title>公司完全模仿 - 不知道该怎么办</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivvblz/company_being_completely_impersonated_no_idea/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我们是一家小型完全自举的软件公司。我们公司在LinkedIn上的模仿版本。 我并不真正在乎自我促销href =“ http://groas.ai/”&gt; groas.ai ，他们已经继续购买 groasai.com 并以某种方式设法完全复制了我们的网站并将其作为他们的网站。 我们的LinkedIn页面只是GROA，他们已经制作了一个称为groas ai的人，并拿走了我们所有的图像等。 我的电子邮件是[ dp@groas.ai ]（mailto： dp@groas.ai ），他们已经称为[ dp@groasai.com ]（mailto： dp@groasai.com ）&lt; /p&gt; 现在有点恐慌，因为我不知道该怎么做，还试图弄清楚为什么有人会这样做，尤其是对一家小创业的小创业。 请问，我该怎么办，以及是否有人可以向我解释他们是否以前发生过类似的事情。 事先感谢。   &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivvblz/c​​ompany_being_completely_impersoned_no_idea/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivvblz/company_being_completely_impersonated_no_idea/</guid>
-      <pubDate>Sat, 22 Feb 2025 22:48:15 GMT</pubDate>
+      <title>Web Dev的新手，我有一个通用的问题：</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0p6mz/new_to_web_dev_and_i_have_a_generic_question/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  现在是开发一个奇异反应前端的标准，而该反应页面只是将API调用到您的后端吗？ ，因此本质上是您提供2个服务，一个服务是为了传递React Front End，而另一个用于响应这些API呼叫？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/madam_zeroni     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0p6mz/new_to_web_dev_and_i_have_a_generic_question/</guid>
+      <pubDate>Sat, 01 Mar 2025 02:33:43 GMT</pubDate>
     </item>
     <item>
-      <title>两个有用的脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivv797/two_useful_scripts_for_discord/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  留下所有服务器。    import {client，guild}来自&#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“粉笔”导入粉笔； client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！``））; client.guilds.cache.map（a = a = ＆gt; {if（a.ownerid！==＆quot＆quot＆quot&#39; }}）}）}）client.login（;＆quot&#39;将您的令牌放在此处＆quot＆quot;）   bump a a of服务器自动。    import {client {client，guild，guild} &#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“ fs”导入fs;从“粉笔”进口粉笔；令通道； var lastbumptime; var bumpedamount = 0; client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！`` ;在此处放置频道ID＆quot＆quot＆qustriptime = date.now（）; bump（channel）} else {settimeout（function（）{bump（channel）}，math.round（（（（（math.random（） + 0.5） * 1000000） * 1000000） + 7200000  - （currentime -lastBumptime）}）））函数bump（channel）{等待频道。 Bumpedamount += 1;令guildName = channel.guild.name console.log（chalk.green（`$ {guildName}  - 成功颠簸！\ n`））; setTimeout（function（）{bump（）}，Math.Round（1000000 + 7200000））; fs.writefilesync（data.txt; data.txt; date.now（）。toString（），（err）=＆gt; {if（err）console.log（err）;}）; } fs.ReadFile（data.txt; data.txt; function（err，buf）{lastBumptime = parseInt（buf）; client.login（＆quot&#39;your surken&#39;your token＆quot＆quort; quot; quot; quot; quot; quot; quot; quot; quot&#39;;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivv797/two_useful_scripts_for_discord/</guid>
-      <pubDate>Sat, 22 Feb 2025 22:42:27 GMT</pubDate>
+      <title>WP主机建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0okgi/wp_host_recommendations_please/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  移动3个站点2 WP。您会推荐哪个博客，目录＆amp;基本BIZ网站？ Hostinger/Namecheap/Bluehost？其他？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0okgi/wp_host_recommendations_please/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0okgi/wp_host_recommendations_please/</guid>
+      <pubDate>Sat, 01 Mar 2025 02:01:31 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以将蓝牙设备连接到Wix网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivun1k/would_it_be_possible_to_connect_a_bluetooth/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个设备，我想通过Wix网站向其发送信号。有人购买某物而设备激活  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivun1k/would_it_be_possible_to_connect_a_bluetooth/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivun1k/would_it_be_possible_to_connect_a_bluetooth/</guid>
-      <pubDate>Sat, 22 Feb 2025 22:16:26 GMT</pubDate>
+      <title>Facebook工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0nx35/facebook_tool/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一些可以执行以下操作的东西：在海报的Facebook帖子，共享或本地的Facebook帖子上，打开了某种数据输入，例如可以输入自定义信息的表单。  ie：这是关于丢失的猫的帖子。有一个按钮/其他输入，有人可以输入他们的名字，看到猫的名字以及什么时间。不是在评论中，而是没有使您离开Facebook网站的东西。 有什么想法吗？领先广告，事件其他事情将无法正常工作。它可能需要是一些外部代码，这很好。我知道Python等有评论刮板等。如果我可以与他人分享的工具，那就太好了。 谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flat_artichoke9131     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0nx35/facebook_tool/</guid>
+      <pubDate>Sat, 01 Mar 2025 01:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>我为您的附带项目创建了一个反馈系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivuhqy/i_created_a_feedback_system_for_your_side_projects/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/far-amphibian303043     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivuhqy/i_created_a_feedback_system_for_your_side_projects/</guid>
-      <pubDate>Sat, 22 Feb 2025 22:09:47 GMT</pubDate>
+      <title>我应该接受哪个工作机会（初创公司与公司）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0maw3/which_job_offer_should_i_accept_startup_vs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我需要在两个前端开发人员工作机会之间进行一些见解。我是26岁的计算机科学和工程毕业生。在研究期间，我必须尝试许多编程语言，技术和方法，但是后来我专注于Web开发，并且在前端和设计中获得了很多经验（主要是自学成才）。  I have applied on many jobs as a Junior Front End Developer and I received the following offers. Option 1: (Small Startup – 2-10 Employees)  Tech Stack: HTML, JS, Razor, ASP.NET Core 8, SQL (Entity Framework), Redis, SignalR  角色：前端开发（有潜力进入全栈）   薪金：€1,200总/月（前4个月）→1,500欧元/月/月（下一个6个月）（下一个6个月） - （在那个房间里加薪之后）休息）  上下班： 25分钟按公共汽车/地铁（乘车10-15分钟）    远程工作：在前6个月内，然后每周1-2天远程远程     选项2：（更大的Fintech Company  -  201--500雇员） TypeScript, React.js, Vue.js, Angular, Rest APIs Role: Junior Front-End Dev (focus on enterprise-level applications) Salary: €1,580/month gross Work Hours: 09:00-18:00 (1-hour break) Commute: 40+ min by bus/metro (40+ min by car due to traffic) Remote Work: Hybrid, but mostly onsite  My Dilemma:  I have more experience in Front End Development but Back End also seems really interesting to me. The第一个让我有机会学习全栈技术，这看起来真的很有趣，但带来了更少的好处。 另一个人提供了更专业的道路作为前端开发人员，并提供了更多的好处。    您在我的位置中选择了什么？ ＆＃32;提交由＆＃32; /u/u/u/external-honey6225     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0maw3/which_job_offer_should_i_accept_startup_vs/</guid>
+      <pubDate>Sat, 01 Mar 2025 00:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>AI内容主持人 - 为什么以及如何使用Gemini 1.5构建一个</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivtl88/ai_content_moderator_why_and_how_to_build_one/</link>
-      <description><![CDATA[      ＆＃32＆＃32;提交由＆＃32; /u/u/pers_io     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivtl88/ai_content_moderator_why_and_how_to_build_one/</guid>
-      <pubDate>Sat, 22 Feb 2025 21:28:44 GMT</pubDate>
+      <title>在我的个人投资组合网站上需要您的诚实意见🙏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0m526/need_your_honest_opinions_on_my_personal/</link>
+      <description><![CDATA[I’m a senior in college and I’ve created a website portfolio of my past freelance digital marketing work over the last 2 years. I would greatly appreciate any feedback on the site or if there’s anything you would do differently as I’m trying to improve my skills and would love to have another set of eyes look at it before sending out my resume. Feel free to roast it if you必须大声笑 我构建了这个网站，以便招聘人员从工作申请中查看我的简历，这并不是我用来出售自由职业服务的网站  MEDDANIELGOMEZ.com   谢谢！提交由＆＃32; /u/u/u/danielgomez902     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0m526/need_your_honest_opinions_on_my_personal/</guid>
+      <pubDate>Fri, 28 Feb 2025 23:58:19 GMT</pubDate>
     </item>
     <item>
-      <title>10年Web开发人员入住/反思</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivtk47/10_year_web_devs_check_inreflection/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您还在做20年吗？  我从2014年开始了我的职业生涯，很想听听其他在精神和专业职业生涯中具有相同水平经验的人的生活。  您对行业的感觉如何？您还在考虑其他事情吗？有职业切换吗？将其从胸口  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/butwaitthereslore     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivtk47/10_year_web_devs_check_inreflection/</guid>
-      <pubDate>Sat, 22 Feb 2025 21:27:20 GMT</pubDate>
+      <title>shadcn/ui的英雄块</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0l6mj/hero_blocks_for_shadcnui/</link>
+      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我一直在为Shadcn/ui制作许多额外的英雄组件 - 您可以从 https://www.shadcnblocks.com/blocks       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jugglerx     [link]    32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0l6mj/hero_blocks_for_shadcnui/</guid>
+      <pubDate>Fri, 28 Feb 2025 23:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>我正在建立一个工作地点，以找到与您的简历相匹配的工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivsxgj/im_building_a_job_site_to_find_jobs_that_match/</link>
-      <description><![CDATA[   ”   ＆＃32＆＃32;提交由＆＃32; /u/u/dense_dimension_913     2nlmk7z98rke1.png“&gt; [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivsxgj/im_building_a_job_site_to_find_jobs_that_match/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:59:35 GMT</pubDate>
+      <title>这并不多，但这是诚实的工作：为寻求简单性和清晰度的用户提供免费平台。今天，我正在炫耀新的路线图标签！愿它可以帮助许多小型企业或开发人员展示其路线图^^</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0l5lp/its_not_much_but_its_honest_work_giving_a_free/</link>
+      <description><![CDATA[   &lt;img alt=&quot;It&#39;s not much, but it&#39;s honest work: giving a free platform for user looking for simplicity and clarity. Today I&#39;m showing off the new路线图标签！ src =“ https://preview.redd.it/c3pz1do7pole1.png?width = 640＆amp； crop; crop = smart＆amp; amp; amp; auto = webp&amp;s为您提供一个免费的平台，以寻找简单性和清晰度。提交由＆＃32; &lt;A href =“ https://www.reddit.com/user/stephane_b”&gt;/u/u/stephane_b     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0l5lp/1j0l5lp/its_not_much_but_but_but_its_honest_honest_work_giving_giving_a_free/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0l5lp/its_not_much_but_its_honest_work_giving_a_free/</guid>
+      <pubDate>Fri, 28 Feb 2025 23:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>附属物创建者平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivsnp8/affilibyte_creator_platform/</link>
-      <description><![CDATA[在&gt;大家！我很高兴终于推出附属活动，以展示周六 - 一个平台，该平台使内容创作者可以与粉丝分享他们的独家内容并奖励，同时允许这些粉丝通过共享链接来赚取积分！ 什么是affilibyte ？ 附属物是一个平台，内容创建者可以在其中使用粉丝群上传和共享其独家内容（想想幕后，早期访问，特殊奖励）。但是，这是扭曲 - 粉丝可以通过共享创建者的内容链接和赢得点来解锁此独家内容！ 它如何工作？ 创建者上传其独家内容和奖励。粉丝们与他们的朋友或追随者分享了创作者的链接（例如会员链接）。每当有人点击或与共享链接互动时，粉丝都会赚取积分。然后，粉丝可以使用这些点从他们最喜欢的创作者中解锁独家内容！奖励。 我很想听听您的想法！来自其他创作者和粉丝的反馈将是惊人的。希望这能为您提供一种与观众联系并提高内容奖励的新方法！ 边缘周围仍然有些粗糙，但会在周末抛光    &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivsnp8/affilibyte_creator_platform/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivsnp8/affilibyte_creator_platform/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:47:27 GMT</pubDate>
+      <title>astro和w/o ssr的钥匙正派？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0k4wd/astro_and_keystatic_wo_ssr/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   WebDev的新事物。如何设置我的Astro Project，以部署cloudflare页面，但仍使用键 - 键入来生成内容？很高兴使用key -static的CM进行开发，但只是在产品中部署静态。想法？  HIRES使用示例回购，但需要Cloudflare SSR网站而不是页面。    https://github.com/thewebsiteguy/astrokeys       &lt;！提交由＆＃32; /u/u/azimuth79b    href =“ https://www.reddit.com/r/webdev/comments/1j0k4wd/astro_and_keystatic_wo_ssr/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0k4wd/astro_and_keystatic_wo_ssr/</guid>
+      <pubDate>Fri, 28 Feb 2025 22:26:31 GMT</pubDate>
     </item>
     <item>
-      <title>为什么轨道上的红宝石仍然很重要</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivsms3/why_ruby_on_rails_still_matters/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/philip1209     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivsms3/why_ruby_on_rails_still_matters/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:46:17 GMT</pubDate>
+      <title>收集您的反馈并更改了我的网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0jtey/took_your_feedback_and_made_changes_to_my_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  感谢很多人在上一篇文章中的反馈！有几个问题引起了群众的共鸣，我把它们带来了积极的注意。常见的反馈包括： 1）滚动变得混乱 2）缺乏nav栏，这使其令人沮丧 3）太多动画，因此无法使用 4）损坏的子域 5）很少有无反应的按钮，所以我解决了上述所有提到的问题。开放更多改进！请再次查看网站！   vaibhavdoes.tech    编辑1：6）使NAV BAR中的灯光更加顺利。 7）在其中一个第8页上删除了不必要的回到家庭链接。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0jtey/took_your_feedback_and_made_made_made_changes_to_my_website/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0jtey/took_your_feedback_and_and_made_changes_to_my_website/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0jtey/took_your_feedback_and_made_changes_to_my_website/</guid>
+      <pubDate>Fri, 28 Feb 2025 22:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>在线调查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivs7xg/online_survey/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！这是一项有关公司压力和压力以及工人面临的其他各种心理健康挑战的在线调查。因此，如果您是25-45岁以内的职业专家，请仔细研究这项调查！您的参与将不胜感激。   https://docs.google.com/forms/d/e/1faipqlsexds7dhd8tvvz8fl04cpboeasxye-val4kmzmzmzmzmzmzmzmtjq_b61hkmw/viewfiew？usp = header？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ahanarc     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivs7xg/online_survey/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:28:10 GMT</pubDate>
+      <title>您会喜欢的在线游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0ioup/online_games_you_would_enjoy/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/giend-border-2421       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0ioup/online_games_you_would_enjoy/</guid>
+      <pubDate>Fri, 28 Feb 2025 21:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>与React进行商务演示的聊天机器人（评论中的链接）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivrr6k/chat_bot_for_commerce_demo_with_react_link_in/</link>
-      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/u/hendrixstring     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivrr6k/chat_bot_for_commerce_demo_with_react_link_in/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:07:15 GMT</pubDate>
+      <title>实际上，在WHOI上为.nz TLD域提供了哪些信息？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0i8m8/what_information_is_actually_put_on_the_whois_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi reddit。当将其添加到我的购物车中时，我想购买以.nz和Porkbun结尾的域：  隐私警告 这个TLD不允许Whois隐私，但通常会重新编辑您的个人信息。这意味着您的个人联系信息将发送到注册表，但不应公开。请注意，如果您注册为公司，组织或个人以外的其他内容，则某些注册表将使您的联系信息公开。  当前拥有一个.nz域的人能告诉我公开哪些信息，因为没有WHOIS保护？我宁愿不买这个。我是一个在美国生活的美国人，如果这意味着任何注册。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0i8m8/what_information_is_istally_put_ond_tput_one_tho_the_whois_for/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0i8m8/what_information_is_actually_put_on_the_whois_for/</guid>
+      <pubDate>Fri, 28 Feb 2025 21:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了这个拥有10,000多个用户的研究应用程序！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名大学生，我制作了一个Edtech应用程序，以帮助学生在我的学校学习中进行考试，并且增长了比我预期的要大。一点点上下文，我建立了Revix AI，现在有10,000多个用户对我来说太疯狂了！ 我只是想花一点时间感谢这个社区回答了我所有愚蠢的问题和即使让我向你们中的一些人发消息，并帮助我达到这一点！ ，如果您做一个，我很想听听您对UI和实际学习的想法！我保证我不会亲自接受它，我一直在寻找改进应用程序！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ploate_actuator_511     [链接]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_tis_studying_app_that_has_has_over_1000000_users/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</guid>
-      <pubDate>Sat, 22 Feb 2025 19:45:05 GMT</pubDate>
+      <title>我可以在Web开发人员收取什么方面获得一些帮助？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0hwnz/can_i_get_some_help_on_what_a_web_dev_would/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们认为这样的网站要花费多少钱来使用Shopify主题？它只需要使用具有不同内容/图像的相同Shopify主题制作。你们认为要完成的工作要花多长时间？ 我想提供公平的价格，但不想被剥夺。我一直以20,000美元的价格获得一些报价，并以1000美元的价格获得一些报价，有些人说可以在5天内完成，而另一些人可以在10天内完成。 从头开始编码会非常困难，但我会购买Shopify主题，而布局只需重新制作。 href =“ https://biobabeofficial.com/”&gt; https://biobabeofficial.com/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_stay_6530      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0hwnz/can_i_get_some_help_help_help_help_awhat_a_web_web_dev_would/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0hwnz/can_i_get_some_help_on_what_a_web_dev_would/</guid>
+      <pubDate>Fri, 28 Feb 2025 20:48:36 GMT</pubDate>
     </item>
     <item>
-      <title>下载类固醇</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivpd2x/downloads_on_steroids/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  在类固醇上下载稳定，现在 这是我对下载管理器工具，该工具纯粹在文件名上工作。  一个快速的示例..要删除2s中的文件，只需将其重命名为d-2s-test.txt  就是这样，请检查一下，然后lemme知道yall认为什么： d    https://dos.arinji.com  Tech stack：NextJS和NextJS和Golang：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arinjiboi     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivpd2x/downloads_on_steroids/</guid>
-      <pubDate>Sat, 22 Feb 2025 18:25:06 GMT</pubDate>
+      <title><autur> <Time> <地址>问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0gdxv/author_time_address_questions/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如何正确编码这些，或者它们是否正确编码？  ＆lt; span＆gt;作者：＆lt; wutor＆gt; joe Smith＆lt;/futor＆gt;＆lt;/span＆gt; ！ - ！ ＆lt; address＆gt; 123 Main St.＆lt;/地址＆gt;＆lt;/span＆gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/then-barber9352     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0gdxv/author_time_address_questions/</guid>
+      <pubDate>Fri, 28 Feb 2025 19:43:25 GMT</pubDate>
     </item>
     <item>
-      <title>建立了一个任何人都可以举办语言课程的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivox5c/built_a_site_where_anyone_can_make_language/</link>
-      <description><![CDATA[   /u/u/biricat     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivox5c/built_a_site_where_anyone_can_make_language/</guid>
-      <pubDate>Sat, 22 Feb 2025 18:06:11 GMT</pubDate>
+      <title>烤我的SaaS UI/UX- nocode形式的构建器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0f4d9/roast_my_saas_uiux_a_nocode_form_builder/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我已经花了过去几个月来构建 formnx ，一个nocode builder builder  我很想听听您的想法。    👉 UI可以改进吗？感觉太困难还是复杂？其他屏幕。  链接： formnx.com    如果有任何问题可以随时发表评论或DM ME      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0f4d9/roast_my_my_saas_uiiux_a_nocode_nocode_buildorfor_builder/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0f4d9/1j0f4d9/roast_my_my_saas_uiux_a_a_a_nocode_nocode_form_builder/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0f4d9/roast_my_saas_uiux_a_nocode_form_builder/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:49:02 GMT</pubDate>
     </item>
     <item>
-      <title>如何改善网站索引？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivoowu/how_to_improve_website_indexing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个使用Next15的网站，没有后端。问题是，即使使用高端SEO，性能和可访问性，该网站在搜索时也没有最高排名。语义HTML标签 - 较低加载时间的高性能 - 缓存 - 图像优化和通过CDN的服务 - 托管在Vercel上的网站 - 已注册和配置的Google Search Console -Robots File -jsonld，SiteMap，元数据，标题-CheckBot.io＆amp; Lighthouse得分超过98。-研究了业务的关键字 ，仍然看起来很差SEO。 &gt;＆＃32;提交由＆＃32; /u/u/bobitz_elprogrammer     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivoowu/how_to_improve_website_indexing/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:57:09 GMT</pubDate>
+      <title>我为孩子建立了YouTube替代方案，以避免屏幕上瘾</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0blfl/i_built_a_youtube_alternative_for_my_kid_to_avoid/</link>
+      <description><![CDATA[Hey everyone, As a parent and a developer, I wanted to solve a personal problem: controlling my kid’s screen time without battling YouTube’s algorithm. My son is three, and my wife and I have been intentional about limiting his exposure to addictive, fast-paced content.但是，即使当我在YouTube上挑选视频时，平台也以浮华的缩略图，自动播放陷阱和旨在让他观看的建议轰炸了他。 YouTube孩子？更糟糕的是 所以，我构建了  goodtube    - 轻量级，无限制的网络应用程序，可以使父母（或任何人都能完全控制视频内容。干扰  - 没有建议，自动播放或点击诱饵缩略图。   自定义播放列表  - 仅添加YouTube Videos或playlists  you  you  - 预先填充平静，有意义的内容。  没有外部YouTube链接  - 一切都留在GoodTube中。    tech stack＆amp;部署    前端： next.js，react    后端： firebase（用于数据存储的firestore）      托管：&gt; vercel&gt; vercel    我为自己构建了一些 imign in in in y y y&gt; y&gt;发现它也有用。与其尝试与YouTube的互动驱动模型作斗争，不如将孩子完全孤立。 这仍然是一个小型的个人项目，但我喜欢Devs的反馈。 检查一下：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thunderberen     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0blfl/i_built_a_youtube_alternative_for_my_kid_to_avoid/</guid>
+      <pubDate>Fri, 28 Feb 2025 16:23:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
