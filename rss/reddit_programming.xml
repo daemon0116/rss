@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 19:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 20:19:50 GMT</lastBuildDate>
+    <item>
+      <title>github- wlucha/ng-country-select：🌍智能，多语言的国家搜索，带有旗帜和用角的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1j18l0f/github_wluchangcountryselect_a_smart_multilingual/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/wall3210      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j18l0f/github_wluchangcountryselect_a_smart_multilingual/</guid>
+      <pubDate>Sat, 01 Mar 2025 20:12:33 GMT</pubDate>
+    </item>
     <item>
       <title>结界循环（有问题的自我冲击式自我冲击）</title>
       <link>https://www.reddit.com/r/programming/comments/1j16gxe/enchantment_loop_regressive_selfimprover_in/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/stefan_s_fom_h        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0yhgc/modern_software_is_not_built_to_last/</guid>
       <pubDate>Sat, 01 Mar 2025 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>github -xenitane/git -get：简单的命令行实用程序可从git repo获取特定文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。 subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
