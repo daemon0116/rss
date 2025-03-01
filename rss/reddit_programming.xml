@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 10:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 11:14:52 GMT</lastBuildDate>
+    <item>
+      <title>github -xenitane/git -get：简单的命令行实用程序可从git repo获取特定文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。 subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</guid>
+      <pubDate>Sat, 01 Mar 2025 11:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>C中简单的向量实现</title>
       <link>https://www.reddit.com/r/programming/comments/1j0vbhu/simple_vector_implementation_in_c/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/suipranuvem   href =“ https://subipranuvem.hashnode.dev/you-shouldnt-use-chatgpt-to-generate-code-use-use-ishis-this-this-other-ai-instead”&gt; [link]    ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0bsdn/best_ai_alternatives_to_chatgpt_for_coding/</guid>
       <pubDate>Fri, 28 Feb 2025 16:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨平台，0-外部依赖性文本/代码编辑器，完全写在C ++中</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0bn3o/a_crossplatform_0externaldependencies_textcode/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/armanding_chip_5729        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0bn3o/a_crossplatform_0externaldependencies_textcode/</guid>
-      <pubDate>Fri, 28 Feb 2025 16:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
