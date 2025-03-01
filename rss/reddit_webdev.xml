@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 20:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 21:17:40 GMT</lastBuildDate>
+    <item>
+      <title>客户端可以在本地使用的CMS建议，该建议支持JSON，并且不需要任何登录/云/托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j18st4/suggestions_for_a_cms_a_client_can_use_locally/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！从本质上讲，我想做的是：   我有一个nextjs/react博客式网站，其中包含大量静态内容作为JSON文件。我希望客户端能够使用CMS（即视觉编辑器）编辑它们，而不是在代码中修改。    在进行任何修改后，客户将将/提交更改为github。   这将自动触发构建和部署（作为SSG）到github页面。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/suetupp     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j18st4/suggestions_for_a_cms_a_client_can_use_locally/</guid>
+      <pubDate>Sat, 01 Mar 2025 20:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>我的新的4天项目Bounce-keys-a js/ts库，用于利基可访问性功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1j18e00/my_new_4day_project_bouncekeys_a_jsts_library_for/</link>
@@ -34,13 +41,6 @@
       <pubDate>Sat, 01 Mar 2025 19:16:11 GMT</pubDate>
     </item>
     <item>
-      <title>在调试或学习代码方面挣扎？这是帮助我的工具！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j16zy1/struggling_with_debugging_or_learning_code_heres/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我最近开始使用困惑AI，这是学习编程和调试代码的救生员。就像拥有一个24/7的导师：  用简单的术语解释了艰难的编码概念。    有助于比谷歌搜索数小时更快地调试代码。         支持python，javascript，eff a pythen of a pythe&gt;   对我来说，我认为这也可以帮助其他人。如果您想尝试Pro版本（通常为每年$ 200），我的网站上有一个的特殊优惠，在我的网站上： pleplexity pro pro propro⭐     我也可以为2个免费的vouche for vore to nose foreve forevouches fore forevouches&gt; dm！希望这对某人有帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fabuloushuckleberry4     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j16zy1/struggling_with_debugging_or_learning_code_heres/</guid>
-      <pubDate>Sat, 01 Mar 2025 19:03:34 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有办法在VSCODE/CURSOR中折叠所有文件及其错误？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j16mgo/is_there_a_way_to_collapse_all_files_and_their/</link>
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/ok_rough_7066       [注释]]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>对于推出自定义身份验证的人来说，值得吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j16cdb/for_people_who_rolled_out_custom_auth_is_it_worth/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑集成库并推出自己的auth系统，因为我无法同步用户状态。  ，例如，firebase。唯一的“真实” B2C应用程序的解决方案。唯一可用的Webhooks是“创建” | ＆quot delete＆quot＆quot在用户对象上操作。当您验证电子邮件时，Firebase Auth State！=后端状态。其他提供商的费用太多，免费为“免费”应用程序。 主要叙述不是推出自己的验证。但是为什么不呢？看着Lucia auth，图书馆维护者意识到，一个适合所有解决方案的方法是不可能的。并分享了有关如何推出基于会话的auth的5分钟教程。  还可以在服务器上使用库实现库。 对于那些推出自己的auth的人来说，最终值得吗？如果没有，您会做些什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/newadamsmith     [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j16cdb/for_people_who_rolled_rolled_custom_auth_auth_is_it_it_it_worth/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑集成图书馆并自己推出自己的（ pread＆quot&#39;self-oded＆quot; quot&#39;）auth System，因为我无法同步用户状态。 例如，firebase。唯一的“真实” B2C应用程序的解决方案。唯一可用的Webhooks是“创建” | ＆quot delete＆quot＆quot在用户对象上操作。当您验证电子邮件时，Firebase Auth State！=后端状态。其他提供商的费用太多，免费为“免费”应用程序。 主要叙述不是推出自己的验证。但是为什么不呢？看着Lucia auth，图书馆维护者意识到，一个适合所有解决方案的方法是不可能的。并分享了一个5分钟的教程，介绍了如何推出基于会话的auth。 也有库实现，几乎可以用于您在服务器上的任何设置。 对于那些推出自己的auth的人，最终值得吗？如果没有，您会做些什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/newadamsmith     [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j16cdb/for_people_who_rolled_rolled_custom_auth_auth_is_it_it_it_worth/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j16cdb/for_people_who_rolled_out_custom_auth_is_it_worth/</guid>
       <pubDate>Sat, 01 Mar 2025 18:35:50 GMT</pubDate>
     </item>
