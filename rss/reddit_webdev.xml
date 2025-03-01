@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 09:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 10:19:35 GMT</lastBuildDate>
+    <item>
+      <title>如何使用clamp（）而没有魔术首选数字？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0w8ow/how_to_use_clamp_without_a_magic_preferred_number/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢clamp（）替换断点的想法，但是我尝试在生产项目中使用它的几次，它没有通过代码审查，因为首选值只是“魔术数字”。要遵循Figma的设计，我不得不使用一些在线计算器，您可以进入最小尺寸，最大尺寸和应达到这些值的屏幕尺寸。这就是它计算首选值的地方，这通常是尴尬的东西，例如1.457VW + 0.75651EM。 任何人都有在设计中集成夹具（）的经验，这些经验是由无花果中的断点绘制的？我怀疑设计师需要首先改变心态。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/zemuk     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0w8ow/how_to_use_use_clamp_without_a_magic_preferred_number/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0w8ow/how_to_use_clamp_without_a_magic_preferred_number/</guid>
+      <pubDate>Sat, 01 Mar 2025 10:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在没有JS的CSS中制作了一个交互式拼图盒，并写了一份技术故障</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0w14n/i_made_an_interactive_puzzle_box_in_css_with_no/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/blackLemon67     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0w14n/i_made_antactive_interactive_puzzle_box_in_cs_in_css_with_with_no/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0w14n/i_made_an_interactive_puzzle_box_in_css_with_no/</guid>
+      <pubDate>Sat, 01 Mar 2025 09:48:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该购买MacBook M2吗？用于开发和游戏对我来说是可选的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0vuih/should_i_buy_macbook_m2_for_developing_and_gaming/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   16GB RAM 256GB SSD，我将分别为外部SSD ...还是我应该等待学生折扣？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/this_job_4087      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0vuih/1j0vuih/should_i_buy_macbook_macbook_m2_for_develoding_and_gaming/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0vuih/should_i_buy_macbook_m2_for_developing_and_gaming/</guid>
+      <pubDate>Sat, 01 Mar 2025 09:35:16 GMT</pubDate>
+    </item>
     <item>
       <title>我做了一个BAC计算器...烤我</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0uw8z/i_made_a_bac_calculator_roast_me/</link>
@@ -83,32 +104,11 @@
       <pubDate>Sat, 01 Mar 2025 06:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>我为节点后端制作了一个开源身份验证库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0svbh/i_made_an_open_source_authentication_library_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，我厌倦了为我的每个项目构建一个新的身份验证系统，因此我构建了一个开源node.js库，并为非常易于实施的安全帐户和API Authentication构建了中间件。它目前仅支持密码身份验证，但它创建并存储安全的会话令牌，并且仅需几行代码即可实现。 它当前使用bcrypt用于哈希密码，我很可能会在未来几周内为argon2提供一个选项。  github repo： https://github.com/ethrythedev/node-easier-easier-auth      npm： https://www.npmjs.com/package/package/package/easier-auth       &lt;！提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0svbh/i_made_made_an_open_source_authentication_library_for/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0svbh/i_made_an_open_source_authentication_library_for/</guid>
-      <pubDate>Sat, 01 Mar 2025 06:06:42 GMT</pubDate>
-    </item>
-    <item>
       <title>如何跟踪CLI工具的名称/参数和自定义Bash脚本？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0sgi0/how_to_you_keep_track_of_nameparams_of_cli_tools/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我昨天在全球安装了一个出色的python cli工具。今天，我必须找到其github页面以记住名称 /参数才能再次使用它，因为显然我的内存并不是那么好。一些带有次数较少的命令的故事，不要让我开始git。 我更像是一个修补匠和空闲时间开发，所以使用这些东西并不是我每天的工作（不幸的是）。即便如此，我怀疑你们中的一些人也在我的船上，至少有一些工具。我还怀疑您之间有一些非常常见的策略 /工具来帮助记住这些挂钩。&lt; / p&gt; 我的第一个想法是使用Github Gist制作一种备忘单，但我宁愿将某些东西纳入终端。您要记住少于使用的工具和策略，但要记住CLI工具和Commnads的重要工具和策略是什么？ 编辑：是的：是的， - 当然，如果您还记得该工具的名称。 ，请事先感谢，如果我不愿意回答所有人，请提前表示歉意。已经很多很棒的答复了！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/c0ffeeface     [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0sgi0/how_to_you_eque_keep_keep_track_nameparams_nameparams_of_cli_tools/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0sgi0/how_to_you_keep_track_of_nameparams_of_cli_tools/</guid>
       <pubDate>Sat, 01 Mar 2025 05:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在使用Firebase使用电子邮件和密码注册时存储用户名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0s1op/how_to_store_username_while_signing_up_using/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在制作注册/登录页面，并使用Express和EJS使用Firebase。 firebase登录选项仅采用电子邮件和密码。但是，我也想存储用户名。但是，我看上去有些看，找不到使用Firebase Auth的方法来做到这一点。  我是否必须使用其他一些壁炉服务或其他一些东西？另外，一旦我设法存储用户名，我该如何获取并在网页上显示它？ ，我很抱歉，如果我有点含糊，但是如果您想要更多详细信息，我会提供它们，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0s1op/how_to_store_store_username_signing_signing_up_use/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0s1op/how_to_store_username_while_signing_up_using/</guid>
-      <pubDate>Sat, 01 Mar 2025 05:15:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的Hono系列第7集：使用Hono + React构建全栈费用跟踪器！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_of_my_hono_series_building_a_fullstack/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我又回到了 我的hono系列的第7集，这次，我们正在构建一些实用的东西：全栈付费跟踪器！     在本集中，标题为“ ”与Hono＆Amppe＆Ampper＆Ampper＆Ampper＆Amppem and of Hono＆Amp; React” &lt; /strong&gt;，我逐步逐步浏览您：💡使用hono 💾建立后端，将其连接到PostgResql 🌐与Cloudflare＆amp＆amp; VERCEL 🐞调试挑战和解决方案 如果您对Hono感到好奇并且想在行动中看到它，则本集将向您展示如何在现实世界项目中使用它！ 这是链接：   一如既往，当我不断构建本系列时，我很想听听您的想法，问题甚至建议。您的反馈可以帮助您一吨，我希望这一集能让您兴奋地与我深入研究！ 让我们一起学习和编码。 🚀  #hono #fullstack #webdevelopment #buildinpublic   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_of_my_my_hono_series_building_a_flellstack/”&gt; [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_7_of_my_hono_series_building_a_a_fullstack/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0r79j/episode_7_of_my_hono_series_building_a_fullstack/</guid>
-      <pubDate>Sat, 01 Mar 2025 04:25:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
