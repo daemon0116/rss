@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 12:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 13:21:52 GMT</lastBuildDate>
+    <item>
+      <title>我为Svelte编写的重新连接Websocket客户端的反馈...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0zaxt/feedback_for_this_reconnecting_websocket_client_i/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;      lib/functions/websocket.ts       {让WebSocket：WebSocket | null = null;令ReconnectAttEmpts = 0;让ReconNectTimeOut：号码| null = null;令ManualClose = false;    // eslint-disable-next-line @typescript-eslint/no-explitic-any const log =（message：string：string，... {console.log（`websocket：$ {message}`，... args）; }; const connect =（）=＆gt; {websocket = new Websocket（url）; WebSocket.onopen =（）=＆gt; {log（&#39;connected&#39;）; reconnectAttEmpts = 0; ManualClose = false; if（reconnectTimeOut！== null）{clearTimeOut（reconnectTimeOut）; reconnectTimeout = null; }}; WebSocket.onclose =（event）=＆gt; {log（&#39;连接关闭&#39;，event.code，event.reason）; websocket = null; if（！MANUALCLOSE）{reconnect（）; }}; WebSocket.onMessage =（event）=＆gt; {尝试{const结果：{action：string;数据：字符串；类型：&#39;insert&#39;| &#39;update&#39;} = json.parse（event.data）; if（result.type ===&#39;insert&#39;）{onNewItem（result.data）; }} catch（error）{log（&#39;json parse error&#39;，error instance of error？error.message：&#39;&#39;）; }}; WebSocket.OnError =（event）=＆gt; {log（&#39;连接错误&#39;，event）; }; }; const reconnect =（）=＆gt; {if（ManualClose）{返回; } const delay = math.min（300000，1000 * MATH.POW（2，reconnectAttEmpts））; //最多5分钟，最小限制++最小1秒; log（`以$ {delay / 1000}秒的重新连接...`）; reconnectTimeout = settimeout（（）=＆gt; {connect（）;}，delay）; }; const destry =（）=＆gt; {if（websocket）{ManualClose = true; WebSocket.Close（）; websocket = null; log（“手动关闭”）; if（reconnectTimeOut！== null）{clearTimeOut（reconnectTimeOut）; reconnectTimeout = null; }}}};连接（）;返回{销毁};   };  ```` - 我在 +layout.svelte文件中使用上述库      src/routes/（news）/ +layout.svelte.svelte.svelte     接收”，id）; }   $效应（（）=＆gt; {const {destion} = createwebocket（onnewItem，websocket_url）; return（）=＆gt; gt; {return destroy destroy（）;};}）; ...```` 想法吗？  任何东西都像定时器一样泄漏了吗？ 当你们写​​Websocket时，它看起来像这样吗？ 改进/建议/建议？          &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt; 32222222222;提交由＆＃32; /u/u/u/prestimiouszombie531     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0zaxt/feedback_for_this_reconnecting_websocket_client_i/</guid>
+      <pubDate>Sat, 01 Mar 2025 13:20:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday]我重建了Fontofweb.com  - 一种工具，向您显示网站使用的字体，如何和何处使用。并允许您下载它们。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0yt5t/showoff_saturday_i_rebuilt_fontofwebcom_a_tool/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/sim04ful       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0yt5t/showoff_saturday_i_rebuilt_fontofwebcom_a_tool/</guid>
+      <pubDate>Sat, 01 Mar 2025 12:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>该Google工具可以帮助您从搜索中隐藏您的个人信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0ypqp/this_google_tool_can_help_hide_your_personal_info/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/technicianTypical600     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0ypqp/1j0ypqp/this_google_google_can_help_hide_hide_your_your_your_personal_info/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0ypqp/this_google_tool_can_help_hide_your_personal_info/</guid>
+      <pubDate>Sat, 01 Mar 2025 12:47:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个简单快速的JavaScript操场，可以在您的浏览器中运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0yk5v/i_made_a_simple_and_fast_javascript_playground/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/thepurpleproject      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0yk5v/i_made_a_simple_and_fast_javascript_playground/</guid>
+      <pubDate>Sat, 01 Mar 2025 12:38:34 GMT</pubDate>
+    </item>
     <item>
       <title>我建造了一个Excel工作簿检查器</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0yb8j/i_built_an_excel_workbook_checker/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>我雇用了一个代理商来做我的餐厅网站 - 一些建议...</title>
       <link>https://www.reddit.com/r/webdev/comments/1j0xj0d/i_hired_an_agency_to_do_my_restaurant_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，  i，一家机构就建立我的餐厅网站就与我联系。经过漫长的会议并解释了他们的工作，我们有兴趣尝试他们的服务。  他们承诺在7天内交货（我真的不在乎，因为我想要一个好的网站而不是通用的网站，并明确向他们解释了这一点）。我试图在4天后从他们那里获得更新（在应许时间表的50％之后的第二天等待），但他们建议我等待完整的部署（第一个危险信号）。  7天后，他们带着最初的verison来找我。显然，我不喜欢我在设计和内容方面特别看到的东西（他们吹嘘自己是一家SEO公司）。 我试图解释我们的方法，以及我与他们共享的信息如何在网站的消息中传达出来（即使是美食的类型是错误的）。他们没有专注于主要项目，我们认为网站 +内容非常弱 /过时。&lt; / p&gt; 我与他们分享了一个我为帮助他们了解我们需要的东西以及我们希望他们重点关注的骨架。这是第二版。 链接到初始版本和最新版本： https：//we.tl/we.tl/we.tl/tl/we.tl/t-srzh6mmyf0d 为了扩展骨骼，我与他们分享并解释了我们需要深入的内容。您认为这是一种很好的方法吗？ 第三个问题：他们答应了我进入后台（事实证明它没有后台），只需直接访问后端 第四个问题：我们同意与我共享文件，但是到目前为止，到目前为止，我仍然没有收到  5th问题：我已经付出了任何东西：我已经付出了50％（我已经付出了50％的50％（ack）。您如何建议我前进？ 非常感谢您  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/who_the_fuk     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，  i，一家机构就建立我的餐厅网站就接触了我。经过漫长的会议并解释了他们的工作，我们有兴趣尝试他们的服务。  他们承诺在7天内交货（我真的不在乎，因为我想要一个好的网站而不是通用的网站，并明确向他们解释了这一点）。我试图在4天后从他们那里获得更新（在应许时间表的50％之后的第二天等待），但他们建议我等待完整的部署（第一个危险信号）。  7天后，他们带着最初的verison来找我。显然，我不喜欢我在设计和内容方面特别看到的东西（他们吹嘘自己是一家SEO公司）。 我试图解释我们的方法，以及我与他们共享的信息如何在网站的消息中传达出来（即使是美食的类型是错误的）。他们没有专注于主要项目，我们认为网站 +内容非常弱 /过时。&lt; / p&gt; 我与他们分享了一个我为帮助他们了解我们需要的东西以及我们希望他们重点关注的骨架。这是第二版。 链接到初始版本和最新版本： https：//we.tl/we.tl/we.tl/tl/we.tl/t-srzh6mmyf0d 为了扩展骨骼，我与他们分享并解释了我们需要深入的内容。您认为这是一种很好的方法吗？ 第三个问题：他们答应了我进入后台（事实证明它没有后台），只需直接访问后端 第四个问题：我们同意与我共享文件，但是到目前为止，到目前为止，我仍然没有收到  5th问题：我已经付出了任何东西：我已经付出了50％（我已经付出了50％的50％（ack）。您如何建议我前进？ 非常感谢您  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/who_the_fuk     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0xj0d/i_hired_an_agency_to_do_my_restaurant_website/</guid>
       <pubDate>Sat, 01 Mar 2025 11:32:47 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/billythemilli     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0xa24/i_built_a_tool_tool_that_helpood_helps_helps_you_with_with_with_getting_free_free/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j0xa24/i_built_a_tool_that_helps_you_with_getting_free/</guid>
       <pubDate>Sat, 01 Mar 2025 11:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们做了一件事情，以使杂乱的代码库 -  komment</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0x9b3/we_made_a_thing_to_make_sense_of_messy_codebases/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一家大型科技公司的建筑师中度过了多年 - 在不同的团队和代码库之间跳跃，与许多外部机构合作 - 并花了很多时间试图找出其他人的代码。 挫败感机会是我和Komment的团队想要用 使用不同的LLM（取决于语言和上下文）来生成带有体系结构图，用法示例和外部依赖关系  的结构化Wiki  现在，这种组合似乎都很好。但是我很想听听您的想法 - 您认为谁会从类似的事情中受益？ 很乐意回答任何问题，并接受反馈（或怀疑主义）！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0x9b3/we_made_a_thing_to_to_to_to_make_sense_sense_of_messy_codebases/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0x9b3/we_made_a_thing_to_to_to_to_to_to_sense_sense_sense_of_messy_codebases/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0x9b3/we_made_a_thing_to_make_sense_of_messy_codebases/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源的一个工具，该工具不会将您的数据发送到粗略的服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0x6yh/i_made_an_open_source_all_in_one_tool_that_doesnt/</link>
-      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我注意到缺乏诸如Iloveimg或onlinetools.com之类的在线公用事业网站的坚实自托管替代方案。我想要一些可以将各种在线工具汇集在一起​​的东西，例如图像编辑，编码实用程序和文件管理 - 无广告或数据跟踪的一个地方。因此，我构建了omnitools   github： https://github.com/iib.com/iib0011/omni-tools 平台。 它是完全自我托管的，因此您可以完全控制数据。 没有广告，没有跟踪，只有有用的实用程序。  我将其构建为一个完全开放的项目项目，因为我想为社区做出一些有用的东西。它仍在Beta中，因此可能会有粗糙的边缘，但是我正在积极进行改进。我设定了每天向Omnitools添加一个新工具的挑战。 如果有人有兴趣，我很想获得反馈，建议，甚至贡献。另外，我很好奇 - 您还会发现其他什么工具？         &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/roughowll    href =“ https://www.reddit.com/r/webdev/comments/1j0x6yh/i_made_made_an_open_open_source_all_in_in_in_in_in_on_tool_tool_that_doesnt/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0x6yh/i_made_an_open_open_source_all_ind_in_in_in_in_tool_tool_tool_tool_tool_that_that_doesnt/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0x6yh/i_made_an_open_source_all_in_one_tool_that_doesnt/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个WebDav，您可以自宿主将文件发送给您的eReader（koreader）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0x4sd/i_created_a_webdav_you_can_self_host_to_send/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  链接到指令： https://bookodav.joshuarodrigues.dev 考虑到WebDav是一个标准。但是我无法在其他任何事情上对其进行测试。 考虑到亚马逊将阻止在Kindle上下载书籍。伊布文特（Ibwent）和越狱的矿山（Ans Ans Ans）现在在上面使用韩国人。   bookodav让我有自己的发送给Kindle的版本。 这使用Cloudflare工人和R2来存储您的数据。它本质上可以扩展到0。因此，除了极为慷慨的自由层外，它唯一要为您使用的东西付费。 每月10gb  https://developers.cloudflare.com/workers/platform/pricing/pricing/     我亲自使用。到目前为止，它在我的Kindle上运行的Android PC和Koreader WebDev之间的运作良好。 它还可以让您同步统计数据  github repo for toREAST： https://github.com/joshuajrodrigues/bookodav 提交由＆＃32; /u/u/stfuandkissmyturtle     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j0x4sd/i_created_a_webdav_you_can_self_helf_herst_host_to_send/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0x4sd/i_created_a_webdav_you_can_self_host_to_send/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只是想要这些图片的是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j0x4bq/what_is_oembed_i_just_wanted_the_pictures/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨，大家好href =“ https://preview.itd.it/1dgztffj82me1.png？ https://preview.redd.it/1dgztffj82me1.png?width=814&amp;format=png&amp;auto=webp&amp;s=4ce6730231329a6a2ebddf5647616f34d56c7d4d  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j0x4bq/what_is_is_oembed_i_i_i_just_wanted_the_pictures/”&gt; [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j0x4bq/what_is_oembed_i_just_wanted_the_pictures/</guid>
-      <pubDate>Sat, 01 Mar 2025 11:04:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
