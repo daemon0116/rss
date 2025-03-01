@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Mar 2025 18:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 19:14:23 GMT</lastBuildDate>
+    <item>
+      <title>结界循环（有问题的自我冲击式自我冲击）</title>
+      <link>https://www.reddit.com/r/programming/comments/1j16gxe/enchantment_loop_regressive_selfimprover_in/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/no_arachnid_5563       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j16gxe/enchantment_loop_regressive_selfimprover_in/</guid>
+      <pubDate>Sat, 01 Mar 2025 18:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>春季的方面的面向编程（AOP）</title>
+      <link>https://www.reddit.com/r/programming/comments/1j16ddq/programación_orientada_a_aspectos_aop_en_spring/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://emanuelpeg.blogspot.com/2025/03/programacion-erienta-spectos-aop-aop-en.html”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j16ddq/programación_orientada_a_aspectos_aop_en_spring/</guid>
+      <pubDate>Sat, 01 Mar 2025 18:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>.NET 10到达首次预览</title>
       <link>https://www.reddit.com/r/programming/comments/1j15uue/net_10_arrives_in_first_preview/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。 subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</guid>
       <pubDate>Sat, 01 Mar 2025 11:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>C中简单的向量实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0vbhu/simple_vector_implementation_in_c/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/lewboskifeo     link&gt;    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0vbhu/simple_vector_implementation_in_c/</guid>
-      <pubDate>Sat, 01 Mar 2025 08:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Copilot继续暴露私人GitHub存储库</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0ufcw/microsoft_copilot_continues_to_expose_private/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/mwo12     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0ufcw/microsoft_copilot_continues_to_expose_private/</guid>
-      <pubDate>Sat, 01 Mar 2025 07:52:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
