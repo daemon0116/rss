@@ -4,7 +4,14 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 21:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 22:16:15 GMT</lastBuildDate>
+    <item>
+      <title>我们可以使chatgpt删除自己的数据吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j1b3tr/can_we_make_chatgpt_delete_its_own_data/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  图片如果您想象您运行了删除当前，子和父级文件夹中所有文件的Python代码会发生什么。            &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j1b3tr/can_we_make_make_chatgpt_delete_telete_its_own_own_own_data/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j1b3tr/can_we_make_chatgpt_delete_its_own_data/</guid>
+      <pubDate>Sat, 01 Mar 2025 22:06:18 GMT</pubDate>
+    </item>
     <item>
       <title>AI集成的消费者操作系统。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j19dl5/ai_integrated_consumer_operating_systems/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/robert__sinclair     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0u4br/that_was_easy_full_grok_system_prompt/</guid>
       <pubDate>Sat, 01 Mar 2025 07:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过加强学习来增强医疗VLM推理，而无需参考标签</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j0txuc/enhancing_medical_vlm_reasoning_through/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文介绍了一种使用强化学习来提高医疗VLMS推理能力的方法。关键创新是一个奖励系统，它激励逐步的医疗分析，而不仅仅是正确的最终答案 - 类似于我们希望医学专业人员显示其诊断推理的方式。 关键技术：••在基本医疗vlm体系结构上实现RL的RL•使用链链链接（COT）促进良好的良好性•在良好的方面进行质量•精确•精确•精确•技术•精确•技术•精确•技术•精确•技术•技术•精确•技术•技术•精确的质量• specialized attention mechanisms • Evaluates across multiple medical imaging benchmarks Results show meaningful improvements: • 5-15% accuracy gains across various medical imaging tasks • More detailed and medically relevant explanations • Better alignment with clinical reasoning patterns • Consistent performance across different imaging types • Improved transparency in diagnostic process I think this approach could help bridge an important gap in medical AI adoption.通过使推理过程更加明确和医学声音，它解决了有关黑盒医疗AI系统的一些关键问题。提高准确性和可解释性的结合可以使这些系统在临床环境中更加实用。 我认为，计算要求和潜在过度拟合的局限性需要仔细考虑。跨专业的各种表现也不同，还表明，广泛的临床应用需要更多的工作。  tldr：加强学习 +经济链推理提高了医疗VLMS的诊断能力和解释质量，准确性获得了5-15％，并且准确性获得了5-15％。 href =“ https://aimodels.fyi/papers/arxiv/medvlm-r1-incentivizing-medical-reasoning-capibility-vision-vision”&gt;完整摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j0txuc/enhancing_medical_vlm_reasoning_through/</guid>
-      <pubDate>Sat, 01 Mar 2025 07:18:06 GMT</pubDate>
     </item>
     <item>
       <title>创建一个可以说谎的AI会成为一项成就吗？</title>

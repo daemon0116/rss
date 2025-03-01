@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 21:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 22:17:44 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个具有Gotth stack（Golang，Templ，Tailwindcss和HTMX）的状态身份验证系统（仍在进行中）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1an5p/i_built_a_stateful_authentication_system_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请考虑以下事实：它只是一个样板，它可能对从Golang开始的人有帮助。  不要讨厌我使用许多依赖性，例如npm，chi或air。我只是选择了一些最受欢迎的工具，但是我知道只使用标准库可以很容易地实现我所做的所有工具。  该项目基于我制作的以前的模板，因此对某些代码进行了评论，并且与此模板不起作用。即使，您也可以在原始代码中看到它。    https://github.com/lordaris/gotaris/gotth-auth       &lt;！提交由＆＃32; /u/u/lord4ris     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1an5p/i_built_a_stateful_authentication_system_with/</guid>
+      <pubDate>Sat, 01 Mar 2025 21:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建造了reddit包装 - 一种烤您的reddit个人资料的AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1abdp/i_built_reddit_wrapped_an_ai_that_roasts_your/</link>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/01l0mpw9crwnltltu_8mllsm6hesnozmzv4dqjg2fs.jpg” title =“我构建了reddit title =” i构建的reddit  - 一种烤制的AI，烤了您的reddit个人资料”/&gt;    /u/u/u/madredditscientist       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1abdp/i_built_reddit_wrapped_an_ai_that_roasts_your/</guid>
+      <pubDate>Sat, 01 Mar 2025 21:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>客户端可以在本地使用的CMS建议，该建议支持JSON，并且不需要任何登录/云/托管？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j18st4/suggestions_for_a_cms_a_client_can_use_locally/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ceopotamus      [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j14k6x/i_made_a_site_to_practice_the_banjo/</guid>
       <pubDate>Sat, 01 Mar 2025 17:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的网站，您可以在几秒钟内比较亚马逊，eBay和Aliexpress的价格。找到最好的交易！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j14fi6/i_made_a_free_site_where_you_can_compare_prices/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/chrisozy       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j14fi6/i_made_a_free_site_where_you_can_compare_prices/</guid>
-      <pubDate>Sat, 01 Mar 2025 17:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何部署我的网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j14d70/how_to_deploy_my_web_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经准备好了该应用程序，我正在通过docker托管它，但是用户的数量不断增加，我需要转移到适当的托管和东西， 我真的很新，只有几周的经验，需要开发应用程序。  请让我知道如何解决这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dhruv_qmar    href =“ https://www.reddit.com/r/webdev/comments/1j14d70/how_to_deploy_my_my_web_app/”&gt; [link]   ＆＃32;   [comment]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j14d70/how_to_deploy_my_web_app/</guid>
-      <pubDate>Sat, 01 Mar 2025 17:12:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
