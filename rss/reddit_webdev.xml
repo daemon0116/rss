@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 22:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 23:18:33 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个工具，可让您合并并从命令行分解PDF文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_tool_that_lets_you_merge_and_split_pdf/</link>
+      <description><![CDATA[    src =“ https://preview.redd.it/ggze563zmjne1.png？并将pdf文件从命令行“/&gt;   ＆＃32;提交由＆＃32; /u/u/u/neilskric      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_a_tool_tool_that_that_that_that_you_merge_merge_merge_merge_split_split_split_pdf/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_tool_that_lets_you_merge_and_split_pdf/</guid>
+      <pubDate>Sat, 08 Mar 2025 22:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能解释一下这样的字体如何直接在标记中呈现？ （DeepSeek）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6sxk8/can_anyone_explain_how_the_font_is_rendered/</link>
+      <description><![CDATA[   /u/u/gignd-kick7811        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6sxk8/can_anyone_explain_how_the_font_is_rendered/</guid>
+      <pubDate>Sat, 08 Mar 2025 22:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>这里有人尝试过4天工作周吗？研究</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6rl1w/anyone_here_tried_4_day_workweek_research/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>将我指向指示？我有一个网页表格的想法...</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6qchg/point_me_in_the_directions_i_have_an_idea_for_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想在我的沙盒（debian）服务器中添加一个新的JavaScript项目。我使用每日现实世界中的纸质清单。我每天打印此清单以进行工作。我想在我的私有Intranet网站（不是公共网站，但代码可以是公开的）上，将其用于单页应用程序（SPA）使用Django，并且任何JavaScript都是必要和足够的。我不在乎设计，只有UX。 我的用户体验目标：  该应用程序为 form 。 表单是任务和子任务和子任务/步骤/步骤都可以通过复选框执行。当检查所有复选框时，父任务将标记为完整。 如果未标记盒子，则父任务将恢复为未完成。只有在一天结束时（例如，午夜），该页面“到期”才会变得不可用。无论您达到的进展如何记录为最终。 表格全天都是自动保存的，并且从来没有提交过”。 （如果自动保存很棘手，我可以添加“保存”按钮。可以浏览前一天的表格，但不能进行编辑（更改）。 这是日志，而不是游戏，尽管我为生产力挑战自己！  这是第一阶段。第二阶段将包括时间戳。 In the end, you could call this an activity log with optional time-tracking. Technical constraints--  I want to add this app to my Django site and use Django user permissions. I&#39;ve been studying vanilla Javascript getting ready for this project, but I&#39;ve not made a decision what libraries to use or框架。  您如何帮助？  听说过这样的事情？  github 示例吗？ 如果您做这样的事情， 您会更改或添加技术细节（可能是因为我描述了一些错误或模糊的）？  JavaScript的javascript的元素您会研究哪些要素？ JavaScript。我会很高兴回答有关我的用户体验目标这个项目的问题。如果我认为评论误解了UX目标，那么我将努力提高清晰度。如果有更好的 r/sub ，那就让我知道。 我知道足够天真地感觉到我可以做到这一点。我相信，如果我实现了正确的UX，那么我很高兴能详细改进项目和范围。但是它必须像纸张形式一样自然（不是普通的Webform UX（填充，提交，显示，编辑，重复 -  Bleech）。220，221，无论需要什么。  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;    [commist]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想在我的沙盒（debian）服务器中添加一个新的JavaScript项目。我使用每日现实世界中的纸质清单。我每天打印此清单以进行工作。我想在我的私有Intranet网站（不是公共网站，但代码可以是公开的）上，将其用于单页应用程序（SPA）使用Django，并且任何JavaScript都是必要和足够的。我不在乎设计，只有UX。 我的用户体验目标：  该应用程序为 form 。 表单是任务和子任务和子任务/步骤/步骤都可以通过复选框执行。当检查所有复选框时，父任务将标记为完整。 如果未标记盒子，则父任务将恢复为未完成。只有在一天结束时（例如，午夜），该页面“到期”才会变得不可用。无论您达到的进展如何记录为最终。 表格全天都是自动保存的，并且从来没有提交过”。 （如果自动保存很棘手，我可以添加“保存”按钮。可以浏览前一天的表格，但不能进行编辑（更改）。 这是日志，而不是游戏，尽管我在为生产力挑战自己！  这是第一阶段。第二阶段将包括时间戳。 In the end, you could call this an activity log with optional time-tracking. Technical constraints--  I want to add this app to my Django site and use Django user permissions. I&#39;ve been studying vanilla Javascript getting ready for this project, but I&#39;ve not made a decision what libraries to use or框架。  您如何帮助？  听说过这样的事情？  github 示例吗？ 如果您做这样的事情， 您会更改或添加技术细节（可能是因为我描述了一些错误或模糊的）？  JavaScript的javaScript的元素您会研究哪些要素？ JavaScript。我会很高兴回答有关我的用户体验目标这个项目的问题。如果我认为评论误解了UX目标，那么我将努力提高清晰度。如果有更好的 r/sub ，那就让我知道。 我知道足够天真地感觉到我可以做到这一点。我相信，如果我实现了正确的UX，那么我很高兴能详细改进项目和范围。但是它必须像纸张形式一样自然（不是普通的Webform UX（填充，提交，显示，编辑，重复 -  Bleech）。220，221，无论需要什么。  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;    [comment]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6qchg/point_me_in_the_directions_i_have_an_idea_for_a/</guid>
       <pubDate>Sat, 08 Mar 2025 20:37:05 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/redict     [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6mvpt/i_made_a_daily_word_game/</guid>
       <pubDate>Sat, 08 Mar 2025 18:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您与无花果设计师合作的痛苦点是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6mjav/what_are_your_painpoints_of_working_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您与无花果的设计师合作或只是在自己的流程中使用它，那么与您遇到的问题？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dumpsterfireceo     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6mjav/what_are_your_painpoints_of_working_with/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>3个月的Typerfast全职：一种自适应打字培训师，可以生成练习以定位您的弱点。多亏了您的建议，好多了！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6m96k/3_months_fulltime_on_typerfast_an_adaptive_typing/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/maxverse      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6m96k/3_months_months_fulltime_on_typertime_typerfast_an_adaptive_typestive/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6m96k/3_months_fulltime_on_typerfast_an_adaptive_typing/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:34:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
