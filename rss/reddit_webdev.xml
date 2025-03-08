@@ -4,11 +4,39 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 18:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 19:15:23 GMT</lastBuildDate>
+    <item>
+      <title>体育 +数据：由NBA Analytics Executive设计的免费SQL课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6ohw7/sports_data_free_sql_course_designed_by_nba/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webDev 👋 我想分享那些可能有助于分手参加体育分析的人。我的朋友（NBA团队的数据分析高管）和我刚刚启动了量身定制的平台 - 一个专门设计的学习平台。将技术技能与体育行业的背景结合在一起（我的联合创始人说这对于面试至关重要）  我们的目标很简单：确保任何完成我们课程的人都是真正的“准备工作”。对于体育分析角色。 我们目前正在Beta中，并正在寻找社区的反馈。 课程是完全免费的，，我很乐意亲自帮助入职。 如果您有兴趣尝试一下：  直接在 ，因为有些人问 -  是的，这是在我们的Beta阶段中完全免费的。我们要确保我们为社区建立了真正有价值的东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/seaf-worldliness-394      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6ohw7/sports_data_free_sql_course_designed_by_nba/</guid>
+      <pubDate>Sat, 08 Mar 2025 19:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI气泡什么时候破裂？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6o9gm/when_will_the_ai_bubble_burst/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我不能成为唯一一个厌倦了在LLM周围包装的应用程序的人。   &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/u/blahyourhamster       [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6o9gm/when_will_the_ai_bubble_burst/</guid>
+      <pubDate>Sat, 08 Mar 2025 19:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个交互式开源数据结构可视化器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6nyyl/i_built_an_interactive_open_source_data_structure/</link>
+      <description><![CDATA[       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6nyyl/i_built_an_interactive_open_source_data_sonstructure/”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6nyyl/i_built_an_interactive_open_source_data_structure/</guid>
+      <pubDate>Sat, 08 Mar 2025 18:49:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管多个PostgreSQL数据库并进行学习项目的最具成本效益的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6ne19/whats_the_most_costeffective_way_to_host_multiple/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算构建几个带有后端的应用程序，并反应本​​机前端以提高我的技能。每个项目都需要自己的PostgreSQL数据库和后端服务器。由于这纯粹是为了学习，我正在寻找最预算友好的托管解决方案。 托管多个GO服务器的最负担得起的方法是什么？  Docker容器是否有意义？每个项目一个容器？&lt;​​/li&gt; 对于这种类型的学习设置，无服务器是否有好处？  有人在多个小型项目中做过类似的事情吗？哪种托管设置为您提供了最佳的成本，便利和学习机会？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6ne19/whats_the_mast_mast_costectective_way_way_to_to_host_multiple/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6ne19/whats_the_most_costeffective_way_to_host_multiple/</guid>
+      <pubDate>Sat, 08 Mar 2025 18:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>在丢失的表单上挣扎？我正在建立更好的解决方案 - 需要您的想法！</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6n1o9/struggling_with_lost_form_submissions_im_building/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究提交处理工具（例如web3form，form -ubmit，formspree和盆地），我注意到一个大问题，没有人在谈论：      通常会在垃圾邮件中出现，或者是spaim in spam，never in ne stort this ne strort！企业，自由职业者和初创企业依靠表格收集潜在客户，查询或订单。 ，我正在构建解决方案！ 我正在研究新的 form form form saaS saaS ：表格  - 不需要后端。 保证电子邮件传递性  - 与其他服务不同，我们使用值得信赖的电子邮件提供商（Postmark，postmark，repent or Resend or sendgrid） 确保电子邮件永远不会丢失或发送给垃圾邮件或发送给垃圾邮件。后续行动  - 您可以自定义提交表格后发生的事情（重定向，自动重复，甚至触发工作流程）。概念集成&lt; /strong&gt;  - 响应会自动与您的工具同步，因此您无需登录即可检查提交。✅ dashboard＆amp;分析  - 请参阅提交趋势，跟踪线索并提高响应率。 ，但我需要您的反馈！ 1️。 您是否曾经遇到过表格提交的问题？ 这样的工具会为您解决这个问题吗？&lt; /strong&gt; 3️。 哪些功能会使您从当前解决方案中切换？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/witty-onion-1577     [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究提交处理工具（例如web3form，form -ubmit，formspree和盆地），我注意到一个大问题，没有人在谈论：      通常会在垃圾邮件中出现，或者是spaim in spam，never in ne stort this ne strort！企业，自由职业者和初创企业依靠表格收集潜在客户，查询或订单。 ，我正在构建解决方案！ 我正在研究新的 form form form saaS saaS ：表格  - 不需要后端。 保证电子邮件传递性  - 与其他服务不同，我们使用值得信赖的电子邮件提供商（Postmark，postmark，repent or Resend or sendgrid） 确保电子邮件永远不会丢失或发送给垃圾邮件或发送给垃圾邮件。后续行动  - 您可以自定义提交表格后发生的事情（重定向，自动重复，甚至触发工作流程）。概念集成&lt; /strong&gt;  - 响应会自动与工具同步，因此您无需登录即可检查提交。✅ dashboard＆amp;分析  - 请参阅提交趋势，跟踪线索并提高响应率。 ，但我需要您的反馈！ 1️。 您是否曾经遇到过表格提交的问题？ 这样的工具会为您解决这个问题吗？&lt; /strong&gt; 3️。 哪些功能会使您从当前解决方案中切换？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/witty-onion-1577     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6n1o9/struggling_with_lost_form_submissions_im_building/</guid>
       <pubDate>Sat, 08 Mar 2025 18:09:21 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>我制作了灰度网络浏览器扩展名 - 单色</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6kynx/i_made_a_greyscale_web_browser_extension/</link>
-      <description><![CDATA[    So what I made is nothing fancy to be very honest, the basic reason to make this was that I wanted to get into extension development and apart from that I realised that I use less phone on greyscale mode over my smartphone and since I spend most of my time on websites over my laptop I wanted same functionality, the existing solutions didn&#39;t had a great ui/ux and site exclusion feature for the work sites so I added those two things and voila there我的第一个扩展是用WXT制成的。由于它是由WXT制成的，它适用于Chrome和Firefox：），您可以在 https://monochromate.lirirena.lirena.in/       https://github.com/lirena00/lirena00/monochromate    如果您在项目中发现了价值，如果您在项目中找到价值href =“ https://preview.itd.it/3fai8zt5uhne1.png？ https://preview.redd.it/3fai8zt5uhne1.png?width=1961&amp; amp; amp; format = png＆amp;Auto = webppul = webp&amp;am = 4B2B209563E8793E71E71E71E52FAD1BA1BA1BA46AB520B520B5202202220285C5      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lirena_kiyuga     [link]        [注释]]]></description>
+      <description><![CDATA[    So what I made is nothing fancy to be very honest, the basic reason to make this was that I wanted to get into extension development and apart from that I realised that I use less phone on greyscale mode over my smartphone and since I spend most of my time on websites over my laptop I wanted same functionality, the existing solutions didn&#39;t had a great ui/ux and site exclusion feature for the work sites so I added those two things and voila there我的第一个扩展是用WXT制成的。由于它是由WXT制成的，它适用于Chrome和Firefox：）您可以在 https://monochromate.lirirena.in.in/          href=&quot;https://github.com/lirena00/monochromate&quot;&gt;https://github.com/lirena00/monochromate if you found value in the project your star would be helpful :) here are some previews of the extension      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lirena_kiyuga     [link]        [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6kynx/i_made_a_greyscale_web_browser_extension/</guid>
       <pubDate>Sat, 08 Mar 2025 16:36:08 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[   /u/u/mreichhoff       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6je0k/graphs_trees_and_math_expressions_with_chinese/</guid>
       <pubDate>Sat, 08 Mar 2025 15:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个脚本来在Reddit上发现AI机器人。尝试一下！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_spot_ai_bots_on_reddit_try/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到沮丧，看到雷迪特（Reddit）使用AI生成的注释越来越淹没了bot，只是搅拌了锅。我想认为，我们大多数人只是普通的中心倾向潜伏者，他们厌倦了每个职位的政治性。因此，在O3Mini的一些帮助下，我创建了一个脚本，以帮助检测和突出显示机器人和AI生成的帖子和评论。 它使用了诸如创建最近的帐户，评论风格，语义相干性以及诸如重复性短语，不自然的语法以及过于正式的写作样式之类的诸如诸如近来的帐户，评论风格，语义连贯性以及是否是一个真实的帖子或评论。它并不完美，永远不会因为您已经知道的所有原因。 它通过使用各种启发式方法实时分析每个评论并实时发帖来起作用。每个启发式曲线都对总机器人/AI分数进行了部分贡献，当该分数超过定义的阈值时，脚本标志并在视觉上突出显示页面上的可疑内容。每个页面的右上方还有一个计数器，您可以单击。根据您认为检测机器人或AI生成的帖子最重要的重要性，更容易更改权重/阈值。我花了一些时间试图将其缩小到一个最佳位置，但是再次，它并不完美，并且会有很多假阳性。 我们人类非常擅长检测模式，因此我更喜欢比虚假负面的虚假阳性更多。现在看到脚本认为该帐户是一个机器人或内容生成的脚本的帖子很有趣。看到整个评论的链条只是机器人相互来回交谈也很有趣。如果没有别的，这使我更加了解机器人用户名的相似性和AI样式生成的内容。 REDME文件更详细介绍了脚本的工作方式以及如何在任何浏览器上使用TamperMonkey安装它。  tldr：在reddit上突出显示AI bot。如果您有兴趣尝试一下，则是链接和信息。请注意，我仅在桌面浏览器上对此进行了测试。让我知道您在评论中有多讨厌： 轻松安装：  github来源： https://github.com/roottheplanet/reddit_ai_ai_ai_ai_botbuster 提交由＆＃32; /u/u/ubernoober     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_script_to_script_to_script_bots_bots_bots_bots_on_reddit_redit_try/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_spot_ai_bots_on_reddit_try/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个应用程序，可以帮助用户将沉闷的屏幕截图变成令人惊叹的视觉效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6ih08/i_made_this_app_that_helps_users_turn_their_dull/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/mediocre_man_online      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6ih08/i_made_this_app_that_helps_users_turn_their_dull/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>值得恢复旧项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6ha0y/is_it_worth_reviving_old_projects/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  几年前，我使用普通的JavaScript和CSS构建了一个Microsoft Paint Clone。这是一个有趣的小项目，尤其是为了怀旧。但是回顾过去，代码是一个真正的混乱，它缺乏现代功能。&lt; /p&gt; 现在，我正在考虑使用更好的技术（React，TypeScript ...）恢复它并使其有用。 l。 l。也许甚至将其转变为paint.net的基于网络的替代品。 您认为这是值得的吗？  ps：这是项目 [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6ha0y/is_it_worth_reviving_old_projects/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为使用市场的转售商构建了一个Web应用程序。它计算出最好的交易，具有交易仪表板等等。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6h9y1/i_built_a_web_app_for_resellers_that_use/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！ 我已经花了很长时间在我的方面项目-Resylo工作。完整链接 -   https://www.resylo.com/     这是一个构建的应用程序，旨在简化购买和销售任何市场上的二手列表，包括Ebay，Gumtree，Gumtree，Facebook Marketplace，Onloting of Monitor of Monitor of the ton of the of ton：         - 搜索许多类型的列表（查询），一次   - 基于风险评级，距离等的过滤列表。   - 给您建议您推荐的买价，预计前的利润等等。 You can put in your estimated sale price for an item and the system calculates the distance, time, and cost it takes to get there, and gives you recommended prices. - Ability to fine-tune search criteria, for example, search for a specific storage size of phone model in a given price range. - Track your transactions over time and add &#39;bookkeeping&#39; on purchases and sales;将其完全用漂亮的仪表板拼凑成   - 而且更多 它目前处于预注册阶段，并计划在接下来的几周内启动它（2-3）。很想获得一些反馈🔥  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6h9y1/i_built_a_web_app_for_for_resellers_that_use/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6h9y1/i_built_a_web_app_for_resellers_that_use/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:35:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
