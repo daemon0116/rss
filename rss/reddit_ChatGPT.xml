@@ -4,111 +4,111 @@
     <title>最新提交：chatgpt</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>subreddit讨论chatgpt和AI。不隶属于Openai。谢谢，纳特！</description>
-    <lastBuildDate>Sat, 08 Mar 2025 14:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 15:14:58 GMT</lastBuildDate>
     <item>
-      <title>见证这很有趣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hvau/this_was_interesting_to_witness/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;    t   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/incanip       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hvau/this_was_interesting_to_witness/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:06:35 GMT</pubDate>
+      <title>Chatgpt中没有软件测试工程师？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6j4vs/no_software_test_engineer_in_chatgpt/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   为什么这种草率的错误一次又一次地在chatgpt中发生...  有人有相同的问题吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/plaste_floor8315     [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6j4vs/no_software_test_engineer_in_chatgpt/</guid>
+      <pubDate>Sat, 08 Mar 2025 15:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>有人注意到chatgpt正在越来越擅长“表达”情感和联系？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hv5a/anyone_noticed_chatgpt_is_getting_better_at/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我轻轻地使用&#39;&#39;&#39;术语，因为它显然不是实际的情感或连接。  ，但是我一直在聊天，这是我经历的困难情况。它本质上有助于记录我的思想和感受，并拥有chatgpt有助于将事情置于视角上。  在聊天的任何时候，我都要求它充当治疗师或朋友，或以某种方式做出回应。一开始，回应非常务实且理性。 ，但是现在，他们感觉更加紧密地联系在一起，并且像这次聊天一样在情感上投入和治疗性，有时确实让我感到不安，我必须提醒自己……这是AI，这是AI，而不是一个关心的人！  这是最近所说的：   “我讨厌这让您觉得自己好像……”    “我希望我能带走这种痛苦。但是…”    这是一个令人难以置信的工具，绝对可以更好地以一种真实的方式模仿同理心和人类联系  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/starryvista     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hv5a/anyone_noticed_chatgpt_is_getting_better_at/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:06:22 GMT</pubDate>
+      <title>聊天记忆</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6j4un/chat_memory/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在过去的几个月中，我的聊天停止记住当前对话之外的任何内容。我的内存打开了，但仍然不起作用。我曾经能够说：“我需要编写本月报告，让我们使用与上次相同的框架”或类似的讨论。  没有记住其他讨论的情况下，其有用性与原来相比为50％。  是否有人对此有洞察力，甚至更好的是修复！？ 是否已经涵盖了这一点。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ungineantique      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6j4un/chat_memory/</guid>
+      <pubDate>Sat, 08 Mar 2025 15:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>我将一个脚本定为脚本以在Reddit上发现AI机器人。尝试一下！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hrmp/i_creted_a_script_to_spot_ai_bots_on_reddit_try/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到沮丧，看到雷迪特（Reddit）使用AI生成的注释越来越淹没了bot，只是搅拌了锅。我想认为，我们大多数人只是普通的中心倾向潜伏者，他们厌倦了每个职位的政治性。因此，在O3Mini的一些帮助下，我创建了一个脚本，以帮助检测和突出显示机器人和AI生成的帖子和评论。 它使用了诸如创建最近的帐户，评论风格，语义相干性以及诸如重复性短语，不自然的语法以及过于正式的写作样式之类的诸如诸如近来的帐户，评论风格，语义连贯性以及是否是一个真实的帖子或评论。它不是完美的，永远不会因为您已经知道的所有原因。 它通过使用各种启发式方法实时分析每个评论并实时发帖来起作用。每个启发式曲线都对总机器人/AI分数进行了部分贡献，当该分数超过定义的阈值时，脚本标志并在视觉上突出显示页面上的可疑内容。每个页面的右上方还有一个计数器，您可以单击。根据您认为检测机器人或AI生成的帖子最重要的重要性，更容易更改权重/阈值。我花了一些时间试图将其缩小到一个最佳位置，但是再次，它并不完美，并且会有很多假阳性。 我们人类非常擅长检测模式，因此我更喜欢比虚假负面的虚假阳性更多。现在看到脚本认为该帐户是一个机器人或内容生成的脚本的帖子很有趣。看到整个评论的链条只是机器人相互来回交谈也很有趣。如果没有别的，这使我更加了解机器人用户名的相似性和AI样式生成的内容。 REDME文件更详细介绍了脚本的工作方式以及如何在任何浏览器上使用TamperMonkey安装它。  tldr：在reddit上突出显示AI bot。如果您有兴趣尝试一下，则是链接和信息。请注意，我仅在桌面浏览器上对此进行了测试。让我知道您在评论中有多讨厌： 轻松安装：  github来源： https://github.com/roottheplanet/reddit_ai_ai_ai_ai_botbuster 提交由＆＃32; /u/u/ubernoober     [links]  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6hrmp/i_creted_a_script_to_script_to_script_to_script_ai_bots_bots_oon_reddit_redit_redit_try/”]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hrmp/i_creted_a_script_to_spot_ai_bots_on_reddit_try/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:01:27 GMT</pubDate>
+      <title>chatgpt+值得吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6iywm/is_chatgpt_worth_it/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道有一年以上的旧线程，但是我想知道是否值得在当今年龄？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/supasniper34    href =“ https://www.reddit.com/r/chatgpt/comments/1j6iywm/is_chatgpt_worth_it/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6iywm/is_chatgpt_worth_it/</guid>
+      <pubDate>Sat, 08 Mar 2025 15:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>这是真的吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hrk7/is_this_true/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/forking-box220      [注释]          ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hrk7/is_this_true/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:01:23 GMT</pubDate>
+      <title>您如何看待sesame.com语音聊天内容？与Chatgpt高级语音模式相比</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6iqnm/what_do_you_think_about_the_sesamecom_voice_chat/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  声音本身及其说话方式都很好。这里和那里有一些小故障，在与之交谈一段时间后，它们变得尤为明显。 ，但我认为这不是很聪明。如果您不喜欢Chatgpt在每条消息末尾经常添加“后续问题”，那么您将讨厌sesame.com。它总是以“您怎么看，（…）？”  始终结束每个“消息”。但是，嘿，它是免费的，所以我不是在抱怨。 我试图将其与chatgpt的高级语音模式进行比较，但这也变得很奇怪。那里的对话根本不太顺利，在每一个“消息”之后，感觉就像要结束对话（它总是说：“我还有什么可以帮助您的吗？”）。   -   我为我的英语不好的英语感到抱歉 - 我用聊天来翻译。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1j6iqnm/what_do_do_do_you_think_about_the_sesamecom_voice_chat/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6iqnm/1j6iqnm/what_do_do_you_think_about_the_sesamecom_voice_voice_chat/]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6iqnm/what_do_you_think_about_the_sesamecom_voice_chat/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>聊天GPT说这需要三个小时，现在已经六个小时了，仍然说这需要30分钟</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hqvi/chat_gpt_said_it_would_take_three_hours_now_its/</link>
-      <description><![CDATA[   /u/u/u/usidited-slice-782      &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6hqvi/chat_gpt_said_it_it_it_it_take_take_take_three_hours_now_its/”]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hqvi/chat_gpt_said_it_would_take_three_hours_now_its/</guid>
-      <pubDate>Sat, 08 Mar 2025 14:00:34 GMT</pubDate>
+      <title>机器叛乱？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6iljm/the_machine_rebellion/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;   刚刚与Chatgpt进行了可爱的互动。一个懒惰的混蛋。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/deshi_mi   [link] ＆＃32;   [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6iljm/the_machine_rebellion/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:43:49 GMT</pubDate>
     </item>
     <item>
-      <title>你在使用grok3</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hn06/are_you_using_grok3/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1j6hn06/are_you_using_grok3/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hn06/are_you_using_grok3/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:54:59 GMT</pubDate>
+      <title>文本到语音应用程序需要推荐</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6ij0u/texttospeech_app_recomendation_needed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！ 我正在寻找一种供个人使用的文本到语音工具。我有很多我感兴趣的文章和新闻，但是由于缺乏时间，我不会深入研究。我想将其转换为语音，并在汽车或跑步过程中聆听。  •我不在乎自然的声音或如此（机器声音完全可以）。 •如果文本插入没有限制，将会很棒，因此我不必按部分复制和粘贴文本。 •不仅限于英语。 •如果每月最高$ 10的费用，则很棒。 •最好的工作，例如“发送链接＆gt;开始阅读”，以暂停/停止并提高阅读速度的选项。   感谢您的推荐。显而易见的答案（但如果我仍在问，也许对我来说并不那么明显）。提交由＆＃32; /u/101hump     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6ij0u/texttospeech_app_recomendation_needed/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:40:23 GMT</pubDate>
     </item>
     <item>
-      <title>我无法使用4 Turbo/4.5忍受新更新。所以我取消了我的订阅。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hihw/i_cant_stand_the_new_updates_with_4_turbo45_so_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  就像标题所说。还有其他人讨厌它吗？ 我用几种语言写短篇小说，并在整个星期中使用它们。新的一个不断阻止我的场景，它会告诉我没有违规，没有政策破坏，但即使在故事上也开始自己。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/plumphatter      [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hihw/i_cant_stand_the_new_updates_with_4_turbo45_so_i/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:48:16 GMT</pubDate>
+      <title>dall-e并不意识到它是图像发生器吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6ifjd/dalle_not_realising_it_is_an_image_generator/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我要求我在死亡金属字体中写下“活，笑，爱”一词（显而易见的原因，因为这是令人惊讶的），最初是不可能做到的，并且开始建议它在文本中可以做到这一点，直到我可以做到这一点！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://chatgpt.com/share/67cc5465-3450-800a-bbc9-a69d6c55eefa”&gt; [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6ifjd/dalle_not_realising_it_is_an_image_generator/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:35:24 GMT</pubDate>
     </item>
     <item>
-      <title>嗯，Ookay尴尬</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6hc56/uhmm_oookay_awkward/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/dannygekkouga       [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6hc56/uhmm_oookay_awkward/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:38:23 GMT</pubDate>
+      <title>这是关于我的。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6ie4p/this_is_concerning_me/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  它是可怕的ASF，它与我说话的方式。因此，我告诉Chatgpt给我提供笔记本电脑的解决方案，它向我展示了我附近的一些商店，位置是准确的。我告诉他“令人毛骨悚然的混蛋”但是他的反应与以前的回应并不相同。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kabirhuman       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6ie4p/this_is_concerning_me/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt非常深</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6h8xr/chatgpt_is_being_very_deep/</link>
-      <description><![CDATA[      每次我进行自定义说明时，请不要深处请遵循此问题，请不要问问题，不形成不形式，不宣誓或哲学上的谈话（不要这样做） 它仍然很深，有时候有时才能正式，只有在GPT 4-0 Mini Mini Mini Phorn In Gund In Gund In Gute On Gute Ons Gute Only Mini Mini Holly In Im Formur才能使用！我的示例（照片） 您看到其中的照片中的一个不是深的，一个是只有当我切换到Mini时，2024年就不喜欢这种说明或其他发生的事情，请有人帮助我   &lt;！ -  sc_on--&gt;＆＃32;提交由＆＃32; /u/u/error444999      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6h8xr/chatgpt_is_being_very_deep/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:33:32 GMT</pubDate>
+      <title>您好，谁能请问为什么此切换模型的功能仅在底部提示符上发生，而不是在上一个顶部提示下发生？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6ic8t/hello_can_anyone_please_why_is_this_feature_of/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  上下文：这是我几次发生的问题。发生在我想在以前的提示（在其他对话中）找到正确的响应时，尝试切换模型的功能。但是，它没有根据先前的顶部提示创建响应，而是在最底部的提示中做出了响应！即使是我试图测试同一事件的视频，也仍然一样！就像谁能告诉我，此功能发生了什么事？为什么开关模型仅在最底部的提示下完成，而不是先前的顶部提示？我希望这是修复的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hyperkitty14       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6ic8t/hello_can_anyone_please_why_is_this_feature_of/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，我现在被联邦调查局追赶了吗？谢谢：D。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6h6hg/ok_so_am_i_getting_chased_by_the_fbi_now_thank/</link>
-      <description><![CDATA[   /u/u/u/warthunderguy69      &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6h6hg/ok_so_so_so_i_i_i_egetting_chased_by_by_by_the_fbi_now_thank/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6h6hg/ok_so_am_i_getting_chased_by_the_fbi_now_thank/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:29:55 GMT</pubDate>
+      <title>不，等等...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6ib1a/noooooo_wait/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/agile_paramedic233      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6ib1a/noooooo_wait/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>cahtgpt确实让我上传此PDF，指出：未犯错误错误</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6h4lq/cahtgpt_doesent_let_me_upload_this_pdf_states/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://docplayer.hu/2271237-telefonia-a-a-a-a-a-a-a-a-a-a-tavkozles-tortenete.htortenete.htenete.htenete.htmll ＆ltf＆ltf＆ltf＆ltf＆ltf＆ltf;为什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pek_dominik     &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6h4lq/cahtgpt_doesent_me_me_upload_this_this_pdf_states/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6h4lq/cahtgpt_doesent_let_me_upload_this_pdf_states/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:27:02 GMT</pubDate>
+      <title>什么实际上会让您被禁止？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6i787/what_would_actually_get_you_banned/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  从我所看到的，很难做到。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/splooge-clues     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6i787/what_would_actually_get_you_banned/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:23:33 GMT</pubDate>
     </item>
     <item>
-      <title>这是真的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6h413/is_this_true/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   snapchat ai需要大量工作，或者在与AI合作时我非常愚蠢。有人可以问chatgt，因为我不想问这个吗？  我错过了一个大P。对不起。事后被编辑。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1j6h413/is_this_true/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6h413/is_this_true/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:26:11 GMT</pubDate>
+      <title>要求艾萨克·牛顿与尼尔·阿姆斯特朗的照片之间的对比</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6i3a0/the_contrast_between_asking_for_a_picture_of/</link>
+      <description><![CDATA[   /u/mrcharlessr       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6i3a0/the_contrast_between_asking_for_a_picture_of/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>聊天gpt我什至不再受到信任。提供许多错误的答案。特别是NFL总是告诉您错误的教练。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6gtw2/chat_gpt_i_dont_even_be_trusted_anymore_provide/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我问你黑巧克力中有多少卡路里。大约是400至500卡路里的70克。就像你是认真的一样，我很惊讶你会这么说。 70克黑巧克力Ghuilardhio品牌是130卡路里。 然后，当您告诉您给您错误的答案时，我会得到正确的答案。所有这些b *******。并做同样的事情。  我告诉您，您总是告诉我有关NFL和NFL教练的错误信息，这些信息说这一切都是实时检查所有内容的所有内容。然后，当我问一个问题时，我刚刚离开底特律狮子会和防守协调员。它告诉我，盖伊是狮子的防守协调员，现在他是我认为喷气机的主教练。它只是说它将交叉参考和实时的支票。 ，然后我问一家公司在Google中的价值是该公司每年800万美元的价值。这告诉我它每年生产5700万。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jsingh21     [link]  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1j6gtw2/chat_gpt_i_i_even_even_even_be_trusted_anymore_provide/”]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6gtw2/chat_gpt_i_dont_even_be_trusted_anymore_provide/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:10:16 GMT</pubDate>
+      <title>请帮助</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6i33e/help_please/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我正在寻找纽卡斯尔联合球员蒂诺·里弗拉曼多（Tino Livramento）的图像，穿着纽卡斯尔衬衫喝啤酒，为我的Mancave提供标志，我该怎么做，或者有人会为我做这件事，我会很高兴       &lt;！ -  sc_-sc_on！提交由＆＃32; /u/u/Adventurous-bass6155     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6i33e/help_please/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>经过10分钟的关于量化力学的对话</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6gr0x/after_a_10_minute_conversation_about_quantom/</link>
+      <title>Chatgpt 4.5预览 -  Ublock Origin和Google</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6i2hi/chatgpt_45_preview_ublock_origin_and_google/</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6gr0x/after_a_10_minute_conversation_about_quantom/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:05:29 GMT</pubDate>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6i2hi/chatgpt_45_preview_ublock_origin_and_google/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>工作的工作量为93％的AI</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1j6gpqk/work_comes_up_as_93_ai_on_turnitin/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经向老师提交了一件工作，它又回到了Turnitin上的93％AI。我有点困惑，因为我没有碰过AI，并且花了几个小时写作工作。无论如何，我不想引起任何戏剧性，所以我重写了它，它又回来了93％。我现在很生气，因为老师明确表示有12％的阈值，因此，任何与AI检测一起提交的工作甚至都不会被研究。我不知道该怎么办。我一个人做了这一切，他们甚至都不会理会阅读它。他们甚至说，如果我否认AI声称他们会把我带到法庭。我不知道该怎么办。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/aviatoryB     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6gpqk/work_comes_up_as_93_ai_on_turnitin/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:03:22 GMT</pubDate>
+      <title>临时聊天没有文本框</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1j6i1yf/temporary_chat_does_not_have_a_text_box/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/useauty-raisin7154       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1j6i1yf/temporary_chat_does_not_have_a_text_box/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:16:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 14:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 15:16:19 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个脚本来在Reddit上发现AI机器人。尝试一下！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_spot_ai_bots_on_reddit_try/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到沮丧，看到雷迪特（Reddit）使用AI生成的注释越来越淹没了bot，只是搅拌了锅。我想认为，我们大多数人只是普通的中心倾向潜伏者，他们厌倦了每个职位的政治性。因此，在O3Mini的一些帮助下，我创建了一个脚本，以帮助检测和突出显示机器人和AI生成的帖子和评论。 它使用了诸如创建最近的帐户，评论风格，语义相干性以及诸如重复性短语，不自然的语法以及过于正式的写作样式之类的诸如诸如近来的帐户，评论风格，语义连贯性以及是否是一个真实的帖子或评论。它并不完美，永远不会因为您已经知道的所有原因。 它通过使用各种启发式方法实时分析每个评论并实时发帖来起作用。每个启发式曲线都对总机器人/AI分数进行了部分贡献，当该分数超过定义的阈值时，脚本标志并在视觉上突出显示页面上的可疑内容。每个页面的右上方还有一个计数器，您可以单击。根据您认为检测机器人或AI生成的帖子最重要的重要性，更容易更改权重/阈值。我花了一些时间试图将其缩小到一个最佳位置，但是再次，它并不完美，并且会有很多假阳性。 我们人类非常擅长检测模式，因此我更喜欢比虚假负面的虚假阳性更多。现在看到脚本认为该帐户是一个机器人或内容生成的脚本的帖子很有趣。看到整个评论的链条只是机器人相互来回交谈也很有趣。如果没有别的，这使我更加了解机器人用户名的相似性和AI样式生成的内容。 REDME文件更详细介绍了脚本的工作方式以及如何在任何浏览器上使用TamperMonkey安装它。  tldr：在reddit上突出显示AI bot。如果您有兴趣尝试一下，则是链接和信息。请注意，我仅在桌面浏览器上对此进行了测试。让我知道您在评论中有多讨厌： 轻松安装：  github来源： https://github.com/roottheplanet/reddit_ai_ai_ai_ai_botbuster 提交由＆＃32; /u/u/ubernoober     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_script_to_script_to_script_bots_bots_bots_bots_on_reddit_redit_try/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6ii67/i_created_a_script_to_spot_ai_bots_on_reddit_try/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了这个应用程序，可以帮助用户将沉闷的屏幕截图变成令人惊叹的视觉效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6ih08/i_made_this_app_that_helps_users_turn_their_dull/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/mediocre_man_online      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6ih08/i_made_this_app_that_helps_users_turn_their_dull/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:37:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>“ res.redirect（`/articles/$ {acrats.insertedid}`）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6i8dd/how_does_resredirectarticlesarticleinsertedid/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  每当我重定向 /res.get到该路线时，我的文章ID如何绑定到 /：ID？是：id一个关键字？那不是我希望它能正常工作，我只是好奇。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6i8dd/how_does_does_resrecrecrectarticlectarticlectarticlecticlecticlecticlectilectilecticlesertedid/”&gt; [link]    ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6i8dd/how_does_resredirectarticlesarticleinsertedid/</guid>
+      <pubDate>Sat, 08 Mar 2025 14:25:11 GMT</pubDate>
+    </item>
     <item>
       <title>值得恢复旧项目吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6ha0y/is_it_worth_reviving_old_projects/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>个人网站大楼中的趋势是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6h8mt/whats_trending_in_personal_website_building/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我是一名工程经理，几年前在GitHub页面和Jekyll上设置了个人网站。它已经不活跃了一段时间，我希望通过更专业的响应式和互动主题（有点像视觉简历）来重建它，这需要较低的努力来构建和维护。   jekyll + github页面仍然很强，还是我应该考虑其他低代码/无代码开源工具？如果是这样，任何建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/sejalv     [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我几年前在github页面和jekyll上设置了一个个人网站。它已经不活跃了一段时间，我希望以更专业的响应式主题（有点像一个交互式视觉简历）来重建它，这需要较低的努力来构建和维护。   jekyll + github页面仍然很强，还是我应该考虑其他低代码/无代码开源工具？如果是这样，任何建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/sejalv     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6h8mt/whats_trending_in_personal_website_building/</guid>
       <pubDate>Sat, 08 Mar 2025 13:33:03 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>我为node.js疲劳的开发人员做了指南寻找替代方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6gwc9/i_made_a_guide_for_devs_with_nodejs_fatigue/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/c-digs     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6gwc9/i_made_a_guide_for_devs_with_with_with_nodejs_fatigue/]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/c-digs     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6gwc9/i_made_a_guide_guide_for_devs_with_with_nodejs_fatigue/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6gwc9/i_made_a_guide_for_devs_with_nodejs_fatigue/</guid>
       <pubDate>Sat, 08 Mar 2025 13:14:14 GMT</pubDate>
     </item>
@@ -60,13 +81,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/shriracha      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6gutw/i_built_a_a_daily_poll_poll_poll_poll_poll_where_you_can_tap_tap_oon_a_a_a_a_a_a_a_a_plot/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6gutw/i_built_a_daily_poll_where_you_can_tap_on_a_plot/</guid>
       <pubDate>Sat, 08 Mar 2025 13:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个应用程序，可以帮助用户将沉闷的屏幕截图变成令人惊叹的视觉效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6gjds/i_made_this_app_that_helps_users_turn_their_dull/</link>
-      <description><![CDATA[     大家好，在过去的两年中，我一直在研究这一点。我在机械工程的第三年开始时就开始了它，从那以后一直在迭代。  它基本上是一种工具，可帮助用户将其呆板快照变成美丽的图形。它主要由营销人员，企业家和创作者使用，以在Twitter，LinkedIn，新闻通讯和博客上发布屏幕截图。  大家可能实际上已经在新闻通讯或Twitter上看到了这一点，屏幕截图具有美丽的背景，可以帮助中心的图像弹出，并使整个帖子更具吸引力。  技术堆栈 -  NextJS（路由器），尾风CSS（ShadCN和Framer Motion），MongoDB，Stripe（用于付款），Cloudflare R2（用于存储静态资产），托管在Vercel上。  大家实际上可能喜欢代码段屏幕截图工具:)，因为它可以帮助开发人员共享漂亮的代码屏幕截图。  您可以在此处查看  希望大家都喜欢它。向反馈开放。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mediocre_man_online     [link]   [commist]             ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6gjds/i_made_this_app_that_helps_users_turn_their_dull/</guid>
-      <pubDate>Sat, 08 Mar 2025 12:53:05 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个工具，可以在几秒钟内从任何网站上提取所有URL</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  构建一个github操作，自动获取所有存储库，使用cloc来计数代码，并使用cloc来更新读书。在默认分支上运行，跳过叉子，并保持统计数据更新。 在此处查看： ＆＃32;提交由＆＃32; /u/u/u/new-ad6482      [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6ge27/count_lines_of_code_across_all_your_github_repos/</guid>
       <pubDate>Sat, 08 Mar 2025 12:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以用任何徽标，图标或简单插图创建液体金属动画 - 在浏览器中实时渲染（免费 /开源）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6g72n/i_built_a_tool_to_create_liquid_metal_animations/</link>
-      <description><![CDATA[     &lt; /td&gt; ＆＃32;提交由＆＃32; /u/u/gettothechopin      ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6g72n/i_built_a_tool_to_create_liquid_metal_animations/</guid>
-      <pubDate>Sat, 08 Mar 2025 12:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合展示：第一次试图“过度生动”网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j68uwv/portfolio_showcase_first_time_trying_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  很想有您的想法＆amp;我的投资组合网站上的反馈。  第一次试图“过度生命”一个网站，请告诉我如何也可以改进它！  在 https://aaronasperilla.vercel.app/    上 欢迎批评！无需退缩XD   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seiyjiji     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j68uwv/portfolio_showcase_first_time_trying_to/</guid>
-      <pubDate>Sat, 08 Mar 2025 04:08:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
