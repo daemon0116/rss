@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 07:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 08:21:37 GMT</lastBuildDate>
+    <item>
+      <title>反向工程大黄蜂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbumble-api--pabumble-ap--papi- reverse-gress-genc.提交由＆＃32; /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:18:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过移动设备在个人网站上模拟社交平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6cipm/how_do_i_emulate_social_platforms_on_my_personal/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在努力使个人网站备份，我希望它模仿我要远离的不同社交平台。 这意味着我希望能够快速地发布事物，然后在la Insta，twitter等上快速发布。这有点工作，但不是很好。它倾向于存在连接问题，并且不会让我直接上传媒体到帖子，我需要通过媒体库上传。  有什么其他方法可以实现我可以通过手机更新更多富媒体内容的网站的目标？  我是相当技术的，所以可以将自己的一些东西串在一起，但是我是一位具有后端体验的前端设计师/编码器。  谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jazzlike-coach4151      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6cipm/how_do_i_emulate_social_platforms_on_my_personal/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:06:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>当心这个骗局</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6cgnn/watch_out_for_this_scam/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在侧面经营一个Web开发业务。 收到了一些人的文字，说他需要一个信息网站。 5页，信息网站基于他已经拥有的现有设计。我想“好吧，好吧，似乎很简单”。 他说他不能打电话，必须对此进行文字，因为他的头部被诊断出患有癌症，医生说要远离头部附近的电话？？？好可疑，但无论使用什么。 我在开始服务之前将合同寄给他要签署的合同，我使用他的现有设计给550美元的5页信息引用了$ 850。如果我花了超过3分钟的时间来回复。 我给他发送了付款链接，他说他不能使用信用卡，因为他有公司帐户？？？ wtf从未听说过这个借口。 他说他可以发送电子检查，说要屏幕截图他发送给我的支票，将其打开，然后在我的银行应用中打开，然后将其扫描到那里，将其支票存放到我的帐户中。  首先，我不仅可以访问我们的企业银行帐户。其次，这是非常非正统的。我告诉他我不能这样做，并且希望通过条纹，广场，Quickbooks等通过付款链接，他阻止了我。大声笑。 浪费了我一天的1小时，我也开会了，他花了一些时间。 只是想分享。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ok-asparagus4747      [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6cgnn/watch_out_for_this_scam/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在使用SiConify与Svelte一起使用可能无法可用的图标时提供后备图标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在从api端点 我正在动态加载符号 我正在使用iconify/svelte渲染iCons    我的代码下面的代码看起来像是这样。从“ Iconify/svelte”导入图标;   type newsItem = {id：string;链接：字符串;标题：字符串;标签：数组＆lt; {符号：字符串;名称：string;}＆gt;＆lt;/＆gt; } const { data } = $props(); const newsItem: NewsItem = $derived(data.newsItem);  &lt;/script&gt; &lt;main&gt; {#if NewsItem}   ＆lt; div class =&#39;news-detail-tags; quot; gt; gt; {#each newsitem.tags作为newsitemtag（newsitemtag）}＆lt; a class =&#39;news-detail-tag; data-sveltekit-preload-data =; off; href = {newsitem.link}＆gt; ＆lt; icon iCon = {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} /＆gt; ＆lt; span class =“ news-detail-symbol＆quot”＆gt; {newsitemtag.symbol}＆lt;/span＆gt; ＆lt;/a＆gt; {/每个}＆lt;/div＆gt; {/if}   ＆lt;/main＆gt;    `` - 存在的符号（例如BTC）工作正常工作，因为加密货币 - 颜色：BTC存在并且可以加载btc，可以加载 - 我经常不存在符号 - 我经常不存在API，因为API不在我的控件中 - 阅读该文档，因为阅读了该文档，因为阅读了 cryptocurrency-icons 看来，他们似乎提供了一个后备图标，您可以将其用于其IconBase中不存在的符号 - 我如何指定后备     icon; icon; ICON; icon; icon&gt;＆lt;图标= {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} shortback =&#39;cryptocurrency-color：generic&#39; /＆gt;    我尝试了什么？  他们的文档提到了如果图标在本地存储中，而不是在其api     时，任何人都可以在您提供动态的sc_ /u/u/u/prestigiouszombie531     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀]互动游戏清点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6bxui/showoff_saturday_interactive_gameresume/</link>
+      <description><![CDATA[     comply&gt;   通过Internet分享我的新网络清点，以使用Internet  一个小型游戏，灵感来自上行链路/hacknet游戏和传奇的Edenui界面。我的整个职业生涯和个人生活都在多个虚拟服务器之间分配，供用户通过控制台或UI元素进行一些黑客入侵和研究。试图创建游戏化的阅读体验（增加了成就和秘密级别的能力） 我的第一个网络体验之一，因此非自适应布局可能无法使用非1080p屏幕。可能稍后再解决，但我主要关注的是游戏玩法。我已经附上了一些分析，以使其更加顺畅，更直观，因此，如果您想进行一些测试测试，我会非常感谢！  ; amp; format = png&amp;； amp; amp; amp; amp; amp; amp; amp; amp; amp; amp； https://preview.redd.it/dn0b1i1p3fne1.png?width=1919＆amp; amp; format = png＆amp;Auto = webppumpp; s = 93118710f333333354bf884bf8884e89462626b8cab8ca2a2aca2a2aaca2a001d16 链接 -   https://zeromac.ru/     &lt;！ -  sc_on- sc_on-&gt;     [link]   ＆＃32;   [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6bxui/showoff_saturday_interactive_gameresume/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简单的无广告，无需帐户规划扑克网络应用。欢迎反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6bx3j/a_simple_adfree_no_account_required_planning/</link>
+      <description><![CDATA[Hi all, I&#39;ve made an ad-free, account-free planning poker webapp that I&#39;d love you to check out. We were using an existing planning poker app during our sprint planning sessions but it was full of ads and had loads of unnecessary features so I thought I&#39;d make a simple one. Tech stack   firebase动态数据库 由Vite   反应以下是指向主页的链接，该链接有点粗糙 https：//easy-planning-poker/-okoc3njqvwtzxlvbu saly in you the room in在隐身窗口或另一个浏览器中再次加入并查看协作的工作原理。 任何反馈都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pork_cylinders     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6bx3j/a_simple_adfree_no_account_required_planning/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:23:04 GMT</pubDate>
+    </item>
     <item>
       <title>BAR -BAR-开源国际象棋分析工具（烤/反馈/建议非常感谢）</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6beuv/evalbar_an_opensource_chess_analysis_tool/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>法律/道德问题：GitHub上的网络刮擦项目 - 有哪些风险？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个个人项目，该项目涉及从各种网站（电子商务网站，评论平台和某些公共论坛）中刮擦数据）。我发现数据对自己的分析非常有用，并且正在考虑将项目开源在Github上。 在这样做之前，我想从该领域经验丰富的人那里获得一些输入： 法律问题      在github上发表网络垃圾工具的实际法律风险是什么？文件？ 与网站托管的地方相比，我（美国）的管辖区是否有差异？     任何人收到的cease和desist nether的信件或更糟糕的是                 即使某些事情在技术上是合法的，我也应该遵循指南？ 如何平衡“公共数据”。哲学具有网站所有者的利益？ 我应该在示例/文档中匿名数据吗？ 如果我的工具有可能用来绕过速率限制，我对别人如何使用它负责吗？     技术最佳实践        好的公民;当涉及刮擦时？ （限制费率，确定我的刮板等。） 我应该考虑此类项目的特定许可吗？ 我应该在我的阅读中包括警告或免责声明吗？   我不想做任何恶意的事情 - 这个项目对我有任何教育，我认为其他人可以从中受益。但是，如果我能避免它，我就不想对法律问题或道德批评开放。 事先感谢您可以分享的任何建议或经验！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_question_web_scraping_project_on/&gt; [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个个人项目，该项目涉及从各种网站（电子商务网站，评论平台和某些公共论坛）中刮擦数据）。我发现数据对自己的分析非常有用，并且正在考虑将项目开源在Github上。 在这样做之前，我想从该领域经验丰富的人那里获得一些输入： 法律问题      在github上发表网络垃圾工具的实际法律风险是什么？文件？ 与网站托管的地方相比，我（美国）的管辖区是否有差异？     任何人收到的cease和desist nether的信件或更糟糕的是                 即使某些事情在技术上是合法的，我也应该遵循指南？ 如何平衡“公共数据”。哲学具有网站所有者的利益？ 我应该在示例/文档中匿名数据吗？ 如果我的工具有可能用来绕过速率限制，我对别人如何使用它负责吗？     技术最佳实践       好的公民;当涉及刮擦时？ （限制费率，确定我的刮板等。） 我应该考虑此类项目的特定许可吗？ 我应该在我的阅读中包括警告或免责声明吗？   我不想做任何恶意的事情 - 这个项目对我有任何教育，我认为其他人可以从中受益。但是，如果我能避免它，我就不想对法律问题或道德批评开放。 事先感谢您可以分享的任何建议或经验！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_question_web_scraping_project_on/&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</guid>
       <pubDate>Sat, 08 Mar 2025 06:12:54 GMT</pubDate>
     </item>
@@ -32,13 +74,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一些个人项目需要一些正常运行时间监视。我会自助一个，但是如果那个服务器下降，那么我所有的网站还是下降！ 我希望能够为我的至少一个个人项目创建一个状态页面，因为它还有其他几件事。 （文档等） 任何建议都会很棒，我认为总共约有7个站点可以监视。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6apx3/what_uptime_monitors_are_you_using_ure_using_for_personal/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6apx3/what_uptime_monitors_are_you_using_for_personal/</guid>
       <pubDate>Sat, 08 Mar 2025 06:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>对不起！我厌倦了所有偏远的工作聚合机，从求职者那里收取资金。因此，我必须建立另一个远程工作网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6ahkb/i_am_sorry_i_am_tired_of_all_the_remote_job/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所有大型远程工作委员会，包括远方，DailyRemote和其他人都在向求职者收取钱，以访问远程工作。我对此感到厌倦。因此，我自己花了一些时间坐下来建立一个远程的作业聚合器。 链接： htttps：//betterremotejobs.com/       我想为此提供所有远程工作列表，并为此提供了所有网站，并提供了该网站。所有的工作都将您直接进入公司职业页面，没有中间人。没有骗局。 我的货币化计划是要求远程公司的赞助或在主页上支付高级可见性，但我不确定这将如何解决。但这仍然是我的投资组合中的很酷的项目。 请分享您的反馈并与您的朋友分享。  谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wordybug     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6ahkb/i_am_sorry_i_am_tired_of_all_the_remote_job/</guid>
-      <pubDate>Sat, 08 Mar 2025 05:46:45 GMT</pubDate>
     </item>
     <item>
       <title>您的前端开发设置是什么？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们是一家小型B2B Web应用程序公司，每天都会发出多个应用程序更新。我们的管道为零，可以将这些更新传达给我们的用户。并不是因为缺乏尝试，我们似乎无法使一个系统努力使所有人保持最新状态。真是太糟糕了，就像我们的年长客户被及时冷冻并且不使用我们的新功能一样。 您如何使用户保持最新状态？次要更改和重大更新？什么有效？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/Shiory-Yak-4023     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j644ow/struggling_to_keep_users_in_the_loop/</guid>
       <pubDate>Fri, 07 Mar 2025 23:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了Y，替代Twitter/x</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j634zh/i_made_y_an_alternative_to_twitterx/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   y是我已经工作了几个月的Twitter的替代方法！您可以在 https://ysocial.xyz 上尝试一下设置“ usertitle” （例如显示名称）和一个生物。  dm其他用户具有安全的直接消息传递系统，与Twitter相比（beta）具有独特的安全方法。 导入您的个人资料照片，显示名称，x中的x中只需在帐户页面上的几下单击x中的x。在签署的帖子中，但是当您准备就绪时，请随时使用Google创建一个免费帐户或使用电子邮件＆amp;密码。您甚至可以使用Google Authenticator在设置中启用2FA！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/simplestrain3297     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j634zh/i_made_y_an_alternative_to_twitterx/</guid>
-      <pubDate>Fri, 07 Mar 2025 23:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于数据过滤的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j62rob/question_in_regards_to_the_data_filtering/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  方案：说我们在数据库中有100000个记录，并且使用一个过滤器，该过滤器允许用户检索5000个记录。然后，当旧的过滤器仍处于活动状态时，用户选择另一个过滤器，并将在下一个查询中使用。用户是否可能仅将第一个过滤器与第二个滤镜一起发送第一个过滤器，并且数据库查询与两者一起运行，而忽略了先前获取的记录？ 您可能会使用第一个过滤器过滤的数据，然后下一个查询使用p per port p p p p，       您是否可以使用第一个过滤器进行过滤的数据，然后下一个查询使用一些标识符，            。预先感谢？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/situacijajesledeca      [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j62rob/question_in_regards_to_the_data_filtering/</guid>
-      <pubDate>Fri, 07 Mar 2025 22:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢创建出色UI和加快前端开发的工具是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j624tv/what_are_your_favorite_tools_to_create_great_uis/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上是标题所说的。我仍然是一个较新的SWE，找到了令人沮丧的侧面项目的构建前端，原因有两个：我觉得UI Design，并在视觉上与CSS一起放置一个网站，并且一些引导程序对我来说是一个乏味的过程。对于经验有限的人来说，很难知道哪些类型的工具/库/等。在那里，所以我想知道您用什么资源来设计我在此处看到的伟大的UI，并使其更容易开发！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/htx_bigg     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j624tv/what_are_your_favorite_tools_to_create_great_uis/</guid>
-      <pubDate>Fri, 07 Mar 2025 22:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我进行了现场拖放HTML编辑器！一探究竟。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j621ex/i_made_a_live_drag_and_drop_html_editor_check_it/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/uokee      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1J621EX/I_MADE_MADE_A_LIVE_DRAG_DRAG_AND_DROP_HTML_EDOTOR_EDOTOR_CHECK_CHECK_IT/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j621ex/i_made_a_live_drag_and_drop_html_editor_check_it/</guid>
-      <pubDate>Fri, 07 Mar 2025 22:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该抛弃Docker撰写吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j617mr/am_i_supposed_to_ditch_docker_compose/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我读了一些我不应该在生产中使用docker的评论。我知道在大多数情况下都是如此，但感觉我的情况有所不同。我应该做其他事情吗？ 我们的公司将其所有企业数据保存在Airtable中，并且在大多数交互中都有一个客户门户。 我们有一个应用程序，我们称为“ Picker”。应用程序。 Picker每晚从空中表中同步数据。客户使用选择器采摘组件，然后选择器构造有效载荷，并将其发送回Airtable进行处理。  Picker是一个单片的Web应用程序，运行Django，Postgres，Next，Next和Nginx，以及Nginx通过Docker Compose。我们的每个客户都会获得选择器的单租户VPS安装。 它是无状态的，我们可以随意销毁并创建Picker实例。选择器中无需任何数据持久性，因此升级很容易。我们甚至没有迁移，因为我们不需要保留数据，所以我们只是销毁和重新创建。 对我来说，这似乎优雅。为什么我们需要分开整体或使用托管DB？我是基础事物的新手，因此最欢迎这里的任何确认或建议！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mebutitsrandom     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j617mr/am_i_supposed_to_ditch_docker_compose/</guid>
-      <pubDate>Fri, 07 Mar 2025 21:46:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

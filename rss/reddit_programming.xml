@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 08 Mar 2025 07:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 08:20:53 GMT</lastBuildDate>
+    <item>
+      <title>Lamport逻辑时钟实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sushant098123      ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:18:42 GMT</pubDate>
+    </item>
     <item>
       <title>简洁的数据结构</title>
       <link>https://www.reddit.com/r/programming/comments/1j6bs5t/succinct_data_structures/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>JDK 24中最相关的新功能</title>
       <link>https://www.reddit.com/r/programming/comments/1j5wejf/the_most_relevant_new_features_in_jdk_24/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   java 24包含24个新功能 - 比2018年以来的任何Java版本都要多。这六个对Java开发人员和Java商店将在短期内最重要。  2025年3月2025年3月提交由＆＃32;态href =“ https://www.infoworld.com/article/3830643/the-most-relevant-new-features-in-jdk-24.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   java 24包含24个新功能 - 比2018年以来的任何Java发行版都要多。这六个对Java开发人员和Java商店将在短期内最重要。  2025年3月2025年3月提交由＆＃32;态href =“ https://www.infoworld.com/article/3830643/the-most-relevant-new-features-in-jdk-24.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j5wejf/the_most_relevant_new_features_in_jdk_24/</guid>
       <pubDate>Fri, 07 Mar 2025 18:42:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/lewboskifeo      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j5r2dg/chill_c_programming_snake_game/</guid>
       <pubDate>Fri, 07 Mar 2025 15:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2月的Web平台新手</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5r0ec/new_to_the_web_platform_in_february/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     link&gt; link link”   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5r0ec/new_to_the_web_platform_in_february/</guid>
-      <pubDate>Fri, 07 Mar 2025 15:31:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
