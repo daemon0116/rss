@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 16:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 18:21:39 GMT</lastBuildDate>
+    <item>
+      <title>进行浏览器扩展程序，以帮助您跟踪并了解您遇到的所有会员链接。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  会员链接透明度扩展 曾经想知道当您在线购物时将应用哪个会员链接？我做了一个浏览器扩展程序，向您显示了这一点 - 对您购买的全部透明度！ 它的工作原理  获取 Notification 访问具有会员链接的网站时。   扩展 forts  li li  li&gt; li     会员链接为JSON。  为什么我建立此 我们都应该清楚地知道谁从我们的购买中赚取了委员会。一些公司（例如 honey ）毫无疑问地劫持了针对品牌或创作者的佣金。此扩展有助于为系统带来公平性。 贡献 它还不完美！一些细节可能并不总是能正确显示，因此我欢迎社区的贡献。 If you want to help improve it, check out the repo here: https://github.com/widejoy/affiliate-tracker also im a junior dev, so i made this with very limited knowledge and advice is appriciated  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/not-debt5889     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</guid>
+      <pubDate>Sat, 08 Mar 2025 17:57:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天刚刚完成AIAPWN，这是一种自动及时注射工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   aiapwn是一个简单的工具，可以自动检测AI代理和LLMS中的提示注射漏洞的过程。     github：   https://github.com/karimhabush/aiaiapwn        &lt;！提交由＆＃32; /u/u/karimhabush     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</guid>
+      <pubDate>Sat, 08 Mar 2025 17:43:36 GMT</pubDate>
+    </item>
     <item>
       <title>🚀dagserver：带有Spring Boot运行DAG的开源服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//github.com/splware/esproc/esproc/wiki/we-built-wiki/we-built-an-an-open-an-open-an-open-an-open-source-duckdb-alternative-dive-div- /u/u/u/vast_lab8278     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j5dtwr/we_built_an_open_source_duckdb_alternative/</guid>
       <pubDate>Fri, 07 Mar 2025 03:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Linux上从头开始编写TCP堆栈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5asge/writing_a_tcp_stack_from_scratch_on_linux/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/skithewest1       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5asge/writing_a_tcp_stack_from_scratch_on_linux/</guid>
-      <pubDate>Fri, 07 Mar 2025 00:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>围起来的精神继任者是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5ahn7/what_is_the_spiritual_successor_to_plocate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用的ploct比用Ubuntu 16（？）发货的位置快得多。我试图找出源代码，这是最接近的。但它已存档。   https://github.com/aetf/plocate    功能是否已将功能推向其他东西？我看到那里有一个我没有尝试过的生锈项目（ https://github.com/pr4k/locate ）。    &lt;！&lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/sarnobat     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5ahn7/what_is_the_spiritual_successor_to_plocate/</guid>
-      <pubDate>Fri, 07 Mar 2025 00:19:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
