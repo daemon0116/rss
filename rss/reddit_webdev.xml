@@ -4,11 +4,53 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 08:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 09:17:10 GMT</lastBuildDate>
+    <item>
+      <title>背景图像不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6d99y/background_image_not_working/</link>
+      <description><![CDATA[         我目前正在我的网站上工作，无法将图像设置为背景。我看过教程，但它们不起作用。在我看不到的地方可能会有一个错误。 对于额外的上下文，我试图将image Background.png用作home.html页面的背景。我正在尝试在文件夹样式内使用CSS File.css.css。当我加载它时，该页面完全空白。我也附上了代码和文件夹组织系统。 我希望您能帮助我:)谢谢您的宝贵时间！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/franzf_2004      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6d99y/background_image_not_working/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳编程的AI（2025-03）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_programming_202503/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我在过去的几个月中一直使用自由层的AI工具来支持我的工作和日常生活。我约有70％的用法用于编程，其余的则用于其他内容。我一直在诸如Chatgpt，Cursor AI，Github Copilot，Claude和DeepSeek之类的工具之间跳跃 - 主要是因为其中一个通常是掉落的，或者在需要时遇到了限制。 最近，我发现了可爱的Dev（以及类似的选项，以及类似的选项），并尝试了一个尝试 - 尝试了令人印象深刻的东西。现在，我感到有点困扰着哪一个真的值得升级到付费订阅。 有什么想法或建议？另外，如果任何人都有一个设置，可以混合两个或多个免费的AIS甚至自托管选项（无论是使用您自己的硬件还是租用的服务器），我全都是耳朵。 对于上下文，我是FullStack开发人员。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_for_for_programming_202503/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6d84j/best_ai_for_programming_202503/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:59:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>讨论|域 - 托管 - 数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6d3rj/discussion_domain_hosting_database/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  讨论|域 - 托管 - 数据库 我打算在空闲时间构建一些项目，并想了解您通常使用或推荐的内容。  Would love to hear your thoughts and experiences! Domain I spent some time researching domain providers and found:  Porkbun: Seems like the best option — affordable, clean UI, and solid support. Namecheap: Another great choice — reliable    godaddy：老实说，感觉就像是最糟糕的 - 积极的销售和笨拙的UI。    cloudflare：我发现的最便宜的选择，但如果您已经熟悉dns lis  我一直在为某些个人项目使用 Vercel的爱好计划，这非常适合快速部署。但是，我还没有探索过太多。    vercel：  易于设置，非常适合前端项目或下一步项目。配置。 当我计算出低流量时，AWS价格为〜34美元/月 - 对于那些尝试过的人来说，这听起来是否正确？              我使用了 neon  neon  for Free Tier for for Ports port portspress- portsgls portsgls-还没有太多探索AWS数据库 - 好奇AWS是否最终在较小的项目中更便宜。  AI服务 我已经与 OpenAi Apis   和 azure openai 在过去的2-3个月中 - 在过去的2-3个月中 - 均取决于用例。还尝试了 Grok（免费版本），但对于任何严重的事情而言，它并不是很可靠的。 您是否建议您进行其他AI服务？ 很想听听您喜欢什么设置，您喜欢哪些设置，而不是交通最小的小型项目。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Jackmheimester    href =“ https://www.reddit.com/r/webdev/comments/1j6d3rj/discussion_domain_hosting_database/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6d3rj/discussion_domain_hosting_database/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:50:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brochurify-单页网站构建器（早期版本）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6d3qv/brochurify_single_page_website_builder_early/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mypreciouz       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6d3qv/brochurify_single_page_website_builder_early/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新的生成AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6d0ap/updated_generative_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用deepseek生成大量代码，但问题在于，新的tailwind 4.0更新有很大的变化，而deepseek的配置和语法不知道至少有任何ai工具可以在生成文档时至少在单个scement中读取文档 -     ＆＃32;提交由＆＃32; /u/u/shaib_kr     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6d0ap/updated_generative_ai/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:42:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了fontofweb.com-一种工具，可让您找到网站上使用的所有字体。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6cqwq/i_built_fontofwebcom_a_tool_that_allows_you_to/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/sim04ful       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6cqwq/i_built_font_fontofwebcom_a_a_tool_tool_tool_that_that_allows_allows_you_you_to/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6cqwq/i_built_fontofwebcom_a_tool_that_allows_you_to/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:23:06 GMT</pubDate>
+    </item>
     <item>
       <title>反向工程大黄蜂</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbumble-api--pabumble-ap--papi- reverse-gress-genc.提交由＆＃32; /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbulm-api--pabumble-api- reversever-gress-grverse-gress-gence-gress-gencre-gress-gencre----  /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</guid>
       <pubDate>Sat, 08 Mar 2025 08:18:32 GMT</pubDate>
     </item>
@@ -29,7 +71,7 @@
     <item>
       <title>在使用SiConify与Svelte一起使用可能无法可用的图标时提供后备图标？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在从api端点 我正在动态加载符号 我正在使用iconify/svelte渲染iCons    我的代码下面的代码看起来像是这样。从“ Iconify/svelte”导入图标;   type newsItem = {id：string;链接：字符串;标题：字符串;标签：数组＆lt; {符号：字符串;名称：string;}＆gt;＆lt;/＆gt; } const { data } = $props(); const newsItem: NewsItem = $derived(data.newsItem);  &lt;/script&gt; &lt;main&gt; {#if NewsItem}   ＆lt; div class =&#39;news-detail-tags; quot; gt; gt; {#each newsitem.tags作为newsitemtag（newsitemtag）}＆lt; a class =&#39;news-detail-tag; data-sveltekit-preload-data =; off; href = {newsitem.link}＆gt; ＆lt; icon iCon = {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} /＆gt; ＆lt; span class =“ news-detail-symbol＆quot”＆gt; {newsitemtag.symbol}＆lt;/span＆gt; ＆lt;/a＆gt; {/每个}＆lt;/div＆gt; {/if}   ＆lt;/main＆gt;    `` - 存在的符号（例如BTC）工作正常工作，因为加密货币 - 颜色：BTC存在并且可以加载btc，可以加载 - 我经常不存在符号 - 我经常不存在API，因为API不在我的控件中 - 阅读该文档，因为阅读了该文档，因为阅读了 cryptocurrency-icons 看来，他们似乎提供了一个后备图标，您可以将其用于其IconBase中不存在的符号 - 我如何指定后备     icon; icon; ICON; icon; icon&gt;＆lt;图标= {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} shortback =&#39;cryptocurrency-color：generic&#39; /＆gt;    我尝试了什么？  他们的文档提到了如果图标在本地存储中，而不是在其api     时，任何人都可以在您提供动态的sc_ /u/u/u/prestigiouszombie531     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在从api端点 我正在动态加载符号 我正在使用iconify/svelte渲染iCons    我的代码下面的代码看起来像是这样。从“ Iconify/svelte”导入图标;   type newsItem = {id：string;链接：字符串;标题：字符串;标签：数组＆lt; {符号：字符串;名称：string;}＆gt;＆lt;/＆gt; } const { data } = $props(); const newsItem: NewsItem = $derived(data.newsItem);  &lt;/script&gt; &lt;main&gt; {#if NewsItem}   ＆lt; div class =&#39;news-detail-tags; quot; gt; gt; {#each newsitem.tags作为newsitemtag（newsitemtag）}＆lt; a class =&#39;news-detail-tag; data-sveltekit-preload-data =; off; href = {newsitem.link}＆gt; ＆lt; icon iCon = {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} /＆gt; ＆lt; span class =“ news-detail-symbol＆quot”＆gt; {newsitemtag.symbol}＆lt;/span＆gt; ＆lt;/a＆gt; {/enth}＆lt;/div＆gt; {/if}   ＆lt;/main＆gt;    `` - 存在的符号（例如BTC）工作正常工作，因为加密货币 - 颜色：BTC存在并且可以加载btc，可以加载 - 我经常不存在符号 - 我经常不存在API，因为API不在我的控件中 - 阅读该文档，因为阅读了该文档，因为阅读了 cryptocurrency-icons 看来，他们似乎提供了一个后备图标，您可以将其用于其IconBase中不存在的符号 - 我如何指定后备     icon; icon; ICON; icon; icon&gt;＆lt;图标= {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} hallback =&#39;cryptocurrency-color：generic&#39; /＆gt;    我尝试了什么？  他们的文档提到了如果图标在本地存储中，而不是在其api     时，任何人都可以在您提供动态的sc_ /u/u/u/prestimiouszombie531     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</guid>
       <pubDate>Sat, 08 Mar 2025 07:50:34 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>法律/道德问题：GitHub上的网络刮擦项目 - 有哪些风险？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个个人项目，该项目涉及从各种网站（电子商务网站，评论平台和某些公共论坛）中刮擦数据）。我发现数据对自己的分析非常有用，并且正在考虑将项目开源在Github上。 在这样做之前，我想从该领域经验丰富的人那里获得一些输入： 法律问题      在github上发表网络垃圾工具的实际法律风险是什么？文件？ 与网站托管的地方相比，我（美国）的管辖区是否有差异？     任何人收到的cease和desist nether的信件或更糟糕的是                 即使某些事情在技术上是合法的，我也应该遵循指南？ 如何平衡“公共数据”。哲学具有网站所有者的利益？ 我应该在示例/文档中匿名数据吗？ 如果我的工具有可能用来绕过速率限制，我对别人如何使用它负责吗？     技术最佳实践       好的公民;当涉及刮擦时？ （限制费率，确定我的刮板等。） 我应该考虑此类项目的特定许可吗？ 我应该在我的阅读中包括警告或免责声明吗？   我不想做任何恶意的事情 - 这个项目对我有任何教育，我认为其他人可以从中受益。但是，如果我能避免它，我就不想对法律问题或道德批评开放。 事先感谢您可以分享的任何建议或经验！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_question_web_scraping_project_on/&gt; [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个个人项目，该项目涉及从各种网站（电子商务网站，评论平台和某些公共论坛）中刮擦数据）。我发现数据对自己的分析非常有用，并且正在考虑将项目开源在Github上。 在这样做之前，我想从该领域经验丰富的人那里获得一些输入： 法律问题      在github上发表网络垃圾工具的实际法律风险是什么？文件？ 与网站托管的地方相比，我（美国）的管辖区是否有差异？     任何人收到的cease和desist nether的信件或更糟糕的是                 即使某些事情在技术上是合法的，我也应该遵循指南？ 如何平衡“公共数据”。哲学具有网站所有者的利益？ 我应该在示例/文档中匿名数据吗？ 如果我的工具有可能用来绕过速率限制，我对别人如何使用它负责吗？     技术最佳实践        好的公民;当涉及刮擦时？ （限制费率，确定我的刮板等。） 我应该考虑此类项目的特定许可吗？ 我应该在我的阅读中包括警告或免责声明吗？   我不想做任何恶意的事情 - 这个项目对我有任何教育，我认为其他人可以从中受益。但是，如果我能避免，我不想对法律问题或道德批评开放。 事先感谢您可以分享的任何建议或经验！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_question_web_scraping_project_on/&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</guid>
       <pubDate>Sat, 08 Mar 2025 06:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在个人项目中使用什么正常运行时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6apx3/what_uptime_monitors_are_you_using_for_personal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一些个人项目需要一些正常运行时间监视。我会自助一个，但是如果那个服务器下降，那么我所有的网站还是下降！ 我希望能够为我的至少一个个人项目创建一个状态页面，因为它还有其他几件事。 （文档等） 任何建议都会很棒，我认为总共约有7个站点可以监视。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6apx3/what_uptime_monitors_are_you_using_ure_using_for_personal/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6apx3/what_uptime_monitors_are_you_using_for_personal/</guid>
-      <pubDate>Sat, 08 Mar 2025 06:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的前端开发设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j68d0k/whats_your_front_end_dev_setup/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经离开了Web Dev几年，但想重新进入它。  我曾经专门研究前端-FIGMA，HTML，CSS，Bootstrap，JavaScript等。有哪些更好的选择？ 我知道我仍然可以使用它们，但是我有兴趣听到更好的编码方法，在本地工作和部署代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/h0d13r     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j68d0k/whats_your_front_end_dev_setup/</guid>
-      <pubDate>Sat, 08 Mar 2025 03:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有接受付款的开源解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_accepting_payments/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  似乎有一些平台可以按照我的意愿来完成我想要的事情，但是我不明白为什么我在这里需要中介。我想要一些东西：  允许我通过加密 将付款转换为stablecoin  通过webhook   通知我，我很天真地说，这是我应该做的事情吗？提交由＆＃32; /u/u/punkpeye   href =“ https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_acepting_payments/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_accepting_payments/</guid>
-      <pubDate>Sat, 08 Mar 2025 01:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤯所有好的域名真的都采用了吗？我对AI进行了测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j64b35/are_all_the_good_domain_names_really_taken_i_put/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webdev ， 我们都在寻找完美的域名。您会想到一些创意，检查可用性，当然，它已经采取了。经历了很多次挫败感之后，我构建了 nomenate.com ，一种AI-Power-Power-Power域名生成器，实际上实际上可以实时检查可用性。   它&gt; &gt;    基于简短的project files files files files files y him fert y ber/&gt; bery fear  neft 。 。  后端：在自主hetzner coolify server上运行的postgresql        ai ：vercel         具有挑战性的 优化实时域可用性检查而不会达到速率限制或放慢UI是棘手的。我尝试了不同的方法，虽然更好，但它仍然并不完美。我使用的解决方案是使用所有注册域名的大数据集 for .com，.net和.org，效果很好。但是，对于不太受欢迎的tlds并不是那么可靠。 如果有人有更好的方法来有效地处理此操作，我很想听听您的想法！ 如果这听起来很有用，我将感谢您对 Product Product Hunt 的支持。每个倾向都可以将其带给更多可能会有用的开发人员。 在此处链接    and im corlious，您目前的可用域名？提交由＆＃32; /u/u/minemurky1766     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j64b35/are_all_the_good_domain_names_really_taken_i_put/</guid>
-      <pubDate>Sat, 08 Mar 2025 00:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>在个人项目中努力保持关注超过5-10分钟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j64b0z/struggling_to_maintain_focus_more_than_510/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  长话短说：去年5月，由于我以前的公司局势造成的焦虑和压力，我在休假。从那以后，在关闭编辑器之前，我一直无法保持重点超过5-10分钟。 我喜欢WebDev，我经常想实现我想实施的想法，但是我找不到任何能够让我保持焦点的技术。 我不知道您是否经历了什么技术，但是您是否会使用什么？提交由＆＃32; /u/u/raskardev     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j64b0z/struggling_to_maintain_focus_more_than_510/</guid>
-      <pubDate>Sat, 08 Mar 2025 00:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>努力将用户保持在循环中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j644ow/struggling_to_keep_users_in_the_loop/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们是一家小型B2B Web应用程序公司，每天都会发出多个应用程序更新。我们的管道为零，可以将这些更新传达给我们的用户。并不是因为缺乏尝试，我们似乎无法使一个系统努力使所有人保持最新状态。真是太糟糕了，就像我们的年长客户被及时冷冻并且不使用我们的新功能一样。 您如何使用户保持最新状态？次要更改和重大更新？什么有效？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/Shiory-Yak-4023     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j644ow/struggling_to_keep_users_in_the_loop/</guid>
-      <pubDate>Fri, 07 Mar 2025 23:59:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
