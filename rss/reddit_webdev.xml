@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 19:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 22:17:18 GMT</lastBuildDate>
+    <item>
+      <title>这里有人尝试过4天工作周吗？研究</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6rl1w/anyone_here_tried_4_day_workweek_research/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我正在对吕恩堡大学的为期四天的工作周进行研究，我正在寻找实际上以这种方式工作的人，尤其是在基于办公室的认知行业（技术，市场营销，咨询，财务等）。在四天的一周内有太多的嗡嗡声，但是真正的影响是什么？它实际上会改善工作与生活的平衡吗？这是一小群人对此有第一手经验，这使您的声音非常有价值。如果您工作了为期四天的一周，L&#39;D很高兴收到您的来信！发表评论或DM我，我会向您发送简短的匿名调查，以进行学术研究。没有对与错的答案 - 只是您的诚实。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cosmeticpentagon     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6rl1w/anyone_here_tried_4_day_workweek_research/</guid>
+      <pubDate>Sat, 08 Mar 2025 21:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>不同的分析</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6r3w0/different_analytics/</link>
+      <description><![CDATA[      我使用CloudFlare启动了我的UI组件库，但是有两种我不理解的分析类型，我猜一个是一个机器人和另一个真实的人？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mr_dudo       [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6r3w0/different_analytics/</guid>
+      <pubDate>Sat, 08 Mar 2025 21:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何为我的网页设计项目添加交互式座位图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6qyg3/how_can_i_add_an_interactive_seating_chart_for_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在从事一个高中项目，在那里我为他们的体育场举办活动的学校网站为举办活动。 （在虚构的情况下）。我想使用基本的座位地图添加一个交互式座位图，您可以单击座位的区域，并检查拍摄与电影院或音乐会的方式是否相似。这是虚构的，因此不需要连接到网络。我一直在使用DeepSeek和Chatgpt来指导我，但它们毫无用处，YouTube也没有给我任何答案。如果有人能帮助我，那将不胜感激。目前，我正在使用HTML，CSS和JavaScript。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6qyg3/how_can_i_i_add_andd_andd_intractive_seating_chart_for_my/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6qyg3/how_can_i_add_an_interactive_seating_chart_for_my/</guid>
+      <pubDate>Sat, 08 Mar 2025 21:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能使这个更好吗？我需要设计帮助 - 太复杂了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6qps8/can_you_make_this_better_i_need_design_help_too/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/Pricepergig     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6qps8/can_you_make_this_this_better_ie_need_need_need_design_help_too/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6qps8/can_you_make_this_better_i_need_design_help_too/</guid>
+      <pubDate>Sat, 08 Mar 2025 20:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我指向指示？我有一个网页表格的想法...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6qchg/point_me_in_the_directions_i_have_an_idea_for_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想在我的沙盒（debian）服务器中添加一个新的JavaScript项目。我使用每日现实世界中的纸质清单。我每天打印此清单以进行工作。我想在我的私有Intranet网站（不是公共网站，但代码可以是公开的）上，将其用于单页应用程序（SPA）使用Django，并且任何JavaScript都是必要和足够的。我不在乎设计，只有UX。 我的用户体验目标：  该应用程序为 form 。 表单是任务和子任务和子任务/步骤/步骤都可以通过复选框执行。当检查所有复选框时，父任务将标记为完整。 如果未标记盒子，则父任务将恢复为未完成。只有在一天结束时（例如，午夜），该页面“到期”才会变得不可用。无论您达到的进展如何记录为最终。 表格全天都是自动保存的，并且从来没有提交过”。 （如果自动保存很棘手，我可以添加“保存”按钮。可以浏览前一天的表格，但不能进行编辑（更改）。 这是日志，而不是游戏，尽管我为生产力挑战自己！  这是第一阶段。第二阶段将包括时间戳。 In the end, you could call this an activity log with optional time-tracking. Technical constraints--  I want to add this app to my Django site and use Django user permissions. I&#39;ve been studying vanilla Javascript getting ready for this project, but I&#39;ve not made a decision what libraries to use or框架。  您如何帮助？  听说过这样的事情？  github 示例吗？ 如果您做这样的事情， 您会更改或添加技术细节（可能是因为我描述了一些错误或模糊的）？  JavaScript的javascript的元素您会研究哪些要素？ JavaScript。我会很高兴回答有关我的用户体验目标这个项目的问题。如果我认为评论误解了UX目标，那么我将努力提高清晰度。如果有更好的 r/sub ，那就让我知道。 我知道足够天真地感觉到我可以做到这一点。我相信，如果我实现了正确的UX，那么我很高兴能详细改进项目和范围。但是它必须像纸张形式一样自然（不是普通的Webform UX（填充，提交，显示，编辑，重复 -  Bleech）。220，221，无论需要什么。  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;    [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6qchg/point_me_in_the_directions_i_have_an_idea_for_a/</guid>
+      <pubDate>Sat, 08 Mar 2025 20:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有博览会设置的尾风</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6otcr/tailwind_with_expo_setup/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好，我是初学者，我刚开始反应，我想问的是，我该如何设置与React Native的尾风。我已经阅读了他们的文档，并完成了所需的一切，在我的清单文件中，所有内容都在那里，并且也设置了尾风配置文件。有其他方式在React Native中起作用，我在Core React和Tailwind方面做得很好。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gainsedgur8213       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6otcr/tailwind_with_expo_setup/</guid>
+      <pubDate>Sat, 08 Mar 2025 19:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费正常运行时间和性能监控工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6oqrf/free_uptime_and_performance_monitoring_tool/</link>
+      <description><![CDATA[    ＆＃32;提交由＆＃32; /u/u/svvnguy       [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6oqrf/free_uptime_and_performance_monitoring_tool/</guid>
+      <pubDate>Sat, 08 Mar 2025 19:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>体育 +数据：由NBA Analytics Executive设计的免费SQL课程</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6ohw7/sports_data_free_sql_course_designed_by_nba/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/maxverse      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6m96k/3_months_months_fulltime_on_typertime_typerfast_an_adaptive_typestive/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6m96k/3_months_fulltime_on_typerfast_an_adaptive_typing/</guid>
       <pubDate>Sat, 08 Mar 2025 17:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费托管服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6m3t3/free_hosting_server/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想启动一个个人网站，我正在寻找免费或最小的托管服务器。您将使用哪些托管服务器或方法？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/u/federal-garbage-8629      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6m3t3/free_hosting_server/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了二十一点浏览器游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6lp83/i_made_a_blackjack_browser_game/</link>
-      <description><![CDATA[        二十一点浏览器游戏我做了一段时间，我想对此获得一些反馈。它是免费的，没有广告或登录。它只是为了好玩而不是真钱。 它是在打字稿中制成的，没有框架。让我知道您对设计或其他任何事物的看法，如果有什么看起来不直觉。 玩游戏：   https://github.com/KSmith8888/TypeScript-Blackjack Desktop view:     移动视图：   规则/设置：  二十一点支付：2/1  甲板编号：可调节的设置：1-8之间，默认值为4  经销商柔和17：可调节设置，默认情况下，经销商置于此外，ACES：允许 投降：延迟投降，可以关闭期权 保险：原始赌注的1/2，可以关闭选项 抽奖速度：可调节设置（放松，正常和即时和即时）         &lt;！ -  sc_on--&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/caddywompus46     [link]   ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6lp83/i_made_a_blackjack_browser_game/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个工具来分析任何网站的技术堆栈（CMS，托管，分析等）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6lm8e/built_a_tool_to_analyze_any_websites_tech_stack/</link>
-      <description><![CDATA[   /u/u/billythemilli       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6lm8e/built_a_tool_to_analyze_any_websites_tech_stack/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了灰度网络浏览器扩展名 - 单色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6kynx/i_made_a_greyscale_web_browser_extension/</link>
-      <description><![CDATA[    So what I made is nothing fancy to be very honest, the basic reason to make this was that I wanted to get into extension development and apart from that I realised that I use less phone on greyscale mode over my smartphone and since I spend most of my time on websites over my laptop I wanted same functionality, the existing solutions didn&#39;t had a great ui/ux and site exclusion feature for the work sites so I added those two things and voila there我的第一个扩展是用WXT制成的。由于它是由WXT制成的，它适用于Chrome和Firefox：）您可以在 https://monochromate.lirirena.in.in/          href=&quot;https://github.com/lirena00/monochromate&quot;&gt;https://github.com/lirena00/monochromate if you found value in the project your star would be helpful :) here are some previews of the extension      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lirena_kiyuga     [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6kynx/i_made_a_greyscale_web_browser_extension/</guid>
-      <pubDate>Sat, 08 Mar 2025 16:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个受100万个复选框启发的玩具网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6k1z5/i_made_a_toy_website_inspired_by_one_million/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;     https:/ https://onemegapixel.clickixel.clickixel.click      大家！自从我在业余时间建造任何东西以来已经有一段时间了，我受到了100万个复选框的启发，因此决定实施类似的东西。这是一个1024x1024画布，每个人免费编辑。一次一个像素。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rgngl      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6k1z5/i_made_a_toy_website_inspired_by_one_million/</guid>
-      <pubDate>Sat, 08 Mar 2025 15:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个站点来转换或压缩图像。图像可以以3种不同的质量压缩。批量下载，压缩或转换各种文件类型。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6jv4y/i_made_a_site_to_convert_or_compress_images/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/pota_nades      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6jv4y/i_made_a_site_to_convert_or_compress_images/</guid>
-      <pubDate>Sat, 08 Mar 2025 15:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>出于某种原因，图形，树木和数学表达方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6je0k/graphs_trees_and_math_expressions_with_chinese/</link>
-      <description><![CDATA[   /u/u/mreichhoff       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6je0k/graphs_trees_and_math_expressions_with_chinese/</guid>
-      <pubDate>Sat, 08 Mar 2025 15:22:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
