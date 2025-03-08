@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 09:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:17:57 GMT</lastBuildDate>
+    <item>
+      <title>构建正常运行时间监视器：API监视体系结构 - 第1部分</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6dvg9/building_an_uptime_monitor_api_monitoring/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/sushant098123     [link]   ＆＃32;   [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6dvg9/building_an_uptime_monitor_api_monitoring/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:48:45 GMT</pubDate>
+    </item>
     <item>
       <title>有照片清洁器吗？最好的Google照片替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/tornaxo7      &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1j5848o/1j5848o/vibe_desktop_audio_visalize_visalizer_inspired_inspired_by_glava/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j5848o/vibe_desktop_audio_visualizer_inspired_by_glava/</guid>
       <pubDate>Thu, 06 Mar 2025 22:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地与Apple Notes + Ollama聊天。您会对您的反馈感到高兴！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j56ih6/locally_chat_with_apple_notes_ollama_would_be/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家 - 我听到一些人提到他们已经建立了自定义的解决方案来与他们的苹果聊天，所以我决定自己创建一个人 - 并发布它。 我住在苹果的笔记中，并在那里记录了很多东西，并且我认为这是一个很好的应用程序。苹果笔记在本地运行LLM的情况下 - 确保没有数据离开您的设备。我为该应用程序的基本版本开了开源，因为我认为还有一些有趣的机会可以添加其他集成，例如黑曜石（社区中的某人已经在努力）或概念。 可以随时查看Github  https://github.com/arnestrickmann/notechat      对您的反馈感到高兴，  arne  arne  arne     &lt;！提交由＆＃32; /u/u/arne226     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j56ih6/locally_chat_with_apple_notes_ollama_would_be/</guid>
-      <pubDate>Thu, 06 Mar 2025 21:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

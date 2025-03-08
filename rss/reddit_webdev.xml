@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 09:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:17:50 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个工具来跟踪后端的事件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6e463/i_built_a_tool_to_track_events_from_my_backend/</link>
+      <description><![CDATA[    ＆＃32;提交由＆＃32; /u/u/shash122tfu      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6e463/i_built_a_tool_to_track_events_from_my_backend/</guid>
+      <pubDate>Sat, 08 Mar 2025 10:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个诸如Form Builder的概念，可以帮助您创建复杂的表单计算器并将其嵌入网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6drxg/i_built_a_notion_like_form_builder_that_can_help/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/eashish93      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6drxg/i_built_a_notion_notion_like_builde_builder_that_that_that_that_that_can_can_help/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6drxg/i_built_a_notion_like_form_builder_that_can_help/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:41:15 GMT</pubDate>
+    </item>
     <item>
       <title>背景图像不起作用</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6d99y/background_image_not_working/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>反向工程大黄蜂</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbulm-api--pabumble-api- reversever-gress-grverse-gress-gence-gress-gencre-gress-gencre----  /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbumble-api--pabumble-ap--papi- reverse-gress-genc.提交由＆＃32; /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</guid>
       <pubDate>Sat, 08 Mar 2025 08:18:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/memester7       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6beuv/evalbar_an_opensource_chess_analysis_tool/</guid>
       <pubDate>Sat, 08 Mar 2025 06:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀]建立网络安全测验平台，以帮助准备认证+</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6b8x0/showoff_saturday_building_a_cybersecurity_quiz/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，很自豪地分享我在过去几个月，晚上和周末的工作，同时在学习我的Comptia认证时。     真的很热衷于获得您的反馈，它将帮助我衡量它的帮助，以及是否正确地完成了所有事情。  使用V0和Vercel来构建网站，重新用于问题反馈和标记系统，简单的json用于问题库。大多数问题是由AI（主要是克劳德和双子座）制定的。目前正在手动审查每个问题（我注意到一个模式通常是正确的答案是最长的答案。甚至要求AI避免这种情况，他们似乎在char count上挣扎）。  感谢堆，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6b8x0/showoff_saturday_building_a_cybersecurity_quiz/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6b8x0/showoff_saturday_building_a_cybersecurity_quiz/</guid>
-      <pubDate>Sat, 08 Mar 2025 06:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>法律/道德问题：GitHub上的网络刮擦项目 - 有哪些风险？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个个人项目，该项目涉及从各种网站（电子商务网站，评论平台和某些公共论坛）中刮擦数据）。我发现数据对自己的分析非常有用，并且正在考虑将项目开源在Github上。 在这样做之前，我想从该领域经验丰富的人那里获得一些输入： 法律问题      在github上发表网络垃圾工具的实际法律风险是什么？文件？ 与网站托管的地方相比，我（美国）的管辖区是否有差异？     任何人收到的cease和desist nether的信件或更糟糕的是                 即使某些事情在技术上是合法的，我也应该遵循指南？ 如何平衡“公共数据”。哲学具有网站所有者的利益？ 我应该在示例/文档中匿名数据吗？ 如果我的工具有可能用来绕过速率限制，我对别人如何使用它负责吗？     技术最佳实践        好的公民;当涉及刮擦时？ （限制费率，确定我的刮板等。） 我应该考虑此类项目的特定许可吗？ 我应该在我的阅读中包括警告或免责声明吗？   我不想做任何恶意的事情 - 这个项目对我有任何教育，我认为其他人可以从中受益。但是，如果我能避免，我不想对法律问题或道德批评开放。 事先感谢您可以分享的任何建议或经验！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_question_web_scraping_project_on/&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6aw48/legalethical_question_web_scraping_project_on/</guid>
-      <pubDate>Sat, 08 Mar 2025 06:12:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
