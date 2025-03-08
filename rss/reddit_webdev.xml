@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 10:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 11:15:53 GMT</lastBuildDate>
+    <item>
+      <title>如何在3D的DIV面板上复制本网站的翻转动画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j6enlt/how_can_i_replicate_this_websites_flip_animation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对措辞不好的标题表示歉意。我试图在用户向下滚动后，在3D中将所有圆形的Divs组合在一起时，要复制一定的效果。效果可以在此处找到（ awwwards链接”&gt; awwwards链接）。 。 检查网站的网站很少有3js，swup和lenis，但我不确定这一点，如果这是3js，swup＆lenis，则这些效果是这样的，这是3月份的效果。也可以使用三j。  另外，这可以在框架运动中完成吗？我是新手动画的，所以我很想了解它是如何完成的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lancer26     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j6enlt/how_can_i_replicate_this_websites_flip_animation/</guid>
+      <pubDate>Sat, 08 Mar 2025 10:47:18 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个工具来跟踪后端的事件</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6e463/i_built_a_tool_to_track_events_from_my_backend/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>反向工程大黄蜂</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbumble-api--pabumble-ap--papi- reverse-gress-genc.提交由＆＃32; /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都有任何运气发送请求通过Postman bumble？在此处发布一个问题： https://reverseengeneering.stackexchange.com/questions/questions/33404/bumble-apbulm-api--pabumble-api- reversever-gress-grverse-gress-gence-gress-gencre-gress-gencre----  /u/u/android_xiii     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6copw/reverse_engineering_bumble/</guid>
       <pubDate>Sat, 08 Mar 2025 08:18:32 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>在使用SiConify与Svelte一起使用可能无法可用的图标时提供后备图标？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在从api端点 我正在动态加载符号 我正在使用iconify/svelte渲染iCons    我的代码下面的代码看起来像是这样。从“ Iconify/svelte”导入图标;   type newsItem = {id：string;链接：字符串;标题：字符串;标签：数组＆lt; {符号：字符串;名称：string;}＆gt;＆lt;/＆gt; } const { data } = $props(); const newsItem: NewsItem = $derived(data.newsItem);  &lt;/script&gt; &lt;main&gt; {#if NewsItem}   ＆lt; div class =&#39;news-detail-tags; quot; gt; gt; {#each newsitem.tags作为newsitemtag（newsitemtag）}＆lt; a class =&#39;news-detail-tag; data-sveltekit-preload-data =; off; href = {newsitem.link}＆gt; ＆lt; icon iCon = {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} /＆gt; ＆lt; span class =“ news-detail-symbol＆quot”＆gt; {newsitemtag.symbol}＆lt;/span＆gt; ＆lt;/a＆gt; {/enth}＆lt;/div＆gt; {/if}   ＆lt;/main＆gt;    `` - 存在的符号（例如BTC）工作正常工作，因为加密货币 - 颜色：BTC存在并且可以加载btc，可以加载 - 我经常不存在符号 - 我经常不存在API，因为API不在我的控件中 - 阅读该文档，因为阅读了该文档，因为阅读了 cryptocurrency-icons 看来，他们似乎提供了一个后备图标，您可以将其用于其IconBase中不存在的符号 - 我如何指定后备     icon; icon; ICON; icon; icon&gt;＆lt;图标= {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} hallback =&#39;cryptocurrency-color：generic&#39; /＆gt;    我尝试了什么？  他们的文档提到了如果图标在本地存储中，而不是在其api     时，任何人都可以在您提供动态的sc_ /u/u/u/prestimiouszombie531     [link]       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在从api端点 我正在动态加载符号 我正在使用iconify/svelte渲染iCons    我的代码下面的代码看起来像是这样。从“ Iconify/svelte”导入图标;   type newsItem = {id：string;链接：字符串;标题：字符串;标签：数组＆lt; {符号：字符串;名称：string;}＆gt;＆lt;/＆gt; }   const {data} = $ props（）;   const newsitem：newsItem = $ derived（data.newsitem）;        ＆lt;/script＆gt;                 ＆lt; div class =&#39;news-detail-tags; quot; gt; gt; {#each newsitem.tags作为newsitemtag（newsitemtag）}＆lt; a class =&#39;news-detail-tag; data-sveltekit-preload-data =; off; href = {newsitem.link}＆gt; ＆lt; icon iCon = {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} /＆gt; ＆lt; span class =“ news-detail-symbol＆quot”＆gt; {newsitemtag.symbol}＆lt;/span＆gt; ＆lt;/a＆gt; {/enth}＆lt;/div＆gt; {/if}   ＆lt;/main＆gt;    `` - 存在的符号（例如BTC）工作正常工作，因为加密货币 - 颜色：BTC存在并且可以加载btc，可以加载 - 我经常不存在符号 - 我经常不存在API，因为API不在我的控件中 - 阅读该文档，因为阅读了该文档，因为阅读了 cryptocurrency-icons 看来，他们似乎提供了一个后备图标，您可以将其用于其IconBase中不存在的符号 - 我如何指定后备     icon; icon; ICON; icon; icon&gt;＆lt;图标= {&#39;cryptocurrency-color：&#39; + newsitemtag.symbol} hallback =&#39;cryptocurrency-color：generic&#39; /＆gt;    我尝试了什么？  他们的文档提到了如果图标在本地存储中，而不是在其api     时，任何人都可以在您提供动态的sc_ /u/u/u/prestimiouszombie531     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6cas4/provide_a_fallback_icon_when_using_iconify_with/</guid>
       <pubDate>Sat, 08 Mar 2025 07:50:34 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Hi all, I&#39;ve made an ad-free, account-free planning poker webapp that I&#39;d love you to check out. We were using an existing planning poker app during our sprint planning sessions but it was full of ads and had loads of unnecessary features so I thought I&#39;d make a simple one. Tech stack   firebase动态数据库 由Vite   反应以下是指向主页的链接，该链接有点粗糙 https：//easy-planning-poker/-okoc3njqvwtzxlvbu saly in you the room in在隐身窗口或另一个浏览器中再次加入并查看协作的工作原理。 任何反馈都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pork_cylinders     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6bx3j/a_simple_adfree_no_account_required_planning/</guid>
       <pubDate>Sat, 08 Mar 2025 07:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>BAR -BAR-开源国际象棋分析工具（烤/反馈/建议非常感谢）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6beuv/evalbar_an_opensource_chess_analysis_tool/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/memester7       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6beuv/evalbar_an_opensource_chess_analysis_tool/</guid>
-      <pubDate>Sat, 08 Mar 2025 06:48:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
