@@ -4,14 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 06:22:06 GMT</lastBuildDate>
-    <item>
-      <title>DeepSeek的开源周，为什么这很重要</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j66ue7/deepseeks_opensource_week_and_why_its_a_big_deal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们在DeepSeek的OSS周上写了一篇博客文章，为什么这很重要。希望它有用！ 👋   link      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32; /u/u/u/brirst day2748     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1j66ue7/deepseeks_opensource_week_week_and_and_and_and_why_its_a_big_deal/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j66ue7/deepseeks_opensource_week_and_why_its_a_big_deal/</guid>
-      <pubDate>Sat, 08 Mar 2025 02:17:05 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 08 Mar 2025 07:16:47 GMT</lastBuildDate>
     <item>
       <title>我应该开源CMS吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家 - 我听到一些人提到他们已经建立了自定义的解决方案来与他们的苹果聊天，所以我决定自己创建一个人 - 并发布它。 我住在苹果的笔记中，并在那里记录了很多东西，并且我认为这是一个很好的应用程序。苹果笔记在本地运行LLM的情况下 - 确保没有数据离开您的设备。我为该应用程序的基本版本开了开源，因为我认为还有一些有趣的机会可以添加其他集成，例如黑曜石（社区中的某人已经在努力）或概念。 可以随时查看Github  https://github.com/arnestrickmann/notechat      对您的反馈感到高兴，  arne  arne  arne     &lt;！提交由＆＃32; /u/u/arne226     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j56ih6/locally_chat_with_apple_notes_ollama_would_be/</guid>
       <pubDate>Thu, 06 Mar 2025 21:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于OpenSource项目的文档的最佳实践？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j55u7m/best_practices_for_documentation_of_opensource/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从事研究工作，而我的团队已经开发了几种软件工具，我们只想在of githme.md in of of github repo（s）中进行记录。我们已经广泛地使用了Repo Wiki功能，但它并不是真正引人入胜的资源。  我们的目标非常有帮助，但不是促进更大采用的途径。我们的目标是使回购成为自学成才的科学家（不仅仅是开发人员）的全面入职枢纽，并结合了可重复性的Docker选项并创建一个一站式的教育环境。我们还计划使用YouTube视频和Jupyter笔记本进行补充。  如果这有所不同，我们是100％Python。为此，我遇到了“ Divio”。文档框架将内容分类为教程，如何指导，解释和参考 - 似乎像稳固的结构一样，并从Django社区获得了支持。 我们的目标是强烈鼓励通过易于使用和倾向于可重复使用来通过易于使用我们的工具。  任何想法或建议都将不胜感激！谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fabulous-farmer7474     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j55u7m/best_practices_for_documentation_of_opensource/</guid>
+      <pubDate>Thu, 06 Mar 2025 20:54:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
