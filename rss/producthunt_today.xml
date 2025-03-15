@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 12:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 13:22:10 GMT</lastBuildDate>
     <item>
       <title>Beehiiv的直接赞助</title>
       <link>https://www.producthunt.com/posts/direct-sponsorships-by-beehiiv</link>
@@ -30,18 +30,6 @@
       <pubDate>Sat, 15 Mar 2025 00:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>choochoo</title>
-      <link>https://www.producthunt.com/posts/choochoo</link>
-      <description><![CDATA[
-            AI代理的网络以使您的增长自动化
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/choochoo</guid>
-      <pubDate>Fri, 14 Mar 2025 23:47:00 GMT</pubDate>
-    </item>
-    <item>
       <title>解散</title>
       <link>https://www.producthunt.com/posts/neuravid</link>
       <description><![CDATA[
@@ -64,6 +52,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/gemini-personalization</guid>
       <pubDate>Fri, 14 Mar 2025 03:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>pi</title>
+      <link>https://www.producthunt.com/posts/pi-6</link>
+      <description><![CDATA[
+            ML和数据科学工具包；为软件工程师建造。
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pi-6</guid>
+      <pubDate>Fri, 14 Mar 2025 01:39:28 GMT</pubDate>
     </item>
     <item>
       <title>HAL9回复</title>
@@ -102,6 +102,18 @@
       <pubDate>Thu, 13 Mar 2025 16:47:30 GMT</pubDate>
     </item>
     <item>
+      <title>双子座机器人技术</title>
+      <link>https://www.producthunt.com/posts/gemini-robotics</link>
+      <description><![CDATA[
+            将AI带入物理世界
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/gemini-robotics</guid>
+      <pubDate>Thu, 13 Mar 2025 01:13:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Zuni</title>
       <link>https://www.producthunt.com/posts/zuni</link>
       <description><![CDATA[
@@ -124,18 +136,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/joos</guid>
       <pubDate>Wed, 12 Mar 2025 10:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>fuego</title>
-      <link>https://www.producthunt.com/posts/fuego-2</link>
-      <description><![CDATA[
-            用于管理Firestore数据库的桌面应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/fuego-2</guid>
-      <pubDate>Mon, 10 Mar 2025 23:27:01 GMT</pubDate>
     </item>
     <item>
       <title>语法</title>
@@ -162,6 +162,18 @@
       <pubDate>Fri, 07 Mar 2025 19:54:03 GMT</pubDate>
     </item>
     <item>
+      <title>点击</title>
+      <link>https://www.producthunt.com/posts/clickma</link>
+      <description><![CDATA[
+             将无花果和点击保持同步
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/clickma</guid>
+      <pubDate>Mon, 24 Feb 2025 23:10:17 GMT</pubDate>
+    </item>
+    <item>
       <title>触摸草</title>
       <link>https://www.producthunt.com/posts/touch-grass</link>
       <description><![CDATA[
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/touch-grass</guid>
       <pubDate>Mon, 24 Feb 2025 08:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FACTENS.FM</title>
-      <link>https://www.producthunt.com/posts/factory-fm</link>
-      <description><![CDATA[
-            音乐评论应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/factory-fm</guid>
-      <pubDate>Mon, 17 Feb 2025 14:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
