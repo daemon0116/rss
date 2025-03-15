@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 11:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 12:34:16 GMT</lastBuildDate>
     <item>
       <title>Beehiiv的直接赞助</title>
       <link>https://www.producthunt.com/posts/direct-sponsorships-by-beehiiv</link>
@@ -102,16 +102,28 @@
       <pubDate>Thu, 13 Mar 2025 16:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>双子座机器人技术</title>
-      <link>https://www.producthunt.com/posts/gemini-robotics</link>
+      <title>Zuni</title>
+      <link>https://www.producthunt.com/posts/zuni</link>
       <description><![CDATA[
-            将AI带入物理世界
+            与Chrome侧边栏中的所有最新AI型号聊天
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/gemini-robotics</guid>
-      <pubDate>Thu, 13 Mar 2025 01:13:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/zuni</guid>
+      <pubDate>Wed, 12 Mar 2025 20:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>JOOS©</title>
+      <link>https://www.producthunt.com/posts/joos</link>
+      <description><![CDATA[
+            投资于内容创建者，加速其增长
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/joos</guid>
+      <pubDate>Wed, 12 Mar 2025 10:06:18 GMT</pubDate>
     </item>
     <item>
       <title>fuego</title>
@@ -150,30 +162,6 @@
       <pubDate>Fri, 07 Mar 2025 19:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>Agbr</title>
-      <link>https://www.producthunt.com/posts/agbr</link>
-      <description><![CDATA[
-            iPhone，iPad和Mac的黑白电影模拟器
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/agbr</guid>
-      <pubDate>Tue, 04 Mar 2025 22:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击</title>
-      <link>https://www.producthunt.com/posts/clickma</link>
-      <description><![CDATA[
-             将无花果和点击保持同步
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/clickma</guid>
-      <pubDate>Mon, 24 Feb 2025 23:10:17 GMT</pubDate>
-    </item>
-    <item>
       <title>触摸草</title>
       <link>https://www.producthunt.com/posts/touch-grass</link>
       <description><![CDATA[
@@ -184,6 +172,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/touch-grass</guid>
       <pubDate>Mon, 24 Feb 2025 08:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FACTENS.FM</title>
+      <link>https://www.producthunt.com/posts/factory-fm</link>
+      <description><![CDATA[
+            音乐评论应用程序
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/factory-fm</guid>
+      <pubDate>Mon, 17 Feb 2025 14:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
