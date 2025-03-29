@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Mar 2025 18:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 19:15:30 GMT</lastBuildDate>
     <item>
       <title>artify</title>
       <link>https://www.producthunt.com/posts/artify-3</link>
@@ -24,7 +24,7 @@
             用于更快的药物开发的AI模型
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/txgemma</guid>
       <pubDate>Fri, 28 Mar 2025 07:34:16 GMT</pubDate>
@@ -36,7 +36,7 @@
             MACOS的语音到文本应用程序
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/supavoice</guid>
       <pubDate>Fri, 28 Mar 2025 06:28:08 GMT</pubDate>
@@ -48,7 +48,7 @@
             现在具有令人惊叹的现实主义和一致的风格
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/ideogram-3-0</guid>
       <pubDate>Fri, 28 Mar 2025 00:27:51 GMT</pubDate>
@@ -76,6 +76,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/graphfast</guid>
       <pubDate>Thu, 27 Mar 2025 19:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>变焦</title>
+      <link>https://www.producthunt.com/posts/zavimo</link>
+      <description><![CDATA[
+            您所有工作的一个应用程序
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/zavimo</guid>
+      <pubDate>Thu, 27 Mar 2025 18:30:19 GMT</pubDate>
     </item>
     <item>
       <title>项目G助手</title>
@@ -108,7 +120,7 @@
             将任何文本变成可操作的笔记
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/text2note</guid>
       <pubDate>Wed, 26 Mar 2025 17:25:16 GMT</pubDate>
@@ -120,7 +132,7 @@
             指标见解和受众研究的不和谐分析
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/deepcord</guid>
       <pubDate>Tue, 25 Mar 2025 14:36:12 GMT</pubDate>
@@ -132,7 +144,7 @@
             开发人员的文本到3D生成平台
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/meshifai</guid>
       <pubDate>Tue, 25 Mar 2025 04:58:44 GMT</pubDate>
@@ -144,22 +156,10 @@
             iOS的极简主义待办事项应用
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/synctasks</guid>
       <pubDate>Mon, 24 Mar 2025 21:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlas.co 2.0</title>
-      <link>https://www.producthunt.com/posts/atlas-co-2-0</link>
-      <description><![CDATA[
-            空间应用程序的第一个无代码平台
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/atlas-co-2-0</guid>
-      <pubDate>Sun, 16 Mar 2025 09:56:15 GMT</pubDate>
     </item>
     <item>
       <title>Ayo 2.0</title>
@@ -180,7 +180,7 @@
             将匿名访客立即变成合格的潜在客户。
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/leadsourcing-2</guid>
       <pubDate>Sun, 26 Jan 2025 18:40:58 GMT</pubDate>
