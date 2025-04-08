@@ -4,7 +4,7 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 08 Apr 2025 03:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 03:39:21 GMT</lastBuildDate>
     <item>
       <title>吸引新闻的新闻网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1ju2cos/news_website_that_pulls_in_news/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>在现实世界任务中测试的AI代理</title>
       <link>https://www.reddit.com/r/webdev/comments/1jtviy0/ai_agents_tested_in_realworld_tasks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在现实世界中的Web项目中将光标，帆板和副代理模式放在测试中，在这里评估了他们在三个不同任务上的性能，而无需任何特殊配置： https://ntorga.com/ai-ai-ai-ai-agents-b-tattle-nype-or-foes/        tldr：通过我的评估，我已经得出结论，我已经结束了AI Agents尚未替换（由Ai agents）替换为一个很大的MARGES），以替换一个Margin）。 IDE的价值主张在很大程度上取决于克劳德十四行诗，但它们似乎缺少开发过程的关键方面。我认为，与其尝试完成复杂的任务，不如说IDE应该专注于将期望的结果分解为一系列较小，易于管理的步骤，然后相应地应用代码更改。我的观察结果表明，当前的模型努力保持背景并有效地完成复杂的任务。 这篇文章很长，但我很想听听其他开发人员和AI爱好者的消息 - 您对AI代理的当前状态有何看法？   &lt;！ -  sc_on--&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jtviy0/ai_agents_tested_in_realworld_tasks/”&gt; [link]        [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在现实世界中的Web项目中将光标，帆板和副代理模式放在测试中，在这里评估了他们在三个不同任务上的性能，而无需任何特殊配置： https://ntorga.com/ai-ai-ai-ai-agents-b-tattle-nype-or-foes/        tldr：通过我的评估，我已经得出结论，我已经结束了AI Agents尚未替换（由Ai agents）替换为一个很大的MARGES），以替换一个Margin）。 IDE的价值主张在很大程度上取决于Claude Sonnet，但它们似乎缺少开发过程的关键方面。我认为，与其尝试完成复杂的任务，不如说IDE应该专注于将期望的结果分解为一系列较小，易于管理的步骤，然后相应地应用代码更改。我的观察结果表明，当前的模型努力保持背景并有效地完成复杂的任务。 这篇文章很长，但我很想听听其他开发人员和AI爱好者的消息 - 您对AI代理的当前状态有何看法？   &lt;！ -  sc_on--&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jtviy0/ai_agents_tested_in_realworld_tasks/”&gt; [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jtviy0/ai_agents_tested_in_realworld_tasks/</guid>
       <pubDate>Mon, 07 Apr 2025 20:32:38 GMT</pubDate>
     </item>
@@ -71,14 +71,14 @@
     <item>
       <title>PSA：检查您的证书</title>
       <link>https://www.reddit.com/r/webdev/comments/1jtt8et/psa_check_your_certs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个好友刚刚与我共享了一个很棒的网站，以帮助我测试我的SSL设置，我发现我在Cloudflare和客户端之间的连接不合格，但我现在修复了它：    https://letsdebug.ne​​t     只需输入您的网站名称并运行支票。  ps：  ps：我不是隶属的工具，只需帮助人们提供更好的工具，可以帮助人们更好地掌握他们的范围。 ＆＃32;提交由＆＃32; /u/u/softskillsmith    href =“ https://www.reddit.com/r/webdev/comments/1jtt8et/psa_check_your_certs/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个好友刚刚与我共享了一个很棒的网站，以帮助我测试我的SSL设置，我发现我在Cloudflare和客户端之间的连接不合格，但我现在修复了它：    https://letsdebug.ne​​t     只需输入您的网站名称并运行支票。  ps：  ps：我不是隶属的工具，只有一个很棒的工具可以帮助人们更好地掌握他们的con con con /u/u/softskillsmith    href =“ https://www.reddit.com/r/webdev/comments/1jtt8et/psa_check_your_certs/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jtt8et/psa_check_your_certs/</guid>
       <pubDate>Mon, 07 Apr 2025 19:00:15 GMT</pubDate>
     </item>
     <item>
       <title>付款集成和网络钩</title>
       <link>https://www.reddit.com/r/webdev/comments/1jtt5of/payment_integrations_and_webhooks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以直到要查看付款服务API文档的关注点我看到，大多数时候，这个文档指向使用Webhooks作为选择的选择，以了解何时更新付款状态。 现在，我的问题在这些Webhooks上都不是在这些webhooks上，他们从来没有盲目地失败，因为他们却在回到返回时都不会失败？ 我觉得那不是完全正确的…… 那么Webhook failsafes的模式是什么？我应该等待一定的时间，然后做一次请求？我应该有一个轮询系统在一定时间之后重试X次吗？ 编辑：我现在了解得更好！只会使用Webhook获得新状态。感谢反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/greedyfish54     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以直到查看付款服务API文档的关注点我看到，大多数时候，这个文档指向使用webhooks作为选择的选择，以了解何时更新付款状态。 现在，我的问题在这些Webhooks上都不是在这些Webhooks上，他们从来没有盲目地失败。我觉得那不是完全正确的…… 那么Webhook failsafes的模式是什么？我应该等待一定的时间，然后做一次请求？我应该有一个轮询系统在一定时间之后重试X次吗？ 编辑：我现在了解得更好！只会使用Webhook获得新状态。感谢反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/greedyfish54     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jtt5of/payment_integrations_and_webhooks/</guid>
       <pubDate>Mon, 07 Apr 2025 18:57:08 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>是否可以在香草CSS中重新创建它？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jtrtgf/is_it_possible_to_recreate_this_in_vanilla_css/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  ，所以我的主要问题是，如果可以在CSS中重新创建自拍剪辑面膜，就像我有rhombus一样，我想要的是我想适合隆布的矩形形象，这是我想要的。这是CSS中的可能性吗？还是最好将整个内容导出为.svg？ 另外，是否可以像显示出的自由形梯度一样，还是我应该更好地坚持使用线性的梯度，考虑到这些点几乎是线性的。 对不起，如果应该在 r/web_design ，但我无法决定。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/styled_      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jtrtgf/is_it_it_possible_to_reecreate_to_to_to_this_in_in_vanilla_vanilla_css/]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  ，所以我的主要问题是，如果可以在CSS中重新创建自拍剪辑面膜，就像我有rhombus一样，我想要的是我想适合隆布的矩形形象，这是我想要的。这是CSS中的可能性吗？还是最好将整个内容导出为.svg？ 另外，是否可以像显示出的自由形梯度一样，还是我应该更好地坚持使用线性的梯度，考虑到这些点几乎是线性的。 对不起，如果应该在 r/web_design ，但我无法决定。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/styled_      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jtrtgf/is_it_it_possible_to_reete_to_to_to_to_this_in_in_vanilla_vanilla_css/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jtrtgf/is_it_possible_to_recreate_this_in_vanilla_css/</guid>
       <pubDate>Mon, 07 Apr 2025 18:02:44 GMT</pubDate>
     </item>
