@@ -4,111 +4,111 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 23:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 03:04:22 GMT</lastBuildDate>
     <item>
-      <title>我正在基于Web的IPTV客户端工作。欢迎和鼓励捐款！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6suyj/i_am_working_on_an_webbased_iptv_client/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32;  /u/Carlos_Menezes   [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6suyj/i_am_working_on_an_webbased_iptv_client/</guid>
-      <pubDate>Sat, 08 Mar 2025 22:32:38 GMT</pubDate>
+      <title>升级预算游戏：SparkyBudget更新 +您的愿望清单</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_budgeting_game_sparkybudget_update/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！好消息！我添加了您要求的许多图表功能！ 您会在“历史趋势”表下找到它们。以下是一个快速的分解：   薪水趋势：请参阅您的收入随着时间的变化。     收入与预算与预算与费用：可视化您每月保持预算的能力。返回。  按月按最高类别：快速查看您的钱每个月的去向。  我将在未来几天添加更多可视化。我想确保我专注于最有用的功能。 我目前正在考虑这些下一步：    电子邮件警报：在预算超出预算，获得每周的费用摘要以及更多。储蓄目标：设定财务目标并跟踪您的进度。  多货币支持：在不同货币中跟踪预算和支出。     ai驱动的聊天：与您的预算聊天＆amp＆amp＆amp; expenses to get personalized insights. Partner Collaboration: Shared and private accounts for couples to budget together.  So, I&#39;d love to hear from you: Which of these features would be most helpful for you right now, and what other key challenges do you face in budgeting that you&#39;d like to see solved with data可视化？ 您可以查看该应用程序，甚至可以在此处进行贡献： https://github.com/codewithub.com/codewithcj/sparkybudget 提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_budgeting_game_sparkybudget_update/</guid>
+      <pubDate>Tue, 08 Apr 2025 03:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个交互式开源数据结构可视化器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_open_source_data_structure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 作为前CS学生，我总是努力真正地“ 请参见”数据结构如何工作。树木，图形，链接列表……从理论上讲它们都是有意义的，但是我想要更多视觉的东西。因此，我构建了一个 Interactive Web应用，它使您可以使用不同的数据结构来播放，实时查看操作动画，并对它们的时间复杂性和用例进行解释。 现在，我正在做开放源，以便其他人可以从中学习，并改善它，并贡献！如果您喜欢 next.js，数据结构或只是喜欢开源项目，请随时检查一下。很想听听任何有关改进的反馈或想法！   github repo    让让学习数据结构更有趣！提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_interactive_open_source_data_sonstructure/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_open_source_data_structure/</guid>
-      <pubDate>Sat, 08 Mar 2025 18:46:55 GMT</pubDate>
+      <title>开发空间（Portainer替代方案） - 具有服务器/项目/网站管理和状态/错误记录功能的多合一开发人员工具箱。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ju0kqn/dev_space_portainer_alternative_the_allinone/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，我正在使用Portainer替代方案来管理Docker容器和Linux服务器，并在此目前使用C＃     href=&quot;http://asp.net&quot;&gt;asp.net blazor .net 8 and will be on-par with what portainer offers and more (See github current/planned features). Main features are full user accounts, 2FA and Passkeys, Team management with roles and permissions, Server management for docker resources and game server management for Minecraft and Battleye games using rcon。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xxbuilderbxx        [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ju0kqn/dev_space_portainer_alternative_the_allinone/</guid>
+      <pubDate>Tue, 08 Apr 2025 00:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>进行浏览器扩展程序，以帮助您跟踪并了解您遇到的所有会员链接。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  会员链接透明度扩展 曾经想知道当您在线购物时将应用哪个会员链接？我做了一个浏览器扩展程序，向您显示了这一点 - 对您购买的全部透明度！ 它的工作原理  获取 Notification 访问具有会员链接的网站时。   扩展 forts  li li  li&gt; li     会员链接为JSON。  为什么我建立此 我们都应该清楚地知道谁从我们的购买中赚取了委员会。一些公司（例如 honey ）毫无疑问地劫持了针对品牌或创作者的佣金。此扩展有助于为系统带来公平性。 贡献 它还不完美！一些细节可能并不总是能正确显示，因此我欢迎社区的贡献。 If you want to help improve it, check out the repo here: https://github.com/widejoy/affiliate-tracker also im a junior dev, so i made this with very limited knowledge and advice is appriciated  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/not-debt5889     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:57:03 GMT</pubDate>
+      <title>使用带有“ mkfs.ext4 -d”的TAR存档填充Ext4文件系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtxyos/using_a_tar_archive_with_mkfsext4_d_to_populate/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtxyos/using_a_tar_archive_with_mkfsext4_d_to_populate/</guid>
+      <pubDate>Mon, 07 Apr 2025 22:16:53 GMT</pubDate>
     </item>
     <item>
-      <title>今天刚刚完成AIAPWN，这是一种自动及时注射工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   aiapwn是一个简单的工具，可以自动检测AI代理和LLMS中的提示注射漏洞的过程。     github：   https://github.com/karimhabush/aiaiapwn        &lt;！提交由＆＃32; /u/u/karimhabush     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:43:36 GMT</pubDate>
+      <title>您是否仍然每次Google小型开发工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_google_small_dev_tools_every_time/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我昨天正在清理快速的API响应，需要格式化JSON，解码base64字符串并进行哈希内容。没什么花哨的，但是我抓住了自己像四个不同的网站一样开放。 这让我想知道……为什么我们没有更多的地方将这些东西结合在一起？ 我找到了 对我来说使事情变得更加顺利 - 好奇别人如何处理这种事情。您只是继续谷歌搜索每个工具还是拥有一个首选网站？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/roughowll    href =“ https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_still_google_small_small_dev_tools_every_time/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_google_small_dev_tools_every_time/</guid>
+      <pubDate>Mon, 07 Apr 2025 21:36:56 GMT</pubDate>
     </item>
     <item>
-      <title>🚀dagserver：带有Spring Boot运行DAG的开源服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我们想介绍 dagserver ，这是一个由专业人士合作的开源项目。 dagserver是弹簧启动基于旨在执行和编排 dags（有向无环图）有效的服务器。 如果您正在寻找一种轻巧的解决方案，如果您正在寻找使用DAG的轻量级解决方案，我们会邀请您尝试使用DAG，我们邀请您进行反馈！ href =“ https://github.com/telemodemti/dagserver”&gt; github上的dagserver     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/then-dark-7298   href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_open_source_server_server_for_running_dags/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_source_server_server_for_running_dags/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</guid>
-      <pubDate>Sat, 08 Mar 2025 15:21:48 GMT</pubDate>
+      <title>好的开源字幕/字幕AI？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtvznh/good_open_source_subtitlecaptions_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  我正在寻找   - 是开源   - 是开源   - 是开源   - 安装到我的设备上（Linux计算机），然后在不访问Internet的情况下工作，然后将我的录音（我可以访问a Enterne and Interne and Intern Intern Interio），我可以将我的音频置于多个小时的范围内，并且我可以将其置于多个小时的音频中，并且我可以在此处使用a（and p）。表格   - 比自动youtube字幕做得更好。 我的兄弟确定存在这样的东西，但不知道它叫什么。如果我对此感到不安，他可能会再次找到它，但是他总是让我因为不知道如何正确搜索这些东西而感到愚蠢（我不知道相关的关键字是什么，然后，如果我发现某些东西我永远不确定我想要的是我想要的），而且我已经不得不打扰他，我想我只想让他一旦烦恼您，而是先烦恼他。  所以有人知道吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_queenofwastingtime_      [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtvznh/good_open_source_subtitlecaptions_ai/</guid>
+      <pubDate>Mon, 07 Apr 2025 20:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>软件变形窗口？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 我的弟弟刚从政府那里收到了免费的笔记本电脑。这是非常基本的，只有128GB NVME和4GB为2400mt/s RAM。  他使用Windows 11，我将首先进行新的安装，因为它带有大量膨胀。但是之后，我想从Microsoft软件包中脱光。但是我需要一种安全的私人方法来这样做。  我知道安装Linux可能是一个更好的解决方案，但是由于我可以通过手机上的Windows上一个应用程序控制所有父母控件，这是目前OS的最佳选择。  有帮助吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/”&gt; [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/</guid>
-      <pubDate>Sat, 08 Mar 2025 13:34:55 GMT</pubDate>
+      <title>我可以免费托管一个使用自定义域名的网站？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_with_custom_domain/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好书呆子，我正在寻找一项开源托管服务，可以免费托管我的工作。 我是计算机科学的开端者，想通过我可以托管我的网站或可以播放的服务来启动我的网站，可以播放我可以开放的东西。这将非常感激。 此外，如果您免费托管了自己的某个网站，请给我链接，以便我可以汲取灵感。这对我很有帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fun-meaning8995    href =“ https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_free_with_custom_domain/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_i_host_website_for_for_fore_free_with_custom_domain/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_with_custom_domain/</guid>
+      <pubDate>Mon, 07 Apr 2025 20:12:35 GMT</pubDate>
     </item>
     <item>
-      <title>寻找可以做出贡献的开源项目！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6f6ul/looking_for_open_source_project_to_contribute_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是物理学生，我认识Python，C，C ++和Verilog。物理，数学或与AI相关的是最好的，但是其他任何东西都可以！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/albert_sue     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6f6ul/looking_for_open_source_project_to_contribute_to/</guid>
-      <pubDate>Sat, 08 Mar 2025 11:26:08 GMT</pubDate>
+      <title>使用AI作为现在的非编码器开发应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_using_ai_as_a_now_noncoder/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大约25年前，我在MS Access 2000上进行了一些灯光编码，但此后还没有真正完成。最近，我对应用程序有一些想法，并使用AI进行了集思广益。我目前没有有用的编码技能，但是至少从理论上讲，我可以从LLM中获得代码并开始使用它，甚至可以在此过程中学习一些当前的编码。如果我制作可能对他人有用的东西，我会通过将其作为开源来创建问题吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_app_use_ai_ai_a_a_a_a_a_now_now_noncoder/”&gt; [link]     [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_using_ai_as_a_now_noncoder/</guid>
+      <pubDate>Mon, 07 Apr 2025 19:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>有照片清洁器吗？最好的Google照片替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  那时我曾经将所有照片备份到我的Google照片中，而无需考虑太多。没关系，我根本不在乎那里有多少重复。然后，去年我购买了Google Photos sub，并在其中乱扔了所有照片。而且我的存储几乎即将变得完整。我要在本地存储中下载所有这些照片，然后使用某种工具来删除这些模糊，重复的...我也正在寻找可以将照片自动将我的照片分类为食物，自然，建筑等的东西。这样，我更容易选择需要删除哪些照片。然后，这样做之后，我将备份作为用途，但是这次我想尝试除Google Photos以外的其他方法。请给我一些东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/strange-series-5510     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</guid>
-      <pubDate>Sat, 08 Mar 2025 08:54:50 GMT</pubDate>
+      <title>我的Foss工具在GitHub上达到了300星</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jttlku/my_foss_tool_reached_300_stars_on_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我为网络安全防御者创建了一个网络安全工具（它是免费的和开源的）。由于这个项目变得严肃起来（Github上的300多颗明星），所以我想谈论它传播这个词：） 进行得很好，以至于有人问我是否可以赞助该项目，我拒绝了，因为我认为回馈社区很重要，这不是一个编码良好的项目。  我希望它对网络安全调查有帮助，或者如果您很好奇。  项目的目标：分析电子邮件地址，域，IP，URL，哈希或Chrome扩展ID具有不同的威胁智能源，并在报告中获取总体信息。  它从WHOIS记录到InfoStealers检查。  我使用多个免费的API，例如Virustotal，Urlscan，Hudson Rock，thrantfox，Ipquery ...（有20个可用来源）。  随时检查回购： https://github.com/stanfrbd/cyberbro/   href =“ https://demo.cyberbro.net/”&gt; https://demo.cyberbro.net/    如果您觉得有用，或者如果您觉得有用，或者对代码有任何问题，或者对代码的建议很清晰（我真的不错）。  祝您有美好的一天，感谢您阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stan_frbd     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jttlku/my_foss_tool_reached_300_stars_on_github/</guid>
+      <pubDate>Mon, 07 Apr 2025 19:14:34 GMT</pubDate>
     </item>
     <item>
-      <title>我应该开源CMS吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个自由职业者，在PHP中为客户端项目编写了自己的CMS平台。我对此非常满意，因为它完全与我的编程风格相匹配，而且我也知道有关它的一切。我最近实施了一个插件功能，发现它比其他任何内容都更简单，直观。您认为完全记录和开源此软件是一个明智的决定吗？它如何使我受益？我将如何奖励贡献者？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6339j/should_i_open_source_my_cms/</guid>
-      <pubDate>Fri, 07 Mar 2025 23:09:59 GMT</pubDate>
+      <title>Ember Link-开源SDK用于将协作添加到任何应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去几个月中一直在构建一个名为ember链接的开源项目。这是一种用于将实时协作添加到您的Web应用程序中的工具包，例如Live-Live-Offication，例如用户之间的启示，用户之间的消息，以及与CRDTS共享。思考Google文档风格的同步，但是您可以放入自己的应用程序中。听起来很有用，请随时查看： https：//docs.emberlink.io  会喜欢任何反馈或想法！提交由＆＃32; /u/shursaz     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</guid>
+      <pubDate>Mon, 07 Apr 2025 18:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>FileBokz  - 一个微小的，无依赖的，高度可定制的文件输入，具有一些漂亮的甜美功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5ye8e/filebokz_a_tiny_dependencyfree_highly/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/fiftfifteendotcom       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5ye8e/filebokz_a_tiny_dependencyfree_highly/</guid>
-      <pubDate>Fri, 07 Mar 2025 19:51:27 GMT</pubDate>
+      <title>寻找高质量开源软件目录</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtok3g/looking_for_a_directory_of_high_quality_open/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  几年前，我记得找到一个非常精致的开源应用程序的&#39;目录&#39;（或者他们可能称其为&#39;生态系统&#39;或可能是&#39;一个财团&#39;），这些应用程序通常是非常精致的，通常用于业务系统。这是一个很棒的应用程序，并且已经努力确保它们彼此融合得很好。我认为baserow或 cal.com 可能是其中的一部分。这为任何人响了吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/extra_negotiation     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtok3g/looking_for_a_directory_of_high_quality_open/</guid>
+      <pubDate>Mon, 07 Apr 2025 15:50:48 GMT</pubDate>
     </item>
     <item>
-      <title>RIO点击100K下载和2K GitHub星星 - 开源Python Web应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_downloads_2k_github_stars_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 在过去的10个月中，我和我的朋友创建了Rio，Rio是一个开源框架，可以帮助Python开发人员构建现代Web应用程序而无需HTML，CSS或JavaScript。如今，我们很高兴分享Rio自推出以来，Rio超过了100,000次下载和2300多个Github星星！ 🎉 非常感谢这个了不起的社区的支持，反馈和贡献，这些支持，反馈和贡献帮助我们改善了里约热内卢！  Rio是什么？使用RIO，使用Python组件定义了UI，灵感来自React和React和Flutter。您没有编写HTML/CSS，而是在Python中撰写可重复使用的UI元素，让Rio处理渲染和状态更新。后端和前端使用Websocket无缝连接，因此数据无需手动API调用即可自动同步。由于Rio是完全Python本地的，因此您可以将其与任何Python库集成，从数据科学工具到AI模型。 我们已经看到人们建立了从CRM工具到仪表板，LLM界面以及使用RIO的交互式报告的所有内容，但是我们一直在寻找改进的方法。如果您是对Web应用程序感兴趣的Python开发人员，我们很想听到：  您喜欢里约热内卢？ 缺少什么？ 您希望看到什么功能？ href =“ https://github.com/rio-labs/rio”&gt; https://github.com/rio-labs/rio      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_100k_downloads_2k_github_stars_open/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_downloads_2k_github_stars_open/</guid>
-      <pubDate>Fri, 07 Mar 2025 14:01:20 GMT</pubDate>
+      <title>DoCext：由视觉模型提供支持的开源，本地文档智能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtliho/docext_opensource_onprem_document_intelligence/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们很高兴开放源 docext ，一种零o的内部，本地工具，用于从发票，护照等文档中提取结构化数据，诸如云，无云，无需外部apis，不需要外部apis， by  by   docext 在视觉和语义上了解文档以提取字段数据和表格 - 直接从文档图像中。 全部运行它，以全部运行，以进行完整的数据隐私和控制。   关键功能：    custom＆amp;预构建的提取模板 表 +现场数据提取  gradio-power-power Web界面 与REST API  多页文档支持 置信度得分 用于提取字段的置信得分                 docext 帮助您在几分钟内将它们变成可用的数据。尝试一下：     pip install docext 或通过docker  用 python -m code&gt;   旋转Web UI href =“ https://github.com/nanonets/docext”&gt;  docext.app.app.app.app.app      github： https://github.com/nanonets/docext/docext  问题？功能请求？打开问题或开始讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/souvikmandal     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtliho/docext_opensource_onprem_document_intelligence/</guid>
+      <pubDate>Mon, 07 Apr 2025 13:41:28 GMT</pubDate>
     </item>
     <item>
-      <title>您能给我一个很好的理由不开源项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5mztj/can_you_give_me_a_good_reason_not_to_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  许多成功的应用程序具有简单的技术，没有任何简单的应用程序。他们的力量在网络效应中有效，那么为什么不再像Tinder，Reddit等应用程序开源代码，邀请任何人贡献和奖励贡献者呢？似乎是支持开发社区并拥有更好产品的好方法。也许向“批准”贡献者开放？ 我没有得到什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j5mztj/can_you_give_give_give_me_a_good_reason_not_not_to_open_source/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j5mztj/can_you_give_give_me_me_a_reason_not_not_to_open_source/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5mztj/can_you_give_me_a_good_reason_not_to_open_source/</guid>
-      <pubDate>Fri, 07 Mar 2025 13:00:05 GMT</pubDate>
+      <title>橡树 - 开放式代理知识</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtivl9/oak_open_agentic_knowledge/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/aspleenic       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtivl9/oak_open_agentic_knowledge/</guid>
+      <pubDate>Mon, 07 Apr 2025 11:23:08 GMT</pubDate>
     </item>
     <item>
-      <title>🚀释放了Strava V0.4.24的统计信息！名称更名，更多的翻译和社区提出的许多小改进</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5kj3u/statistics_for_strava_v0424_released_name_rebrand/</link>
-      <description><![CDATA[Hi r/opensource! I&#39;m glad to announce Statistics for Strava `v0.4.24` has been released earlier today.  Statistics for Strava is a self-hosted web app designed to provide you with better stats.   Example:  https://strava-statistics.robiningelbrecht.be/      github： https://github.com/robiningelbrecht/strava-statistics             通过V0.4.24中的新功能和即将到来。  u/robiningelbrecht   u/robiningelbrecht  in  u/robiningelbrecht  in  u/robiningelbrecht  in  @robiningelbrecht  in  @robiningelbrecht  in  @robiningelbrecht  in  @robiningelbrecht  in  @robiningelbrecht ，@f0ns  href =“ https://github.com/robiningelbrecht/strava-statistics/pull/295”&gt;＃295     essue-294：trivia rework by ＃297      esluce-279：＃280    壮举：添加＃318    许多错误修复和小改进     href =“ https://github.com/robiningelbrecht/strava-statistics/issues”&gt; https://github.com/robiningelbrecht/strava-statistics/issues/issues       始终如一地感谢您的反馈，我期待您的更多功能！提交由＆＃32; /u/u/frogfuhrer     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5kj3u/statistics_for_strava_v0424_released_name_rebrand/</guid>
-      <pubDate>Fri, 07 Mar 2025 10:30:25 GMT</pubDate>
+      <title>基于AI的开源代码审阅者，具有隐私和NO-ADS。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jtit0v/ai_based_open_source_code_reviewer_with_privacy/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了一个AI驱动的代码评论助手在您的计算机上运行PHI-2的私人，匿名，无效和安全代码分析而不在线共享您的代码。这是开源的，该代码可在GitHub上获得，请阅读有关必需的文档，因为这需要本地服务器托管PHI-2模型与客户端连接。这些文件约为。 5.5GB的大小。如果您想为项目做出贡献并改善当前的设置，则非常欢迎您。 客户端链接：  github repo： https://github.com/ravzzy/ravzzy/ai-code-reviewer 提交由＆＃32; /u/u/ravzzy     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jtit0v/ai_based_open_source_code_reviewer_with_privacy/</guid>
+      <pubDate>Mon, 07 Apr 2025 11:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub-Davidesantangelo/Lainet：灯柱：一种轻巧的工具，可在局部网络上进行安全易于对等通信。包括CLI和Ruby API。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5hxvx/github_davidesantangelolanet_lanet_a_lightweight/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/davidesantangelo       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5hxvx/github_davidesantangelolanet_lanet_a_lightweight/</guid>
-      <pubDate>Fri, 07 Mar 2025 07:20:34 GMT</pubDate>
+      <title>我开了一个SaaS MVP发射套件（NextJS，Supabase，Stripe）。您对这些工具有何看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jthucd/i_open_sourced_a_saas_mvp_launch_kit_nextjs/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ornery_ice4596     [links]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jthucd/1jthucd/i_open_sourced_a_sa_saas_mvp_launch_kit_kit_kit_nextjs/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jthucd/i_open_sourced_a_saas_mvp_launch_kit_nextjs/</guid>
+      <pubDate>Mon, 07 Apr 2025 10:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>如何为SEO优化网站 - 开发人员指南</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_for_seo_a_developers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  搜索引擎优化（SEO）是改善网站在搜索引擎上的可见性的艺术和科学。作为Web开发人员，您应该对SEO实践有深刻的了解，以帮助客户的网站在搜索结果中排名更高。本指南将引导您浏览SEO网站的步骤。单击链接以阅读全文。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no-whole520     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_a_website_for_seo_a_develicers/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5gn5m/how_to_optimize_a_website_for_seo_a_developers/</guid>
-      <pubDate>Fri, 07 Mar 2025 05:52:22 GMT</pubDate>
+      <title>SQL Noir  - 一个开放源代码侦探游戏，可以学习SQL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jthh36/sql_noir_an_opensource_detective_game_to_learn_sql/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/chrisbhappy     &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1jthh36/sql_noir_an_opensource_detective_game_game_game_to_learn_sql/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jthh36/sql_noir_an_opensource_detective_game_to_learn_sql/</guid>
+      <pubDate>Mon, 07 Apr 2025 09:50:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
