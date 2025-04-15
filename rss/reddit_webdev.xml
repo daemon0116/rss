@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 09:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 10:23:27 GMT</lastBuildDate>
+    <item>
+      <title>我使用Polar.sh将许可/付款添加到我的浏览器扩展程序中，并与10K用户一起添加了许可证/付款。 AMA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jznycw/i_used_polarsh_to_add_licensepayment_to_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用polar而不是条纹/桨，因为前者是MOR，其API非常友好，尤其是您要管理许可购买的产品，等等。最后，与桨不同的是，它们可以使用扩展。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/party-vehicle-81     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jznycw/i_used_polarsh_to_add_licensepayment_to_my/</guid>
+      <pubDate>Tue, 15 Apr 2025 09:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求DEV合作伙伴作为语言学习平台，任何人都可以创建课程。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jznvqv/seeking_a_dev_partner_for_language_learning/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hey  r/webdev  href =“ https://preview.redd.it/85cvxrflzyue1.png？ https://preview.itd.it/85cvxrflzyue1.png?width=3308＆amp; amp; format = png＆amp; amp; amp; auto = webppumpp; s = b75beb9b9b9b9b705ea98b09b509b555555555dc00124d239bea9bea9bea9bea9f5c4   我正在构建 asakiri ，一个开放的语言学习平台，老实说，事情尚未按计划进行。 开发的发展速度减慢了。我的开发人员伴侣离开了，我一直在尝试提高我的编码技能的同时，在兼顾其他工作。我仍在努力，只是一个速度要慢得多。 我最近有了一个唤醒电话。在构建数字教科书平台时，我发现自己使用Duolingo和实体教科书进行我自己的日语研究。  这让我意识到了两件事： 数字教科书通常很无聊地狱 进行教科书风格课程是一个很大的时间（几个用户开始创建课程，但放弃了课程，但由于工作太多而放弃了） 实际上向您展示了词汇而不是隐藏单词 较少无意识的重复 保持应用程序通常会跳过   的更深层次的语法解释：我是UX/UI设计师具有SVELTE的经验，因此我非常关心这种感觉很好地使用。不仅是功能。 我想在确保课程创建者拥有自己的内容的同时制作这个完全开源的，如果他们愿意，可以将其获利。这与Lingonaut的方法不同。 寻找合作者 如果您喜欢打字稿，现代网络框架（尤其是对苗条的人），数据库设计或语言学习技术，我很想聊天。主要的挑战是创建灵活的课程结构，并使学习体验实际上动机。 创建良好的语言内容仍然很难，即使采用更游戏化的方法，我还没有完美的解决方案。我对如何使内容变得更轻松而不使内容变得很烂。 如果您对语言学习和开源工具感兴趣，请让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biricat     [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jznvqv/seeking_a_dev_partner_for_language_learning/</guid>
+      <pubDate>Tue, 15 Apr 2025 09:49:42 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用Python构建像Github Copilot和Gemini这样的PR审稿人</title>
       <link>https://www.reddit.com/r/webdev/comments/1jznbnw/how_to_build_a_pr_reviewer_like_github_copilot/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我想开始从事一个个人众筹项目，我不需要任何幻想。具有基本HTML和CSS的Web 2.0甚至1.0 ERA网站应该足够，就像Tomscott.com一样。您能帮我从一些很棒的视频/s？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cemmisali     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzeaux/no_experience_with_webdev_suggest_me_a/</guid>
       <pubDate>Tue, 15 Apr 2025 00:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>支付网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzd8tw/paying_for_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我也会购买并托管，您将帮助我指导我最好的选择，当您加入网站时，您将拥有可点击的图像和按钮，这些图像和按钮将导致我的网站上的不同页面（我想要的网站上都不会付款或任何复杂的网站示例）我想要的：基本的图像和单击图像。我的预算来自20-50 $。 另外，我还将向您提供images    pm/dm我（如果您已经相交），谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/scaredofnoone     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzd8tw/paying_for_website/</guid>
-      <pubDate>Mon, 14 Apr 2025 23:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志性命令</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzcz33/iconic_commands/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  错误与否，对我的标志性命令是：   rm -rf ./node_modules; \  npm i    yall的传奇命令有哪些？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/barrel_of_noodles     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzcz33/iconic_commands/</guid>
-      <pubDate>Mon, 14 Apr 2025 23:16:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

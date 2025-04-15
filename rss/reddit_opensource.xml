@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 15 Apr 2025 09:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 10:23:32 GMT</lastBuildDate>
+    <item>
+      <title>去年，我建造了这个开源SMS网关，现在击中了5,000个活跃用户</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jznv25/i_built_this_opensource_sms_gateway_last_year_now/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ I’m excited to share a milestone and get some feedback from the open-source community here. Last year, I launched textbee.dev, an open-source Android SMS gateway that acts as a twillio alternative for sending and receiving SMS messages directly using your Android电话。 本周，我们击中了5,000个用户和1,200多个github星星！ 🎉 对于那些尚未听说过的人来说，TextBee是一条具有以下功能的开源SMS-GATEWAY：  将您的Android设备用作SMS-GATEWAY  通过API/Web Dashboard/web dashboard                    它带有Android应用程序和Web UI，因此您可以完全控制。 在以下位置查看： textbee.dextbee.deve.dev   href =“ https://github.com/vernu/textbee”&gt; github.com/vernu/textbee    迄今为止，非常感谢开放源社区的支持。我很想听听任何反馈或功能创意！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/starre_situation_60     [links]        &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jznv25/1jznv25/i_built_this_opensource_sms_sms_gateway_gateway_gateway_last_year_now/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jznv25/i_built_this_opensource_sms_gateway_last_year_now/</guid>
+      <pubDate>Tue, 15 Apr 2025 09:48:21 GMT</pubDate>
+    </item>
     <item>
       <title>寻找开源Java项目以贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1jzec0b/looking_for_open_source_java_projects_to/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/softwarecitadel      [注释]         ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jytpuj/ffmpegasaservice/</guid>
       <pubDate>Mon, 14 Apr 2025 08:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI/UX设计师希望贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jyssm2/uiux_designer_looking_to_contribute/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是UI/UX设计师全职，但我很想为任何项目做出贡献，以参与开源社区。关于从哪里开始的任何建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/petelsuz     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jyssm2/uiux_designer_looking_to_contribute/</guid>
-      <pubDate>Mon, 14 Apr 2025 07:05:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
