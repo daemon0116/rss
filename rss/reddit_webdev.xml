@@ -4,20 +4,41 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 10:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 11:18:33 GMT</lastBuildDate>
+    <item>
+      <title>您会搬到一家较小的产品公司，以涉及其他技术堆栈的薪水大量凹痕吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzp6v1/would_you_move_to_a_smaller_product_company_for_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我目前是一家大型咨询公司的主要建筑师，主要在数字体验领域工作。我的重点是内容管理，数字资产管理，个性化和相关领域。我在目前的公司中处于强大的位置，并且在大约2个月内晋升，这可能会使我的基本工资从180k CAD升至约200k CAD。他们在数字体验领域已经存在了相当长的一段时间，但近年来并没有得到广泛认可，而且增长或市场的发展并不多。他们为我提供了与我今天所做的非常相似的角色，但是基本工资将大幅增加到245k CAD。一方面，新角色的支付更大，但是一个全新的技术堆栈。另一方面，该公司相对停滞，并且缺乏其产品的行业知名度（我在新公司的产品不在前10名中，在堆栈中工作，该堆栈被广泛认为是最好的）和品牌知名度。我试图确定是否值得留下一个稳定且受到全球尊重的组织，以便有机会在风险和不确定性的公司中获得更多的收入。在过去的3  -  4年中，他们进行了几轮安静的裁员，这似乎是一般的势头。我也无法衡量今天的情况。 如果有人采取了类似的举动或对这种决定有洞察力，我很想听听您的观点。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ultraquantum     [links]       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jzp6v1/1jzp6v1/would_you_move_to_a_smaller_smaller_smaller_smaller_product_company_for_a/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzp6v1/would_you_move_to_a_smaller_product_company_for_a/</guid>
+      <pubDate>Tue, 15 Apr 2025 11:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试本身的代码：主张您的假设</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzoxue/code_that_tests_itself_asserting_your_assumptions/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yyybrolmao       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzoxue/code_that_tests_itself_asserting_your_assumptions/</guid>
+      <pubDate>Tue, 15 Apr 2025 10:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子邮件验证过程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzox4t/email_validation_process/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您对2个电子邮件验证方法的看法  在注册后，重定向到确认页面，在此处输入接收到的OTP  在注册页面上输入注册页面有验证电子邮件，并提交了注册表，并提交了注册形式。这样，就不再需要第二步。  我更喜欢从DX和UX台上更好的第二种方法，但是我只看到在少数情况下实现了A，而第一种方法更常见  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pixobit      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzox4t/email_validation_process/</guid>
+      <pubDate>Tue, 15 Apr 2025 10:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>丰富的文本编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzovfv/rich_text_editor/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我正在寻找是否有任何文本编辑器，带有页面断路，标头和页脚。 谢谢。提交由＆＃32; /u/u/welcomemysterious122     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzovfv/rich_text_editor/</guid>
+      <pubDate>Tue, 15 Apr 2025 10:54:40 GMT</pubDate>
+    </item>
     <item>
       <title>我使用Polar.sh将许可/付款添加到我的浏览器扩展程序中，并与10K用户一起添加了许可证/付款。 AMA</title>
       <link>https://www.reddit.com/r/webdev/comments/1jznycw/i_used_polarsh_to_add_licensepayment_to_my/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用polar而不是条纹/桨，因为前者是MOR，其API非常友好，尤其是您要管理许可购买的产品，等等。最后，与桨不同的是，它们可以使用扩展。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/party-vehicle-81     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jznycw/i_used_polarsh_to_add_licensepayment_to_my/</guid>
       <pubDate>Tue, 15 Apr 2025 09:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求DEV合作伙伴作为语言学习平台，任何人都可以创建课程。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jznvqv/seeking_a_dev_partner_for_language_learning/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hey  r/webdev  href =“ https://preview.redd.it/85cvxrflzyue1.png？ https://preview.itd.it/85cvxrflzyue1.png?width=3308＆amp; amp; format = png＆amp; amp; amp; auto = webppumpp; s = b75beb9b9b9b9b705ea98b09b509b555555555dc00124d239bea9bea9bea9bea9f5c4   我正在构建 asakiri ，一个开放的语言学习平台，老实说，事情尚未按计划进行。 开发的发展速度减慢了。我的开发人员伴侣离开了，我一直在尝试提高我的编码技能的同时，在兼顾其他工作。我仍在努力，只是一个速度要慢得多。 我最近有了一个唤醒电话。在构建数字教科书平台时，我发现自己使用Duolingo和实体教科书进行我自己的日语研究。  这让我意识到了两件事： 数字教科书通常很无聊地狱 进行教科书风格课程是一个很大的时间（几个用户开始创建课程，但放弃了课程，但由于工作太多而放弃了） 实际上向您展示了词汇而不是隐藏单词 较少无意识的重复 保持应用程序通常会跳过   的更深层次的语法解释：我是UX/UI设计师具有SVELTE的经验，因此我非常关心这种感觉很好地使用。不仅是功能。 我想在确保课程创建者拥有自己的内容的同时制作这个完全开源的，如果他们愿意，可以将其获利。这与Lingonaut的方法不同。 寻找合作者 如果您喜欢打字稿，现代网络框架（尤其是对苗条的人），数据库设计或语言学习技术，我很想聊天。主要的挑战是创建灵活的课程结构，并使学习体验实际上动机。 创建良好的语言内容仍然很难，即使采用更游戏化的方法，我还没有完美的解决方案。我对如何使内容变得更轻松而不使内容变得很烂。 如果您对语言学习和开源工具感兴趣，请让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biricat     [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jznvqv/seeking_a_dev_partner_for_language_learning/</guid>
-      <pubDate>Tue, 15 Apr 2025 09:49:42 GMT</pubDate>
     </item>
     <item>
       <title>如何使用Python构建像Github Copilot和Gemini这样的PR审稿人</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我试图创建一个可以跟踪点击率（CTR）（CTR）和每封电子邮件的速率的爆炸邮件功能。我已经完成了CTR部件，这实际上很容易，因为它仅涉及一个带有参数的按钮。 现在，我试图弄清楚如何实现 SEED 功能。到目前为止，我尝试的是将托管在服务器上的图像嵌入并使用电子邮件中发送的参数。我直接访问请求，但是当涉及到Gmail时，URL似乎会发生变化 - 可能是因为Gmail使用代理来加载图像。结果，该图像实际上并未从我的服务器中获取。 这可能是一个安全功能，我只是用于获取用户数据的冲洗。如果有人有想法或工作，请告诉我。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzirbm/how_to_to_to_check_an_email_email_email_has_been_been_viewed_by_by_the/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jzirbm/how_to_check_check_an_email_email_has_has_has_has_been_viewed_by_by_by_by_the/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzirbm/how_to_check_if_an_email_has_been_viewed_by_the/</guid>
       <pubDate>Tue, 15 Apr 2025 04:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户的网站被一些“ AI刮刀”网站克隆。。。您如何证明这是盗窃？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzg1ca/clients_site_got_cloned_by_some_ai_scraper/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  为设计师客户端构建了一个投资组合网站。 2周后，他给我发送了一个链接，例如“呃……这是您的设计吗？”果然，这是完全相同的布局。相同的CSS，相同的图像压缩工件。...只有字体和触点形式不同。有人克隆了整个内容。 我们提交了DMCA，但他们回来说：“证明内容已经发布了。”喜欢？？我们有一个领域和现场推动日期。出于挫败感，我从网络网络网中求助，他以前处理过克隆的网络资产。他们帮助构建了一个用档案网站快照，图像元数据和后端版本化证据。 仍与主机打交道，但至少现在我们有正式的证据，不仅仅是“相似”网站...这是直接升降机。如果您曾经发布投资组合工作，请保留所有内容的副本。甚至您的代码时间戳。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sander1412     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzg1ca/clients_site_got_cloned_by_some_ai_scraper/</guid>
-      <pubDate>Tue, 15 Apr 2025 01:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>驾驶地图应用程序的用户界面。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzexsy/the_user_interface_for_a_driving_map_application/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/majestic_affect_1152       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzexsy/the_user_interface_for_a_driving_map_application/</guid>
-      <pubDate>Tue, 15 Apr 2025 00:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有WebDev的经验。建议我使用基本HTML的视频/播放列表。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzeaux/no_experience_with_webdev_suggest_me_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想开始从事一个个人众筹项目，我不需要任何幻想。具有基本HTML和CSS的Web 2.0甚至1.0 ERA网站应该足够，就像Tomscott.com一样。您能帮我从一些很棒的视频/s？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cemmisali     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzeaux/no_experience_with_webdev_suggest_me_a/</guid>
-      <pubDate>Tue, 15 Apr 2025 00:18:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

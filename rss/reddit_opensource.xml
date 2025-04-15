@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 15 Apr 2025 10:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 11:18:41 GMT</lastBuildDate>
+    <item>
+      <title>[更新]我构建了一个交互式开源数据结构可视化器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_source_data/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家 ，不久前，我分享了有助于可视化和与链接列表，树和图形等数据结构进行交互，以显示它们如何通过插入，删除和搜索等操作进行实时变化。非常感谢所有签出并提供反馈的人！ 我刚刚根据该反馈启动了一个重大更新，我很高兴分享什么新的     动画视觉演练 实时编码块 明确的初学者解释和经验丰富的devs            完整的UI REDESIGN 导航和布局 完全响应（在移动设备上也很好地工作！）   可访问性＆amp; UX改进   一致的样式和更好的可读性 改进的互动设计 更具包容性的体验  是您是第一次学习数据结构，还是只是想刷新，我会喜欢它。和往常一样，我真的很感谢任何想法，建议或错误报告！ 📎[github + to to app]：支持！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_open_source_data/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_source_data/</guid>
+      <pubDate>Tue, 15 Apr 2025 10:32:29 GMT</pubDate>
+    </item>
     <item>
       <title>去年，我建造了这个开源SMS网关，现在击中了5,000个活跃用户</title>
       <link>https://www.reddit.com/r/opensource/comments/1jznv25/i_built_this_opensource_sms_gateway_last_year_now/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>怪异：开源的困惑克隆在CLI上</title>
       <link>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo！我将Geegle作为CLI工具创建了，就像一个开源版本的困惑（当然不那么强大，因为我是唯一这样做的人） 我的项目做的  geegle是一个CLI工具，可以通过网络获得答案等。我建立了它，因为那是我大部分时间都花在CLI上，而且我不想继续切换到浏览器。  您可以使用：   pip安装geegle   目标受众   如果您发现其他方法 竞争对手 与其他基于Python的视频生成方法相比，FMOV由于其：  的困惑而脱颖而出。 etc  If you’re interested, the source code and documentation are available here: https://github.com/duriantaco/geegle-py  https://geegle-py.readthedocs.io/en/latest/     未来的功能未来功能  在此处编码辅助，请在此处撰写其他prosig和ping。请留下一颗星星，如果您讨厌它/感到糟糕或只是想在另一个AI工具上沮丧，您可以在这里击败我。谢谢你的宝贵时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_clone_clone_on_cli/”&gt; [link]        [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo！我将Geegle作为CLI工具创建了，就像一个开源版本的困惑（当然不那么强大，因为我是唯一这样做的人） 我的项目做的  geegle是一个CLI工具，可以通过网络获得答案等。我建立了它，因为那是我大部分时间都花在CLI上，而且我不想继续切换到浏览器。  您可以使用：   pip安装geegle   目标受众   如果您发现其他方法 竞争对手 与其他基于Python的视频生成方法相比，FMOV由于其：  的困惑而脱颖而出。 etc  If you’re interested, the source code and documentation are available here: https://github.com/duriantaco/geegle-py  https://geegle-py.readthedocs.io/en/latest/     未来的功能未来功能  在此处编码辅助，请在此处撰写其他prosig和ping。请留下一颗星星，如果您讨厌它/感到糟糕或只是想在另一个AI工具上沮丧，您可以在这里击败我。感谢您的时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_clone_clone_on_cli/”&gt; [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</guid>
       <pubDate>Mon, 14 Apr 2025 09:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ffmpeg-as-a服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jytpuj/ffmpegasaservice/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/softwarecitadel      [注释]         ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jytpuj/ffmpegasaservice/</guid>
-      <pubDate>Mon, 14 Apr 2025 08:14:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
