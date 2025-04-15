@@ -4,11 +4,18 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 05:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:29:37 GMT</lastBuildDate>
+    <item>
+      <title>好奇是否使用聊天GPT或光标AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzk21i/curious_if_using_chat_gpt_or_cursor_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是Web开发领域的新秀 /新手，我想为WordPress构建主题。问题是我不知道如何看着AI的眼睛。如果我告诉他从A点到B点进行此操作，然后将聊天GPT或Cursor AI可以帮助我构建，然后将其从c点到B点进行洗牌吗？你们也曾经使用过这些AI工具吗？经历如何？他们好吗？代码是否好且有担保？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzk21i/curious_if_using_chat_chat_gpt_or_cursor_ai/&gt; [link]         [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzk21i/curious_if_using_chat_gpt_or_cursor_ai/</guid>
+      <pubDate>Tue, 15 Apr 2025 05:24:46 GMT</pubDate>
+    </item>
     <item>
       <title>在物联网应用程序中处理15分钟窗口遥测比较的优化解决方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_for_handling_15minute_window/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个从多个设备处理遥测数据的IoT应用程序。每个遥测有效载荷以这种格式到达：   {＆quot&#39;：＆lt; timestamp＆gt; ,,; }   对于每种传入的遥测，我需要：  将其与在 15分钟窗口内的同一设备中的最后收到的遥测进行比较每次接收新的遥测时，遥控器 ，但很可能会创建数据库性能瓶颈。 我现在正在考虑保持每个设备的时间限制的队列（15分钟），然后在每个Queeue中进行比较（第一个）和最新（最新的）和最新的（最新）。 Redis在快速访问方面可能是一个不错的选择，但是如果时间窗口大。 任何建议/意见都将不胜感激！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_solutions_for_handling_15minute_window/”&gt; [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个从多个设备处理遥测数据的IoT应用程序。每个遥测有效载荷以这种格式到达：   {＆quot&#39;：＆lt; timestamp＆gt; ,,; }   对于每种传入的遥测，我需要：  将其与上次接收到的遥测从 15分钟窗口中的同一设备中进行比较       根据这些两个数据点   820;&gt; 820;&gt; 820; { ts: xxxx (now), value: 500 }, ..., { ts: yyyy (15 minutes before), value: 300 }, ]  The calculation result will be 500 - 300 = 200 The most brute force solution is to fetch the last received telemetry from database each time when receiving a new telemetry, but there我现在很可能会创建数据库性能瓶颈。 我现在正在考虑要维护每个设备时有限的队列（15分钟窗口），然后比较每个队列中的最古老（第一个）和最新（最新（最后）条目。 Redis在快速访问方面可能是一个不错的选择，但是如果时间窗口大。 任何建议/意见都将不胜感激！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_solutions_for_handling_15minute_window/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_for_handling_15minute_window/</guid>
       <pubDate>Tue, 15 Apr 2025 04:44:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我真的只是在尝试使用HTML/CSS来创建各种客户端样式元素。例如，一个项目只是为了创建一个更具吸引力的电子邮件签名。另一个项目，我正在创建一些可以在Joplin中实现的简单自定义HTML/CSS元素。 我想我可以从头开始完全创建HTML + CSS，但是我不确定如何获得“ Live Relioding”。要工作，以便我可以在拆分VSCODE面板中看到我的实时更改。 最好的方法是什么？我应该只是从头开始并自己创建所有CSS/HTML吗？还是我可以利用某种框架或系统来使事情更快？ 再次，我希望每次保存文档时都能实时预览我的更改。我已经安装了节点，并且尝试使用Vite（ YARN CREATE VITE ），该功能具有此功能。但是我觉得那可能是过分的？ 对此菜鸟的问题很抱歉。任何帮助都非常感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/xii     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jz8qbj/ive_been_out_of_the_coding_loop_for_awhile_what/</guid>
       <pubDate>Mon, 14 Apr 2025 20:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>增强角度性能：懒惰加载指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jz8gts/boost_angular_performance_lazy_loading_guide/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/pmz   [link]   [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jz8gts/boost_angular_performance_lazy_loading_guide/</guid>
-      <pubDate>Mon, 14 Apr 2025 20:02:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
