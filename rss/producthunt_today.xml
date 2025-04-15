@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 15 Apr 2025 08:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 09:23:46 GMT</lastBuildDate>
     <item>
       <title>服务</title>
       <link>https://www.producthunt.com/posts/serviceagent</link>
@@ -44,16 +44,16 @@
       <pubDate>Mon, 14 Apr 2025 19:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>Automcp</title>
-      <link>https://www.producthunt.com/posts/automcp</link>
+      <title>API中的GPT-4.1</title>
+      <link>https://www.producthunt.com/posts/gpt-4-1-in-the-api</link>
       <description><![CDATA[
-            轻松将现有的AI代理项目部署为MCP服务器
+            宣布API中的GPT-4.1，GPT-4.1 MINI和GPT-4.1 NANO
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/automcp</guid>
-      <pubDate>Mon, 14 Apr 2025 16:17:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/gpt-4-1-in-the-api</guid>
+      <pubDate>Mon, 14 Apr 2025 19:13:03 GMT</pubDate>
     </item>
     <item>
       <title>TIPTAP编辑器模板和UI组件</title>
@@ -78,6 +78,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/1secmail</guid>
       <pubDate>Mon, 14 Apr 2025 13:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docshound</title>
+      <link>https://www.producthunt.com/posts/docshound</link>
+      <description><![CDATA[
+            AI将演示变成即时文档，聊天机器人和用户洞察力
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/docshound</guid>
+      <pubDate>Mon, 14 Apr 2025 09:45:04 GMT</pubDate>
     </item>
     <item>
       <title>n8nchat</title>
@@ -116,18 +128,6 @@
       <pubDate>Fri, 11 Apr 2025 09:30:58 GMT</pubDate>
     </item>
     <item>
-      <title>重复</title>
-      <link>https://www.producthunt.com/posts/iterato</link>
-      <description><![CDATA[
-            AI驱动的产品经理收集反馈
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/iterato</guid>
-      <pubDate>Thu, 10 Apr 2025 22:58:23 GMT</pubDate>
-    </item>
-    <item>
       <title>外向</title>
       <link>https://www.producthunt.com/posts/extrovert-2</link>
       <description><![CDATA[
@@ -164,28 +164,28 @@
       <pubDate>Fri, 04 Apr 2025 09:49:05 GMT</pubDate>
     </item>
     <item>
-      <title>Subly AI视频可访问性检查器</title>
-      <link>https://www.producthunt.com/posts/subly-ai-video-accessibility-checker</link>
-      <description><![CDATA[
-            检测问题并向您显示在哪里修复问题的AI代理
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/subly-ai-video-accessibility-checker</guid>
-      <pubDate>Thu, 27 Mar 2025 10:01:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Ubble</title>
       <link>https://www.producthunt.com/posts/qibble</link>
       <description><![CDATA[
-            找出谁是对的
+            您发现谁是对的世界民意测验库
           
 
  link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/qibble</guid>
       <pubDate>Wed, 26 Mar 2025 04:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whyser</title>
+      <link>https://www.producthunt.com/posts/whyser</link>
+      <description><![CDATA[
+            大规模进行和分析用户访谈
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/whyser</guid>
+      <pubDate>Sat, 22 Mar 2025 21:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

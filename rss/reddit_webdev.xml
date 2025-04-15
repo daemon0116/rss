@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 08:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 09:23:36 GMT</lastBuildDate>
+    <item>
+      <title>如何使用Python构建像Github Copilot和Gemini这样的PR审稿人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jznbnw/how_to_build_a_pr_reviewer_like_github_copilot/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  该项目的目的是开发一个称为PR评论者的GitHub应用程序/BOT，该应用程序利用人工智能自动审查拉的请求。该应用程序将分析代码更改，创建PR内容的全面摘要，并向开发人员提供智能反馈；帮助团队保持代码质量并简化审核过程。它应该像GitHub Copilot和Gemini一样工作。我想知道安全问题的规范。就像我可以在安全方面查找的事情一样。我想知道成功实施的工具和资源。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/d_danso     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jznbnw/how_to_build_a_pr_pr_reviewer_gither_githube_github_copilot/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jznbnw/how_to_build_a_pr_reviewer_like_github_copilot/</guid>
+      <pubDate>Tue, 15 Apr 2025 09:09:30 GMT</pubDate>
+    </item>
     <item>
       <title>如何简化在我的网站中添加内容的内容 - 例如现有的Adobe CC + Github副副词？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzmd9s/how_can_i_streamline_adding_content_to_my_website/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  错误与否，对我的标志性命令是：   rm -rf ./node_modules; \  npm i    yall的传奇命令有哪些？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/barrel_of_noodles     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzcz33/iconic_commands/</guid>
       <pubDate>Mon, 14 Apr 2025 23:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站上的自我托管视频不好练习吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzbduu/is_selfhosting_videos_on_website_bad_practice/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个电影制片人，他将我的网站用作我所做的视频作品的作品集。直接上传到服务器并使用视频标签交付是不好的做法吗？如果我有效的话，我真的不想为embed支付vimeo。  https://danielscottfilms.com/     &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzbduu/is_selfhosting_videos_on_website_bad_bad_practice/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzbduu/is_selfhosting_videos_on_website_bad_practice/</guid>
-      <pubDate>Mon, 14 Apr 2025 22:04:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
