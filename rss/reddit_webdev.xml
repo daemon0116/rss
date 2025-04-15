@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 07:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 08:28:51 GMT</lastBuildDate>
+    <item>
+      <title>如何简化在我的网站中添加内容的内容 - 例如现有的Adobe CC + Github副副词？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzmd9s/how_can_i_streamline_adding_content_to_my_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在管理一个基于产品的网站，我经常需要添加新产品图像和信息。 The manual process is taking up way too much of my time, and I&#39;m looking to speed things up without adding another subscription. What I already have:  Adobe Creative Cloud subscription GitHub Copilot in VS Code Basic coding knowledge (HTML, CSS, some JavaScript) All my product照片已经被编辑并准备使用   我需要的内容：   更快地将新产品和图像添加到我的网站 理想情况下，与我现有的工具       自己的自定义顶级域  我一直在使用Sparkle和Sitely之类的网站建设者，但是它们需要手动图像添加，随着我的产品目录的增长，它们非常耗时。如果它更有效，我愿意切换到基于代码的方法。 是否有人建立了将Adobe CC工具与GitHub Copilot结合起来的工作流程，从而加快了内容更新？也许某些脚本或过程使添加新产品减轻了痛苦？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/naht-tuner     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzmd9s/how_can_i_streamline_adding_content_to_my_website/</guid>
+      <pubDate>Tue, 15 Apr 2025 08:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何使CI管道更快地使我们的CI管道更快</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzm6eh/how_we_made_our_ci_pipeline_5x_faster/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mmaksimovic     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzm6eh/how_we_made_our_ci_pipeline_5x_faster/</guid>
+      <pubDate>Tue, 15 Apr 2025 07:49:04 GMT</pubDate>
+    </item>
     <item>
       <title>混合登录的安全问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzlsg8/security_concerns_of_hybrid_login/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个电影制片人，他将我的网站用作我所做的视频作品的作品集。直接上传到服务器并使用视频标签交付是不好的做法吗？如果我有效的话，我真的不想为embed支付vimeo。  https://danielscottfilms.com/     &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzbduu/is_selfhosting_videos_on_website_bad_bad_practice/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzbduu/is_selfhosting_videos_on_website_bad_practice/</guid>
       <pubDate>Mon, 14 Apr 2025 22:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究一些着陆页的想法，会喜欢您的想法！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzalvd/working_on_some_landing_page_ideas_would_love/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好，我正在为我正在从事的项目放置一个着陆页，并且可以真正使用一些新鲜的眼睛。我有几个粗略的想法，但是我不确定要走哪个方向。 对任何反馈或建议开放 - 提前一吨！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gold_gap       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzalvd/working_on_some_landing_page_ideas_would_love/</guid>
-      <pubDate>Mon, 14 Apr 2025 21:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找课堂入学解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jz9zpj/looking_for_a_class_enrollment_solution/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在为当地企业建立一个WordPress网站，该网站提供缝课，通常是一次性事件，而不是重复出现。我正在寻找提供课堂注册和付款的Web应用程序或插件。客户还将在店内注册和付款，因此，不太精通技术的员工需要在后端输入注册信息。 任何建议都非常感谢！谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jz9zpj/looking_for_a_a_class_enrollment_solution/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jz9zpj/looking_for_a_class_enrollment_solution/</guid>
-      <pubDate>Mon, 14 Apr 2025 21:03:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
