@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 15 Apr 2025 11:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 12:41:12 GMT</lastBuildDate>
+    <item>
+      <title>Discord botstrap</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jzqf8n/discord_botstrap/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  欢迎来到我的第一个开源项目。   discord bostrap （不是bootstrap ）是一个打字稿模板项目，旨在用作可定制且可扩展的bot的启动板。它消除了所有脚手架的问题，并实施了最佳编码实践。它包含用于命令和事件的模块化结构，使添加新功能并维护代码库变得容易。该模板构建在 discord.js 顶部，并使用Typescript进行类型安全和更好的开发体验。它还包括Eslint和更漂亮的代码质量和格式。 该项目诞生了，因为我使用这种结构建立了自己的机器人，但是我很快意识到这样的模板可以通过已经准备好使用良好的代码结构来使人们创建自己的机器人。这就是为什么它还包括更快的本地运行或更快的部署的码头工具。 我还查看了其他通过谷歌搜索随机发现的模板，但它们有点可理解和不良的代码性。 我添加了所有最佳实践，例如：   &lt;&gt;  li/li li/li li&gt; 测试  docker  代码覆盖范围  存储库还包括规则集和github操作，以提供更好的贡献系统。如果PR通过棉绒，测试和构建自动化操作，并且由代码所有者批准。  botstrap在V0.1.0上，这意味着可以毫无问题地构建和运行。它包含很少的事件和一个测试命令，以便每个人都可以按照结构自行制作新事件。但是，由于这些天我几乎没有改变，并且该项目需要一些反馈，因此它将保留在V0中，直到完成为止。  github星星，建议和反馈非常欢迎！享受！  Discord botstrap： https://github.com/steph-lion/discord-botstrap  提交由＆＃32; /u/u/u/jacksbirrow     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jzqf8n/discord_botstrap/</guid>
+      <pubDate>Tue, 15 Apr 2025 12:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OTI-一次信息</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jzppri/oti_one_time_information/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;   oti（一次性信息）是一个现代的Web应用程序，设计用于安全的一次性信息共享。它确保使用客户端加密安全地共享敏感信息。不会将数据发送到服务器，因此您完全安全。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oguzhane       [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jzppri/oti_one_time_information/</guid>
+      <pubDate>Tue, 15 Apr 2025 11:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devportfolio-现代开发人员投资组合</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jzpn1u/devportfolio_modern_developer_portfolio/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   devportFolio是一个现代化的，完全可定制的portfolio网站。它旨在帮助开发人员以干净，专业的方式展示他们的技能，项目和经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oguzhane      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jzpn1u/devportfolio_modern_developer_portfolio/</guid>
+      <pubDate>Tue, 15 Apr 2025 11:37:51 GMT</pubDate>
+    </item>
     <item>
       <title>[更新]我构建了一个交互式开源数据结构可视化器</title>
       <link>https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_source_data/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/w00fl35       [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jyylxg/facehuggershield_a_library_i_made_to_contain/</guid>
       <pubDate>Mon, 14 Apr 2025 13:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用React Antive + Expo为我的POS系统构建了USB热式打印机应用程序 - 使其开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jyxd3q/built_a_usb_thermal_printer_app_using_react/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前正在处理一个销售点（POS）应用程序，需要直接从移动设备直接使用USB热式打印机打印收据的方法。 我找不到可靠的固体或简单的开放式解决方案，可以找到与React and Expo一起使用的良好的开放式解决方案，所以我最终构建了一个自我建造的。它使用RAWBT应用程序将ESC/pos命令发送到打印机。 我将整个东西开源，以防万一它可以帮助其他任何类似工作的人。  github repo：  https://github.com/faizaldevs/thermal-printer-app    它仍然很简单且轻巧，但是可以完成工作。我在读书中包含了清晰的说明，您只需要：   android Phone   USB热式打印机 + OTG电缆  RAWBT应用程序已安装  Expo即可测试应用程序      ，以获取反馈或想法以进行改进。如果您也构建了POS应用程序或使用Thermal打印机，很想听听您的处理方式！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jyxd3q/built_a_a_usb_thermal_thermal_printer_printer_app_used_react/”&gt; [link]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jyxd3q/built_a_a_usb_thermal_printer_app_used_react/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jyxd3q/built_a_usb_thermal_printer_app_using_react/</guid>
-      <pubDate>Mon, 14 Apr 2025 12:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peazip 10.4.0发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jyuub0/peazip_1040_released/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/peazip     ＆＃32;   [commist]           ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jyuub0/peazip_1040_released/</guid>
-      <pubDate>Mon, 14 Apr 2025 09:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>怪异：开源的困惑克隆在CLI上</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo！我将Geegle作为CLI工具创建了，就像一个开源版本的困惑（当然不那么强大，因为我是唯一这样做的人） 我的项目做的  geegle是一个CLI工具，可以通过网络获得答案等。我建立了它，因为那是我大部分时间都花在CLI上，而且我不想继续切换到浏览器。  您可以使用：   pip安装geegle   目标受众   如果您发现其他方法 竞争对手 与其他基于Python的视频生成方法相比，FMOV由于其：  的困惑而脱颖而出。 etc  If you’re interested, the source code and documentation are available here: https://github.com/duriantaco/geegle-py  https://geegle-py.readthedocs.io/en/latest/     未来的功能未来功能  在此处编码辅助，请在此处撰写其他prosig和ping。请留下一颗星星，如果您讨厌它/感到糟糕或只是想在另一个AI工具上沮丧，您可以在这里击败我。感谢您的时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_clone_clone_on_cli/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</guid>
-      <pubDate>Mon, 14 Apr 2025 09:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
