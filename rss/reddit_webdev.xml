@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 06:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 07:24:49 GMT</lastBuildDate>
+    <item>
+      <title>混合登录的安全问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzlsg8/security_concerns_of_hybrid_login/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我目前正在建立一个平台，并遇到了这种有趣的情况。 So my users can initially sign up using email, but if they choose to press the sign up with google button - it links their identity. I&#39;m wondering now, when giving them access to the settings page, do I give a non-hybrid account (one solely using google signin) the ability to change their email/password, thus making it hybrid? I think that I spread the possibility of an attack by adding multiple ways to login if for example,用户最初通过电子邮件注册 - ＆gt;他们将其链接到他们的gmail-＆gt;他们为我的平台和Gmail使用的密码被泄漏了 - ＆gt;他们只在一个平台上更改它，但最终仍然将泄漏的密码作为访问其帐户的一种方式。 显然有点牵强的情况，但我只是想提出原因或为什么我不允许混合登录解决方案的原因。请让我知道  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ninjalukei     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzlsg8/security_concerns_of_hybrid_login/</guid>
+      <pubDate>Tue, 15 Apr 2025 07:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>现场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzlph0/site_on_the_fly/</link>
+      <description><![CDATA[         &lt;！ -  sc_off-&gt;  嘿，我只是创建了一个工具来编写快速的html并生成一个网站。 。在服务器上。这样，您可以使用它来测试社交元数据（定义缩略图的标签，标题...您在诸如LinkedIn，x，facebook等社交媒体上发布时会看到 玩得开心！   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vlequang      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzlph0/site_on_the_fly/</guid>
+      <pubDate>Tue, 15 Apr 2025 07:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署React + Django应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzl19v/deploying_react_django_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，新手在这里开始Web Dev之旅，为我们的业务构建一个简单的CRM软件。我们在线零售主要是汽车零件。最近，我们决定开发自己的内部仪表板，我们可以将其用于自己。我已经完成了这项任务，因为我已经在这里作为技术人员工作，并且学习更多东西不会受到伤害。 无论如何，我已经使用django + react开发了该应用程序。两者都使用Axios之间的通信。现在在部署方面，从我的谷歌搜索中了解的内容，我必须将两个部署在两个单独的容器中？ ，并且可以在Windows Server中使用IIS部署Django。但是我一直在努力弄清楚这一点，但我仍然不会去任何地方。 我希望有人可以阐明您在线部署我的应用程序的建议。我该怎么办，我应该采取的步骤，方向等。 感谢您的帮助。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fkingprinter   href =“ https://www.reddit.com/r/webdev/comments/1jzl19v/deploying_react_django_app/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzl19v/deploying_react_django_app/</guid>
+      <pubDate>Tue, 15 Apr 2025 06:30:17 GMT</pubDate>
+    </item>
     <item>
       <title>好奇是否使用聊天GPT或光标AI</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzk21i/curious_if_using_chat_gpt_or_cursor_ai/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  为设计师客户端构建了一个投资组合网站。 2周后，他给我发送了一个链接，例如“呃……这是您的设计吗？”果然，这是完全相同的布局。相同的CSS，相同的图像压缩工件。...只有字体和触点形式不同。有人克隆了整个内容。 我们提交了DMCA，但他们回来说：“证明内容已经发布了。”喜欢？？我们有一个领域和现场推动日期。出于挫败感，我从网络网络网中求助，他以前处理过克隆的网络资产。他们帮助构建了一个用档案网站快照，图像元数据和后端版本化证据。 仍与主机打交道，但至少现在我们有正式的证据，不仅仅是“相似”网站...这是直接升降机。如果您曾经发布投资组合工作，请保留所有内容的副本。甚至您的代码时间戳。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sander1412     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzg1ca/clients_site_got_cloned_by_some_ai_scraper/</guid>
       <pubDate>Tue, 15 Apr 2025 01:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我医生</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzf5bd/me_doctor_ai/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  您如何看待我的网站？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/rifatorg      [注释]         ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzf5bd/me_doctor_ai/</guid>
-      <pubDate>Tue, 15 Apr 2025 00:59:40 GMT</pubDate>
     </item>
     <item>
       <title>驾驶地图应用程序的用户界面。</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在为当地企业建立一个WordPress网站，该网站提供缝课，通常是一次性事件，而不是重复出现。我正在寻找提供课堂注册和付款的Web应用程序或插件。客户还将在店内注册和付款，因此，不太精通技术的员工需要在后端输入注册信息。 任何建议都非常感谢！谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jz9zpj/looking_for_a_a_class_enrollment_solution/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jz9zpj/looking_for_a_class_enrollment_solution/</guid>
       <pubDate>Mon, 14 Apr 2025 21:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>打字稿的“ Never”类型是分布式类型中的0-Meber-Union</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jz8umq/typescripts_never_type_is_a_0memberunion_in/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/fl9el7gn1 arfiorlar1cose6nygietaironcjbqccdly.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = b0c52ac58764Ed9013E47777777761fc8e02c3a54aeae0“ title =“ Typescript的`Never&#39;type是分布式类型中的0-Mebr-Union”/&gt;   ＆＃32;提交由＆＃32; /u/u/memo_mar       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jz8umq/typescripts_never_type_is_a_0memberunion_in/</guid>
-      <pubDate>Mon, 14 Apr 2025 20:17:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经离开编码循环了一段时间。与VSCODE一起使用的最佳静态网站框架 /脚手架 /发电机是什么？我不需要反应或其他铃铛和哨子。我只是在测试创建各种HTML/CSS样式元素。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jz8qbj/ive_been_out_of_the_coding_loop_for_awhile_what/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我真的只是在尝试使用HTML/CSS来创建各种客户端样式元素。例如，一个项目只是为了创建一个更具吸引力的电子邮件签名。另一个项目，我正在创建一些可以在Joplin中实现的简单自定义HTML/CSS元素。 我想我可以从头开始完全创建HTML + CSS，但是我不确定如何获得“ Live Relioding”。要工作，以便我可以在拆分VSCODE面板中看到我的实时更改。 最好的方法是什么？我应该只是从头开始并自己创建所有CSS/HTML吗？还是我可以利用某种框架或系统来使事情更快？ 再次，我希望每次保存文档时都能实时预览我的更改。我已经安装了节点，并且尝试使用Vite（ YARN CREATE VITE ），该功能具有此功能。但是我觉得那可能是过分的？ 对此菜鸟的问题很抱歉。任何帮助都非常感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/xii     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jz8qbj/ive_been_out_of_the_coding_loop_for_awhile_what/</guid>
-      <pubDate>Mon, 14 Apr 2025 20:12:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

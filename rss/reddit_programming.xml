@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 15 Apr 2025 06:29:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 07:24:11 GMT</lastBuildDate>
+    <item>
+      <title>使用代表工程构建了一种减少LLM幻觉的工具（〜40％） - 好奇反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1jzl9lw/built_a_tool_reducing_llm_hallucinations_40_using/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个最近变得更加严重的附带项目 - 一种称为 wisent Guard的工具检测和减少LLM输出中的幻觉。它建立在表示工程中的一些很酷的想法上。 而不是仅仅依靠提示，我们使用内部表示（例如残留的流和注意力头）来估计该模型是否正在产生可能的幻觉。然后，我们标记或过滤这些 - 有点像第二层的理智检查    模型的推理，不仅是事后。 我们将其基准在多个幻觉的任务上进行了基准测试，而且看到了〜40％+降低，而且与5-6％左右的典型方法相比，有希望。现在，我们正在探索高危用例，例如医疗保健，法律和销售。 好奇：  其他人都在代表方面解决幻觉？ 对方法的想法或批评？提交由＆＃32; /u/u/cAtious_hospital352       [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jzl9lw/built_a_tool_reducing_llm_hallucinations_40_using/</guid>
+      <pubDate>Tue, 15 Apr 2025 06:46:09 GMT</pubDate>
+    </item>
     <item>
       <title>使用ESP32 CAM和Edge Impulse开始对象检测</title>
       <link>https://www.reddit.com/r/programming/comments/1jzkzh0/get_started_with_object_detection_using_esp32_cam/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/finnhvman      &lt;a href =“ https://www.reddit.com/r/programming/comments/1jz1wmo/a_htmlcssjs_quine_quine_quine_that_syntaxhighlights_itself/”]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1jz1wmo/a_htmlcssjs_quine_that_syntaxhighlights_itself/</guid>
       <pubDate>Mon, 14 Apr 2025 15:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们不需要虚拟化</title>
-      <link>https://www.reddit.com/r/programming/comments/1jz1id7/we_dont_need_no_virtualization/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/johnytex      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jz1id7/we_dont_need_no_virtualization/</guid>
-      <pubDate>Mon, 14 Apr 2025 15:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
