@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 08 Apr 2025 09:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 01:40:39 GMT</lastBuildDate>
     <item>
-      <title>MCP中的“ S”代表安全</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju8zzs/the_s_in_mcp_stands_for_security/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rafeekpa   href =“ https://elenacross7.medium.com/%EF%B8%B8%B8F-the-s-in-mcp-stands-for-security-91407b33ed6b”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju8zzs/the_s_in_mcp_stands_for_security/</guid>
-      <pubDate>Tue, 08 Apr 2025 08:55:27 GMT</pubDate>
+      <title>python中9级异步编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1jza9y9/9_levels_of_asynchronous_programming_in_python/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/wyhjsbyb      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jza9y9/9_levels_of_asynchronous_programming_in_python/</guid>
+      <pubDate>Mon, 14 Apr 2025 21:15:59 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我重视破火冲刺用于管理技术债务</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju8qbn/why_i_value_firebreak_sprints_for_managing/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/strical-ideal6236       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju8qbn/why_i_value_firebreak_sprints_for_managing/</guid>
-      <pubDate>Tue, 08 Apr 2025 08:34:35 GMT</pubDate>
+      <title>Cl-Yasboi：常见LISP的另一个入门样机板</title>
+      <link>https://www.reddit.com/r/programming/comments/1jza1dw/clyasboi_yet_another_starter_boilerplate_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/deepcelibatevalue       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jza1dw/clyasboi_yet_another_starter_boilerplate_for/</guid>
+      <pubDate>Mon, 14 Apr 2025 21:05:32 GMT</pubDate>
     </item>
     <item>
-      <title>通过使用技术工具来编码生产力进行网络研讨会！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju8mme/conducting_a_webinar_on_using_tech_tools_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在使用AI上编写代码（适用于计算机学生） 查看我的个人资料： https://www.linkedin.com/in/abhirupa-mitra/  href =“ https://topmate.io/abhirupa_mitra/1498156”&gt; https://topmate.io/abhirupa_mitra/1498156 提交由＆＃32; /u/u/u/dazzlinganybody4909       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju8mme/conducting_a_webinar_on_using_tech_tools_for/</guid>
-      <pubDate>Tue, 08 Apr 2025 08:26:32 GMT</pubDate>
+      <title>C stdlib不是螺纹安全，甚至安全的生锈也没有拯救我们</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz8jrw/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/uctive-fuel-49     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1jz8jrw/c_stdlib_isnt_threadsafe_even_even_safe_safe_rust_didnt/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz8jrw/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</guid>
+      <pubDate>Mon, 14 Apr 2025 20:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>抢救的时间标准 - 加速统计</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju8hve/timescaledb_to_the_rescue_speeding_up_statistics/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚分享了我的旅程，这些旅程从Vanilla MySQL迁移到TimeScaledB，以处理数十行行的统计数据。曾经花费数十秒钟的实时查询现在以毫秒为单位完成。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sarvendev      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju8hve/timescaledb_to_the_rescue_speeding_up_statistics/</guid>
-      <pubDate>Tue, 08 Apr 2025 08:16:21 GMT</pubDate>
+      <title>展示我的github cli扩展名：gh-unpushed  - 轻松看到您的本地提交尚未被推动</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz8e2t/showcasing_my_github_cli_extension_ghunpushed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我做了一个小的github cli扩展名，称为  gh-unpushed  。它显示了您当前分支的提交，但尚未被推。 会喜欢我没有想到的任何反馈，想法，功能，边缘案例。 让我知道您的想法！   ＆＃32;提交由＆＃32; /u/u/wield-award986     link link”   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz8e2t/showcasing_my_github_cli_extension_ghunpushed/</guid>
+      <pubDate>Mon, 14 Apr 2025 19:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>记住约翰·康威（John Conway</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju880g/remembering_john_conways_fractran_a_ridiculous/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kabra ___ kiiiiiiiid      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju880g/remembering_john_conways_fractran_a_ridiculous/</guid>
-      <pubDate>Tue, 08 Apr 2025 07:55:06 GMT</pubDate>
+      <title>通过构建自己的框架来了解React如何工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz5omf/learn_how_react_works_by_building_your_own/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://awanish.me/learn-how-react-works-by-building-your-wound-framework.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz5omf/learn_how_react_works_by_building_your_own/</guid>
+      <pubDate>Mon, 14 Apr 2025 18:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>React Chealiation：组件后面的隐藏引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju83yh/react_reconciliation_the_hidden_engine_behind/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/cekrem      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju83yh/react_reconciliation_the_hidden_engine_behind/</guid>
-      <pubDate>Tue, 08 Apr 2025 07:46:24 GMT</pubDate>
+      <title>如何处理Python的JWT</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz3cqo/how_to_handle_jwt_in_python/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   在Python中安全实现和验证JWTS所需的一切 - 从签署到与JWK验证JWKS，整个过程中都有代码示例和最佳实践。   &lt;！ -  sc_on--&gt; 32;&gt; 32;&gt;＆＃32;提交由＆＃32; /u/u/u/cical-goose-7331        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz3cqo/how_to_handle_jwt_in_python/</guid>
+      <pubDate>Mon, 14 Apr 2025 16:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript中本地存储和会话存储之间有什么区别？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju70kb/what_is_difference_between_local_storage_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/bossar2000   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju70kb/what_is_difference_between_local_storage_and/</guid>
-      <pubDate>Tue, 08 Apr 2025 06:25:34 GMT</pubDate>
+      <title>停止使用构建服务器玩乒乓球</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz35xi/stop_playing_pong_with_your_build_server/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/okhudeira      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz35xi/stop_playing_pong_with_your_build_server/</guid>
+      <pubDate>Mon, 14 Apr 2025 16:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>KAFKA和.NET：建筑事件驱动服务的实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju6zz5/kafka_and_net_practical_guide_to_building/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！  我刚刚发表了一篇博客文章，内容涉及将Apache Kafka与.NET集成以构建事件驱动的服务，我很想与您分享。 该帖子以对kafka及其基础的简要介绍开始，然后转到基于代码的示例，显示了一个基于kafka in。 与Docker建立kafka  从 asp.net  core  使用后台工人使用idempotenty，fortsits lie dead lie nie deled kefe    core     AdmInclient   如果您对事件驱动的架构和构建事件驱动的服务感兴趣，则此博客文章应帮助您入门。 在此处阅读： https：//hamedsalameh.com/kafka-and-net-net-net-net-net-net-practical-practical-practical-practical-guide-to-building-to-building-to-building-to-building-to-build-------------  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/DotDeveloper   [link] ＆＃32;   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju6zz5/kafka_and_net_practical_guide_to_building/</guid>
-      <pubDate>Tue, 08 Apr 2025 06:24:25 GMT</pubDate>
+      <title>Protobuf-TS-types：零二克式打字条类型类型从Protobuf消息推荐</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz2jbq/protobuftstypes_zerocodegen_typescript_type/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/18nleung       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz2jbq/protobuftstypes_zerocodegen_typescript_type/</guid>
+      <pubDate>Mon, 14 Apr 2025 16:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>山姆·奥特曼（Sam Altman）说，人工智能将使编码员提高10倍的生产力，而不是替换它们 - 甚至比尔·盖茨（Bill Gates）声称该领域太复杂了</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju6ils/sam_altman_says_ai_will_make_coders_10x_more/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/fungussa     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju6ils/sam_altman_says_ai_will_make_coders_10x_more/</guid>
-      <pubDate>Tue, 08 Apr 2025 05:51:17 GMT</pubDate>
+      <title>实时数据流API指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz2ija/guide_to_realtime_data_stream_apis/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ZuploAdrian   [link] ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz2ija/guide_to_realtime_data_stream_apis/</guid>
+      <pubDate>Mon, 14 Apr 2025 16:02:33 GMT</pubDate>
     </item>
     <item>
-      <title>策划的Vibe编码助手，IDE，工具和参考文献的列表，用于学习如何有效与AI合作编写代码。开发人员及时工程的最佳实践。用于编码和UX/UI设计的AI驱动工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju2qah/a_curated_list_of_vibe_coding_assistants_ides/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/ahnerd     [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju2qah/a_curated_list_of_vibe_coding_assistants_ides/</guid>
-      <pubDate>Tue, 08 Apr 2025 02:09:26 GMT</pubDate>
+      <title>html-css-js quine styntax-highlight的奎因</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz1wmo/a_htmlcssjs_quine_that_syntaxhighlights_itself/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/finnhvman      &lt;a href =“ https://www.reddit.com/r/programming/comments/1jz1wmo/a_htmlcssjs_quine_quine_quine_that_syntaxhighlights_itself/”]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz1wmo/a_htmlcssjs_quine_that_syntaxhighlights_itself/</guid>
+      <pubDate>Mon, 14 Apr 2025 15:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>简街加密货币算法旨在超过当前机器人</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju2kv4/jane_street_crypto_trading_algorithm_designed_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在构建书上遇到了这个项目，值得加入吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://buildbook.us/share/project/A622A1D99B4FAB490BF68423074AC1CA776E0FDBA3395776D0154BDB21141CEF5  &lt;a href =“ https://www.reddit.com/r/programming/comments/1ju2kv4/jane_street_crypto_trading_algorith_algorithm_designed_to//]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju2kv4/jane_street_crypto_trading_algorithm_designed_to/</guid>
-      <pubDate>Tue, 08 Apr 2025 02:01:56 GMT</pubDate>
+      <title>我们不需要虚拟化</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz1id7/we_dont_need_no_virtualization/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/johnytex      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz1id7/we_dont_need_no_virtualization/</guid>
+      <pubDate>Mon, 14 Apr 2025 15:21:33 GMT</pubDate>
     </item>
     <item>
-      <title>20年的git</title>
-      <link>https://www.reddit.com/r/programming/comments/1ju1f1g/20_years_of_git/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/iamkeyur      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ju1f1g/20_years_of_git/</guid>
-      <pubDate>Tue, 08 Apr 2025 01:02:22 GMT</pubDate>
+      <title>Guy Live代码音乐和基本/Commodore中的编辑64</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz0umd/guy_live_codes_music_and_editor_in/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/averroeis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz0umd/guy_live_codes_music_and_editor_in/</guid>
+      <pubDate>Mon, 14 Apr 2025 14:54:42 GMT</pubDate>
     </item>
     <item>
-      <title>在Postgres中附加分区的最佳方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1jtxg3w/optimal_way_for_attaching_partitions_in_postgres/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我中有些人可能会有所帮助的文章。用几句话，我描述了我与Postgres分区的工作的结果，我试图最大程度地减少锁定和最大化性能。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/piotrdz       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jtxg3w/optimal_way_for_attaching_partitions_in_postgres/</guid>
-      <pubDate>Mon, 07 Apr 2025 21:54:01 GMT</pubDate>
+      <title>生锈到C编译器-95.9％的测试率，奇数平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz0ena/rust_to_c_compiler_959_test_pass_rate_odd/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz0ena/rust_to_c_compiler_959_test_pass_rate_odd/</guid>
+      <pubDate>Mon, 14 Apr 2025 14:36:08 GMT</pubDate>
     </item>
     <item>
-      <title>领导自己的员工：自我管理团队在工作中的力量</title>
-      <link>https://www.reddit.com/r/programming/comments/1jtxg39/employees_leading_themselves_the_power_of/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/adamard     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jtxg39/employees_leading_themselves_the_power_of/</guid>
-      <pubDate>Mon, 07 Apr 2025 21:53:59 GMT</pubDate>
+      <title>对现代CPU的性能分析和调整</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz0d2x/performance_analysis_and_tuning_on_modern_cpus/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz0d2x/performance_analysis_and_tuning_on_modern_cpus/</guid>
+      <pubDate>Mon, 14 Apr 2025 14:34:17 GMT</pubDate>
     </item>
     <item>
-      <title>C ++的记忆安全</title>
-      <link>https://www.reddit.com/r/programming/comments/1jtvj1w/memory_safety_for_c/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  单头库和安全C ++的Clang编译器插件，这减少了参考数据类型的错误和安全的内存管理，而无需与旧的C ++代码向后兼容      &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/u/rsashka       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jtvj1w/memory_safety_for_c/</guid>
-      <pubDate>Mon, 07 Apr 2025 20:32:46 GMT</pubDate>
+      <title>引导理解：逆向工程介绍</title>
+      <link>https://www.reddit.com/r/programming/comments/1jz0chg/bootstrapping_understanding_an_introduction_to/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jz0chg/bootstrapping_understanding_an_introduction_to/</guid>
+      <pubDate>Mon, 14 Apr 2025 14:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
