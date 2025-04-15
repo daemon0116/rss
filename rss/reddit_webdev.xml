@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 04:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 05:21:09 GMT</lastBuildDate>
+    <item>
+      <title>在物联网应用程序中处理15分钟窗口遥测比较的优化解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_for_handling_15minute_window/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个从多个设备处理遥测数据的IoT应用程序。每个遥测有效载荷以这种格式到达：   {＆quot&#39;：＆lt; timestamp＆gt; ,,; }   对于每种传入的遥测，我需要：  将其与在 15分钟窗口内的同一设备中的最后收到的遥测进行比较每次接收新的遥测时，遥控器 ，但很可能会创建数据库性能瓶颈。 我现在正在考虑保持每个设备的时间限制的队列（15分钟），然后在每个Queeue中进行比较（第一个）和最新（最新的）和最新的（最新）。 Redis在快速访问方面可能是一个不错的选择，但是如果时间窗口大。 任何建议/意见都将不胜感激！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_solutions_for_handling_15minute_window/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jzjf02/optimized_solutions_for_handling_15minute_window/</guid>
+      <pubDate>Tue, 15 Apr 2025 04:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>相关数据在POST请求有效载荷中的外观应该如何？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzit13/how_should_related_data_look_like_in_post_request/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 15 Apr 2025 01:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>我有医生</title>
+      <title>我医生</title>
       <link>https://www.reddit.com/r/webdev/comments/1jzf5bd/me_doctor_ai/</link>
       <description><![CDATA[        &lt;！ -  sc_off-&gt;  您如何看待我的网站？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/rifatorg      [注释]         ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jzf5bd/me_doctor_ai/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/pmz   [link]   [注释]            ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jz8gts/boost_angular_performance_lazy_loading_guide/</guid>
       <pubDate>Mon, 14 Apr 2025 20:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>迁移电子邮件服务器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jz816v/migrating_an_email_server/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，由于许多问题，我决定要从我的Web域提供商转移到更好的东西中。我的朋友是一个网络开发人员，一直在逐渐取得进展，以帮助我为网站准备服务器过渡。这很好，但是主要问题是我通过当前域主机处理的网站渠道有一封电子邮件。我的朋友在过渡中处理电子邮件服务器方面没有太多经验。鉴于我想用当前的主机洗手，有没有一种方法可以轻松地将电子邮件转移到另一个主机？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sparky-man     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jz816v/migrating_an_email_server/</guid>
-      <pubDate>Mon, 14 Apr 2025 19:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
